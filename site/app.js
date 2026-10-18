@@ -536,8 +536,11 @@ async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar }) {
     const logo = new Image();
     logo.src = 'icon-192.png';
     await logo.decode();
+    // Logonun kare zemini şeritten farklı renkte; sadece siyah yuvarlak kısmı kesilip çizilir
+    // (ikonda siyah daire kenarın %47'si kadar yarıçapta)
     ctx.save();
-    yuvarlakDikdortgen(ctx, g.kenar, 45, 120, 120, 24);
+    ctx.beginPath();
+    ctx.arc(g.kenar + 60, 105, 120 * 0.465, 0, Math.PI * 2);
     ctx.clip();
     ctx.drawImage(logo, g.kenar, 45, 120, 120);
     ctx.restore();
@@ -669,7 +672,36 @@ async function siralamayiPaylas(dugme, tur, n) {
   }
 }
 
-const paylasDugmesi = (tur, n = '') => `<div class="paylas-satiri"><button class="paylas" data-tur="${tur}" data-hafta="${n}">📤 Paylaş</button></div>`;
+// Paylaş düğmesi sadece yönetici modunda görünür. Yönetici modu, başlığa 3 saniye içinde 5 kez
+// dokunarak o cihazda açılıp kapanır (giriş sistemi yok; amaç düğmeyi herkesin önünden kaldırmak).
+const YONETICI_ANAHTARI = 'tbl-fantezi-yonetici';
+let yoneticiModu = false;
+try { yoneticiModu = localStorage.getItem(YONETICI_ANAHTARI) === '1'; } catch { /* depolama yok */ }
+
+const paylasDugmesi = (tur, n = '') => !yoneticiModu ? ''
+  : `<div class="paylas-satiri"><button class="paylas" data-tur="${tur}" data-hafta="${n}">📤 Paylaş</button></div>`;
+
+function yoneticiModunuBagla() {
+  let dokunmalar = [];
+  document.getElementById('lig-adi').addEventListener('click', () => {
+    const simdi = Date.now();
+    dokunmalar = [...dokunmalar.filter(z => simdi - z < 3000), simdi];
+    if (dokunmalar.length < 5) return;
+    dokunmalar = [];
+    yoneticiModu = !yoneticiModu;
+    try { localStorage.setItem(YONETICI_ANAHTARI, yoneticiModu ? '1' : '0'); } catch { /* depolama yok */ }
+    bildirim(yoneticiModu ? 'Yönetici modu açık: Paylaş düğmeleri görünür' : 'Yönetici modu kapalı');
+    ciz();
+  });
+}
+
+function bildirim(metin) {
+  const kutu = document.createElement('div');
+  kutu.className = 'bildirim';
+  kutu.textContent = metin;
+  document.body.appendChild(kutu);
+  setTimeout(() => kutu.remove(), 2500);
+}
 
 // ---------- telefona uygulama olarak yükleme ----------
 // Android/Chrome yükleme penceresini kendisi açabilir; iPhone'da Apple buna izin vermediği için
@@ -744,6 +776,7 @@ async function basla() {
   document.getElementById('lig-adi').textContent = veri.ayarlar.ligAdi;
   uyarilar();
   yuklemeBandi();
+  yoneticiModunuBagla();
   window.addEventListener('hashchange', () => { ciz(); window.scrollTo(0, 0); });
   ciz();
   setInterval(() => {
