@@ -169,6 +169,7 @@ function oyuncuSatiri(o) {
   else if (o.macDurumu === 'oynanmadi') durum = o.mac ? tarihSaat(o.mac.tarih) : 'Maç yok';
   else if (o.saniye === 0) durum = o.macDurumu === 'canli' ? 'Henüz süre almadı' : 'Süre almadı';
   else durum = `${dakika(o.saniye)} dk`;
+  if (o.macDurumu === 'canli' && o.mac?.canliDurum) durum += ` · ${canliYazisi(o.mac, true)}`;
 
   let etiket = '';
   if (o.rol === 'as' && !o.sayildi) etiket = `<span class="etiket cikti">yerine ${kacis(o.yerineGiren)}</span>`;
@@ -356,10 +357,29 @@ const kazananSinifi = (m, taraf) => {
   return (taraf === 'ev' ? ev > dep : dep > ev) ? 'kazanan' : '';
 };
 
+// Canlı maçın son güncellemedeki durumu: "3. Çeyrek · 04:12", "Devre arası", "Maç sonu · kesinleşiyor"
+// kisa: dar yerler için "3.Ç · 04:12"
+function canliYazisi(m, kisa = false) {
+  const c = m?.canliDurum;
+  if (!c?.periyot) return 'Canlı';
+  const periyotSonu = c.saat === '00:00';
+  if (c.uzatma) {
+    const u = c.periyot - 4;
+    const ad = kisa ? `${u}.U` : `${u}. Uzatma`;
+    return periyotSonu ? `${ad} sonu` : `${ad} · ${c.saat}`;
+  }
+  if (periyotSonu) {
+    if (c.periyot === 2) return 'Devre arası';
+    if (c.periyot >= 4) return Number(m.evSkor) !== Number(m.depSkor) ? (kisa ? 'Maç sonu' : 'Maç sonu · kesinleşiyor') : '4. Çeyrek sonu';
+    return `${c.periyot}. Çeyrek sonu`;
+  }
+  return kisa ? `${c.periyot}.Ç · ${c.saat}` : `${c.periyot}. Çeyrek · ${c.saat}`;
+}
+
 function macSatiri(m) {
   const orta = m.durum === 'oynanmadi'
     ? `<strong>${saatYazisi(m.tarih)}</strong>${m.yayin ? `<small>${kacis(m.yayin)}</small>` : ''}`
-    : `<strong>${m.evSkor ?? 0} - ${m.depSkor ?? 0}</strong><small>${m.durum === 'canli' ? '<span class="canli-yazi">Canlı</span>' : 'MS'}</small>`;
+    : `<strong>${m.evSkor ?? 0} - ${m.depSkor ?? 0}</strong><small>${m.durum === 'canli' ? `<span class="canli-yazi">${canliYazisi(m, true)}</span>` : 'MS'}</small>`;
   return `<a class="mac" href="#/mac/${m.id}">
     <span class="${kazananSinifi(m, 'ev')}">${kacis(baslik(m.ev))}</span>
     <span class="skor">${orta}</span>
@@ -424,7 +444,7 @@ function kutuSkorTablosu(takim) {
 }
 
 function macBasligi(m) {
-  const durum = m.durum === 'canli' ? '<span class="canli-yazi">Canlı</span>' : m.durum === 'bitti' ? 'Maç sonu' : saatYazisi(m.tarih);
+  const durum = m.durum === 'canli' ? `<span class="canli-yazi">Canlı · ${canliYazisi(m)}</span>` : m.durum === 'bitti' ? 'Maç sonu' : saatYazisi(m.tarih);
   const skor = m.durum === 'oynanmadi' ? '–' : `${m.evSkor ?? 0} - ${m.depSkor ?? 0}`;
   const bilgi = [gunBasligi(m.tarih), m.salon, m.yayin].filter(Boolean).map(kacis).join(' · ');
   return `<section class="kart mac-baslik">

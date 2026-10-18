@@ -258,17 +258,22 @@ def main():
             takimlar = {"ev": m["homeTeam"]["name"], "dep": m["awayTeam"]["name"]}
             skorlar = {"ev": m["homeTeam"]["score"] or None, "dep": m["awayTeam"]["score"] or None}
             # TBF'de henüz "oynanmadı" görünen ama başlamış maç: canlı veri FIBA'dan
-            canli = None
+            canli, canli_durum = None, None
             if durum != "bitti" and m.get("genuisId") and mac_saatinde(m):
                 d = fiba_canli(m["genuisId"])
                 if d and fiba_basladi(d):
                     canli = fiba_istatistik(d, takimlar, rehber)
                     durum, skorlar = "canli", canli[2]
+                    # Son güncellemedeki çeyrek ve maç saati ("3. Çeyrek · 04:12")
+                    canli_durum = {"periyot": d.get("period"), "saat": d.get("clock"),
+                                   "uzatma": d.get("periodType") == "OVERTIME"}
             mac = {
                 "id": m["matchId"], "hafta": hafta, "tarih": m["matchDate"], "durum": durum,
                 "ev": takimlar["ev"], "dep": takimlar["dep"], "evSkor": skorlar["ev"], "depSkor": skorlar["dep"],
                 "salon": m.get("salonAdi"), "yayin": m.get("broadcastChannel"),
             }
+            if canli_durum:
+                mac["canliDurum"] = canli_durum
             hafta_maclar.append(mac)
             if durum == "oynanmadi":
                 continue
