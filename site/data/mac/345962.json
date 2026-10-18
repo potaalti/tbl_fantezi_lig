@@ -132,7 +132,7 @@
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "7:24",
+    "sure": "8:02",
     "sayi": 8,
     "iki": [
      0,
@@ -154,7 +154,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "1",
     "vp": 11
    },
    {
@@ -252,7 +252,97 @@
     "ad": "Dorukhan Engindeniz",
     "no": "13",
     "ilk5": false,
-    "sure": "2:10",
+    "sure": "2:48",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 1,
+    "sr": 1,
+    "rib": 2,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 0
+   },
+   {
+    "id": "214924",
+    "ad": "Yesukan Onar",
+    "no": "14",
+    "ilk5": false,
+    "sure": "2:48",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 0
+   },
+   {
+    "id": "132341",
+    "ad": "Kaan Sarıaslan",
+    "no": "22",
+    "ilk5": false,
+    "sure": "1:05",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 1
+   },
+   {
+    "id": "202372",
+    "ad": "Yiğit Baran Sarıkaya",
+    "no": "32",
+    "ilk5": false,
+    "sure": "0:38",
     "sayi": 0,
     "iki": [
      0,
@@ -267,36 +357,6 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "-1",
-    "vp": 0
-   },
-   {
-    "id": "214924",
-    "ad": "Yesukan Onar",
-    "no": "14",
-    "ilk5": false,
-    "sure": "2:10",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
     "sr": 0,
     "rib": 0,
     "ast": 0,
@@ -304,68 +364,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 0
-   },
-   {
-    "id": "132341",
-    "ad": "Kaan Sarıaslan",
-    "no": "22",
-    "ilk5": false,
-    "sure": "0:27",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "-1",
-    "vp": 1
-   },
-   {
-    "id": "202372",
-    "ad": "Yiğit Baran Sarıkaya",
-    "no": "32",
-    "ilk5": false,
-    "sure": "0:00",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "-1",
-    "vp": 0
+    "pm": "-4",
+    "vp": -1
    }
   ],
   "ceyrekler": [
@@ -374,14 +374,14 @@
  },
  "dep": {
   "ad": "DARÜŞŞAFAKA",
-  "skor": "11",
+  "skor": "15",
   "oyuncular": [
    {
     "id": "606144",
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "7:24",
+    "sure": "8:02",
     "sayi": 3,
     "iki": [
      0,
@@ -403,7 +403,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-1",
     "vp": 4
    },
    {
@@ -411,7 +411,7 @@
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "7:24",
+    "sure": "7:46",
     "sayi": 2,
     "iki": [
      1,
@@ -433,7 +433,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
+    "pm": "-3",
     "vp": 2
    },
    {
@@ -471,8 +471,8 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "7:24",
-    "sayi": 1,
+    "sure": "8:02",
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -482,8 +482,8 @@
      0
     ],
     "sa": [
-     1,
-     1
+     2,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -493,8 +493,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
-    "vp": 4
+    "pm": "-1",
+    "vp": 5
    },
    {
     "id": "386417",
@@ -561,11 +561,11 @@
     "ad": "Ege Eskinazi",
     "no": "7",
     "ilk5": false,
-    "sure": "0:27",
-    "sayi": 0,
+    "sure": "1:05",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -579,12 +579,12 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 0
+    "pm": "4",
+    "vp": 3
    },
    {
     "id": "447497",
@@ -621,7 +621,7 @@
     "ad": "Yiğit Elgün",
     "no": "12",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:38",
     "sayi": 0,
     "iki": [
      0,
@@ -643,7 +643,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "4",
     "vp": 0
    },
    {
@@ -651,7 +651,7 @@
     "ad": "Eren İlyem",
     "no": "19",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:16",
     "sayi": 0,
     "iki": [
      0,
@@ -672,8 +672,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "0",
+    "faul": 1,
+    "pm": "2",
     "vp": 0
    },
    {
@@ -738,11 +738,11 @@
    }
   ],
   "ceyrekler": [
-   12
+   15
   ]
  },
  "evSkor": "16",
- "depSkor": "11",
+ "depSkor": "15",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV"
 }
