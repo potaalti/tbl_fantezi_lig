@@ -1,48 +1,60 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Telefonda 15 dakikada bir tetiklenir (Android daha sık izin vermez). Şarjı korumak için:
-#   - Maç günleri (fikstürden okunur, Cuma dahil) 13:00-22:00 arası her tetiklemede çalışır.
-#   - O sırada canlı maç varsa telefon uyanık kalır ve canlı maç bitene kadar 5 dakikada bir
-#     günceller (wake lock); canlı maç kalmayınca ya da 22:00 olunca normal düzene ve uykuya döner.
-#   - Maç olmayan günler 13:00-22:00 arası günde bir kez kısa kontrol yapar (fikstür ve TBL kadroları).
-#   - Diğer saatlerde internete bile bağlanmadan hemen kapanır.
-# Çalıştığında TBF'den (maç sırasında FIBA LiveStats'ten) VP verilerini çeker, değişiklik varsa
+#   - Maç saatlerinde (bir maçın başlamasına 10 dk kala, o maç TBF'de kesinleşene kadar; en fazla
+#     4 saat): telefon uyanık kalır ve 3 dakikada bir günceller (wake lock). Maç saatleri telefondaki
+#     son veriden okunur (bu ve gelecek hafta, Cuma maçları dahil).
+#   - Maç yokken: günde 2 güncelleme, 12:00'de (fikstür, maç saatleri, TBL kadroları) ve 23:00'te
+#     (maç sonrası kesin sonuçlar).
+#   - Diğer bütün tetiklemeler internete bile bağlanmadan hemen kapanır.
+# Güncelleme: TBF'den (maç sırasında FIBA LiveStats'ten) VP verilerini çeker, değişiklik varsa
 # GitHub'a gönderir; GitHub siteyi yayınlar.
 # Elle deneme:  bash telefon/guncelle.sh tam   (saat sınırı olmadan, her şeyi günceller)
 # Not: Termux arka planda açık kalmalı ("Exit"e basılırsa Android görevi tetiklemiyor).
 DEPO="$HOME/tbl-fantezi"
 DEPO_URL="https://github.com/potaalti/tbl_fantezi_lig.git"
 LOG="$HOME/tbl-guncelle.log"
-GUNLUK_KONTROL="$HOME/.tbl-son-gunluk-kontrol"
-DONGU_PID="$HOME/.tbl-canli-dongu.pid"
-BASLANGIC_SAATI=13
-BITIS_SAATI=22
-CANLI_ARALIK_SN=300
+GUNLUK_KAYIT="$HOME/.tbl-gunluk-guncellemeler"
+DONGU_PID="$HOME/.tbl-mac-dongusu.pid"
+GUNLUK_SAATLER="12 23"
+MAC_ARALIK_SN=180
 
-saat_araliginda() {
-  local saat
-  saat=$(date +%H)
-  [ "$saat" -ge "$BASLANGIC_SAATI" ] && [ "$saat" -lt "$BITIS_SAATI" ]
+# Şu an bir maç saatinde miyiz? (telefondaki veriden, internete çıkmadan)
+mac_saatinde_mi() {
+  python - "$DEPO/site/data/hafta/index.json" <<'PY'
+import json, os, sys
+from datetime import datetime, timedelta
+try:
+    maclar = json.load(open(sys.argv[1], encoding="utf-8")).get("macSaatleri", [])
+except Exception:
+    sys.exit(1)
+simdi = datetime.fromisoformat(os.environ["TBL_SIMDI"]) if os.environ.get("TBL_SIMDI") else datetime.now()
+for m in maclar:
+    if m.get("bitti") or m["tarih"].endswith("T00:00:00"):  # 00:00 = TBF'de saati belli olmayan maç
+        continue
+    baslama = datetime.fromisoformat(m["tarih"])
+    if baslama - timedelta(minutes=10) <= simdi <= baslama + timedelta(hours=4):
+        sys.exit(0)
+sys.exit(1)
+PY
 }
 
-calismali_mi() {
-  [ "$1" = "tam" ] && return 0
-  local bugun
+# Günde 2 güncelleme: 12:00 ve 23:00'ten sonraki ilk tetiklemede (o gün yapılmadıysa)
+gunluk_guncelleme_zamani_mi() {
+  local saat bugun s
+  saat=$(date +%H)
   bugun=$(date +%F)
-  saat_araliginda || return 1
-  # Maç günü mü? (fikstür telefondaki son veride; internete çıkmadan okunur)
-  grep -q "\"$bugun\"" "$DEPO/site/data/hafta/index.json" 2>/dev/null && return 0
-  # Maç olmayan gün: günde bir kez
-  [ "$(cat "$GUNLUK_KONTROL" 2>/dev/null)" = "$bugun" ] && return 1
-  echo "$bugun" > "$GUNLUK_KONTROL"
-  return 0
+  for s in $GUNLUK_SAATLER; do
+    if [ "$saat" -ge "$s" ] && ! grep -qx "$bugun-$s" "$GUNLUK_KAYIT" 2>/dev/null; then
+      echo "$bugun-$s" >> "$GUNLUK_KAYIT"
+      tail -n 20 "$GUNLUK_KAYIT" > "$GUNLUK_KAYIT.tmp" && mv "$GUNLUK_KAYIT.tmp" "$GUNLUK_KAYIT"
+      return 0
+    fi
+  done
+  return 1
 }
 
 dongu_calisiyor_mu() {
   [ -f "$DONGU_PID" ] && kill -0 "$(cat "$DONGU_PID")" 2>/dev/null
-}
-
-canli_mac_var_mi() {
-  grep -q '"durum": "canli"' "$DEPO"/site/data/hafta/*.json 2>/dev/null
 }
 
 guncelle() {
@@ -80,22 +92,29 @@ kirp() {
   tail -n 500 "$LOG" > "$LOG.tmp" && mv "$LOG.tmp" "$LOG"
 }
 
-# Canlı maç sürdükçe 5 dakikada bir güncelle; bu sırada telefon uyumasın
-canli_dongu() {
-  canli_mac_var_mi || return 0
+# Maç saatleri boyunca 3 dakikada bir güncelle; bu sırada telefon uyumasın
+mac_dongusu() {
   echo $$ > "$DONGU_PID"
   termux-wake-lock
-  echo "=== $(date '+%H:%M') canlı maç var: ${CANLI_ARALIK_SN} sn'de bir güncellenecek ===" >> "$LOG"
-  while canli_mac_var_mi && saat_araliginda; do
-    sleep "$CANLI_ARALIK_SN"
+  echo "=== $(date '+%H:%M') maç saati: ${MAC_ARALIK_SN} sn'de bir güncellenecek ===" >> "$LOG"
+  while mac_saatinde_mi; do
     guncelle >> "$LOG" 2>&1
     kirp
+    sleep "$MAC_ARALIK_SN"
   done
-  echo "=== $(date '+%H:%M') canlı maç kalmadı, normal düzene dönüldü ===" >> "$LOG"
+  echo "=== $(date '+%H:%M') maç saati bitti, normal düzene dönüldü ===" >> "$LOG"
   termux-wake-unlock
   rm -f "$DONGU_PID"
 }
 
-# Hepsi tek satırda: git reset bu dosyayı çalışırken değiştirse bile bash dosyanın devamını okumaz.
-# Canlı maç döngüsü zaten çalışıyorsa 15 dakikalık tetikleme hemen çıkar (aynı anda iki güncelleme olmasın).
-dongu_calisiyor_mu && exit 0; calismali_mi "$1" || exit 0; guncelle "$1" >> "$LOG" 2>&1; kirp; [ "$1" = "tam" ] || canli_dongu; exit 0
+# Hepsi tek komut: git reset bu dosyayı çalışırken değiştirse bile bash dosyanın devamını okumaz.
+# Maç döngüsü zaten çalışıyorsa 15 dakikalık tetikleme hemen çıkar (aynı anda iki güncelleme olmasın).
+if [ "$1" = "tam" ]; then
+  guncelle tam >> "$LOG" 2>&1; kirp
+elif dongu_calisiyor_mu; then
+  :
+elif mac_saatinde_mi; then
+  mac_dongusu
+elif gunluk_guncelleme_zamani_mi; then
+  guncelle tam >> "$LOG" 2>&1; kirp
+fi; exit 0

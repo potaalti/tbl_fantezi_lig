@@ -317,9 +317,12 @@ def main():
     # Telefon hangi günler sık çalışacağını internete çıkmadan buradan okur (telefon/guncelle.sh):
     # bu haftanın ve gelecek haftanın maç günleri (Cuma maçları dahil)
     mac_gunleri = {m["tarih"][:10] for m in guncel_maclar}
+    # Maç saatleri: telefon "şu an bir maç saatinde miyiz?" sorusunu internete çıkmadan bunlardan cevaplar
+    mac_saatleri = [{"tarih": m["tarih"], "bitti": m["durum"] == "bitti"} for m in guncel_maclar]
     if any(int(h["sezon_Hafta"]) == guncel + 1 for h in haftalar):
         sonraki = api(f"/Match/get-all-matches-for-filter?ActivityId={LIG_ID}&WeekFilter={guncel + 1}&Page=1&PageSize=-1")
         mac_gunleri |= {m["matchDate"][:10] for m in sonraki}
+        mac_saatleri += [{"tarih": m["matchDate"], "bitti": m["matchStatusId"] == DURUM_BITTI} for m in sonraki]
 
     # Takım kadroları (günde iki kez): henüz maç kadrosuna girmemiş oyuncuları ekler, transferde
     # güncel takımı ve boştaki oyuncular listesi için sezon ortalamalarını verir.
@@ -349,6 +352,7 @@ def main():
         "guncelleme": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "rehberGuncelleme": rehber_zamani,
         "macGunleri": sorted(mac_gunleri),
+        "macSaatleri": sorted(mac_saatleri, key=lambda x: x["tarih"]),
     })
     print(f"Oyuncu rehberi: {len(rehber)} oyuncu. Tamamlandı.")
 
