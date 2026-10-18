@@ -167,9 +167,9 @@ def main():
         if son == yeni:
             print(f"Kadrolarda değişiklik yok ({kayitli[-1]}. hafta kadrosuyla aynı), bir şey yazılmadı.")
             return
-    (kadro_dizin / f"{hafta}.json").write_text(json.dumps(yeni, ensure_ascii=False, indent=1), encoding="utf-8")
+    (kadro_dizin / f"{hafta}.json").write_text(json.dumps(yeni, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
     haftalar = sorted(int(p.stem) for p in kadro_dizin.glob("*.json") if p.stem.isdigit())
-    (kadro_dizin / "index.json").write_text(json.dumps({"haftalar": haftalar}), encoding="utf-8")
+    (kadro_dizin / "index.json").write_text(json.dumps({"haftalar": haftalar}), encoding="utf-8", newline="\n")
     print(f"{len(takimlar)} takım kaydedildi, {hafta}. haftadan itibaren geçerli -> site/data/kadro/{hafta}.json")
     if any(h > hafta for h in haftalar):
         uyarilar.append(f"{hafta}. haftadan sonrası için de kayıtlı kadro var ({[h for h in haftalar if h > hafta]}); "

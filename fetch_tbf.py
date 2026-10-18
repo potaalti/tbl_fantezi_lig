@@ -58,7 +58,9 @@ def api(yol, deneme=3):
 
 def json_yaz(yol, veri):
     yol.parent.mkdir(parents=True, exist_ok=True)
-    yol.write_text(json.dumps(veri, ensure_ascii=False, indent=1), encoding="utf-8")
+    # newline="\n": Windows'ta da Linux satır sonu yaz; yoksa telefon ve bilgisayar her çalıştığında
+    # aynı içerikli dosyalar satır sonu yüzünden değişmiş görünür
+    yol.write_text(json.dumps(veri, ensure_ascii=False, indent=1), encoding="utf-8", newline="\n")
 
 
 def saniye(sure):
