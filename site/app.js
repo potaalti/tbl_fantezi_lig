@@ -486,7 +486,8 @@ function ciz() {
   }
   if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a);
   if (sekme === 'mac') macDetayDoldur(a);
-  const paylas = icerik.querySelector('.paylas');
+  // button.paylas: aynı sınıfı kullanan İstatistikler bağlantısı (<a>) değil, Paylaş düğmesi
+  const paylas = icerik.querySelector('button.paylas');
   paylas?.addEventListener('click', () => siralamayiPaylas(paylas, paylas.dataset.tur, Number(paylas.dataset.hafta)));
 
   document.querySelectorAll('.alt-menu a').forEach(el => el.classList.toggle('aktif', el.dataset.sekme === aktif));
@@ -645,30 +646,53 @@ function genelGorselVerisi() {
   };
 }
 
+// Telefonlar paylaşım menüsünü ancak dokunuştan hemen sonra açtırır. Görsel hazırlanırken bu süre
+// dolarsa (NotAllowedError) hazır görsel saklanır ve düğmeye ikinci dokunuşta hemen paylaşılır.
+const PAYLAS_YAZISI = '📤 Paylaş';
+let hazirGorsel = null; // { anahtar, zaman, dosya, bilgi }
+
 async function siralamayiPaylas(dugme, tur, n) {
-  const eskiYazi = dugme.textContent;
+  const anahtar = `${tur}-${n}`;
+  let hazir = hazirGorsel?.anahtar === anahtar && Date.now() - hazirGorsel.zaman < 60_000 ? hazirGorsel : null;
+  let sonYazi = PAYLAS_YAZISI;
   dugme.disabled = true;
-  dugme.textContent = 'Hazırlanıyor…';
   try {
-    const bilgi = tur === 'genel' ? genelGorselVerisi() : haftalikGorselVerisi(n);
-    const blob = await siralamaGorseli(bilgi);
-    const dosyaAdi = tur === 'genel' ? 'pota-alti-genel-klasman.png' : `pota-alti-${fHafta(n)}-hafta.png`;
-    const dosya = new File([blob], dosyaAdi, { type: 'image/png' });
+    if (!hazir) {
+      dugme.textContent = 'Hazırlanıyor…';
+      const bilgi = tur === 'genel' ? genelGorselVerisi() : haftalikGorselVerisi(n);
+      const blob = await siralamaGorseli(bilgi);
+      const dosyaAdi = tur === 'genel' ? 'pota-alti-genel-klasman.png' : `pota-alti-${fHafta(n)}-hafta.png`;
+      hazir = hazirGorsel = { anahtar, zaman: Date.now(), dosya: new File([blob], dosyaAdi, { type: 'image/png' }), bilgi };
+    }
+    const { dosya, bilgi } = hazir;
     if (navigator.canShare?.({ files: [dosya] })) {
-      await navigator.share({ files: [dosya], title: bilgi.baslik, text: `${bilgi.baslik} · ${bilgi.altBaslik}` });
+      try {
+        await navigator.share({ files: [dosya], title: bilgi.baslik, text: `${bilgi.baslik} · ${bilgi.altBaslik}` });
+        hazirGorsel = null;
+      } catch (e) {
+        if (e?.name === 'NotAllowedError') {
+          sonYazi = '📤 Hazır, paylaşmak için dokun';
+        } else if (e?.name === 'AbortError') {
+          hazirGorsel = null; // kullanıcı paylaşımı iptal etti
+        } else {
+          throw e;
+        }
+      }
     } else {
       // Paylaşım menüsü yoksa (ör. bilgisayar) görseli indir
       const a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = dosyaAdi;
+      a.href = URL.createObjectURL(dosya);
+      a.download = dosya.name;
       a.click();
       setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
+      hazirGorsel = null;
     }
   } catch (e) {
-    if (e?.name !== 'AbortError') alert('Paylaşılamadı: ' + (e?.message ?? e));
+    hazirGorsel = null;
+    alert('Paylaşılamadı: ' + (e?.message ?? e));
   } finally {
     dugme.disabled = false;
-    dugme.textContent = eskiYazi;
+    dugme.textContent = sonYazi;
   }
 }
 
