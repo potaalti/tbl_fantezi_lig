@@ -12,7 +12,7 @@
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "12:01",
+    "sure": "12:28",
     "sayi": 7,
     "iki": [
      1,
@@ -34,7 +34,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "6",
+    "pm": "4",
     "vp": 8
    },
    {
@@ -102,7 +102,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": true,
-    "sure": "12:01",
+    "sure": "12:28",
     "sayi": 3,
     "iki": [
      0,
@@ -124,7 +124,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "5",
+    "pm": "3",
     "vp": 3
    },
    {
@@ -252,7 +252,7 @@
     "ad": "Karl Gamble",
     "no": "14",
     "ilk5": false,
-    "sure": "3:46",
+    "sure": "4:13",
     "sayi": 0,
     "iki": [
      0,
@@ -274,7 +274,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-8",
     "vp": -2
    },
    {
@@ -282,7 +282,7 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "7:56",
+    "sure": "8:23",
     "sayi": 0,
     "iki": [
      0,
@@ -302,10 +302,10 @@
     "ast": 3,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
-    "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "tk": 3,
+    "faul": 1,
+    "pm": "-2",
+    "vp": -1
    },
    {
     "id": "267856",
@@ -342,7 +342,7 @@
     "ad": "Ali Taşkın",
     "no": "77",
     "ilk5": false,
-    "sure": "2:03",
+    "sure": "2:30",
     "sayi": 0,
     "iki": [
      0,
@@ -364,7 +364,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 1
    }
   ],
@@ -375,7 +375,7 @@
  },
  "dep": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-  "skor": "24",
+  "skor": "26",
   "oyuncular": [
    {
     "id": "392789",
@@ -412,7 +412,7 @@
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "13:10",
+    "sure": "13:37",
     "sayi": 2,
     "iki": [
      1,
@@ -434,7 +434,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-12",
+    "pm": "-10",
     "vp": 4
    },
    {
@@ -502,11 +502,11 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "16:26",
-    "sayi": 5,
+    "sure": "16:53",
+    "sayi": 7,
     "iki": [
-     0,
-     5
+     1,
+     6
     ],
     "uc": [
      1,
@@ -524,15 +524,15 @@
     "blk": 0,
     "tk": 3,
     "faul": 0,
-    "pm": "-2",
-    "vp": 2
+    "pm": "0",
+    "vp": 4
    },
    {
     "id": "317200",
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": false,
-    "sure": "6:08",
+    "sure": "6:35",
     "sayi": 6,
     "iki": [
      0,
@@ -549,13 +549,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 2,
+    "ast": 3,
     "tc": 1,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "4",
-    "vp": 8
+    "faul": 2,
+    "pm": "6",
+    "vp": 9
    },
    {
     "id": "356958",
@@ -682,7 +682,7 @@
     "ad": "Onur Aslaner",
     "no": "77",
     "ilk5": false,
-    "sure": "3:47",
+    "sure": "4:14",
     "sayi": 2,
     "iki": [
      1,
@@ -700,19 +700,19 @@
     "sr": 1,
     "rib": 1,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
-    "vp": 2
+    "pm": "6",
+    "vp": 3
    },
    {
     "id": "335737",
     "ad": "Emirali Göktürk",
     "no": "99",
     "ilk5": false,
-    "sure": "7:17",
+    "sure": "7:44",
     "sayi": 4,
     "iki": [
      2,
@@ -734,17 +734,17 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
+    "pm": "4",
     "vp": 3
    }
   ],
   "ceyrekler": [
    16,
-   8
+   10
   ]
  },
  "evSkor": "30",
- "depSkor": "24",
+ "depSkor": "26",
  "salon": "Tofaş Spor Salonu",
  "yayin": "HT SPOR"
 }
