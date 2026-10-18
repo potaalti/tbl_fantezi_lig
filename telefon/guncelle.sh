@@ -6,6 +6,7 @@
 # Çalıştığında TBF'den VP verilerini çeker, değişiklik varsa GitHub'a gönderir; GitHub siteyi yayınlar.
 # Elle deneme:  bash telefon/guncelle.sh tam   (saat sınırı olmadan, her şeyi günceller)
 DEPO="$HOME/tbl-fantezi"
+DEPO_URL="https://github.com/potaalti/tbl_fantezi_lig.git"
 LOG="$HOME/tbl-guncelle.log"
 GUNLUK_KONTROL="$HOME/.tbl-son-gunluk-kontrol"
 BASLANGIC_SAATI=13
@@ -30,6 +31,8 @@ guncelle() {
   cd "$DEPO" || return 1
   # Android'de dosya izinleri farklı görünebilir; Git bunları değişiklik saymasın
   git config core.fileMode false
+  # Depo taşınırsa/adı değişirse telefon kendini yeni adrese çevirsin
+  git remote set-url origin "$DEPO_URL"
   git rebase --abort 2>/dev/null
   local deneme
   for deneme in 1 2 3; do
