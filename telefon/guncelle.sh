@@ -13,7 +13,12 @@ guncelle() {
     git rebase --abort 2>/dev/null
     return 1
   fi
-  python fetch_tbf.py --akilli || return 1
+  # "bash guncelle.sh tam": maç saatini beklemeden her şeyi güncelle (elle deneme için)
+  if [ "$1" = "tam" ]; then
+    python fetch_tbf.py || return 1
+  else
+    python fetch_tbf.py --akilli || return 1
+  fi
   git add -A
   if ! git diff --cached --quiet; then
     git commit -q -m "Veriler güncellendi (telefon)"
@@ -23,7 +28,7 @@ guncelle() {
   fi
 }
 
-guncelle >> "$LOG" 2>&1
+guncelle "$1" >> "$LOG" 2>&1
 
 # Log dosyası büyümesin
 tail -n 500 "$LOG" > "$LOG.tmp" && mv "$LOG.tmp" "$LOG"
