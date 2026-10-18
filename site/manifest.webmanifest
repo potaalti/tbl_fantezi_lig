@@ -1,7 +1,10 @@
 {
   "name": "Pota Altı TBL Fantezi Ligi",
   "short_name": "Pota Altı",
+  "id": "./",
+  "description": "TBL fantezi ligi: haftalık VP sıralaması, genel klasman, maçlar ve box score'lar.",
   "lang": "tr",
+  "orientation": "portrait",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -9,6 +12,7 @@
   "theme_color": "#e8590c",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }

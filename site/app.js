@@ -490,6 +490,49 @@ function ciz() {
     `Son veri: ${new Date(veri.index.guncelleme).toLocaleString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}`;
 }
 
+// ---------- telefona uygulama olarak yükleme ----------
+// Android/Chrome yükleme penceresini kendisi açabilir; iPhone'da Apple buna izin vermediği için
+// "Ana Ekrana Ekle" yönergesi gösterilir. Uygulama olarak açıldığında ya da kapatıldığında gizlenir.
+const YUKLE_KAPALI = 'tbl-fantezi-yukle-kapali';
+const uygulamaModunda = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+let yuklemeIstegi = null;
+
+function yuklemeBandi() {
+  const kutu = document.getElementById('yukle');
+  let kapali = false;
+  try { kapali = localStorage.getItem(YUKLE_KAPALI) === '1'; } catch { /* depolama yok */ }
+  const ua = navigator.userAgent;
+  let mesaj = '';
+  if (uygulamaModunda() || kapali) mesaj = '';
+  else if (yuklemeIstegi) mesaj = `<span>Pota Altı'nı telefonuna <b>uygulama</b> olarak yükle.</span><button class="yukle-dugme">Yükle</button>`;
+  else if (/iphone|ipad|ipod/i.test(ua)) mesaj = `<span>Uygulama olarak eklemek için Safari'de <b>Paylaş</b> düğmesine, sonra <b>Ana Ekrana Ekle</b>'ye dokun.</span>`;
+  else if (/android/i.test(ua)) mesaj = `<span>Uygulama olarak eklemek için tarayıcı menüsünden (⋮) <b>Uygulamayı yükle</b> ya da <b>Ana ekrana ekle</b>'yi seç.</span>`;
+  kutu.innerHTML = mesaj ? `<div class="yukle-bandi">${mesaj}<button class="kapat" aria-label="Kapat">×</button></div>` : '';
+  kutu.querySelector('.yukle-dugme')?.addEventListener('click', async () => {
+    yuklemeIstegi.prompt();
+    const { outcome } = await yuklemeIstegi.userChoice;
+    yuklemeIstegi = null;
+    if (outcome === 'accepted') yuklemeBandiniKapat();
+    else yuklemeBandi();
+  });
+  kutu.querySelector('.kapat')?.addEventListener('click', yuklemeBandiniKapat);
+}
+
+function yuklemeBandiniKapat() {
+  try { localStorage.setItem(YUKLE_KAPALI, '1'); } catch { /* depolama yok */ }
+  document.getElementById('yukle').innerHTML = '';
+}
+
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault();
+  yuklemeIstegi = e;
+  yuklemeBandi();
+});
+window.addEventListener('appinstalled', () => {
+  yuklemeIstegi = null;
+  yuklemeBandiniKapat();
+});
+
 function uyarilar() {
   const u = [];
   if (veri.ayarlar.ornekKadrolar) u.push('Örnek kadrolar gösteriliyor. Gerçek kadrolar eklenince değişecek.');
@@ -519,6 +562,7 @@ async function basla() {
   }
   document.getElementById('lig-adi').textContent = veri.ayarlar.ligAdi;
   uyarilar();
+  yuklemeBandi();
   window.addEventListener('hashchange', () => { ciz(); window.scrollTo(0, 0); });
   ciz();
   setInterval(() => {
