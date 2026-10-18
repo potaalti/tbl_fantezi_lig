@@ -1,6 +1,6 @@
 // Ağ öncelikli önbellek: çevrimdışıyken son görülen veriler açılır.
-const ONBELLEK = 'tbl-fantezi-v1';
-const KABUK = ['./', 'index.html', 'style.css', 'app.js', 'scoring.js', 'manifest.webmanifest', 'icon.svg'];
+const ONBELLEK = 'tbl-fantezi-v2';
+const KABUK = ['./', 'index.html', 'style.css', 'app.js', 'scoring.js', 'manifest.webmanifest', 'icon-192.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(ONBELLEK).then(c => c.addAll(KABUK)).then(() => self.skipWaiting()));
