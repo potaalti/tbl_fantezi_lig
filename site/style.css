@@ -1,11 +1,14 @@
+/* Renkler Pota Altı logosundan: koyu petrol -> turkuaz */
 :root {
-  --zemin: #f4f2ef;
+  --zemin: #eef4f5;
   --kart: #ffffff;
-  --yazi: #1c1917;
-  --soluk: #78716c;
-  --cizgi: #e7e5e4;
-  --vurgu: #e8590c;
-  --vurgu-acik: #fff0e6;
+  --yazi: #0f1f22;
+  --soluk: #5f7377;
+  --cizgi: #dbe5e7;
+  --vurgu: #097a88;
+  --vurgu-acik: #e0f4f6;
+  --vurgu-uzeri: #ffffff;
+  --baslik-zemin: linear-gradient(120deg, #0a8a99 0%, #06505b 100%);
   --yesil: #15803d;
   --yesil-acik: #e7f6ec;
   --kirmizi: #b91c1c;
@@ -16,13 +19,15 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --zemin: #121110;
-    --kart: #1e1c1a;
-    --yazi: #f5f5f4;
-    --soluk: #a8a29e;
-    --cizgi: #2f2c29;
-    --vurgu: #ff7a2f;
-    --vurgu-acik: #3a2214;
+    --zemin: #0a1214;
+    --kart: #111d20;
+    --yazi: #eef6f7;
+    --soluk: #91a8ac;
+    --cizgi: #1d2e32;
+    --vurgu: #4cc8d0;
+    --vurgu-acik: #0e2f34;
+    --vurgu-uzeri: #062126;
+    --baslik-zemin: linear-gradient(120deg, #0b6f7c 0%, #04363e 100%);
     --yesil: #4ade80;
     --yesil-acik: #12301d;
     --kirmizi: #f87171;
@@ -45,7 +50,7 @@ a { color: inherit; text-decoration: none; }
   position: sticky; top: 0; z-index: 5;
   display: flex; align-items: center; justify-content: center;
   padding: calc(12px + env(safe-area-inset-top)) 16px 12px;
-  background: var(--vurgu); color: #fff;
+  background: var(--baslik-zemin); color: #fff;
 }
 .ust h1 { margin: 0; font-size: 1.1rem; font-weight: 700; text-align: center; }
 /* Başlık ortada kalsın diye CANLI rozeti akışın dışında, sağ kenarda */
@@ -53,7 +58,7 @@ a { color: inherit; text-decoration: none; }
   position: absolute; right: 8px;
   top: calc(50% + env(safe-area-inset-top) / 2); transform: translateY(-50%);
   font-size: .6rem; font-weight: 700; letter-spacing: .05em;
-  background: #fff; color: var(--vurgu); padding: 3px 7px; border-radius: 99px;
+  background: #fff; color: #06505b; padding: 3px 7px; border-radius: 99px;
   animation: nabiz 1.6s ease-in-out infinite;
 }
 @keyframes nabiz { 50% { opacity: .55; } }
@@ -147,7 +152,7 @@ a.satir:active { background: var(--vurgu-acik); }
   padding: 6px 12px; border-radius: 99px; font-size: .8rem; font-weight: 600;
   background: var(--kart); border: 1px solid var(--cizgi); color: var(--soluk);
 }
-.secenek.aktif { background: var(--vurgu); border-color: var(--vurgu); color: #fff; }
+.secenek.aktif { background: var(--vurgu); border-color: var(--vurgu); color: var(--vurgu-uzeri); }
 .hafta-cipleri { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; }
 .hafta-cipleri .secenek { flex: 0 0 auto; white-space: nowrap; }
 

@@ -1,21 +1,22 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Telefonda 15 dakikada bir tetiklenir. Şarjı korumak için:
-#   - 23:00-12:00 arası hiç çalışmaz (internete bağlanmaz).
-#   - Maç olan günler (Cuma/Cumartesi/Pazar; fikstürden okunur) 12:00-23:00 arası her seferinde çalışır.
-#   - Maç olmayan günler 12:00'den sonra günde bir kez kısa kontrol yapar (fikstür ve TBL kadroları).
+#   - Maç günleri (fikstürden okunur, Cuma dahil) 13:00-22:00 arası her tetiklemede çalışır.
+#   - Maç olmayan günler 13:00-22:00 arası günde bir kez kısa kontrol yapar (fikstür ve TBL kadroları).
+#   - Diğer saatlerde internete bile bağlanmadan hemen kapanır.
 # Çalıştığında TBF'den VP verilerini çeker, değişiklik varsa GitHub'a gönderir; GitHub siteyi yayınlar.
 # Elle deneme:  bash telefon/guncelle.sh tam   (saat sınırı olmadan, her şeyi günceller)
 DEPO="$HOME/tbl-fantezi"
 LOG="$HOME/tbl-guncelle.log"
 GUNLUK_KONTROL="$HOME/.tbl-son-gunluk-kontrol"
+BASLANGIC_SAATI=13
+BITIS_SAATI=22
 
 calismali_mi() {
   [ "$1" = "tam" ] && return 0
   local saat bugun
   saat=$(date +%H)
   bugun=$(date +%F)
-  # Gece ve sabah: hiç çalışma
-  [ "$saat" -lt 12 ] || [ "$saat" -ge 23 ] && return 1
+  [ "$saat" -lt "$BASLANGIC_SAATI" ] || [ "$saat" -ge "$BITIS_SAATI" ] && return 1
   # Maç günü mü? (fikstür telefondaki son veride; internete çıkmadan okunur)
   grep -q "\"$bugun\"" "$DEPO/site/data/hafta/index.json" 2>/dev/null && return 0
   # Maç olmayan gün: günde bir kez
