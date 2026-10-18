@@ -106,17 +106,29 @@ function secimEkrani() {
     <section class="kart">${liste}</section>`;
 }
 
+// Hafta sürerken: puanı sayılan oyunculardan kaçının maçı başladı/bitti ("4/5 oynadı · 1 canlı").
+// Takımı bay geçen ya da süre almayıp yerine kimse giremeyen oyuncunun puanı da belli olduğu için oynamış sayılır.
+function ilerlemeYazisi(s) {
+  const sayilan = [...s.aslar, ...s.yedekler].filter(o => o.sayildi);
+  const oynadi = sayilan.filter(o => o.macDurumu !== 'oynanmadi').length;
+  const canli = sayilan.filter(o => o.macDurumu === 'canli').length;
+  return `${oynadi}/${sayilan.length} oynadı${canli ? ` · ${canli} canlı` : ''}`;
+}
+
 function haftalikEkran(n) {
   const siralama = haftaSirasi(n);
+  const haftaBitti = haftaDurumu(veri.haftalar.get(n)).tamamlandi;
   const satirlar = siralama.map(s => {
     // Eşit VP'de sırayı en yüksek VP'li Türk oyuncu belirler; bunu satırda göster
     const esitlik = !s.vpEsitligi ? '' : s.enIyiTurk
       ? `Eşitlik: ${s.enIyiTurk.ad} ${s.enIyiTurk.vp} VP` : 'Eşitlik: Türk oyuncu yok';
-    const alt = [s.sahibi, esitlik].filter(Boolean).map(kacis).join(' · ');
+    // İlerleme ve eşitlik notu ayrı satırlarda (aynı satırda telefonda sığmıyor)
+    const alt = [[s.sahibi, haftaBitti ? '' : ilerlemeYazisi(s)].filter(Boolean).join(' · '), esitlik]
+      .filter(Boolean).map(satir => `<small>${kacis(satir)}</small>`).join('');
     return `
     <a class="satir ${benimMi(s.ad)}" href="${takimLinki(s.ad, n)}">
       ${siraRozeti(s.sira)}
-      <div class="ad"><strong>${kacis(s.ad)}</strong>${alt ? `<small>${alt}</small>` : ''}</div>
+      <div class="ad"><strong>${kacis(s.ad)}</strong>${alt}</div>
       <div class="sayi"><strong>${s.toplam}</strong><small>VP</small></div>
       <span class="cip">+${s.puan}</span>
     </a>`;
