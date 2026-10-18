@@ -81,6 +81,13 @@ main { max-width: 640px; margin: 0 auto; padding: 12px 16px; }
 .yukle-dugme { background: #4cc8d0; color: #062126; font-weight: 700; padding: 7px 14px; border-radius: 99px; }
 .yukle-bandi .kapat { background: none; color: #9fb7ba; font-size: 1.3rem; line-height: 1; padding: 2px 6px; }
 
+.paylas-satiri { display: flex; justify-content: flex-end; margin: -4px 0 10px; }
+.paylas {
+  border: 1px solid var(--vurgu); background: var(--kart); color: var(--vurgu);
+  font: inherit; font-size: .82rem; font-weight: 700; padding: 6px 14px; border-radius: 99px; cursor: pointer;
+}
+.paylas:disabled { opacity: .6; }
+
 .hafta-secici {
   display: flex; align-items: center; justify-content: space-between;
   margin-bottom: 12px;

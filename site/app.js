@@ -121,7 +121,7 @@ function haftalikEkran(n) {
       <span class="cip">+${s.puan}</span>
     </a>`;
   }).join('');
-  return `${haftaSecici(n, 'hafta')}${haftaCipleri(n, 'hafta')}<section class="kart"><h2>VP sıralaması · kazanılan puan</h2>${satirlar}</section>`;
+  return `${haftaSecici(n, 'hafta')}${haftaCipleri(n, 'hafta')}${paylasDugmesi('hafta', n)}<section class="kart"><h2>VP sıralaması · kazanılan puan</h2>${satirlar}</section>`;
 }
 
 function genelEkran() {
@@ -146,6 +146,7 @@ function genelEkran() {
   const ilk = fHafta(haftalar[0]?.hafta), son = fHafta(haftalar.at(-1)?.hafta);
   const aralik = !haftalar.length ? '' : ilk === son ? `${ilk}. hafta` : `${ilk}–${son}. haftalar`;
   return `<div class="hafta-secici"><span></span><div class="baslik"><strong>Genel Klasman</strong><small>${aralik}</small></div><span></span></div>
+    ${paylasDugmesi('genel')}
     <section class="kart"><h2>Haftalık puanların toplamı</h2>${satirlar}</section>`;
 }
 
@@ -485,12 +486,190 @@ function ciz() {
   }
   if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a);
   if (sekme === 'mac') macDetayDoldur(a);
+  const paylas = icerik.querySelector('.paylas');
+  paylas?.addEventListener('click', () => siralamayiPaylas(paylas, paylas.dataset.tur, Number(paylas.dataset.hafta)));
 
   document.querySelectorAll('.alt-menu a').forEach(el => el.classList.toggle('aktif', el.dataset.sekme === aktif));
   document.getElementById('canli').hidden = !haftaDurumu(veri.haftalar.get(sonHafta())).canli;
   document.getElementById('guncelleme').textContent =
     `Son veri: ${new Date(veri.index.guncelleme).toLocaleString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}`;
 }
+
+// ---------- sıralamayı görsel olarak paylaşma ----------
+// Sıralamanın tamamı tek bir PNG'ye çizilir ve telefonun paylaşım menüsüyle (WhatsApp vb.) gönderilir.
+const GORSEL = {
+  genislik: 1080, kenar: 40, baslikYuk: 210, sutunYuk: 64, satirYuk: 84, altYuk: 96,
+  zemin: '#eef4f5', kart: '#ffffff', yazi: '#0f1f22', soluk: '#5f7377', cizgi: '#e3ecee', vurgu: '#097a88',
+  madalya: ['#ca8a04', '#8a8f98', '#b0662f'], yazi_tipi: 'system-ui, -apple-system, "Segoe UI", Roboto, sans-serif',
+};
+
+function yuvarlakDikdortgen(ctx, sol, ust, gen, yuk, r) {
+  ctx.beginPath();
+  ctx.moveTo(sol + r, ust);
+  ctx.arcTo(sol + gen, ust, sol + gen, ust + yuk, r);
+  ctx.arcTo(sol + gen, ust + yuk, sol, ust + yuk, r);
+  ctx.arcTo(sol, ust + yuk, sol, ust, r);
+  ctx.arcTo(sol, ust, sol + gen, ust, r);
+  ctx.closePath();
+}
+
+// satirlar: [{ sira, ad, not, degerler: [...] }], sutunlar: ['VP', 'Puan']
+async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar }) {
+  const g = GORSEL;
+  const yukseklik = g.baslikYuk + g.sutunYuk + satirlar.length * g.satirYuk + g.altYuk + g.kenar;
+  const tuval = document.createElement('canvas');
+  tuval.width = g.genislik;
+  tuval.height = yukseklik;
+  const ctx = tuval.getContext('2d');
+  const font = (agirlik, boyut) => `${agirlik} ${boyut}px ${g.yazi_tipi}`;
+
+  ctx.fillStyle = g.zemin;
+  ctx.fillRect(0, 0, g.genislik, yukseklik);
+
+  // Başlık bandı: logodaki turkuazdan koyu petrole
+  const degrade = ctx.createLinearGradient(0, 0, g.genislik, g.baslikYuk);
+  degrade.addColorStop(0, '#0a8a99');
+  degrade.addColorStop(1, '#06505b');
+  ctx.fillStyle = degrade;
+  ctx.fillRect(0, 0, g.genislik, g.baslikYuk);
+  try {
+    const logo = new Image();
+    logo.src = 'icon-192.png';
+    await logo.decode();
+    ctx.save();
+    yuvarlakDikdortgen(ctx, g.kenar, 45, 120, 120, 24);
+    ctx.clip();
+    ctx.drawImage(logo, g.kenar, 45, 120, 120);
+    ctx.restore();
+  } catch { /* logo yüklenemezse görsel yine oluşur */ }
+  ctx.fillStyle = '#ffffff';
+  ctx.textBaseline = 'alphabetic';
+  ctx.font = font(800, 46);
+  ctx.fillText(baslik, g.kenar + 150, 100);
+  ctx.fillStyle = '#d6f4f6';
+  ctx.font = font(500, 32);
+  ctx.fillText(altBaslik, g.kenar + 150, 148);
+
+  // Liste kartı
+  const kartUst = g.baslikYuk + 16;
+  const kartYuk = g.sutunYuk + satirlar.length * g.satirYuk + 8;
+  ctx.fillStyle = g.kart;
+  yuvarlakDikdortgen(ctx, g.kenar - 16, kartUst, g.genislik - 2 * (g.kenar - 16), kartYuk, 24);
+  ctx.fill();
+
+  // Sütun başlıkları: değer sütunları sağa yaslı
+  const sutunX = sutunlar.map((_, i) => g.genislik - g.kenar - 10 - (sutunlar.length - 1 - i) * 150);
+  ctx.fillStyle = g.soluk;
+  ctx.font = font(700, 24);
+  ctx.textAlign = 'left';
+  ctx.fillText('TAKIM', g.kenar + 80, kartUst + 44);
+  ctx.textAlign = 'right';
+  sutunlar.forEach((s, i) => ctx.fillText(s.toLocaleUpperCase('tr'), sutunX[i], kartUst + 44));
+
+  satirlar.forEach((s, i) => {
+    const ust = kartUst + g.sutunYuk + i * g.satirYuk;
+    const orta = ust + g.satirYuk / 2;
+    ctx.strokeStyle = g.cizgi;
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.moveTo(g.kenar, ust);
+    ctx.lineTo(g.genislik - g.kenar, ust);
+    ctx.stroke();
+    // Sıra rozeti
+    ctx.fillStyle = s.sira <= 3 ? g.madalya[s.sira - 1] : g.zemin;
+    ctx.beginPath();
+    ctx.arc(g.kenar + 30, orta, 26, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = s.sira <= 3 ? '#ffffff' : g.yazi;
+    ctx.font = font(800, 26);
+    ctx.textAlign = 'center';
+    ctx.fillText(String(s.sira), g.kenar + 30, orta + 9);
+    // Takım adı ve varsa eşitlik notu
+    ctx.textAlign = 'left';
+    ctx.fillStyle = g.yazi;
+    ctx.font = font(800, 31);
+    ctx.fillText(s.ad, g.kenar + 80, s.not ? orta - 4 : orta + 11);
+    if (s.not) {
+      ctx.fillStyle = g.soluk;
+      ctx.font = font(500, 22);
+      ctx.fillText(s.not, g.kenar + 80, orta + 26);
+    }
+    // Değerler; son sütun (puan) turkuaz
+    ctx.textAlign = 'right';
+    s.degerler.forEach((d, j) => {
+      const son = j === s.degerler.length - 1;
+      ctx.fillStyle = son ? g.vurgu : g.yazi;
+      ctx.font = font(800, son ? 34 : 31);
+      ctx.fillText(String(d), sutunX[j], orta + 11);
+    });
+  });
+
+  // Alt bilgi
+  ctx.textAlign = 'center';
+  ctx.fillStyle = g.soluk;
+  ctx.font = font(500, 24);
+  const zaman = new Date().toLocaleString('tr-TR', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
+  ctx.fillText(`${location.host}${location.pathname.replace(/\/$/, '')} · ${zaman}`, g.genislik / 2, yukseklik - g.kenar - 10);
+
+  return new Promise(ok => tuval.toBlob(ok, 'image/png'));
+}
+
+function haftalikGorselVerisi(n) {
+  const d = haftaDurumu(veri.haftalar.get(n));
+  return {
+    baslik: veri.ayarlar.ligAdi,
+    altBaslik: `${fHafta(n)}. Hafta · ${d.tamamlandi ? 'Kesin sonuç' : `Ara sonuç (${d.bitti}/${d.toplam} maç bitti)`}`,
+    sutunlar: ['VP', 'Puan'],
+    satirlar: haftaSirasi(n).map(s => ({
+      sira: s.sira, ad: s.ad, degerler: [s.toplam, `+${s.puan}`],
+      not: s.vpEsitligi ? (s.enIyiTurk ? `Eşitlik: ${s.enIyiTurk.ad} ${s.enIyiTurk.vp} VP` : 'Eşitlik: Türk oyuncu yok') : '',
+    })),
+  };
+}
+
+function genelGorselVerisi() {
+  const haftalar = haftaListesi();
+  const klasman = klasmanHesapla(haftalar);
+  const ilk = fHafta(haftalar[0].hafta), son = fHafta(haftalar.at(-1).hafta);
+  return {
+    baslik: veri.ayarlar.ligAdi,
+    altBaslik: `Genel Klasman · ${ilk === son ? `${ilk}. hafta` : `${ilk}–${son}. haftalar`}`,
+    sutunlar: ['Puan'],
+    satirlar: klasman.map((s, i) => ({
+      sira: s.sira, ad: s.ad, degerler: [s.puan],
+      not: [klasman[i - 1], klasman[i + 1]].some(k => k && k.puan === s.puan) ? `Eşitlik: toplam ${s.vp} VP` : '',
+    })),
+  };
+}
+
+async function siralamayiPaylas(dugme, tur, n) {
+  const eskiYazi = dugme.textContent;
+  dugme.disabled = true;
+  dugme.textContent = 'Hazırlanıyor…';
+  try {
+    const bilgi = tur === 'genel' ? genelGorselVerisi() : haftalikGorselVerisi(n);
+    const blob = await siralamaGorseli(bilgi);
+    const dosyaAdi = tur === 'genel' ? 'pota-alti-genel-klasman.png' : `pota-alti-${fHafta(n)}-hafta.png`;
+    const dosya = new File([blob], dosyaAdi, { type: 'image/png' });
+    if (navigator.canShare?.({ files: [dosya] })) {
+      await navigator.share({ files: [dosya], title: bilgi.baslik, text: `${bilgi.baslik} · ${bilgi.altBaslik}` });
+    } else {
+      // Paylaşım menüsü yoksa (ör. bilgisayar) görseli indir
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = dosyaAdi;
+      a.click();
+      setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
+    }
+  } catch (e) {
+    if (e?.name !== 'AbortError') alert('Paylaşılamadı: ' + (e?.message ?? e));
+  } finally {
+    dugme.disabled = false;
+    dugme.textContent = eskiYazi;
+  }
+}
+
+const paylasDugmesi = (tur, n = '') => `<div class="paylas-satiri"><button class="paylas" data-tur="${tur}" data-hafta="${n}">📤 Paylaş</button></div>`;
 
 // ---------- telefona uygulama olarak yükleme ----------
 // Android/Chrome yükleme penceresini kendisi açabilir; iPhone'da Apple buna izin vermediği için
