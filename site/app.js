@@ -130,14 +130,17 @@ function genelEkran() {
   // Önceki haftaya göre sıra değişimi
   const onceki = haftalar.length > 1 ? klasmanHesapla(haftalar.slice(0, -1)) : null;
   const oncekiSira = new Map(onceki?.map(s => [s.ad, s.sira]) ?? []);
-  const satirlar = klasman.map(s => {
+  const satirlar = klasman.map((s, i) => {
     const fark = oncekiSira.has(s.ad) ? oncekiSira.get(s.ad) - s.sira : 0;
     const degisim = fark > 0 ? `<span class="degisim yukari">▲${fark}</span>` : fark < 0 ? `<span class="degisim asagi">▼${-fark}</span>` : '';
     const son = s.haftalar.at(-1);
+    // Toplam VP sadece puan eşitliğinde (sırayı o belirlediği için) gösterilir
+    const puanEsitligi = [klasman[i - 1], klasman[i + 1]].some(k => k && k.puan === s.puan);
+    const esitlik = puanEsitligi ? ` · Eşitlik: toplam ${s.vp} VP` : '';
     return `
     <a class="satir ${benimMi(s.ad)}" href="${takimLinki(s.ad, sonHafta())}">
       ${siraRozeti(s.sira)}
-      <div class="ad"><strong>${kacis(s.ad)} ${degisim}</strong><small>Son hafta ${son ? son.sira + '.' : '-'} · ${s.vp} VP</small></div>
+      <div class="ad"><strong>${kacis(s.ad)} ${degisim}</strong><small>Son hafta ${son ? son.sira + '.' : '-'}${esitlik}</small></div>
       <div class="sayi"><strong>${s.puan}</strong><small>puan</small></div>
     </a>`;
   }).join('');
