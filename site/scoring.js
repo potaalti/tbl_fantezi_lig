@@ -8,7 +8,8 @@
 //   Eşit VP'de, sayılan 5 oyuncu içindeki en yüksek VP'li Türk oyuncusu daha yüksek olan takım
 //   üstte yer alır (sayılan 5'te Türk oyuncu yoksa o takım alta düşer).
 //   Bu da eşitse iki takım aynı sırayı ve aynı puanı paylaşır.
-// - Genel klasmanda eşit puanlı takımlar aynı sırayı paylaşır ve alfabetik sıralanır.
+// - Genel klasmanda eşit puanlı takımlardan tüm haftaların toplam VP'si yüksek olan üstte yer alır.
+//   Toplam VP de eşitse aynı sırayı paylaşırlar (alfabetik dizilirler).
 
 // Oyuncunun o haftaki durumu: VP, süre ve maçının durumu
 function oyuncuDurumu(oyuncu, hafta) {
@@ -84,7 +85,7 @@ export function haftaDurumu(hafta) {
   return { bitti, toplam: hafta.maclar.length, canli, tamamlandi: bitti === hafta.maclar.length };
 }
 
-// Genel klasman: haftalık lig puanlarının toplamı; eşit puanlılar aynı sırada, alfabetik.
+// Genel klasman: haftalık lig puanlarının toplamı; eşitlikte toplam VP, o da eşitse aynı sıra.
 // kadroBul(haftaNo) o hafta geçerli olan kadroları döndürür (kadro değişiklikleri geçmişi etkilemez).
 export function genelKlasman(kadroBul, haftalar, puanTablosu, turkMu) {
   const tablo = new Map();
@@ -97,10 +98,10 @@ export function genelKlasman(kadroBul, haftalar, puanTablosu, turkMu) {
       k.haftalar.push({ hafta: hafta.hafta, sira: s.sira, puan: s.puan, vp: s.toplam });
     }
   }
-  const sonuc = [...tablo.values()].sort((a, b) => b.puan - a.puan || a.ad.localeCompare(b.ad, 'tr'));
+  const sonuc = [...tablo.values()].sort((a, b) => b.puan - a.puan || b.vp - a.vp || a.ad.localeCompare(b.ad, 'tr'));
   sonuc.forEach((s, i) => {
     const onceki = sonuc[i - 1];
-    s.sira = onceki && onceki.puan === s.puan ? onceki.sira : i + 1;
+    s.sira = onceki && onceki.puan === s.puan && onceki.vp === s.vp ? onceki.sira : i + 1;
   });
   return sonuc;
 }
