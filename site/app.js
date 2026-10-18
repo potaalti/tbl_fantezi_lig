@@ -672,7 +672,7 @@ async function siralamayiPaylas(dugme, tur, n) {
   }
 }
 
-// Paylaş düğmesi sadece yönetici modunda görünür. Yönetici modu, başlığa 3 saniye içinde 5 kez
+// Paylaş düğmesi sadece yönetici modunda görünür. Yönetici modu, başlığa 5 saniye içinde 5 kez
 // dokunarak o cihazda açılıp kapanır (giriş sistemi yok; amaç düğmeyi herkesin önünden kaldırmak).
 const YONETICI_ANAHTARI = 'tbl-fantezi-yonetici';
 const ISTATISTIK_ADRESI = 'https://potaalti.goatcounter.com';
@@ -696,9 +696,10 @@ const paylasDugmesi = (tur, n = '') => !yoneticiModu ? ''
 
 function yoneticiModunuBagla() {
   let dokunmalar = [];
-  document.getElementById('lig-adi').addEventListener('click', () => {
+  // pointerdown: parmak değdiği an sayılır (telefonlarda click gecikmeli/eksik gelebiliyor)
+  document.querySelector('.ust').addEventListener('pointerdown', () => {
     const simdi = Date.now();
-    dokunmalar = [...dokunmalar.filter(z => simdi - z < 3000), simdi];
+    dokunmalar = [...dokunmalar.filter(z => simdi - z < 5000), simdi];
     if (dokunmalar.length < 5) return;
     dokunmalar = [];
     yoneticiModu = !yoneticiModu;
