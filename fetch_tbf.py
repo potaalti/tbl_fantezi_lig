@@ -86,9 +86,83 @@ def mac_verisi(uc, onek, mac_id, bitti):
     if bitti and cache_yol.exists():
         return json.loads(cache_yol.read_text(encoding="utf-8"))
     veri = api(f"/Match/{uc}?matchId={mac_id}")
-    if bitti:
+    # TBF maçı "bitti" yapıp istatistikleri birkaç dakika geç yayınlayabiliyor: boş veriyi saklama
+    dolu = (veri or {}).get("homeTopFive") or (veri or {}).get("homeTeamScore")
+    if bitti and dolu:
         json_yaz(cache_yol, veri)
     return veri
+
+
+# ---------- FIBA LiveStats: maç sırasındaki canlı veri ----------
+# TBF maç sırasında oyuncu istatistiği yayınlamıyor (maç "oynanmadı" görünür, istatistik boştur).
+# Başlamış bir maçın canlı verisi, TBF'nin de kullandığı FIBA LiveStats'in herkese açık akışından
+# okunur; TBF maçı "bitti" diye işaretleyince kesin veri TBF'den alınır.
+FIBA_URL = "https://fibalivestats.dcd.shared.geniussports.com/data/{}/data.json"
+TR_HARF = str.maketrans({"ç": "c", "ğ": "g", "ı": "i", "ö": "o", "ş": "s", "ü": "u", "â": "a", "î": "i", "û": "u"})
+
+
+def ad_anahtari(ad):
+    """'Ali Işık (K)' ve 'ALI ISIK' aynı anahtara iner."""
+    s = (ad or "").replace("İ", "i").replace("I", "ı").lower().translate(TR_HARF)
+    return " ".join("".join(c if c.isalnum() else " " for c in s.replace("(k)", " ")).split())
+
+
+def fiba_canli(genius_id):
+    try:
+        req = urllib.request.Request(FIBA_URL.format(genius_id), headers={"User-Agent": HEADERS["User-Agent"]})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    except Exception as e:  # noqa: BLE001 - canlı veri yoksa maç "oynanmadı" kalır
+        print(f"  FIBA canlı veri alınamadı ({genius_id}): {e}")
+        return None
+
+
+def fiba_sure(sure):
+    """FIBA bazen '29:60' yazar -> '30:00'"""
+    sn = saniye(sure)
+    return f"{sn // 60}:{sn % 60:02d}"
+
+
+def fiba_istatistik(d, takimlar, rehber):
+    """FIBA verisini TBF mac-istatistik / mac-ozet biçimine çevirir. Oyuncular TBF kimliğiyle
+    ad + takım üzerinden eşleştirilir (iki kaynak da TBF'nin oyuncu kayıtlarını kullanıyor)."""
+    kimlik = {(ad_anahtari(v.get("ad")), v.get("takim")): pid for pid, v in rehber.items()}
+    stat, ozet = {}, {}
+    for tno, taraf, kisa in (("1", "home", "ev"), ("2", "away", "dep")):
+        tm = d["tm"][tno]
+        ilk5, yedek = [], []
+        for p in (tm.get("pl") or {}).values():
+            ad = f"{p.get('firstName', '')} {p.get('familyName', '')}".strip()
+            pid = kimlik.get((ad_anahtari(ad), takimlar[kisa])) or "fiba-" + ad_anahtari(ad).replace(" ", "-")
+            kayit = {
+                "playerId": pid, "playerName": ad, "jerseyNumber": p.get("shirtNumber"),
+                "isStarter": bool(p.get("starter")), "minutesPlayed": fiba_sure(p.get("sMinutes")),
+                "points": p.get("sPoints", 0), "efficiency": p.get("eff_1", 0),
+                "twoPointShots": p.get("sTwoPointersMade", 0), "twoPointShotAttempts": p.get("sTwoPointersAttempted", 0),
+                "threePointShots": p.get("sThreePointersMade", 0), "threePointShotAttempts": p.get("sThreePointersAttempted", 0),
+                "freeThrows": p.get("sFreeThrowsMade", 0), "freeThrowAttempts": p.get("sFreeThrowsAttempted", 0),
+                "offensiveRebounds": p.get("sReboundsOffensive", 0), "defensiveRebounds": p.get("sReboundsDefensive", 0),
+                "totalRebounds": p.get("sReboundsTotal", 0), "assists": p.get("sAssists", 0),
+                "steals": p.get("sSteals", 0), "blocks": p.get("sBlocks", 0), "turnovers": p.get("sTurnovers", 0),
+                "fouls": p.get("sFoulsPersonal", 0), "plusMinus": str(p.get("sPlusMinusPoints", 0)),
+            }
+            (ilk5 if kayit["isStarter"] else yedek).append(kayit)
+        stat[f"{taraf}TopFive"], stat[f"{taraf}BenchPlayers"] = ilk5, yedek
+        ozet[f"{taraf}TeamScore"] = [{"score": tm[k], "quarter": int(k[1:-6])}
+                                     for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
+    skorlar = {"ev": str(d["tm"]["1"].get("score", 0)), "dep": str(d["tm"]["2"].get("score", 0))}
+    return stat, ozet, skorlar
+
+
+def fiba_basladi(d):
+    return any(saniye(p.get("sMinutes")) > 0 for t in d.get("tm", {}).values() for p in (t.get("pl") or {}).values())
+
+
+def mac_saatinde(m):
+    """Maçın başlamış olması beklenen zaman aralığında mıyız (başlama -10 dk ile +4 saat arası)."""
+    baslama = datetime.fromisoformat(m["matchDate"])
+    simdi = datetime.now(TURKIYE).replace(tzinfo=None)
+    return baslama - timedelta(minutes=10) <= simdi <= baslama + MAC_PENCERESI
 
 
 def mac_istatistik(mac_id, bitti):
@@ -183,6 +257,13 @@ def main():
             durum = durum_adi(m["matchStatusId"])
             takimlar = {"ev": m["homeTeam"]["name"], "dep": m["awayTeam"]["name"]}
             skorlar = {"ev": m["homeTeam"]["score"] or None, "dep": m["awayTeam"]["score"] or None}
+            # TBF'de henüz "oynanmadı" görünen ama başlamış maç: canlı veri FIBA'dan
+            canli = None
+            if durum != "bitti" and m.get("genuisId") and mac_saatinde(m):
+                d = fiba_canli(m["genuisId"])
+                if d and fiba_basladi(d):
+                    canli = fiba_istatistik(d, takimlar, rehber)
+                    durum, skorlar = "canli", canli[2]
             mac = {
                 "id": m["matchId"], "hafta": hafta, "tarih": m["matchDate"], "durum": durum,
                 "ev": takimlar["ev"], "dep": takimlar["dep"], "evSkor": skorlar["ev"], "depSkor": skorlar["dep"],
@@ -191,14 +272,18 @@ def main():
             hafta_maclar.append(mac)
             if durum == "oynanmadi":
                 continue
-            stat = mac_istatistik(m["matchId"], durum == "bitti")
-            ozet = mac_ozet(m["matchId"], durum == "bitti")
+            if canli:
+                stat, ozet = canli[0], canli[1]
+            else:
+                stat = mac_istatistik(m["matchId"], durum == "bitti")
+                ozet = mac_ozet(m["matchId"], durum == "bitti")
             json_yaz(SITE_DATA / "mac" / f"{m['matchId']}.json", kutu_skor(mac, stat, ozet))
             for liste, taraf in STAT_LISTELERI:
                 rakip_taraf = "dep" if taraf == "ev" else "ev"
                 for o in stat.get(liste) or []:
                     pid = str(o["playerId"])
-                    rehber.setdefault(pid, {}).update(ad=o["playerName"].strip(), takim=takimlar[taraf])
+                    if not pid.startswith("fiba-"):  # TBF'de eşleşmeyen canlı oyuncu rehbere girmez
+                        rehber.setdefault(pid, {}).update(ad=o["playerName"].strip(), takim=takimlar[taraf])
                     kayit = hafta_oyuncular.setdefault(pid, {
                         "ad": o["playerName"].strip(), "takim": takimlar[taraf], "vp": 0, "saniye": 0, "maclar": []})
                     kayit["vp"] += o["efficiency"] or 0
