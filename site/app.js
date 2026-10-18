@@ -675,11 +675,24 @@ async function siralamayiPaylas(dugme, tur, n) {
 // Paylaş düğmesi sadece yönetici modunda görünür. Yönetici modu, başlığa 3 saniye içinde 5 kez
 // dokunarak o cihazda açılıp kapanır (giriş sistemi yok; amaç düğmeyi herkesin önünden kaldırmak).
 const YONETICI_ANAHTARI = 'tbl-fantezi-yonetici';
+const ISTATISTIK_ADRESI = 'https://potaalti.goatcounter.com';
 let yoneticiModu = false;
 try { yoneticiModu = localStorage.getItem(YONETICI_ANAHTARI) === '1'; } catch { /* depolama yok */ }
 
+// Yöneticinin kendi girişleri ziyaretçi sayacına eklenmesin (GoatCounter "skipgc" ayarına bakar)
+function sayacAyari() {
+  try {
+    if (yoneticiModu) localStorage.setItem('skipgc', 't');
+    else localStorage.removeItem('skipgc');
+  } catch { /* depolama yok */ }
+}
+sayacAyari();
+
 const paylasDugmesi = (tur, n = '') => !yoneticiModu ? ''
-  : `<div class="paylas-satiri"><button class="paylas" data-tur="${tur}" data-hafta="${n}">📤 Paylaş</button></div>`;
+  : `<div class="paylas-satiri">
+      <a class="paylas" href="${ISTATISTIK_ADRESI}" target="_blank" rel="noopener">📊 İstatistikler</a>
+      <button class="paylas" data-tur="${tur}" data-hafta="${n}">📤 Paylaş</button>
+    </div>`;
 
 function yoneticiModunuBagla() {
   let dokunmalar = [];
@@ -690,7 +703,8 @@ function yoneticiModunuBagla() {
     dokunmalar = [];
     yoneticiModu = !yoneticiModu;
     try { localStorage.setItem(YONETICI_ANAHTARI, yoneticiModu ? '1' : '0'); } catch { /* depolama yok */ }
-    bildirim(yoneticiModu ? 'Yönetici modu açık: Paylaş düğmeleri görünür' : 'Yönetici modu kapalı');
+    sayacAyari();
+    bildirim(yoneticiModu ? 'Yönetici modu açık: Paylaş ve İstatistikler görünür, girişlerin sayılmaz' : 'Yönetici modu kapalı');
     ciz();
   });
 }
