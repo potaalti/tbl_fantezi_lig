@@ -1,0 +1,754 @@
+{
+ "id": 345945,
+ "hafta": 5,
+ "tarih": "2026-10-07T16:00:00",
+ "durum": "bitti",
+ "ev": {
+  "ad": "BÜYÜKÇEKMECE BASKETBOL",
+  "skor": "83",
+  "oyuncular": [
+   {
+    "id": "665900",
+    "ad": "Jordan Barnes",
+    "no": "2",
+    "ilk5": true,
+    "sure": "36:55",
+    "sayi": 26,
+    "iki": [
+     1,
+     5
+    ],
+    "uc": [
+     6,
+     11
+    ],
+    "sa": [
+     6,
+     6
+    ],
+    "hr": 0,
+    "sr": 3,
+    "rib": 3,
+    "ast": 9,
+    "tc": 4,
+    "blk": 0,
+    "tk": 5,
+    "faul": 3,
+    "pm": "16",
+    "vp": 28
+   },
+   {
+    "id": "139924",
+    "ad": "Kerem Aydan Özel",
+    "no": "4",
+    "ilk5": true,
+    "sure": "26:02",
+    "sayi": 3,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     1,
+     4
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 2,
+    "sr": 2,
+    "rib": 4,
+    "ast": 2,
+    "tc": 1,
+    "blk": 1,
+    "tk": 1,
+    "faul": 3,
+    "pm": "13",
+    "vp": 6
+   },
+   {
+    "id": "116084",
+    "ad": "Mustafa Baştürk",
+    "no": "12",
+    "ilk5": true,
+    "sure": "30:24",
+    "sayi": 8,
+    "iki": [
+     4,
+     5
+    ],
+    "uc": [
+     0,
+     3
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 1,
+    "sr": 4,
+    "rib": 5,
+    "ast": 4,
+    "tc": 0,
+    "blk": 1,
+    "tk": 2,
+    "faul": 3,
+    "pm": "13",
+    "vp": 12
+   },
+   {
+    "id": "616402",
+    "ad": "Julien Ducree",
+    "no": "54",
+    "ilk5": true,
+    "sure": "16:05",
+    "sayi": 10,
+    "iki": [
+     3,
+     4
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     4,
+     4
+    ],
+    "hr": 1,
+    "sr": 2,
+    "rib": 3,
+    "ast": 0,
+    "tc": 1,
+    "blk": 2,
+    "tk": 2,
+    "faul": 5,
+    "pm": "-5",
+    "vp": 13
+   },
+   {
+    "id": "319886",
+    "ad": "Cenker Evran",
+    "no": "99",
+    "ilk5": true,
+    "sure": "21:46",
+    "sayi": 0,
+    "iki": [
+     0,
+     2
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 3,
+    "sr": 3,
+    "rib": 6,
+    "ast": 0,
+    "tc": 1,
+    "blk": 0,
+    "tk": 2,
+    "faul": 2,
+    "pm": "8",
+    "vp": 3
+   },
+   {
+    "id": "229642",
+    "ad": "Gökhan Akkoyun",
+    "no": "6",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "111242",
+    "ad": "Oğulcan Baykan",
+    "no": "9",
+    "ilk5": false,
+    "sure": "33:58",
+    "sayi": 24,
+    "iki": [
+     2,
+     7
+    ],
+    "uc": [
+     5,
+     7
+    ],
+    "sa": [
+     5,
+     6
+    ],
+    "hr": 1,
+    "sr": 1,
+    "rib": 2,
+    "ast": 0,
+    "tc": 1,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "12",
+    "vp": 19
+   },
+   {
+    "id": "274052",
+    "ad": "Kutluhan Celayir",
+    "no": "10",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "509422",
+    "ad": "Erdinç Alex Koyun",
+    "no": "16",
+    "ilk5": false,
+    "sure": "19:41",
+    "sayi": 10,
+    "iki": [
+     4,
+     5
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 1,
+    "sr": 5,
+    "rib": 6,
+    "ast": 0,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 5,
+    "pm": "9",
+    "vp": 14
+   },
+   {
+    "id": "332044",
+    "ad": "Enes Tunç",
+    "no": "24",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "134523",
+    "ad": "Kemal Can Aktuna",
+    "no": "35",
+    "ilk5": false,
+    "sure": "15:09",
+    "sayi": 2,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     0,
+     4
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 2,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "-6",
+    "vp": 0
+   },
+   {
+    "id": "385476",
+    "ad": "Ali Hamza Altın",
+    "no": "77",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   }
+  ],
+  "ceyrekler": [
+   17,
+   21,
+   25,
+   20
+  ]
+ },
+ "dep": {
+  "ad": "iLab BASKETBOL",
+  "skor": "71",
+  "oyuncular": [
+   {
+    "id": "223836",
+    "ad": "Eray Akyüz",
+    "no": "1",
+    "ilk5": true,
+    "sure": "24:01",
+    "sayi": 8,
+    "iki": [
+     4,
+     6
+    ],
+    "uc": [
+     0,
+     2
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 3,
+    "rib": 3,
+    "ast": 2,
+    "tc": 0,
+    "blk": 0,
+    "tk": 3,
+    "faul": 3,
+    "pm": "-10",
+    "vp": 6
+   },
+   {
+    "id": "285246",
+    "ad": "Batuhan Acar",
+    "no": "7",
+    "ilk5": true,
+    "sure": "22:37",
+    "sayi": 7,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     1,
+     4
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 2,
+    "sr": 1,
+    "rib": 3,
+    "ast": 0,
+    "tc": 1,
+    "blk": 1,
+    "tk": 3,
+    "faul": 3,
+    "pm": "-10",
+    "vp": 6
+   },
+   {
+    "id": "257839",
+    "ad": "Cihat Dalgalı",
+    "no": "16",
+    "ilk5": true,
+    "sure": "35:08",
+    "sayi": 4,
+    "iki": [
+     1,
+     4
+    ],
+    "uc": [
+     0,
+     2
+    ],
+    "sa": [
+     2,
+     5
+    ],
+    "hr": 1,
+    "sr": 6,
+    "rib": 7,
+    "ast": 1,
+    "tc": 2,
+    "blk": 0,
+    "tk": 4,
+    "faul": 3,
+    "pm": "-10",
+    "vp": 2
+   },
+   {
+    "id": "776565",
+    "ad": "Jeremiah Lamonure Tilmon Jr",
+    "no": "23",
+    "ilk5": true,
+    "sure": "32:21",
+    "sayi": 25,
+    "iki": [
+     9,
+     11
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     7,
+     9
+    ],
+    "hr": 2,
+    "sr": 4,
+    "rib": 6,
+    "ast": 1,
+    "tc": 0,
+    "blk": 0,
+    "tk": 5,
+    "faul": 3,
+    "pm": "-10",
+    "vp": 23
+   },
+   {
+    "id": "386617",
+    "ad": "Stefan Tyler Moody",
+    "no": "42",
+    "ilk5": true,
+    "sure": "14:51",
+    "sayi": 3,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     0,
+     3
+    ],
+    "sa": [
+     3,
+     3
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 1,
+    "tc": 0,
+    "blk": 2,
+    "tk": 0,
+    "faul": 1,
+    "pm": "-8",
+    "vp": 2
+   },
+   {
+    "id": "287585",
+    "ad": "Meriç Kuntker",
+    "no": "0",
+    "ilk5": false,
+    "sure": "22:31",
+    "sayi": 15,
+    "iki": [
+     1,
+     2
+    ],
+    "uc": [
+     3,
+     5
+    ],
+    "sa": [
+     4,
+     4
+    ],
+    "hr": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 3,
+    "tc": 1,
+    "blk": 0,
+    "tk": 2,
+    "faul": 1,
+    "pm": "-2",
+    "vp": 16
+   },
+   {
+    "id": "419692",
+    "ad": "Yücel Çağın Başaran",
+    "no": "5",
+    "ilk5": false,
+    "sure": "20:49",
+    "sayi": 6,
+    "iki": [
+     3,
+     4
+    ],
+    "uc": [
+     0,
+     2
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 3,
+    "tc": 2,
+    "blk": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "-3",
+    "vp": 7
+   },
+   {
+    "id": "231062",
+    "ad": "Can Kaan Turgut",
+    "no": "13",
+    "ilk5": false,
+    "sure": "14:29",
+    "sayi": 0,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 4,
+    "rib": 4,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-3",
+    "vp": 3
+   },
+   {
+    "id": "433761",
+    "ad": "Ünal Çardak",
+    "no": "17",
+    "ilk5": false,
+    "sure": "1:24",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 0,
+    "pm": "-2",
+    "vp": -1
+   },
+   {
+    "id": "446970",
+    "ad": "Alperen Duruksu",
+    "no": "18",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "288806",
+    "ad": "Koralp Türk",
+    "no": "21",
+    "ilk5": false,
+    "sure": "5:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 1,
+    "sr": 2,
+    "rib": 3,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 3,
+    "pm": "0",
+    "vp": 1
+   },
+   {
+    "id": "393623",
+    "ad": "Aybars Varlı",
+    "no": "22",
+    "ilk5": false,
+    "sure": "6:49",
+    "sayi": 3,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     1,
+     2
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 1,
+    "pm": "-2",
+    "vp": 1
+   }
+  ],
+  "ceyrekler": [
+   22,
+   13,
+   19,
+   17
+  ]
+ },
+ "evSkor": "83",
+ "depSkor": "71",
+ "salon": "Gazanfer Bilge Spor Salonu",
+ "yayin": "Youtube / TBF TV"
+}

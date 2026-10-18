@@ -8,9 +8,10 @@ const icerik = document.getElementById('icerik');
 // ---------- yardımcılar ----------
 const kacis = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
-// "KİPAŞ K.B.B." -> "Kipaş K.B.B."; 3 harf ve altı kısaltmalar (MKE, OGM, TED) büyük kalır
+// "KİPAŞ K.B.B." -> "Kipaş K.B.B."; 3 harf ve altı kısaltmalar (MKE, OGM, TED) ve
+// zaten küçük harf içeren kelimeler (iLab) olduğu gibi kalır
 const baslik = s => String(s ?? '').split(' ').map(k =>
-  k.replace(/\./g, '').length <= 3 && k === k.toLocaleUpperCase('tr') ? k
+  k !== k.toLocaleUpperCase('tr') || k.replace(/\./g, '').length <= 3 ? k
     : k.toLocaleLowerCase('tr').replace(/(^|[.\-])(\p{L})/gu, (_, a, b) => a + b.toLocaleUpperCase('tr'))
 ).join(' ');
 
@@ -294,14 +295,138 @@ async function oyuncuGecmisiDoldur(id) {
         ? `${m.sure} dk · ${m.sayi} sy · ${m.rib} rb · ${m.ast} as`
         : 'Süre almadı';
       const canli = m.durum === 'canli' ? '<span class="etiket canli-e">canlı</span>' : '';
-      satirlar.push(`<div class="satir oyuncu ${oynadi ? '' : 'sayilmadi'}">
+      const [ac, kapa] = m.mac ? [`<a href="#/mac/${m.mac}"`, '</a>'] : ['<div', '</div>'];
+      satirlar.push(`${ac} class="satir oyuncu ${oynadi ? '' : 'sayilmadi'}">
         <div class="ad"><strong>${h}. Hafta <span class="rakip">${m.evde ? 'vs' : '@'} ${kacis(baslik(m.rakip))}</span>${canli}</strong>
           <small>${m.durum === 'canli' ? '' : skor}${detay}</small></div>
         <div class="sayi"><strong>${m.vp}</strong><small>VP</small></div>
-      </div>`);
+      ${kapa}`);
     }
   }
   liste.innerHTML = satirlar.join('');
+}
+
+// ---------- maçlar ----------
+const gunBasligi = iso => new Date(iso).toLocaleDateString('tr-TR', { weekday: 'long', day: 'numeric', month: 'long' });
+// TBF saati henüz belli olmayan maçları 00:00 olarak verir
+const saatYazisi = iso => iso.endsWith('T00:00:00') ? 'Saat belli değil'
+  : new Date(iso).toLocaleTimeString('tr-TR', { hour: '2-digit', minute: '2-digit' });
+const kazananSinifi = (m, taraf) => {
+  if (m.durum !== 'bitti') return '';
+  const ev = Number(m.evSkor), dep = Number(m.depSkor);
+  return (taraf === 'ev' ? ev > dep : dep > ev) ? 'kazanan' : '';
+};
+
+function macSatiri(m) {
+  const orta = m.durum === 'oynanmadi'
+    ? `<strong>${saatYazisi(m.tarih)}</strong>${m.yayin ? `<small>${kacis(m.yayin)}</small>` : ''}`
+    : `<strong>${m.evSkor ?? 0} - ${m.depSkor ?? 0}</strong><small>${m.durum === 'canli' ? '<span class="canli-yazi">Canlı</span>' : 'MS'}</small>`;
+  return `<a class="mac" href="#/mac/${m.id}">
+    <span class="${kazananSinifi(m, 'ev')}">${kacis(baslik(m.ev))}</span>
+    <span class="skor">${orta}</span>
+    <span class="dep ${kazananSinifi(m, 'dep')}">${kacis(baslik(m.dep))}</span>
+  </a>`;
+}
+
+function maclarEkrani(n) {
+  const hafta = veri.haftalar.get(n);
+  const gunler = new Map();
+  for (const m of hafta.maclar) {
+    const gun = m.tarih.slice(0, 10);
+    gunler.set(gun, [...(gunler.get(gun) ?? []), m]);
+  }
+  const bloklar = [...gunler.values()].map(maclar =>
+    `<section class="kart"><h2>${gunBasligi(maclar[0].tarih)}</h2>${maclar.map(macSatiri).join('')}</section>`).join('');
+  const oynayan = new Set(hafta.maclar.flatMap(m => [m.ev, m.dep]));
+  const tumTakimlar = new Set(Object.values(veri.rehber).filter(o => o.aktif).map(o => o.takim));
+  const bay = [...tumTakimlar].filter(t => !oynayan.has(t));
+  const bayNotu = bay.length ? `<p class="guncelleme">Bay: ${bay.map(t => kacis(baslik(t))).join(', ')}</p>` : '';
+  return `${haftaSecici(n, 'maclar')}${bloklar}${bayNotu}`;
+}
+
+function macBul(id) {
+  for (const h of veri.haftalar.values()) {
+    const m = h.maclar.find(x => String(x.id) === String(id));
+    if (m) return m;
+  }
+  return null;
+}
+
+function macEkrani() {
+  return `${geriLinki('#/maclar')}<div id="mac-detay"><p class="bos">Yükleniyor…</p></div>`;
+}
+
+const atis = ([b, d]) => `${b}/${d}`;
+const KUTU_SUTUNLARI = [
+  ['Dk', o => o.sure], ['Sy', o => o.sayi], ['2S', o => atis(o.iki)], ['3S', o => atis(o.uc)], ['SA', o => atis(o.sa)],
+  ['Rb', o => o.rib], ['As', o => o.ast], ['Tç', o => o.tc], ['Bl', o => o.blk], ['Tk', o => o.tk], ['F', o => o.faul], ['VP', o => o.vp],
+];
+
+function kutuSkorTablosu(takim) {
+  const benim = sonKadro().find(t => t.ad === seciliTakim);
+  const benimkiler = new Set([...(benim?.as ?? []), ...(benim?.yedek ?? [])].map(o => o.id));
+  const satirlar = takim.oyuncular.map(o => {
+    const oynadi = sureSn(o.sure) > 0;
+    return `<tr class="${oynadi ? '' : 'oynamadi'} ${benimkiler.has(o.id) ? 'benim-oyuncu' : ''}">
+      <th><a href="#/oyuncu/${o.id}">${o.ilk5 ? '<b>' : ''}${kacis(o.ad)}${o.ilk5 ? '</b>' : ''}</a></th>
+      ${KUTU_SUTUNLARI.map(([, f]) => `<td>${kacis(f(o))}</td>`).join('')}
+    </tr>`;
+  }).join('');
+  const topla = alan => takim.oyuncular.reduce((t, o) => t + (Number(o[alan]) || 0), 0);
+  const toplaAtis = alan => atis([0, 1].map(i => takim.oyuncular.reduce((t, o) => t + o[alan][i], 0)));
+  const toplam = `<tr class="toplam"><th>Toplam</th><td></td><td>${topla('sayi')}</td><td>${toplaAtis('iki')}</td>
+    <td>${toplaAtis('uc')}</td><td>${toplaAtis('sa')}</td><td>${topla('rib')}</td><td>${topla('ast')}</td>
+    <td>${topla('tc')}</td><td>${topla('blk')}</td><td>${topla('tk')}</td><td>${topla('faul')}</td><td>${topla('vp')}</td></tr>`;
+  return `<section class="kart"><h2>${kacis(baslik(takim.ad))}</h2>
+    <div class="tablo-kaydir"><table class="kutu">
+      <thead><tr><th>Oyuncu</th>${KUTU_SUTUNLARI.map(([b]) => `<td>${b}</td>`).join('')}</tr></thead>
+      <tbody>${satirlar}${toplam}</tbody>
+    </table></div></section>`;
+}
+
+function macBasligi(m) {
+  const durum = m.durum === 'canli' ? '<span class="canli-yazi">Canlı</span>' : m.durum === 'bitti' ? 'Maç sonu' : saatYazisi(m.tarih);
+  const skor = m.durum === 'oynanmadi' ? '–' : `${m.evSkor ?? 0} - ${m.depSkor ?? 0}`;
+  const bilgi = [gunBasligi(m.tarih), m.salon, m.yayin].filter(Boolean).map(kacis).join(' · ');
+  return `<section class="kart mac-baslik">
+    <div class="mac-takimlar">
+      <strong class="${kazananSinifi(m, 'ev')}">${kacis(baslik(m.ev))}</strong>
+      <div class="mac-skor"><strong>${skor}</strong><small>${durum}</small></div>
+      <strong class="${kazananSinifi(m, 'dep')}">${kacis(baslik(m.dep))}</strong>
+    </div>
+    <p class="mac-bilgi">${m.hafta ? `${m.hafta}. Hafta · ` : ''}${bilgi}</p>
+  </section>`;
+}
+
+function ceyrekTablosu(d) {
+  const n = Math.max(d.ev.ceyrekler.length, d.dep.ceyrekler.length);
+  if (!n) return '';
+  const baslikHucre = i => i < 4 ? `Ç${i + 1}` : `U${i - 3}`;
+  const satir = t => `<tr><th>${kacis(baslik(t.ad))}</th>${Array.from({ length: n }, (_, i) => `<td>${t.ceyrekler[i] ?? '–'}</td>`).join('')}<td><b>${t.skor ?? 0}</b></td></tr>`;
+  return `<section class="kart"><div class="tablo-kaydir"><table class="kutu ceyrek">
+    <thead><tr><th></th>${Array.from({ length: n }, (_, i) => `<td>${baslikHucre(i)}</td>`).join('')}<td>T</td></tr></thead>
+    <tbody>${satir(d.ev)}${satir(d.dep)}</tbody></table></div></section>`;
+}
+
+async function macDetayDoldur(id) {
+  let d = null;
+  try {
+    d = await json(`data/mac/${id}.json`);
+  } catch {
+    // Maç henüz oynanmadıysa box score dosyası yoktur
+  }
+  const kutu = document.getElementById('mac-detay');
+  if (!kutu) return; // bu arada başka sayfaya geçildi
+  // Box score dosyasında ev/dep takım nesnesidir; başlık için takım adları gerekir
+  const mac = d ? { ...d, ev: d.ev.ad, dep: d.dep.ad } : macBul(id);
+  if (!mac) {
+    kutu.innerHTML = '<p class="bos">Maç bulunamadı.</p>';
+    return;
+  }
+  kutu.innerHTML = macBasligi(mac) + (d
+    ? ceyrekTablosu(d) + kutuSkorTablosu(d.ev) + kutuSkorTablosu(d.dep)
+      + '<p class="guncelleme">Kalın: ilk 5 · 2S/3S/SA: isabet/deneme</p>'
+    : `<p class="bos">${mac.durum === 'oynanmadi' ? 'Maç henüz oynanmadı.' : 'İstatistikler henüz gelmedi.'}</p>`);
 }
 
 // ---------- yönlendirme ----------
@@ -322,6 +447,8 @@ function ciz() {
   else if (sekme === 'takim') html = takimEkrani(decodeURIComponent(a ?? ''), gecerli(Number(b)), false);
   else if (sekme === 'bostakiler') html = bostakilerEkrani(a);
   else if (sekme === 'oyuncu') html = oyuncuEkrani(a);
+  else if (sekme === 'maclar') html = maclarEkrani(gecerli(Number(a)));
+  else if (sekme === 'mac') { html = macEkrani(); aktif = 'maclar'; }
   else { html = takimEkrani(seciliTakim, gecerli(Number(a)), true); aktif = 'takimim'; }
   // Otomatik yenileme arama kutusuna yazarken odağı kaçırmasın
   const aramaOdakta = document.activeElement?.id === 'arama';
@@ -331,6 +458,7 @@ function ciz() {
     if (aramaOdakta) document.getElementById('arama').focus();
   }
   if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a);
+  if (sekme === 'mac') macDetayDoldur(a);
 
   document.querySelectorAll('.alt-menu a').forEach(el => el.classList.toggle('aktif', el.dataset.sekme === aktif));
   document.getElementById('canli').hidden = !haftaDurumu(veri.haftalar.get(sonHafta())).canli;

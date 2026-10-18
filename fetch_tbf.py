@@ -5,6 +5,7 @@
   site/data/hafta/index.json -> mevcut haftalar ve güncel hafta
   site/data/oyuncular.json   -> oyuncu rehberi (id, ad, TBL takımı, sezon ortalamaları)
   site/data/oyuncu/<id>.json -> oyuncunun sezon boyunca maç maç istatistikleri
+  site/data/mac/<id>.json    -> maçın box score'u (iki takımın oyuncu istatistikleri, çeyrek skorları)
 
 Biten maçların istatistikleri cache/ klasöründe saklanır, tekrar indirilmez.
 Kullanım:  python fetch_tbf.py              -> her şeyi günceller
@@ -77,15 +78,48 @@ def durum_adi(status_id):
     return "canli"
 
 
-def mac_istatistik(mac_id, bitti):
+def mac_verisi(uc, onek, mac_id, bitti):
     """Biten maçlar önbellekten okunur; canlı maçlar her seferinde yeniden çekilir."""
-    cache_yol = CACHE / f"mac-{mac_id}.json"
+    cache_yol = CACHE / f"{onek}-{mac_id}.json"
     if bitti and cache_yol.exists():
         return json.loads(cache_yol.read_text(encoding="utf-8"))
-    veri = api(f"/Match/mac-istatistik?matchId={mac_id}")
+    veri = api(f"/Match/{uc}?matchId={mac_id}")
     if bitti:
         json_yaz(cache_yol, veri)
     return veri
+
+
+def mac_istatistik(mac_id, bitti):
+    return mac_verisi("mac-istatistik", "mac", mac_id, bitti)
+
+
+def mac_ozet(mac_id, bitti):
+    """Çeyrek skorları için."""
+    return mac_verisi("mac-ozet", "ozet", mac_id, bitti)
+
+
+def kutu_skor(mac, stat, ozet):
+    """Maç sayfası için box score: iki takımın oyuncu istatistikleri ve çeyrek skorları."""
+    takimlar = {}
+    for taraf, ilk5, bench, ceyrek in (("ev", "homeTopFive", "homeBenchPlayers", "homeTeamScore"),
+                                       ("dep", "awayTopFive", "awayBenchPlayers", "awayTeamScore")):
+        oyuncular = []
+        for o in (stat.get(ilk5) or []) + (stat.get(bench) or []):
+            oyuncular.append({
+                "id": str(o["playerId"]), "ad": o["playerName"].strip(), "no": o.get("jerseyNumber"),
+                "ilk5": bool(o.get("isStarter")), "sure": o["minutesPlayed"], "sayi": o["points"],
+                "iki": [o["twoPointShots"], o["twoPointShotAttempts"]],
+                "uc": [o["threePointShots"], o["threePointShotAttempts"]],
+                "sa": [o["freeThrows"], o["freeThrowAttempts"]],
+                "hr": o["offensiveRebounds"], "sr": o["defensiveRebounds"], "rib": o["totalRebounds"],
+                "ast": o["assists"], "tc": o["steals"], "blk": o["blocks"], "tk": o["turnovers"],
+                "faul": o["fouls"], "pm": o.get("plusMinus"), "vp": o["efficiency"],
+            })
+        takimlar[taraf] = {
+            "ad": mac[taraf], "skor": mac[f"{taraf}Skor"], "oyuncular": oyuncular,
+            "ceyrekler": [c["score"] for c in sorted((ozet or {}).get(ceyrek) or [], key=lambda c: c["quarter"])],
+        }
+    return {**mac, **takimlar}
 
 
 def hafta_mac_listesi(hafta, guncel):
@@ -147,13 +181,17 @@ def main():
             durum = durum_adi(m["matchStatusId"])
             takimlar = {"ev": m["homeTeam"]["name"], "dep": m["awayTeam"]["name"]}
             skorlar = {"ev": m["homeTeam"]["score"] or None, "dep": m["awayTeam"]["score"] or None}
-            hafta_maclar.append({
-                "id": m["matchId"], "tarih": m["matchDate"], "durum": durum,
+            mac = {
+                "id": m["matchId"], "hafta": hafta, "tarih": m["matchDate"], "durum": durum,
                 "ev": takimlar["ev"], "dep": takimlar["dep"], "evSkor": skorlar["ev"], "depSkor": skorlar["dep"],
-            })
+                "salon": m.get("salonAdi"), "yayin": m.get("broadcastChannel"),
+            }
+            hafta_maclar.append(mac)
             if durum == "oynanmadi":
                 continue
             stat = mac_istatistik(m["matchId"], durum == "bitti")
+            ozet = mac_ozet(m["matchId"], durum == "bitti")
+            json_yaz(SITE_DATA / "mac" / f"{m['matchId']}.json", kutu_skor(mac, stat, ozet))
             for liste, taraf in STAT_LISTELERI:
                 rakip_taraf = "dep" if taraf == "ev" else "ev"
                 for o in stat.get(liste) or []:
@@ -165,7 +203,7 @@ def main():
                     kayit["saniye"] += saniye(o["minutesPlayed"])
                     kayit["maclar"].append(m["matchId"])
                     gecmis.setdefault(pid, []).append({
-                        "hafta": hafta, "tarih": m["matchDate"], "durum": durum,
+                        "hafta": hafta, "mac": m["matchId"], "tarih": m["matchDate"], "durum": durum,
                         "takim": takimlar[taraf], "rakip": takimlar[rakip_taraf], "evde": taraf == "ev",
                         "skor": skorlar[taraf], "rakipSkor": skorlar[rakip_taraf],
                         "sure": o["minutesPlayed"], "sayi": o["points"], "rib": o["totalRebounds"],

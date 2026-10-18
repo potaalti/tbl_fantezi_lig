@@ -149,6 +149,30 @@ a.satir:active { background: var(--vurgu-acik); }
 .mac .skor small { display: block; font-weight: 400; color: var(--soluk); font-size: .7rem; }
 .mac .kazanan { font-weight: 700; }
 
+a.mac:active { background: var(--vurgu-acik); }
+.canli-yazi { color: var(--vurgu); font-weight: 700; }
+
+.mac-baslik { padding: 16px 14px 12px; }
+.mac-takimlar { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 10px; text-align: center; }
+.mac-takimlar > strong { font-size: .9rem; font-weight: 500; }
+.mac-takimlar > strong.kazanan { font-weight: 800; }
+.mac-skor strong { display: block; font-size: 1.7rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.mac-skor small { color: var(--soluk); font-size: .75rem; }
+.mac-bilgi { margin: 10px 0 0; text-align: center; color: var(--soluk); font-size: .76rem; }
+
+.tablo-kaydir { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.kutu { border-collapse: collapse; width: 100%; font-size: .8rem; font-variant-numeric: tabular-nums; }
+.kutu th, .kutu td { padding: 8px 6px; border-top: 1px solid var(--cizgi); text-align: center; white-space: nowrap; }
+.kutu thead td, .kutu thead th { color: var(--soluk); font-size: .7rem; font-weight: 600; border-top: 0; }
+.kutu th { text-align: left; font-weight: 400; position: sticky; left: 0; background: var(--kart); z-index: 1;
+  max-width: 130px; overflow: hidden; text-overflow: ellipsis; padding-left: 14px; }
+.kutu th a { color: inherit; }
+.kutu td:last-child { font-weight: 700; padding-right: 14px; }
+.kutu tr.oynamadi td, .kutu tr.oynamadi th { color: var(--soluk); }
+.kutu tr.toplam th, .kutu tr.toplam td { font-weight: 700; background: var(--zemin); }
+.kutu tr.benim-oyuncu th { box-shadow: inset 3px 0 0 var(--vurgu); background: var(--vurgu-acik); }
+.kutu.ceyrek th { max-width: 170px; }
+
 .geri { display: inline-flex; align-items: center; gap: 6px; color: var(--vurgu); font-weight: 600; margin-bottom: 10px; font-size: .9rem; }
 .bos { color: var(--soluk); text-align: center; padding: 30px 0; }
 .guncelleme { text-align: center; color: var(--soluk); font-size: .72rem; margin: 0 0 12px; }
