@@ -5,14 +5,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FİNALSPOR",
-  "skor": "28",
+  "skor": "30",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "8:14",
+    "sure": "11:42",
     "sayi": 7,
     "iki": [
      1,
@@ -20,7 +20,7 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      2,
@@ -30,11 +30,11 @@
     "sr": 1,
     "rib": 1,
     "ast": 2,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "10",
+    "pm": "8",
     "vp": 9
    },
    {
@@ -42,30 +42,30 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "12:32",
-    "sayi": 6,
+    "sure": "16:12",
+    "sayi": 8,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      1,
-     3
+     4
     ],
     "sa": [
      1,
      1
     ],
     "hr": 0,
-    "sr": 5,
-    "rib": 5,
+    "sr": 7,
+    "rib": 7,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "10",
-    "vp": 9
+    "faul": 1,
+    "pm": "8",
+    "vp": 12
    },
    {
     "id": "117624",
@@ -102,7 +102,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": true,
-    "sure": "8:14",
+    "sure": "11:42",
     "sayi": 3,
     "iki": [
      0,
@@ -110,7 +110,7 @@
     ],
     "uc": [
      1,
-     3
+     4
     ],
     "sa": [
      0,
@@ -122,21 +122,21 @@
     "ast": 2,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
-    "pm": "9",
-    "vp": 5
+    "pm": "7",
+    "vp": 3
    },
    {
     "id": "275328",
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": true,
-    "sure": "12:55",
+    "sure": "14:51",
     "sayi": 6,
     "iki": [
      2,
-     6
+     7
     ],
     "uc": [
      0,
@@ -154,19 +154,19 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "12",
-    "vp": 4
+    "pm": "10",
+    "vp": 3
    },
    {
     "id": "222762",
     "ad": "Can Özcan",
     "no": "00",
     "ilk5": false,
-    "sure": "6:19",
+    "sure": "9:59",
     "sayi": 3,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      1,
@@ -184,8 +184,8 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
-    "vp": 4
+    "pm": "0",
+    "vp": 3
    },
    {
     "id": "345440",
@@ -282,7 +282,7 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "7:44",
+    "sure": "7:56",
     "sayi": 0,
     "iki": [
      0,
@@ -312,7 +312,7 @@
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "6:01",
+    "sure": "6:13",
     "sayi": 3,
     "iki": [
      0,
@@ -342,7 +342,7 @@
     "ad": "Ali Taşkın",
     "no": "77",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "1:44",
     "sayi": 0,
     "iki": [
      0,
@@ -360,29 +360,29 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 1
    }
   ],
   "ceyrekler": [
    20,
-   8
+   10
   ]
  },
  "dep": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-  "skor": "18",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "392789",
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "6:25",
+    "sure": "10:05",
     "sayi": 0,
     "iki": [
      0,
@@ -390,21 +390,21 @@
     ],
     "uc": [
      0,
-     2
+     3
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-17",
+    "pm": "-15",
     "vp": -1
    },
    {
@@ -412,11 +412,11 @@
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "9:11",
-    "sayi": 0,
+    "sure": "12:51",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -430,12 +430,12 @@
     "sr": 2,
     "rib": 2,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
-    "pm": "-16",
-    "vp": 1
+    "pm": "-14",
+    "vp": 3
    },
    {
     "id": "153011",
@@ -472,7 +472,7 @@
     "ad": "Berat Berke Tunç",
     "no": "44",
     "ilk5": true,
-    "sure": "5:24",
+    "sure": "7:36",
     "sayi": 0,
     "iki": [
      0,
@@ -494,7 +494,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-15",
+    "pm": "-13",
     "vp": 1
    },
    {
@@ -502,7 +502,7 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "12:39",
+    "sure": "16:07",
     "sayi": 5,
     "iki": [
      0,
@@ -517,15 +517,15 @@
      2
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 6,
+    "rib": 6,
     "ast": 0,
     "tc": 1,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 0,
-    "pm": "-6",
-    "vp": 1
+    "pm": "-4",
+    "vp": 2
    },
    {
     "id": "317200",
@@ -562,7 +562,7 @@
     "ad": "Taylan George Warren",
     "no": "13",
     "ilk5": false,
-    "sure": "4:57",
+    "sure": "5:09",
     "sayi": 0,
     "iki": [
      0,
@@ -622,7 +622,7 @@
     "ad": "Önder Atun",
     "no": "17",
     "ilk5": false,
-    "sure": "11:31",
+    "sure": "11:43",
     "sayi": 3,
     "iki": [
      1,
@@ -682,37 +682,37 @@
     "ad": "Onur Aslaner",
     "no": "77",
     "ilk5": false,
-    "sure": "0:00",
-    "sayi": 0,
+    "sure": "3:28",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "2",
+    "vp": 2
    },
    {
     "id": "335737",
     "ad": "Emirali Göktürk",
     "no": "99",
     "ilk5": false,
-    "sure": "5:30",
+    "sure": "6:58",
     "sayi": 4,
     "iki": [
      2,
@@ -740,11 +740,11 @@
   ],
   "ceyrekler": [
    16,
-   2
+   6
   ]
  },
- "evSkor": "28",
- "depSkor": "18",
+ "evSkor": "30",
+ "depSkor": "22",
  "salon": "Tofaş Spor Salonu",
  "yayin": "HT SPOR"
 }
