@@ -1,10 +1,8 @@
-# Her 10 dakikada bir TBF'den VP verilerini çeker (maç saatleri dışında kendini atlar),
-# kadrolar.csv değiştiyse kadroları işler ve siteyi GitHub Pages'te yayınlar.
-name: Verileri güncelle ve yayınla
+# Veriler telefondan gelir (telefon/guncelle.sh), çünkü TBF sitesi GitHub sunucularını engelliyor.
+# Bu iş her gönderimde kadrolar.csv'yi işler ve siteyi GitHub Pages'te yayınlar.
+name: Kadroları işle ve yayınla
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   push:
     branches: [main]
   workflow_dispatch:
@@ -14,12 +12,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  guncelle:
+  kadrolar:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    outputs:
-      degisti: ${{ steps.kaydet.outputs.degisti }}
     steps:
       - uses: actions/checkout@v4
 
@@ -27,33 +23,24 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: TBF verilerini çek
-        # Zamanlanmış çalışmalar sadece maç saatlerinde veri çeker
-        run: python fetch_tbf.py ${{ github.event_name == 'schedule' && '--akilli' || '' }}
-
       - name: Kadroları işle
-        # Hatalı bir kadro satırı veri güncellemeyi durdurmasın; hata bu adımda görünür
+        # Hatalı bir kadro satırı yayını durdurmasın; hata bu adımda görünür
         continue-on-error: true
         run: python kadro_hazirla.py
 
       - name: Değişiklikleri kaydet
-        id: kaydet
         run: |
           git config user.name "tbl-fantezi-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "degisti=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "Veriler güncellendi"
+          git add -A site
+          if ! git diff --cached --quiet; then
+            git commit -m "Kadrolar güncellendi"
             git pull --rebase
             git push
-            echo "degisti=true" >> "$GITHUB_OUTPUT"
           fi
 
   yayinla:
-    needs: guncelle
-    if: needs.guncelle.outputs.degisti == 'true' || github.event_name != 'schedule'
+    needs: kadrolar
     runs-on: ubuntu-latest
     permissions:
       pages: write
