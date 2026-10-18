@@ -235,6 +235,7 @@ def main():
                 ad = rehber.get(pid, {}).get("ad") or f"{o['firstName']} {o['lastName']}".strip()
                 rehber[pid] = {
                     "ad": ad, "takim": t["teamName"], "aktif": True,
+                    "ulke": o.get("country") or "",  # haftalık eşitlikte Türk oyuncuların VP'si için
                     "mac": o.get("macSayisi") or 0,
                     "vpOrt": round(o.get("verimlilikPuani") or 0, 1),
                     "sayiOrt": round(o.get("sayi") or 0, 1),

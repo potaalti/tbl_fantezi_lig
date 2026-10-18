@@ -134,6 +134,8 @@ a.satir:active { background: var(--vurgu-acik); }
   background: var(--kart); border: 1px solid var(--cizgi); color: var(--soluk);
 }
 .secenek.aktif { background: var(--vurgu); border-color: var(--vurgu); color: #fff; }
+.hafta-cipleri { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 2px; }
+.hafta-cipleri .secenek { flex: 0 0 auto; white-space: nowrap; }
 
 .oyuncu.sayilmadi .ad strong, .oyuncu.sayilmadi .sayi strong { color: var(--soluk); }
 .oyuncu.sayilmadi .sayi strong { text-decoration: line-through; }
