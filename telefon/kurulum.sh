@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # TBL Fantezi telefon kurulumu (Termux). Bir kez çalıştırılır:
-#   curl -sLO https://raw.githubusercontent.com/Joganita/TBL-FANTEZ-/main/telefon/kurulum.sh && bash kurulum.sh
+#   pkg upgrade -y && pkg install -y curl && curl -sLO https://raw.githubusercontent.com/Joganita/TBL-FANTEZ-/main/telefon/kurulum.sh && bash kurulum.sh
 # Gerekli paketleri kurar, GitHub'a giriş yaptırır, depoyu indirir ve 15 dakikalık görevi kurar.
 set -e
 DEPO_URL="https://github.com/Joganita/TBL-FANTEZ-.git"
@@ -9,7 +9,8 @@ DEPO="$HOME/tbl-fantezi"
 echo
 echo "[1/5] Paketler kuruluyor (birkaç dakika sürebilir)..."
 echo "      Bir soru çıkarsa Enter'a basmanız yeterli."
-pkg update -y
+# Yarım güncelleme kütüphane uyuşmazlığı yapar (ör. curl/openssl); önce hepsini güncelle
+pkg upgrade -y
 pkg install -y python git gh termux-api
 
 echo
