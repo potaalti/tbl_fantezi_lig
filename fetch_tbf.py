@@ -211,6 +211,8 @@ def main():
                         "vp": o["efficiency"],
                     })
 
+        if hafta == guncel:
+            guncel_maclar = hafta_maclar
         if hafta >= baslangic:
             json_yaz(SITE_DATA / "hafta" / f"{hafta}.json",
                      {"hafta": hafta, "maclar": hafta_maclar, "oyuncular": hafta_oyuncular})
@@ -219,6 +221,13 @@ def main():
 
     for pid, maclar in gecmis.items():
         json_yaz(SITE_DATA / "oyuncu" / f"{pid}.json", maclar)
+
+    # Telefon hangi günler sık çalışacağını internete çıkmadan buradan okur (telefon/guncelle.sh):
+    # bu haftanın ve gelecek haftanın maç günleri (Cuma maçları dahil)
+    mac_gunleri = {m["tarih"][:10] for m in guncel_maclar}
+    if any(int(h["sezon_Hafta"]) == guncel + 1 for h in haftalar):
+        sonraki = api(f"/Match/get-all-matches-for-filter?ActivityId={LIG_ID}&WeekFilter={guncel + 1}&Page=1&PageSize=-1")
+        mac_gunleri |= {m["matchDate"][:10] for m in sonraki}
 
     # Takım kadroları (günde iki kez): henüz maç kadrosuna girmemiş oyuncuları ekler, transferde
     # güncel takımı ve boştaki oyuncular listesi için sezon ortalamalarını verir.
@@ -247,6 +256,7 @@ def main():
         "haftalar": list(range(baslangic, guncel + 1)), "guncelHafta": guncel,
         "guncelleme": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "rehberGuncelleme": rehber_zamani,
+        "macGunleri": sorted(mac_gunleri),
     })
     print(f"Oyuncu rehberi: {len(rehber)} oyuncu. Tamamlandı.")
 
