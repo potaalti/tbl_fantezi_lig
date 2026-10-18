@@ -5,14 +5,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FİNALSPOR",
-  "skor": "34",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "16:59",
+    "sure": "17:46",
     "sayi": 9,
     "iki": [
      2,
@@ -30,23 +30,23 @@
     "sr": 2,
     "rib": 2,
     "ast": 3,
-    "tc": 2,
+    "tc": 3,
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "4",
-    "vp": 10
+    "pm": "6",
+    "vp": 11
    },
    {
     "id": "229599",
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "16:32",
-    "sayi": 8,
+    "sure": "17:19",
+    "sayi": 10,
     "iki": [
-     2,
-     3
+     3,
+     4
     ],
     "uc": [
      1,
@@ -64,8 +64,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "6",
-    "vp": 12
+    "pm": "8",
+    "vp": 14
    },
    {
     "id": "117624",
@@ -132,7 +132,7 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": true,
-    "sure": "18:29",
+    "sure": "19:16",
     "sayi": 6,
     "iki": [
      2,
@@ -154,7 +154,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 1,
-    "pm": "9",
+    "pm": "11",
     "vp": 5
    },
    {
@@ -252,7 +252,7 @@
     "ad": "Karl Gamble",
     "no": "14",
     "ilk5": false,
-    "sure": "8:44",
+    "sure": "9:31",
     "sayi": 0,
     "iki": [
      0,
@@ -274,7 +274,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-8",
+    "pm": "-6",
     "vp": -1
    },
    {
@@ -282,7 +282,7 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "12:54",
+    "sure": "13:41",
     "sayi": 0,
     "iki": [
      0,
@@ -304,7 +304,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-2",
+    "pm": "0",
     "vp": -2
    },
    {
@@ -371,7 +371,7 @@
   "ceyrekler": [
    20,
    12,
-   2
+   4
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "13:36",
+    "sure": "14:23",
     "sayi": 5,
     "iki": [
      1,
@@ -404,8 +404,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
-    "pm": "-12",
+    "faul": 3,
+    "pm": "-14",
     "vp": 4
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "18:08",
+    "sure": "18:55",
     "sayi": 3,
     "iki": [
      1,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-10",
+    "pm": "-12",
     "vp": 5
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Berat Berke Tunç",
     "no": "44",
     "ilk5": true,
-    "sure": "9:17",
+    "sure": "10:04",
     "sayi": 0,
     "iki": [
      0,
@@ -495,7 +495,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-10",
+    "pm": "-12",
     "vp": 0
    },
    {
@@ -503,7 +503,7 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "21:24",
+    "sure": "22:11",
     "sayi": 7,
     "iki": [
      1,
@@ -523,17 +523,17 @@
     "ast": 1,
     "tc": 1,
     "blk": 0,
-    "tk": 3,
+    "tk": 4,
     "faul": 0,
-    "pm": "0",
-    "vp": 4
+    "pm": "-2",
+    "vp": 3
    },
    {
     "id": "317200",
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": false,
-    "sure": "11:06",
+    "sure": "11:53",
     "sayi": 6,
     "iki": [
      0,
@@ -553,10 +553,10 @@
     "ast": 3,
     "tc": 2,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 3,
-    "pm": "6",
-    "vp": 7
+    "pm": "4",
+    "vp": 6
    },
    {
     "id": "356958",
@@ -745,7 +745,7 @@
    3
   ]
  },
- "evSkor": "34",
+ "evSkor": "36",
  "depSkor": "30",
  "salon": "Tofaş Spor Salonu",
  "yayin": "HT SPOR"
