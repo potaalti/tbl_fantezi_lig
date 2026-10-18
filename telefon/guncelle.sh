@@ -7,6 +7,8 @@ LOG="$HOME/tbl-guncelle.log"
 guncelle() {
   echo "=== $(date '+%Y-%m-%d %H:%M') ==="
   cd "$DEPO" || return 1
+  # Android'de dosya izinleri farklı görünebilir; Git bunları değişiklik saymasın
+  git config core.fileMode false
   if ! git pull --rebase -q; then
     git rebase --abort 2>/dev/null
     return 1

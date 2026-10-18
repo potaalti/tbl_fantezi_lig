@@ -30,6 +30,8 @@ fi
 cd "$DEPO"
 git config user.name "tbl-fantezi-telefon"
 git config user.email "tbl-fantezi-telefon@users.noreply.github.com"
+# chmod izin değişikliğini Git yerel değişiklik saymasın (yoksa git pull reddeder)
+git config core.fileMode false
 chmod +x telefon/guncelle.sh
 
 echo
