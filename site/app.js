@@ -68,14 +68,12 @@ const kadroBul = n => (veri.kadrolar.findLast(k => k.hafta <= n) ?? veri.kadrola
 const sonKadro = () => veri.kadrolar.at(-1).takimlar;
 
 // ---------- ortak parçalar ----------
-// tbl: başlıkta TBL hafta numarası gösterilir (Maçlar sekmesi), yoksa fantezi hafta numarası
-function haftaSecici(n, rota, tbl = false) {
+function haftaSecici(n, rota) {
   const h = veri.index.haftalar;
   const i = h.indexOf(n);
   const d = haftaDurumu(veri.haftalar.get(n));
   const durum = d.tamamlandi ? 'Tamamlandı' : `${d.bitti}/${d.toplam} maç bitti${d.canli ? ' · canlı' : ''}`;
-  const [ust, alt] = tbl ? [`TBL ${n}. Hafta`, `Fantezi ${fHafta(n)}. hafta · ${durum}`]
-    : [`${fHafta(n)}. Hafta`, `TBL ${n}. hafta · ${durum}`];
+  const [ust, alt] = [`${fHafta(n)}. Hafta`, `TBL ${n}. hafta · ${durum}`];
   const ok = (hedef, isaret) => hedef === undefined ? `<span class="pasif">${isaret}</span>` : `<a href="#/${rota}/${hedef}" aria-label="Hafta ${fHafta(hedef)}">${isaret}</a>`;
   return `<div class="hafta-secici">
     ${ok(h[i - 1], '‹')}
@@ -387,25 +385,107 @@ function macSatiri(m) {
   </a>`;
 }
 
-function maclarEkrani(n) {
-  const hafta = veri.haftalar.get(n);
+// Maçlar sekmesinde TBL ve BSL gösterilir (BSL fantezi puanına girmez). Seçilen lig bu cihazda hatırlanır.
+const LIGLER = { tbl: 'TBL', bsl: 'BSL' };
+const LIG_ANAHTARI = 'tbl-fantezi-maclar-lig';
+const ligMaclari = new Map(); // 'bsl-4' -> o haftanın maçları (fantezi haftaları dışındakiler, gerektikçe yüklenir)
+const ligBilgisi = lig => veri.index.maclar?.[lig] ?? { haftalar: veri.index.haftalar, guncel: veri.index.guncelHafta };
+let seciliLig = 'tbl';
+let gosterilenMaclar = null; // ekrandaki lig-hafta; yükleme bitince başka sayfaya geçilmişse yazılmaz
+try { seciliLig = LIGLER[localStorage.getItem(LIG_ANAHTARI)] ? localStorage.getItem(LIG_ANAHTARI) : 'tbl'; } catch { /* depolama yok */ }
+
+// Fantezi haftalarının TBL maçları zaten yüklü (canlıyken her dakika yenilenir); diğerleri dosyadan gelir
+const haftaMaclari = (lig, n) => lig === 'tbl' && veri.haftalar.has(n) ? veri.haftalar.get(n).maclar : ligMaclari.get(`${lig}-${n}`);
+
+function ligHaftaSecici(lig, n, maclar) {
+  const h = ligBilgisi(lig).haftalar;
+  const i = h.indexOf(n);
+  const bitti = maclar.filter(m => m.durum === 'bitti').length;
+  const durum = bitti === maclar.length ? 'Tamamlandı'
+    : `${bitti}/${maclar.length} maç bitti${maclar.some(m => m.durum === 'canli') ? ' · canlı' : ''}`;
+  const fantezi = lig === 'tbl' && fHafta(n) >= 1 ? `Fantezi ${fHafta(n)}. hafta · ` : '';
+  const ok = (hedef, isaret) => hedef === undefined ? `<span class="pasif">${isaret}</span>`
+    : `<a href="#/maclar/${lig}/${hedef}" aria-label="${LIGLER[lig]} ${hedef}. hafta">${isaret}</a>`;
+  return `<div class="hafta-secici">
+    ${ok(h[i - 1], '‹')}
+    <div class="baslik"><strong>${LIGLER[lig]} ${n}. Hafta</strong><small>${fantezi}${durum}</small></div>
+    ${ok(h[i + 1], '›')}
+  </div>`;
+}
+
+function ligCipleri(lig, n) {
+  const ligler = Object.entries(LIGLER).filter(([l]) => l === 'tbl' || veri.index.maclar?.[l]);
+  const ligSecimi = ligler.length < 2 ? '' : `<div class="secenekler lig-secici">${ligler.map(([l, ad]) =>
+    `<a class="secenek ${l === lig ? 'aktif' : ''}" href="#/maclar/${l}">${ad}</a>`).join('')}</div>`;
+  const haftalar = `<div class="secenekler hafta-cipleri" id="mac-hafta-cipleri">${ligBilgisi(lig).haftalar.map(k =>
+    `<a class="secenek ${k === n ? 'aktif' : ''}" href="#/maclar/${lig}/${k}">${k}. hafta</a>`).join('')}</div>`;
+  return ligSecimi + haftalar;
+}
+
+function macListesi(lig, n, maclar) {
   const gunler = new Map();
-  for (const m of hafta.maclar) {
+  for (const m of maclar) {
     const gun = m.tarih.slice(0, 10);
     gunler.set(gun, [...(gunler.get(gun) ?? []), m]);
   }
-  const bloklar = [...gunler.values()].map(maclar =>
-    `<section class="kart"><h2>${gunBasligi(maclar[0].tarih)}</h2>${maclar.map(macSatiri).join('')}</section>`).join('');
-  const oynayan = new Set(hafta.maclar.flatMap(m => [m.ev, m.dep]));
-  const tumTakimlar = new Set(Object.values(veri.rehber).filter(o => o.aktif).map(o => o.takim));
-  const bay = [...tumTakimlar].filter(t => !oynayan.has(t));
-  const bayNotu = bay.length ? `<p class="guncelleme">Bay: ${bay.map(t => kacis(baslik(t))).join(', ')}</p>` : '';
-  return `${haftaSecici(n, 'maclar', true)}${bloklar}${bayNotu}`;
+  const bloklar = [...gunler.values()].map(g =>
+    `<section class="kart"><h2>${gunBasligi(g[0].tarih)}</h2>${g.map(macSatiri).join('')}</section>`).join('');
+  // Bay geçen takımlar: TBL takımları oyuncu rehberinden bilinir
+  let bayNotu = '';
+  if (lig === 'tbl') {
+    const oynayan = new Set(maclar.flatMap(m => [m.ev, m.dep]));
+    const tumTakimlar = new Set(Object.values(veri.rehber).filter(o => o.aktif).map(o => o.takim));
+    const bay = [...tumTakimlar].filter(t => !oynayan.has(t));
+    if (bay.length) bayNotu = `<p class="guncelleme">Bay: ${bay.map(t => kacis(baslik(t))).join(', ')}</p>`;
+  }
+  return `${ligHaftaSecici(lig, n, maclar)}${bloklar || '<p class="bos">Bu haftanın maçları henüz belli değil.</p>'}${bayNotu}`;
+}
+
+function maclarEkrani(lig, n) {
+  const maclar = haftaMaclari(lig, n);
+  return `${ligCipleri(lig, n)}<div id="lig-maclar">${maclar ? macListesi(lig, n, maclar) : '<p class="bos">Yükleniyor…</p>'}</div>`;
+}
+
+// #/maclar/bsl/4, #/maclar/bsl (güncel hafta), #/maclar (son seçilen lig) ve eski #/maclar/7 adresleri
+function macRotasi(a, b) {
+  let lig = LIGLER[a] ? a : (a ? 'tbl' : seciliLig);
+  if (!veri.index.maclar?.[lig]) lig = 'tbl';
+  if (LIGLER[a]) {
+    seciliLig = lig;
+    try { localStorage.setItem(LIG_ANAHTARI, lig); } catch { /* depolama yok */ }
+  }
+  const { haftalar, guncel } = ligBilgisi(lig);
+  const istenen = Number(LIGLER[a] ? b : a);
+  return { lig, n: haftalar.includes(istenen) ? istenen : haftalar.includes(guncel) ? guncel : haftalar.at(-1) };
+}
+
+// Yüklenmemiş ya da henüz bitmemiş haftanın maçlarını dosyadan getirir
+async function ligMaclariDoldur(lig, n) {
+  const onceki = haftaMaclari(lig, n);
+  if (onceki && onceki.every(m => m.durum === 'bitti')) return;
+  let maclar;
+  try {
+    maclar = (await json(`data/maclar/${lig}-${n}.json`)).maclar;
+  } catch {
+    maclar = onceki ?? [];
+  }
+  if (!(lig === 'tbl' && veri.haftalar.has(n))) ligMaclari.set(`${lig}-${n}`, maclar);
+  const kutu = document.getElementById('lig-maclar');
+  if (kutu && gosterilenMaclar === `${lig}-${n}`) kutu.innerHTML = macListesi(lig, n, haftaMaclari(lig, n));
+}
+
+// Seçili hafta çipi ortada görünsün (uzun listede sağda kalabilir)
+function haftaCipiniGoster() {
+  const aktif = document.querySelector('#mac-hafta-cipleri .aktif');
+  if (!aktif) return;
+  const satir = aktif.parentElement;
+  satir.scrollLeft = aktif.offsetLeft - satir.offsetLeft - (satir.clientWidth - aktif.offsetWidth) / 2;
 }
 
 function macBul(id) {
-  for (const h of veri.haftalar.values()) {
-    const m = h.maclar.find(x => String(x.id) === String(id));
+  const listeler = [...[...veri.haftalar.values()].map(h => h.maclar), ...ligMaclari.values()];
+  for (const maclar of listeler) {
+    const m = maclar.find(x => String(x.id) === String(id));
     if (m) return m;
   }
   return null;
@@ -421,13 +501,14 @@ const KUTU_SUTUNLARI = [
   ['Rb', o => o.rib], ['As', o => o.ast], ['Tç', o => o.tc], ['Bl', o => o.blk], ['Tk', o => o.tk], ['F', o => o.faul], ['VP', o => o.vp],
 ];
 
-function kutuSkorTablosu(takim) {
+// BSL oyuncularının sayfası yok (oyuncu sayfaları TBL için)
+function kutuSkorTablosu(takim, lig = 'tbl') {
   const benim = sonKadro().find(t => t.ad === seciliTakim);
   const benimkiler = new Set([...(benim?.as ?? []), ...(benim?.yedek ?? [])].map(o => o.id));
   const satirlar = takim.oyuncular.map(o => {
     const oynadi = sureSn(o.sure) > 0;
     return `<tr class="${oynadi ? '' : 'oynamadi'} ${benimkiler.has(o.id) ? 'benim-oyuncu' : ''}">
-      <th><a href="#/oyuncu/${o.id}">${o.ilk5 ? '<b>' : ''}${kacis(o.ad)}${o.ilk5 ? '</b>' : ''}</a></th>
+      <th>${lig === 'tbl' ? `<a href="#/oyuncu/${o.id}">` : ''}${o.ilk5 ? '<b>' : ''}${kacis(o.ad)}${o.ilk5 ? '</b>' : ''}${lig === 'tbl' ? '</a>' : ''}</th>
       ${KUTU_SUTUNLARI.map(([, f]) => `<td>${kacis(f(o))}</td>`).join('')}
     </tr>`;
   }).join('');
@@ -453,7 +534,7 @@ function macBasligi(m) {
       <div class="mac-skor"><strong>${skor}</strong><small>${durum}</small></div>
       <strong class="${kazananSinifi(m, 'dep')}">${kacis(baslik(m.dep))}</strong>
     </div>
-    <p class="mac-bilgi">${m.hafta ? `TBL ${m.hafta}. Hafta · ` : ''}${bilgi}</p>
+    <p class="mac-bilgi">${m.hafta ? `${LIGLER[m.lig ?? 'tbl']} ${m.hafta}. Hafta · ` : ''}${bilgi}</p>
   </section>`;
 }
 
@@ -483,7 +564,7 @@ async function macDetayDoldur(id) {
     return;
   }
   kutu.innerHTML = macBasligi(mac) + (d
-    ? ceyrekTablosu(d) + kutuSkorTablosu(d.ev) + kutuSkorTablosu(d.dep)
+    ? ceyrekTablosu(d) + kutuSkorTablosu(d.ev, mac.lig) + kutuSkorTablosu(d.dep, mac.lig)
       + '<p class="guncelleme">Kalın: ilk 5 · 2S/3S/SA: isabet/deneme</p>'
     : `<p class="bos">${mac.durum === 'oynanmadi' ? 'Maç henüz oynanmadı.' : 'İstatistikler henüz gelmedi.'}</p>`);
 }
@@ -499,14 +580,18 @@ function ciz() {
   const secimGecerli = sonKadro().some(t => t.ad === seciliTakim);
   const gecerli = n => veri.index.haftalar.includes(n) ? n : sonHafta();
 
-  let html, aktif = sekme;
+  let html, aktif = sekme, macHaftasi = null;
   if (sekme === 'secim' || (!secimGecerli && sekme !== 'takim')) { html = secimEkrani(); aktif = 'takimim'; }
   else if (sekme === 'genel') html = genelEkran();
   else if (sekme === 'hafta') html = haftalikEkran(gecerli(Number(a)));
   else if (sekme === 'takim') html = takimEkrani(decodeURIComponent(a ?? ''), gecerli(Number(b)), false);
   else if (sekme === 'bostakiler') html = bostakilerEkrani(a);
   else if (sekme === 'oyuncu') html = oyuncuEkrani(a);
-  else if (sekme === 'maclar') html = maclarEkrani(gecerli(Number(a)));
+  else if (sekme === 'maclar') {
+    macHaftasi = macRotasi(a, b);
+    gosterilenMaclar = `${macHaftasi.lig}-${macHaftasi.n}`;
+    html = maclarEkrani(macHaftasi.lig, macHaftasi.n);
+  }
   else if (sekme === 'mac') { html = macEkrani(); aktif = 'maclar'; }
   else { html = takimEkrani(seciliTakim, gecerli(Number(a)), true); aktif = 'takimim'; }
   // Otomatik yenileme arama kutusuna yazarken odağı kaçırmasın
@@ -518,6 +603,10 @@ function ciz() {
   }
   if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a);
   if (sekme === 'mac') macDetayDoldur(a);
+  if (macHaftasi) {
+    haftaCipiniGoster();
+    ligMaclariDoldur(macHaftasi.lig, macHaftasi.n);
+  }
   // button.paylas: aynı sınıfı kullanan İstatistikler bağlantısı (<a>) değil, Paylaş düğmesi
   const paylas = icerik.querySelector('button.paylas');
   paylas?.addEventListener('click', () => siralamayiPaylas(paylas, paylas.dataset.tur, Number(paylas.dataset.hafta)));

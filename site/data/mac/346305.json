@@ -1,0 +1,755 @@
+{
+ "id": 346305,
+ "lig": "bsl",
+ "hafta": 4,
+ "tarih": "2026-10-16T19:00:00",
+ "durum": "bitti",
+ "ev": {
+  "ad": "KARŞIYAKA",
+  "skor": "95",
+  "oyuncular": [
+   {
+    "id": "573226",
+    "ad": "Briante Weber",
+    "no": "2",
+    "ilk5": true,
+    "sure": "26:14",
+    "sayi": 15,
+    "iki": [
+     3,
+     5
+    ],
+    "uc": [
+     3,
+     6
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 4,
+    "rib": 4,
+    "ast": 9,
+    "tc": 2,
+    "blk": 0,
+    "tk": 2,
+    "faul": 3,
+    "pm": "13",
+    "vp": 23
+   },
+   {
+    "id": "779071",
+    "ad": "Ishmael El-Amin",
+    "no": "5",
+    "ilk5": true,
+    "sure": "28:48",
+    "sayi": 17,
+    "iki": [
+     1,
+     4
+    ],
+    "uc": [
+     4,
+     5
+    ],
+    "sa": [
+     3,
+     4
+    ],
+    "hr": 0,
+    "sr": 3,
+    "rib": 3,
+    "ast": 2,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "13",
+    "vp": 17
+   },
+   {
+    "id": "500079",
+    "ad": "Rashard Kelly",
+    "no": "7",
+    "ilk5": true,
+    "sure": "23:59",
+    "sayi": 8,
+    "iki": [
+     3,
+     5
+    ],
+    "uc": [
+     0,
+     4
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 0,
+    "sr": 4,
+    "rib": 4,
+    "ast": 2,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 2,
+    "pm": "12",
+    "vp": 7
+   },
+   {
+    "id": "254789",
+    "ad": "Yavuz Gültekin",
+    "no": "19",
+    "ilk5": true,
+    "sure": "28:03",
+    "sayi": 17,
+    "iki": [
+     3,
+     3
+    ],
+    "uc": [
+     3,
+     3
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 0,
+    "sr": 4,
+    "rib": 4,
+    "ast": 3,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "16",
+    "vp": 24
+   },
+   {
+    "id": "609083",
+    "ad": "Steven Enoch",
+    "no": "23",
+    "ilk5": true,
+    "sure": "29:08",
+    "sayi": 18,
+    "iki": [
+     9,
+     9
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 1,
+    "sr": 4,
+    "rib": 5,
+    "ast": 2,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 4,
+    "pm": "24",
+    "vp": 25
+   },
+   {
+    "id": "228502",
+    "ad": "Muhaymin Mustafa",
+    "no": "1",
+    "ilk5": false,
+    "sure": "9:56",
+    "sayi": 8,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     2,
+     3
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 2,
+    "pm": "-1",
+    "vp": 7
+   },
+   {
+    "id": "410874",
+    "ad": "Markel Starks",
+    "no": "4",
+    "ilk5": false,
+    "sure": "21:45",
+    "sayi": 5,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     1,
+     2
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 4,
+    "tc": 1,
+    "blk": 0,
+    "tk": 0,
+    "faul": 3,
+    "pm": "7",
+    "vp": 9
+   },
+   {
+    "id": "218536",
+    "ad": "Hakan Sayılı",
+    "no": "8",
+    "ilk5": false,
+    "sure": "16:01",
+    "sayi": 2,
+    "iki": [
+     1,
+     2
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 1,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 2,
+    "pm": "4",
+    "vp": 2
+   },
+   {
+    "id": "779069",
+    "ad": "Kendall Munson",
+    "no": "9",
+    "ilk5": false,
+    "sure": "10:00",
+    "sayi": 1,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     1,
+     2
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 4,
+    "pm": "-7",
+    "vp": -1
+   },
+   {
+    "id": "400519",
+    "ad": "Yalın Yıldız",
+    "no": "10",
+    "ilk5": false,
+    "sure": "0:53",
+    "sayi": 2,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-1",
+    "vp": 2
+   },
+   {
+    "id": "444058",
+    "ad": "Egemen Yapıcı",
+    "no": "17",
+    "ilk5": false,
+    "sure": "0:53",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-1",
+    "vp": 0
+   },
+   {
+    "id": "781757",
+    "ad": "Yakuba Ouattara",
+    "no": "24",
+    "ilk5": false,
+    "sure": "4:22",
+    "sayi": 2,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 1,
+    "sr": 0,
+    "rib": 1,
+    "ast": 1,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 0,
+    "pm": "1",
+    "vp": 1
+   }
+  ],
+  "ceyrekler": [
+   24,
+   24,
+   23,
+   24
+  ]
+ },
+ "dep": {
+  "ad": "GLİNT ÇAYIROVA BELEDİYESİ",
+  "skor": "79",
+  "oyuncular": [
+   {
+    "id": "501134",
+    "ad": "Jordon Crawford",
+    "no": "1",
+    "ilk5": true,
+    "sure": "34:50",
+    "sayi": 18,
+    "iki": [
+     4,
+     7
+    ],
+    "uc": [
+     1,
+     4
+    ],
+    "sa": [
+     7,
+     7
+    ],
+    "hr": 1,
+    "sr": 4,
+    "rib": 5,
+    "ast": 8,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "-9",
+    "vp": 25
+   },
+   {
+    "id": "666080",
+    "ad": "Fabian White Jr.",
+    "no": "4",
+    "ilk5": true,
+    "sure": "25:57",
+    "sayi": 18,
+    "iki": [
+     7,
+     11
+    ],
+    "uc": [
+     1,
+     5
+    ],
+    "sa": [
+     1,
+     2
+    ],
+    "hr": 1,
+    "sr": 6,
+    "rib": 7,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 2,
+    "faul": 2,
+    "pm": "-11",
+    "vp": 14
+   },
+   {
+    "id": "127089",
+    "ad": "Erdi Gülaslan",
+    "no": "6",
+    "ilk5": true,
+    "sure": "17:47",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 1,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 1,
+    "pm": "-5",
+    "vp": 1
+   },
+   {
+    "id": "510739",
+    "ad": "Rasheed Sulaimon",
+    "no": "10",
+    "ilk5": true,
+    "sure": "21:16",
+    "sayi": 16,
+    "iki": [
+     4,
+     8
+    ],
+    "uc": [
+     2,
+     5
+    ],
+    "sa": [
+     2,
+     5
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 2,
+    "tc": 1,
+    "blk": 0,
+    "tk": 2,
+    "faul": 1,
+    "pm": "-8",
+    "vp": 7
+   },
+   {
+    "id": "500074",
+    "ad": "Jeremy Simmons",
+    "no": "11",
+    "ilk5": true,
+    "sure": "26:04",
+    "sayi": 6,
+    "iki": [
+     3,
+     3
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 2,
+    "sr": 1,
+    "rib": 3,
+    "ast": 2,
+    "tc": 2,
+    "blk": 0,
+    "tk": 1,
+    "faul": 2,
+    "pm": "-14",
+    "vp": 12
+   },
+   {
+    "id": "756112",
+    "ad": "Nysier Brooks",
+    "no": "0",
+    "ilk5": false,
+    "sure": "13:56",
+    "sayi": 3,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     3,
+     6
+    ],
+    "hr": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 1,
+    "faul": 3,
+    "pm": "-2",
+    "vp": 1
+   },
+   {
+    "id": "107520",
+    "ad": "Kartal Özmızrak",
+    "no": "3",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "160245",
+    "ad": "Enes Berkay Taşkıran",
+    "no": "7",
+    "ilk5": false,
+    "sure": "22:13",
+    "sayi": 13,
+    "iki": [
+     2,
+     2
+    ],
+    "uc": [
+     3,
+     6
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 3,
+    "pm": "-11",
+    "vp": 10
+   },
+   {
+    "id": "153295",
+    "ad": "Ömer Utku Al",
+    "no": "9",
+    "ilk5": false,
+    "sure": "8:14",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 1,
+    "tc": 0,
+    "blk": 0,
+    "tk": 3,
+    "faul": 0,
+    "pm": "-11",
+    "vp": -1
+   },
+   {
+    "id": "122136",
+    "ad": "Canberk Kuş",
+    "no": "12",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "502472",
+    "ad": "Michal Sokolowski",
+    "no": "24",
+    "ilk5": false,
+    "sure": "15:54",
+    "sayi": 3,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     1,
+     1
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 1,
+    "sr": 2,
+    "rib": 3,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 2,
+    "pm": "-8",
+    "vp": 6
+   },
+   {
+    "id": "501690",
+    "ad": "Roberto Gallinat",
+    "no": "44",
+    "ilk5": false,
+    "sure": "13:49",
+    "sayi": 2,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     2
+    ],
+    "sa": [
+     2,
+     2
+    ],
+    "hr": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 1,
+    "tc": 1,
+    "blk": 0,
+    "tk": 1,
+    "faul": 4,
+    "pm": "-1",
+    "vp": 3
+   }
+  ],
+  "ceyrekler": [
+   22,
+   19,
+   21,
+   17
+  ]
+ },
+ "evSkor": "95",
+ "depSkor": "79",
+ "salon": "Mustafa Kemal Atatürk Karşıyaka Spor Salonu",
+ "yayin": "beINSports"
+}
