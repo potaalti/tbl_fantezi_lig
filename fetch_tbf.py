@@ -7,6 +7,7 @@
   site/data/oyuncu/<id>.json -> oyuncunun sezon boyunca maç maç istatistikleri
   site/data/mac/<id>.json    -> maçın box score'u (iki takımın oyuncu istatistikleri, çeyrek skorları)
   site/data/maclar/<lig>-<n>.json -> Maçlar sekmesi: TBL'nin ve BSL'nin haftalık maç listesi
+  site/data/bsl-oyuncu/<id>.json  -> BSL oyuncusunun adı, takımı ve maç maç istatistikleri
 
 Biten maçların istatistikleri cache/ klasöründe saklanır, tekrar indirilmez.
 Kullanım:  python fetch_tbf.py              -> her şeyi günceller
@@ -221,17 +222,42 @@ def mac_kaydi(m, hafta, lig):
     }
 
 
+def oyuncu_maci(o, mac, taraf):
+    """Oyuncu sayfası için bir maçtaki istatistikleri."""
+    rakip = "dep" if taraf == "ev" else "ev"
+    return {
+        "hafta": mac["hafta"], "mac": mac["id"], "tarih": mac["tarih"], "durum": mac["durum"],
+        "takim": mac[taraf], "rakip": mac[rakip], "evde": taraf == "ev",
+        "skor": mac[f"{taraf}Skor"], "rakipSkor": mac[f"{rakip}Skor"],
+        "sure": o["minutesPlayed"], "sayi": o["points"], "rib": o["totalRebounds"],
+        "ast": o["assists"], "tc": o["steals"], "blk": o["blocks"], "tk": o["turnovers"],
+        "vp": o["efficiency"],
+    }
+
+
+def sonraki_hafta_basladi(haftalar, guncel):
+    """TBF güncel haftayı sıradaki haftanın maçları başladıktan sonra değiştirebiliyor: sıradaki haftanın
+    ilk maçının saati geldiyse (10 dk kala) o hafta güncel sayılır, canlı verisi kaçmasın."""
+    if not any(int(h["sezon_Hafta"]) == guncel + 1 for h in haftalar):
+        return False
+    simdi = datetime.now(TURKIYE).replace(tzinfo=None)
+    maclar = api(f"/Match/get-all-matches-for-filter?ActivityId={LIG_ID}&WeekFilter={guncel + 1}&Page=1&PageSize=-1")
+    return any(datetime.fromisoformat(m["matchDate"]) - timedelta(minutes=10) <= simdi
+               for m in maclar if not m["matchDate"].endswith("T00:00:00"))  # 00:00 = saati belli değil
+
+
 def lig_haftasi_yaz(lig, hafta, maclar):
     """Maçlar sekmesinin haftalık listesi: site/data/maclar/<lig>-<hafta>.json"""
     json_yaz(SITE_DATA / "maclar" / f"{lig}-{hafta}.json", {"lig": lig, "hafta": hafta, "maclar": maclar})
 
 
 def bsl_guncelle():
-    """BSL maçları (fantezi puanına girmez, sadece Maçlar sekmesi için): fikstür, skorlar ve biten
-    maçların box score'u. BSL'de canlı veri çekilmez; maç TBF'de bitince sonucu görünür."""
+    """BSL maçları (fantezi puanına girmez, sadece Maçlar sekmesi için): fikstür, skorlar, biten
+    maçların box score'u ve BSL oyuncularının maç maç istatistikleri. BSL'de canlı veri çekilmez; maç TBF'de bitince sonucu görünür."""
     haftalar = api(f"/League/get-league-weeks?leagueId={BSL_LIG_ID}&seasonId={SEZON_ID}")
     guncel = next((int(h["sezon_Hafta"]) for h in haftalar if h["isCurrentWeek"]), 1)
     son = guncel + 1 if any(int(h["sezon_Hafta"]) == guncel + 1 for h in haftalar) else guncel
+    oyuncular = {}  # oyuncu id -> {ad, takim, maclar}: BSL oyuncu sayfaları için
     for hafta in range(1, son + 1):
         listesi = sorted(hafta_mac_listesi(hafta, guncel, BSL_LIG_ID, "bsl-hafta"), key=lambda x: x["matchDate"])
         maclar = [mac_kaydi(m, hafta, "bsl") for m in listesi]
@@ -239,7 +265,15 @@ def bsl_guncelle():
             if mac["durum"] == "bitti":
                 stat, ozet = mac_istatistik(mac["id"], True), mac_ozet(mac["id"], True)
                 json_yaz(SITE_DATA / "mac" / f"{mac['id']}.json", kutu_skor(mac, stat, ozet))
+                for liste, taraf in STAT_LISTELERI:
+                    for o in stat.get(liste) or []:
+                        kayit = oyuncular.setdefault(str(o["playerId"]), {"maclar": []})
+                        # Ad ve takım en son maçtan (transfer olduysa yeni takımı)
+                        kayit.update(ad=o["playerName"].strip(), takim=mac[taraf])
+                        kayit["maclar"].append(oyuncu_maci(o, mac, taraf))
         lig_haftasi_yaz("bsl", hafta, maclar)
+    for pid, kayit in oyuncular.items():
+        json_yaz(SITE_DATA / "bsl-oyuncu" / f"{pid}.json", kayit)
     print(f"BSL: güncel hafta {guncel}, {son} haftanın maçları yazıldı")
     return {"haftalar": list(range(1, son + 1)), "guncel": guncel}
 
@@ -269,6 +303,8 @@ def main():
 
     haftalar = api(f"/League/get-league-weeks?leagueId={LIG_ID}&seasonId={SEZON_ID}")
     guncel = next((int(h["sezon_Hafta"]) for h in haftalar if h["isCurrentWeek"]), baslangic)
+    if sonraki_hafta_basladi(haftalar, guncel):
+        guncel += 1
     print(f"Güncel TBL haftası: {guncel}")
 
     rehber_yol = SITE_DATA / "oyuncular.json"
@@ -301,7 +337,7 @@ def main():
                     # Son güncellemedeki çeyrek ve maç saati ("3. Çeyrek · 04:12")
                     mac["canliDurum"] = {"periyot": d.get("period"), "saat": d.get("clock"),
                                          "uzatma": d.get("periodType") == "OVERTIME"}
-            durum, skorlar = mac["durum"], {"ev": mac["evSkor"], "dep": mac["depSkor"]}
+            durum = mac["durum"]
             hafta_maclar.append(mac)
             if durum == "oynanmadi":
                 continue
@@ -312,7 +348,6 @@ def main():
                 ozet = mac_ozet(m["matchId"], durum == "bitti")
             json_yaz(SITE_DATA / "mac" / f"{m['matchId']}.json", kutu_skor(mac, stat, ozet))
             for liste, taraf in STAT_LISTELERI:
-                rakip_taraf = "dep" if taraf == "ev" else "ev"
                 for o in stat.get(liste) or []:
                     pid = str(o["playerId"])
                     if not pid.startswith("fiba-"):  # TBF'de eşleşmeyen canlı oyuncu rehbere girmez
@@ -322,14 +357,7 @@ def main():
                     kayit["vp"] += o["efficiency"] or 0
                     kayit["saniye"] += saniye(o["minutesPlayed"])
                     kayit["maclar"].append(m["matchId"])
-                    gecmis.setdefault(pid, []).append({
-                        "hafta": hafta, "mac": m["matchId"], "tarih": m["matchDate"], "durum": durum,
-                        "takim": takimlar[taraf], "rakip": takimlar[rakip_taraf], "evde": taraf == "ev",
-                        "skor": skorlar[taraf], "rakipSkor": skorlar[rakip_taraf],
-                        "sure": o["minutesPlayed"], "sayi": o["points"], "rib": o["totalRebounds"],
-                        "ast": o["assists"], "tc": o["steals"], "blk": o["blocks"], "tk": o["turnovers"],
-                        "vp": o["efficiency"],
-                    })
+                    gecmis.setdefault(pid, []).append(oyuncu_maci(o, mac, taraf))
 
         if hafta == guncel:
             guncel_maclar = hafta_maclar

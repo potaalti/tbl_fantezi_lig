@@ -73,16 +73,16 @@ const klasmanHesapla = haftalar => genelKlasman(kadroBul, haftalar, veri.ayarlar
 // Bir hafta, o haftadan önce kaydedilmiş en son kadroyla puanlanır
 const kadroBul = n => (veri.kadrolar.findLast(k => k.hafta <= n) ?? veri.kadrolar[0]).takimlar;
 const sonKadro = () => veri.kadrolar.at(-1).takimlar;
-// Bu hafta bitmişse, sıradaki haftanın ilk maçından önceki Perşembe'den itibaren takım sayfaları
-// sıradaki haftanın kadrosunu gösterir (puanlama ve sıralamalar değişmez)
+// Bu hafta bitmişse, sıradaki haftanın ilk maçından önceki Perşembe'den itibaren Haftalık ve takım
+// sayfaları sıradaki haftayı gösterir (Genel klasman ve geçmiş haftalar değişmez)
 function siradakiHafta() {
   const s = veri.index.siradaki;
   if (!s || !veri.haftalar.has(s.hafta) || veri.index.haftalar.includes(s.hafta) || new Date() < new Date(s.gosterim)) return null;
   return haftaDurumu(veri.haftalar.get(sonHafta())).tamamlandi ? s.hafta : null;
 }
-const takimHaftalari = () => siradakiHafta() ? [...veri.index.haftalar, siradakiHafta()] : veri.index.haftalar;
-// Takım bağlantıları güncel hafta yerine (Perşembe'den itibaren) sıradaki haftayı açar
-const takimHaftasi = n => n === sonHafta() && siradakiHafta() ? siradakiHafta() : n;
+const gorunenHaftalar = () => siradakiHafta() ? [...veri.index.haftalar, siradakiHafta()] : veri.index.haftalar;
+// Haftalık, Takımım ve Genel'deki takım bağlantıları güncel hafta yerine (Perşembe'den itibaren) sıradaki haftayı açar
+const acilisHaftasi = n => n === sonHafta() && siradakiHafta() ? siradakiHafta() : n;
 
 // ---------- ortak parçalar ----------
 function haftaSecici(n, rota, h = veri.index.haftalar) {
@@ -101,7 +101,7 @@ function haftaSecici(n, rota, h = veri.index.haftalar) {
 
 // Geçmiş haftalara hızlı geçiş düğmeleri (birden fazla hafta varsa)
 function haftaCipleri(n, rota) {
-  const h = veri.index.haftalar;
+  const h = gorunenHaftalar();
   if (h.length < 2) return '';
   return `<div class="secenekler hafta-cipleri">${h.map(k =>
     `<a class="secenek ${k === n ? 'aktif' : ''}" href="#/${rota}/${k}">${fHafta(k)}. hafta</a>`).join('')}</div>`;
@@ -131,6 +131,18 @@ function ilerlemeYazisi(s) {
 }
 
 function haftalikEkran(n) {
+  // Sıradaki hafta henüz başlamadı: sıra ve puan yok, takımlar alfabetik
+  const siradaki = !veri.index.haftalar.includes(n);
+  if (siradaki) {
+    const satirlar = [...kadroBul(n)].sort((a, b) => a.ad.localeCompare(b.ad, 'tr')).map(t => `
+    <a class="satir ${benimMi(t.ad)}" href="${takimLinki(t.ad, n)}">
+      <span class="sira">–</span>
+      <div class="ad"><strong>${kacis(t.ad)}</strong>${t.sahibi ? `<small>${kacis(t.sahibi)}</small>` : ''}</div>
+      <div class="sayi"><strong>0</strong><small>VP</small></div>
+    </a>`).join('');
+    return `${haftaSecici(n, 'hafta', gorunenHaftalar())}${haftaCipleri(n, 'hafta')}
+      <section class="kart"><h2>Maçlar başlayınca sıralama oluşur</h2>${satirlar}</section>`;
+  }
   const siralama = haftaSirasi(n);
   const haftaBitti = haftaDurumu(veri.haftalar.get(n)).tamamlandi;
   const satirlar = siralama.map(s => {
@@ -141,14 +153,14 @@ function haftalikEkran(n) {
     const alt = [[s.sahibi, haftaBitti ? '' : ilerlemeYazisi(s)].filter(Boolean).join(' · '), esitlik]
       .filter(Boolean).map(satir => `<small>${kacis(satir)}</small>`).join('');
     return `
-    <a class="satir ${benimMi(s.ad)}" href="${takimLinki(s.ad, takimHaftasi(n))}">
+    <a class="satir ${benimMi(s.ad)}" href="${takimLinki(s.ad, n)}">
       ${siraRozeti(s.sira)}
       <div class="ad"><strong>${kacis(s.ad)}</strong>${alt}</div>
       <div class="sayi"><strong>${s.toplam}</strong><small>VP</small></div>
       <span class="cip">+${s.puan}</span>
     </a>`;
   }).join('');
-  return `${haftaSecici(n, 'hafta')}${haftaCipleri(n, 'hafta')}${paylasDugmesi('hafta', n)}<section class="kart"><h2>VP sıralaması · kazanılan puan</h2>${satirlar}</section>`;
+  return `${haftaSecici(n, 'hafta', gorunenHaftalar())}${haftaCipleri(n, 'hafta')}${paylasDugmesi('hafta', n)}<section class="kart"><h2>VP sıralaması · kazanılan puan</h2>${satirlar}</section>`;
 }
 
 function genelEkran() {
@@ -164,7 +176,7 @@ function genelEkran() {
     const puanEsitligi = [klasman[i - 1], klasman[i + 1]].some(k => k && k.puan === s.puan);
     const alt = puanEsitligi ? `<small>Eşitlik: toplam ${s.vp} VP</small>` : '';
     return `
-    <a class="satir ${benimMi(s.ad)}" href="${takimLinki(s.ad, takimHaftasi(sonHafta()))}">
+    <a class="satir ${benimMi(s.ad)}" href="${takimLinki(s.ad, acilisHaftasi(sonHafta()))}">
       ${siraRozeti(s.sira)}
       <div class="ad"><strong>${kacis(s.ad)} ${degisim}</strong>${alt}</div>
       <div class="sayi"><strong>${s.puan}</strong><small>puan</small></div>
@@ -227,7 +239,7 @@ function takimEkrani(ad, n, kendi) {
         <div><strong>${genel.sira}.</strong><small>Genel (${genel.puan} p)</small></div>
       </div>
     </section>
-    ${haftaSecici(n, rota, takimHaftalari())}
+    ${haftaSecici(n, rota, gorunenHaftalar())}
     <section class="kart"><h2>As kadro</h2>${sonuc.aslar.map(oyuncuSatiri).join('')}</section>
     <section class="kart"><h2>Yedekler</h2>${sonuc.yedekler.map(oyuncuSatiri).join('')}</section>
     <section class="kart"><h2>Haftalar</h2>${gecmis}</section>`;
@@ -296,31 +308,39 @@ function oyuncuSahibi(id) {
   return 'Boşta';
 }
 
-function oyuncuEkrani(id) {
-  const o = veri.rehber[id];
+// BSL oyuncularının adı ve takımı rehberde yok; sayfa, oyuncunun BSL dosyası gelince doldurulur
+function oyuncuEkrani(id, lig = 'tbl') {
+  const o = lig === 'tbl' ? veri.rehber[id] : { ad: '…', takim: '' };
   if (!o) return '<p class="bos">Oyuncu bulunamadı.</p>';
-  return `${geriLinki('#/bostakiler')}
+  const alt = lig === 'tbl' ? `${kacis(baslik(o.takim))} · ${kacis(oyuncuSahibi(id))}` : 'BSL';
+  return `${geriLinki(lig === 'tbl' ? '#/bostakiler' : '#/maclar/bsl')}
     <section class="kart">
-      <div class="takim-baslik"><strong>${kacis(o.ad)}</strong><small>${kacis(baslik(o.takim))} · ${kacis(oyuncuSahibi(id))}</small></div>
+      <div class="takim-baslik" id="oyuncu-baslik"><strong>${kacis(o.ad)}</strong><small>${alt}</small></div>
       <div class="ozet" id="oyuncu-ozet"><div><strong>…</strong><small>Maç</small></div><div><strong>…</strong><small>VP ort.</small></div><div><strong>…</strong><small>Sayı ort.</small></div></div>
     </section>
-    <section class="kart"><h2>TBL haftaları</h2><div id="oyuncu-maclar"><p class="bos">Yükleniyor…</p></div></section>`;
+    <section class="kart"><h2>${LIGLER[lig]} haftaları</h2><div id="oyuncu-maclar"><p class="bos">Yükleniyor…</p></div></section>`;
 }
 
 // Oyuncunun o hafta istatistiği yoksa nedeni (sadece maç listesi elimizde olan haftalar için bilinir)
-function macYokAciklamasi(h, tblTakim) {
-  const hafta = veri.haftalar.get(h);
-  if (!hafta || !tblTakim) return 'Maç kaydı yok';
-  const mac = hafta.maclar.find(m => m.ev === tblTakim || m.dep === tblTakim);
+function macYokAciklamasi(lig, h, tblTakim) {
+  const maclar = haftaMaclari(lig, h);
+  if (!maclar || !tblTakim) return 'Maç kaydı yok';
+  const mac = maclar.find(m => m.ev === tblTakim || m.dep === tblTakim);
   if (!mac) return 'Takımı bay';
   if (mac.durum === 'oynanmadi') return `${mac.ev === tblTakim ? 'vs' : '@'} ${kacis(baslik(mac.ev === tblTakim ? mac.dep : mac.ev))} · ${tarihSaat(mac.tarih)}`;
   return 'Maç kadrosunda yok';
 }
 
-async function oyuncuGecmisiDoldur(id) {
-  let maclar = [];
+async function oyuncuGecmisiDoldur(id, lig = 'tbl') {
+  let maclar = [], takim = veri.rehber[id]?.takim;
   try {
-    maclar = await json(`data/oyuncu/${id}.json`);
+    if (lig === 'tbl') maclar = await json(`data/oyuncu/${id}.json`);
+    else {
+      const d = await json(`data/bsl-oyuncu/${id}.json`);
+      ({ maclar, takim } = d);
+      const ust = document.getElementById('oyuncu-baslik');
+      if (ust) ust.innerHTML = `<strong>${kacis(d.ad)}</strong><small>${kacis(baslik(d.takim))} · BSL</small>`;
+    }
   } catch {
     // Dosya yoksa oyuncu bu sezon hiç maç kadrosuna girmemiştir
   }
@@ -338,10 +358,10 @@ async function oyuncuGecmisiDoldur(id) {
   const haftaya = new Map();
   for (const m of maclar) haftaya.set(m.hafta, [...(haftaya.get(m.hafta) ?? []), m]);
   const satirlar = [];
-  for (let h = veri.index.guncelHafta; h >= 1; h--) {
+  for (let h = ligBilgisi(lig).guncel; h >= 1; h--) {
     const hm = haftaya.get(h);
     if (!hm) {
-      satirlar.push(`<div class="satir oyuncu sayilmadi"><div class="ad"><strong>${h}. Hafta</strong><small>${macYokAciklamasi(h, veri.rehber[id]?.takim)}</small></div></div>`);
+      satirlar.push(`<div class="satir oyuncu sayilmadi"><div class="ad"><strong>${h}. Hafta</strong><small>${macYokAciklamasi(lig, h, takim)}</small></div></div>`);
       continue;
     }
     for (const m of hm) {
@@ -519,14 +539,13 @@ const KUTU_SUTUNLARI = [
   ['Rb', o => o.rib], ['As', o => o.ast], ['Tç', o => o.tc], ['Bl', o => o.blk], ['Tk', o => o.tk], ['F', o => o.faul], ['VP', o => o.vp],
 ];
 
-// BSL oyuncularının sayfası yok (oyuncu sayfaları TBL için)
 function kutuSkorTablosu(takim, lig = 'tbl') {
   const benim = sonKadro().find(t => t.ad === seciliTakim);
   const benimkiler = new Set([...(benim?.as ?? []), ...(benim?.yedek ?? [])].map(o => o.id));
   const satirlar = takim.oyuncular.map(o => {
     const oynadi = sureSn(o.sure) > 0;
     return `<tr class="${oynadi ? '' : 'oynamadi'} ${benimkiler.has(o.id) ? 'benim-oyuncu' : ''}">
-      <th>${lig === 'tbl' ? `<a href="#/oyuncu/${o.id}">` : ''}${o.ilk5 ? '<b>' : ''}${kacis(o.ad)}${o.ilk5 ? '</b>' : ''}${lig === 'tbl' ? '</a>' : ''}</th>
+      <th><a href="#/oyuncu/${o.id}${lig === 'bsl' ? '/bsl' : ''}">${o.ilk5 ? '<b>' : ''}${kacis(o.ad)}${o.ilk5 ? '</b>' : ''}</a></th>
       ${KUTU_SUTUNLARI.map(([, f]) => `<td>${kacis(f(o))}</td>`).join('')}
     </tr>`;
   }).join('');
@@ -596,23 +615,22 @@ function ciz() {
     return;
   }
   const secimGecerli = sonKadro().some(t => t.ad === seciliTakim);
-  const gecerli = n => veri.index.haftalar.includes(n) ? n : sonHafta();
-  const gecerliTakim = n => takimHaftalari().includes(n) ? n : takimHaftasi(sonHafta());
+  const gecerliGorunen = n => gorunenHaftalar().includes(n) ? n : acilisHaftasi(sonHafta());
 
   let html, aktif = sekme, macHaftasi = null;
   if (sekme === 'secim' || (!secimGecerli && sekme !== 'takim')) { html = secimEkrani(); aktif = 'takimim'; }
   else if (sekme === 'genel') html = genelEkran();
-  else if (sekme === 'hafta') html = haftalikEkran(gecerli(Number(a)));
-  else if (sekme === 'takim') html = takimEkrani(decodeURIComponent(a ?? ''), gecerliTakim(Number(b)), false);
+  else if (sekme === 'hafta') html = haftalikEkran(gecerliGorunen(Number(a)));
+  else if (sekme === 'takim') html = takimEkrani(decodeURIComponent(a ?? ''), gecerliGorunen(Number(b)), false);
   else if (sekme === 'bostakiler') html = bostakilerEkrani(a);
-  else if (sekme === 'oyuncu') html = oyuncuEkrani(a);
+  else if (sekme === 'oyuncu') html = oyuncuEkrani(a, b === 'bsl' ? 'bsl' : 'tbl');
   else if (sekme === 'maclar') {
     macHaftasi = macRotasi(a, b);
     gosterilenMaclar = `${macHaftasi.lig}-${macHaftasi.n}`;
     html = maclarEkrani(macHaftasi.lig, macHaftasi.n);
   }
   else if (sekme === 'mac') { html = macEkrani(); aktif = 'maclar'; }
-  else { html = takimEkrani(seciliTakim, gecerliTakim(Number(a)), true); aktif = 'takimim'; }
+  else { html = takimEkrani(seciliTakim, gecerliGorunen(Number(a)), true); aktif = 'takimim'; }
   // Otomatik yenileme arama kutusuna yazarken odağı kaçırmasın
   const aramaOdakta = document.activeElement?.id === 'arama';
   icerik.innerHTML = html;
@@ -620,7 +638,7 @@ function ciz() {
     bostakilerBagla(a);
     if (aramaOdakta) document.getElementById('arama').focus();
   }
-  if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a);
+  if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a, b === 'bsl' ? 'bsl' : 'tbl');
   if (sekme === 'mac') macDetayDoldur(a);
   if (macHaftasi) {
     haftaCipiniGoster();
