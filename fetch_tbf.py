@@ -348,14 +348,22 @@ def main():
     mac_gunleri = {m["tarih"][:10] for m in guncel_maclar}
     # Maç saatleri: telefon "şu an bir maç saatinde miyiz?" sorusunu internete çıkmadan bunlardan cevaplar
     mac_saatleri = [{"tarih": m["tarih"], "bitti": m["durum"] == "bitti"} for m in guncel_maclar]
-    tbl_son = guncel
+    tbl_son, siradaki = guncel, None
     if any(int(h["sezon_Hafta"]) == guncel + 1 for h in haftalar):
         sonraki = api(f"/Match/get-all-matches-for-filter?ActivityId={LIG_ID}&WeekFilter={guncel + 1}&Page=1&PageSize=-1")
         mac_gunleri |= {m["matchDate"][:10] for m in sonraki}
         mac_saatleri += [{"tarih": m["matchDate"], "bitti": m["matchStatusId"] == DURUM_BITTI} for m in sonraki]
         # Maçlar sekmesinde gelecek haftanın fikstürü de görünsün
         tbl_son = guncel + 1
-        lig_haftasi_yaz("tbl", tbl_son, [mac_kaydi(m, tbl_son, "tbl") for m in sorted(sonraki, key=lambda x: x["matchDate"])])
+        sonraki_maclar = [mac_kaydi(m, tbl_son, "tbl") for m in sorted(sonraki, key=lambda x: x["matchDate"])]
+        lig_haftasi_yaz("tbl", tbl_son, sonraki_maclar)
+        # Takım sayfaları, sıradaki haftanın ilk maçından önceki Perşembe'den itibaren o haftanın
+        # kadrosunu gösterir (puanlamaya girmez; hafta başlayınca bu dosya gerçek veriyle yazılır)
+        if sonraki_maclar and tbl_son >= baslangic:
+            json_yaz(SITE_DATA / "hafta" / f"{tbl_son}.json", {"hafta": tbl_son, "maclar": sonraki_maclar, "oyuncular": {}})
+            ilk = datetime.fromisoformat(sonraki_maclar[0]["tarih"])
+            persembe = ilk.date() - timedelta(days=(ilk.weekday() - 3) % 7)
+            siradaki = {"hafta": tbl_son, "gosterim": f"{persembe.isoformat()}T00:00:00+03:00"}
 
     # Maçlar sekmesi: TBL'nin bütün haftaları ve BSL. BSL alınamazsa önceki BSL verisi kalır.
     maclar_index = {"tbl": {"haftalar": list(range(1, tbl_son + 1)), "guncel": guncel}}
@@ -396,6 +404,7 @@ def main():
         "macGunleri": sorted(mac_gunleri),
         "macSaatleri": sorted(mac_saatleri, key=lambda x: x["tarih"]),
         "maclar": maclar_index,
+        "siradaki": siradaki,
     })
     print(f"Oyuncu rehberi: {len(rehber)} oyuncu. Tamamlandı.")
 
