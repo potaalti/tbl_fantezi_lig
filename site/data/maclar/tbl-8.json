@@ -7,13 +7,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-23T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "FENERBAHÇE GELİŞİM",
    "dep": "OGM ORMANSPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "35",
+   "depSkor": "46",
    "salon": "Fenerbahçe Metro Enerji Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 3,
+    "saat": "10:00",
+    "uzatma": false
+   }
   },
   {
    "id": 345971,
