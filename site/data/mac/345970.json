@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE GELİŞİM",
-  "skor": "65",
+  "skor": "66",
   "oyuncular": [
    {
     "id": "777243",
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "22:59",
+    "sure": "23:42",
     "sayi": 10,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 4,
-    "pm": "4",
+    "pm": "1",
     "vp": 10
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "33:46",
+    "sure": "34:29",
     "sayi": 13,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "5",
+    "pm": "2",
     "vp": 9
    },
    {
@@ -73,19 +73,19 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": true,
-    "sure": "18:09",
-    "sayi": 6,
+    "sure": "18:52",
+    "sayi": 7,
     "iki": [
      3,
-     4
+     5
     ],
     "uc": [
      0,
      3
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 3,
     "sr": 0,
@@ -94,16 +94,16 @@
     "tc": 1,
     "blk": 0,
     "tk": 2,
-    "faul": 3,
-    "pm": "-10",
-    "vp": 6
+    "faul": 4,
+    "pm": "-13",
+    "vp": 5
    },
    {
     "id": "777244",
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "32:12",
+    "sure": "32:55",
     "sayi": 12,
     "iki": [
      4,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "3",
+    "pm": "0",
     "vp": 18
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "21:17",
+    "sure": "22:00",
     "sayi": 1,
     "iki": [
      0,
@@ -365,7 +365,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "2",
     "vp": 7
    }
   ],
@@ -373,12 +373,12 @@
    16,
    19,
    19,
-   11
+   12
   ]
  },
  "dep": {
   "ad": "OGM ORMANSPOR",
-  "skor": "68",
+  "skor": "72",
   "oyuncular": [
    {
     "id": "109594",
@@ -415,7 +415,7 @@
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "30:02",
+    "sure": "30:45",
     "sayi": 14,
     "iki": [
      3,
@@ -430,22 +430,22 @@
      5
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
-    "ast": 5,
+    "sr": 5,
+    "rib": 5,
+    "ast": 6,
     "tc": 2,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
-    "vp": 17
+    "pm": "-2",
+    "vp": 19
    },
    {
     "id": "251001",
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "21:48",
+    "sure": "22:31",
     "sayi": 2,
     "iki": [
      1,
@@ -464,18 +464,18 @@
     "rib": 8,
     "ast": 3,
     "tc": 0,
-    "blk": 3,
+    "blk": 4,
     "tk": 1,
     "faul": 0,
-    "pm": "11",
-    "vp": 10
+    "pm": "14",
+    "vp": 11
    },
    {
     "id": "60048",
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "19:28",
+    "sure": "20:11",
     "sayi": 7,
     "iki": [
      1,
@@ -497,7 +497,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "2",
+    "pm": "5",
     "vp": 8
    },
    {
@@ -505,11 +505,11 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "30:55",
-    "sayi": 23,
+    "sure": "31:38",
+    "sayi": 25,
     "iki": [
-     5,
-     11
+     6,
+     12
     ],
     "uc": [
      2,
@@ -527,8 +527,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "17",
-    "vp": 20
+    "pm": "20",
+    "vp": 22
    },
    {
     "id": "386652",
@@ -565,8 +565,8 @@
     "ad": "Yağız Baykurt",
     "no": "2",
     "ilk5": false,
-    "sure": "15:06",
-    "sayi": 10,
+    "sure": "15:49",
+    "sayi": 12,
     "iki": [
      3,
      3
@@ -576,8 +576,8 @@
      1
     ],
     "sa": [
-     4,
-     5
+     6,
+     7
     ],
     "hr": 0,
     "sr": 0,
@@ -587,8 +587,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "11",
-    "vp": 9
+    "pm": "14",
+    "vp": 11
    },
    {
     "id": "354791",
@@ -715,16 +715,16 @@
    29,
    17,
    11,
-   11
+   15
   ]
  },
- "evSkor": "65",
- "depSkor": "68",
+ "evSkor": "66",
+ "depSkor": "72",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "02:55",
+  "saat": "02:12",
   "uzatma": false
  }
 }
