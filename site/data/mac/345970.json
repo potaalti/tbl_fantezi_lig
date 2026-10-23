@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE GELİŞİM",
-  "skor": "56",
+  "skor": "59",
   "oyuncular": [
    {
     "id": "777243",
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "18:43",
+    "sure": "19:00",
     "sayi": 8,
     "iki": [
      3,
@@ -30,20 +30,20 @@
     "hr": 1,
     "sr": 0,
     "rib": 1,
-    "ast": 4,
+    "ast": 5,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 4,
     "pm": "2",
-    "vp": 8
+    "vp": 9
    },
    {
     "id": "318204",
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "29:30",
+    "sure": "29:47",
     "sayi": 13,
     "iki": [
      2,
@@ -103,7 +103,7 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "27:56",
+    "sure": "28:13",
     "sayi": 8,
     "iki": [
      2,
@@ -124,7 +124,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "1",
     "vp": 12
    },
@@ -313,15 +313,15 @@
     "ad": "Ömer Yusuf Şık",
     "no": "13",
     "ilk5": false,
-    "sure": "7:45",
-    "sayi": 5,
+    "sure": "8:02",
+    "sayi": 8,
     "iki": [
      1,
      1
     ],
     "uc": [
-     1,
-     1
+     2,
+     2
     ],
     "sa": [
      0,
@@ -336,14 +336,14 @@
     "tk": 0,
     "faul": 1,
     "pm": "5",
-    "vp": 6
+    "vp": 9
    },
    {
     "id": "378297",
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "17:01",
+    "sure": "17:18",
     "sayi": 1,
     "iki": [
      0,
@@ -373,19 +373,19 @@
    16,
    19,
    19,
-   2
+   5
   ]
  },
  "dep": {
   "ad": "OGM ORMANSPOR",
-  "skor": "61",
+  "skor": "64",
   "oyuncular": [
    {
     "id": "109594",
     "ad": "Göktürk Gökalp Ural",
     "no": "4",
     "ilk5": true,
-    "sure": "18:34",
+    "sure": "18:51",
     "sayi": 2,
     "iki": [
      1,
@@ -415,7 +415,7 @@
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "25:46",
+    "sure": "26:03",
     "sayi": 14,
     "iki": [
      3,
@@ -445,7 +445,7 @@
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "17:32",
+    "sure": "17:49",
     "sayi": 2,
     "iki": [
      1,
@@ -475,7 +475,7 @@
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "15:12",
+    "sure": "15:29",
     "sayi": 5,
     "iki": [
      1,
@@ -505,19 +505,19 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "26:39",
-    "sayi": 20,
+    "sure": "26:56",
+    "sayi": 23,
     "iki": [
-     4,
-     9
+     5,
+     10
     ],
     "uc": [
      2,
      5
     ],
     "sa": [
-     6,
-     6
+     7,
+     7
     ],
     "hr": 1,
     "sr": 5,
@@ -528,7 +528,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "19",
-    "vp": 18
+    "vp": 21
    },
    {
     "id": "386652",
@@ -715,16 +715,16 @@
    29,
    17,
    11,
-   4
+   7
   ]
  },
- "evSkor": "56",
- "depSkor": "61",
+ "evSkor": "59",
+ "depSkor": "64",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "07:16",
+  "saat": "06:54",
   "uzatma": false
  }
 }
