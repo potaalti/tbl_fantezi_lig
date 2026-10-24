@@ -20,13 +20,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T15:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "7",
+   "depSkor": "3",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "07:24",
+    "uzatma": false
+   }
   },
   {
    "id": 345975,
