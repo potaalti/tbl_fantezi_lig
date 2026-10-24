@@ -22,13 +22,13 @@
    "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": "50",
+   "evSkor": "52",
    "depSkor": "53",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 3,
-    "saat": "08:30",
+    "saat": "06:45",
     "uzatma": false
    }
   },
@@ -40,13 +40,13 @@
    "durum": "canli",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": "4",
-   "depSkor": "2",
+   "evSkor": "10",
+   "depSkor": "8",
    "salon": "Gölbaşı Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 1,
-    "saat": "08:23",
+    "saat": "06:14",
     "uzatma": false
    }
   },
@@ -327,8 +327,8 @@
   "223836": {
    "ad": "Eray Akyüz",
    "takim": "iLab BASKETBOL",
-   "vp": 21,
-   "saniye": 1169,
+   "vp": 24,
+   "saniye": 1280,
    "maclar": [
     345971
    ]
@@ -345,8 +345,8 @@
   "285246": {
    "ad": "Batuhan Acar",
    "takim": "iLab BASKETBOL",
-   "vp": 0,
-   "saniye": 734,
+   "vp": -1,
+   "saniye": 845,
    "maclar": [
     345971
    ]
@@ -354,8 +354,8 @@
   "257839": {
    "ad": "Cihat Dalgalı",
    "takim": "iLab BASKETBOL",
-   "vp": 10,
-   "saniye": 1074,
+   "vp": 11,
+   "saniye": 1185,
    "maclar": [
     345971
    ]
@@ -364,7 +364,7 @@
    "ad": "Jeremiah Lamonure Tilmon Jr",
    "takim": "iLab BASKETBOL",
    "vp": 8,
-   "saniye": 993,
+   "saniye": 1104,
    "maclar": [
     345971
    ]
@@ -390,8 +390,8 @@
   "231062": {
    "ad": "Can Kaan Turgut",
    "takim": "iLab BASKETBOL",
-   "vp": 4,
-   "saniye": 646,
+   "vp": 5,
+   "saniye": 757,
    "maclar": [
     345971
    ]
@@ -435,8 +435,8 @@
   "430940": {
    "ad": "Jacob Pullen",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 13,
-   "saniye": 1046,
+   "vp": 12,
+   "saniye": 1157,
    "maclar": [
     345971
    ]
@@ -445,7 +445,7 @@
    "ad": "Bora Satır",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 19,
-   "saniye": 955,
+   "saniye": 1016,
    "maclar": [
     345971
    ]
@@ -454,7 +454,7 @@
    "ad": "Ramazan Tekin",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 10,
-   "saniye": 1014,
+   "saniye": 1125,
    "maclar": [
     345971
    ]
@@ -462,8 +462,8 @@
   "110163": {
    "ad": "Atakan Akçam",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 6,
-   "saniye": 524,
+   "vp": 7,
+   "saniye": 635,
    "maclar": [
     345971
    ]
@@ -471,8 +471,8 @@
   "284498": {
    "ad": "İnanç Mert Hotamış",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 6,
-   "saniye": 913,
+   "vp": 5,
+   "saniye": 1024,
    "maclar": [
     345971
    ]
@@ -499,7 +499,7 @@
    "ad": "Tyler Harris",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": -1,
-   "saniye": 510,
+   "saniye": 560,
    "maclar": [
     345971
    ]
@@ -543,8 +543,8 @@
   "776821": {
    "ad": "Vitalis Chikoko",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 2,
-   "saniye": 97,
+   "vp": 6,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -552,8 +552,8 @@
   "46863": {
    "ad": "Caner Ercan",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 1,
-   "saniye": 97,
+   "vp": 0,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -562,7 +562,7 @@
    "ad": "Tan Ayyıldız",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 2,
-   "saniye": 97,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -570,8 +570,8 @@
   "500443": {
    "ad": "Maurice Watson Jr.",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 1,
-   "saniye": 97,
+   "vp": 2,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -579,8 +579,8 @@
   "222696": {
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": -1,
-   "saniye": 97,
+   "vp": 4,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -642,8 +642,8 @@
   "776537": {
    "ad": "Samuel Lee Sessoms",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 0,
-   "saniye": 97,
+   "vp": 1,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -652,7 +652,7 @@
    "ad": "Berke Aygündüz",
    "takim": "YALOVA HAREM SPOR",
    "vp": 0,
-   "saniye": 97,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -661,7 +661,7 @@
    "ad": "Abdoulaye Gueye",
    "takim": "YALOVA HAREM SPOR",
    "vp": 1,
-   "saniye": 97,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -669,8 +669,8 @@
   "221455": {
    "ad": "Hakan Yapar",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 0,
-   "saniye": 97,
+   "vp": 2,
+   "saniye": 237,
    "maclar": [
     345975
    ]
@@ -678,8 +678,8 @@
   "304808": {
    "ad": "Ege Özçelik",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 1,
-   "saniye": 97,
+   "vp": 4,
+   "saniye": 237,
    "maclar": [
     345975
    ]
