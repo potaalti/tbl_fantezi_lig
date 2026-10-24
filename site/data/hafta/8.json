@@ -63,13 +63,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T19:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "FİNALSPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "4",
+   "depSkor": "4",
    "salon": "TOBB ETÜ Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:19",
+    "uzatma": false
+   }
   },
   {
    "id": 345974,
@@ -938,6 +943,222 @@
    "saniye": 290,
    "maclar": [
     345968
+   ]
+  },
+  "257055": {
+   "ad": "Zahid İsaoğlu",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "332037": {
+   "ad": "Emir Apaydın",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "500173": {
+   "ad": "Kahlil Dukes",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "380032": {
+   "ad": "Arda Birkeser",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 3,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "271660": {
+   "ad": "Eric Buckner",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 2,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "460265": {
+   "ad": "Efe Kemal Akayın",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "27582": {
+   "ad": "Hazer Avcı",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "207867": {
+   "ad": "Mert Konuk",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "261226": {
+   "ad": "Efe Sert",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "350568": {
+   "ad": "Bora Can Işık",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "209010": {
+   "ad": "Oktay Güneş",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "401353": {
+   "ad": "Mert Can Yılmam",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "753710": {
+   "ad": "Fredrick Earl Cleveland",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "229599": {
+   "ad": "Ali Efe Barış",
+   "takim": "FİNALSPOR",
+   "vp": 3,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "117624": {
+   "ad": "İlker Tunalı",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "224189": {
+   "ad": "Arda Berk Kaya",
+   "takim": "FİNALSPOR",
+   "vp": 2,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "275328": {
+   "ad": "Gökay Hacıoğlu",
+   "takim": "FİNALSPOR",
+   "vp": 3,
+   "saniye": 101,
+   "maclar": [
+    345973
+   ]
+  },
+  "222762": {
+   "ad": "Can Özcan",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "345440": {
+   "ad": "Can Çevikel",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "776569": {
+   "ad": "Karl Gamble",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "318194": {
+   "ad": "Başar Şener",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "98663": {
+   "ad": "Tayfun Erülkü",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "267856": {
+   "ad": "Mithat Can Özalp",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
+   ]
+  },
+  "363941": {
+   "ad": "Ali Taşkın",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345973
    ]
   }
  }
