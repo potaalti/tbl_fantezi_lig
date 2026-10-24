@@ -6,22 +6,22 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "41",
+  "skor": "44",
   "oyuncular": [
    {
     "id": "223836",
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "16:50",
-    "sayi": 17,
+    "sure": "17:59",
+    "sayi": 20,
     "iki": [
      6,
      8
     ],
     "uc": [
-     1,
-     2
+     2,
+     3
     ],
     "sa": [
      2,
@@ -33,10 +33,10 @@
     "ast": 2,
     "tc": 1,
     "blk": 0,
-    "tk": 5,
+    "tk": 6,
     "faul": 0,
-    "pm": "-12",
-    "vp": 13
+    "pm": "-11",
+    "vp": 15
    },
    {
     "id": "419692",
@@ -73,7 +73,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "9:35",
+    "sure": "10:44",
     "sayi": 0,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-9",
+    "pm": "-8",
     "vp": 0
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "13:54",
+    "sure": "15:03",
     "sayi": 4,
     "iki": [
      2,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-8",
+    "pm": "-7",
     "vp": 6
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "14:31",
+    "sure": "15:40",
     "sayi": 8,
     "iki": [
      1,
@@ -171,22 +171,22 @@
     ],
     "uc": [
      2,
-     4
+     5
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
-    "ast": 4,
+    "sr": 3,
+    "rib": 3,
+    "ast": 5,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-7",
-    "vp": 11
+    "pm": "-6",
+    "vp": 12
    },
    {
     "id": "454037",
@@ -313,7 +313,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": false,
-    "sure": "4:57",
+    "sure": "6:06",
     "sayi": 2,
     "iki": [
      1,
@@ -335,7 +335,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 3
    },
    {
@@ -371,12 +371,12 @@
   ],
   "ceyrekler": [
    24,
-   17
+   20
   ]
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "51",
+  "skor": "53",
   "oyuncular": [
    {
     "id": "430940",
@@ -413,15 +413,15 @@
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "13:16",
-    "sayi": 10,
+    "sure": "14:25",
+    "sayi": 12,
     "iki": [
-     2,
-     2
+     3,
+     3
     ],
     "uc": [
      2,
-     2
+     3
     ],
     "sa": [
      0,
@@ -431,19 +431,19 @@
     "sr": 2,
     "rib": 2,
     "ast": 5,
-    "tc": 3,
+    "tc": 4,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "15",
-    "vp": 19
+    "pm": "14",
+    "vp": 21
    },
    {
     "id": "72610",
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "14:15",
+    "sure": "15:24",
     "sayi": 6,
     "iki": [
      3,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "10",
+    "pm": "9",
     "vp": 10
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": true,
-    "sure": "6:05",
+    "sure": "7:14",
     "sayi": 3,
     "iki": [
      0,
@@ -495,7 +495,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "10",
+    "pm": "9",
     "vp": 6
    },
    {
@@ -533,7 +533,7 @@
     "ad": "Tolga Kay",
     "no": "1",
     "ilk5": false,
-    "sure": "4:57",
+    "sure": "6:06",
     "sayi": 0,
     "iki": [
      0,
@@ -555,7 +555,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
+    "pm": "1",
     "vp": 1
    },
    {
@@ -623,7 +623,7 @@
     "ad": "İbrahim Pınarer",
     "no": "10",
     "ilk5": false,
-    "sure": "1:26",
+    "sure": "2:35",
     "sayi": 2,
     "iki": [
      1,
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "1",
     "vp": 2
    },
    {
@@ -741,16 +741,16 @@
   ],
   "ceyrekler": [
    20,
-   31
+   33
   ]
  },
- "evSkor": "41",
- "depSkor": "51",
+ "evSkor": "44",
+ "depSkor": "53",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:09",
+  "saat": "00:00",
   "uzatma": false
  }
 }
