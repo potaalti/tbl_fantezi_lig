@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "67",
+  "skor": "70",
   "oyuncular": [
    {
     "id": "223836",
@@ -43,15 +43,15 @@
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": true,
-    "sure": "7:55",
-    "sayi": 2,
+    "sure": "8:55",
+    "sayi": 5,
     "iki": [
      0,
      1
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      2,
@@ -65,8 +65,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "-2",
-    "vp": 3
+    "pm": "-1",
+    "vp": 6
    },
    {
     "id": "285246",
@@ -133,7 +133,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "25:01",
+    "sure": "26:01",
     "sayi": 10,
     "iki": [
      5,
@@ -155,7 +155,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 2,
-    "pm": "2",
+    "pm": "3",
     "vp": 15
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "18:59",
+    "sure": "19:59",
     "sayi": 8,
     "iki": [
      1,
@@ -183,10 +183,10 @@
     "ast": 5,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 1,
-    "pm": "-3",
-    "vp": 10
+    "pm": "-2",
+    "vp": 9
    },
    {
     "id": "454037",
@@ -223,7 +223,7 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "17:53",
+    "sure": "18:53",
     "sayi": 7,
     "iki": [
      3,
@@ -244,8 +244,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
-    "pm": "6",
+    "faul": 3,
+    "pm": "7",
     "vp": 5
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": false,
-    "sure": "6:52",
+    "sure": "7:52",
     "sayi": 2,
     "iki": [
      1,
@@ -330,13 +330,13 @@
     "hr": 1,
     "sr": 1,
     "rib": 2,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "1",
-    "vp": 3
+    "faul": 1,
+    "pm": "2",
+    "vp": 4
    },
    {
     "id": "393623",
@@ -373,20 +373,20 @@
    24,
    20,
    23,
-   0
+   3
   ]
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "65",
+  "skor": "67",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "25:14",
-    "sayi": 17,
+    "sure": "26:14",
+    "sayi": 19,
     "iki": [
      3,
      5
@@ -396,19 +396,19 @@
      8
     ],
     "sa": [
-     5,
-     6
+     7,
+     9
     ],
     "hr": 0,
     "sr": 1,
     "rib": 1,
     "ast": 4,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-6",
-    "vp": 11
+    "pm": "-7",
+    "vp": 13
    },
    {
     "id": "260898",
@@ -445,7 +445,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "25:22",
+    "sure": "26:22",
     "sayi": 6,
     "iki": [
      3,
@@ -467,7 +467,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 11
    },
    {
@@ -565,7 +565,7 @@
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "7:09",
+    "sure": "8:09",
     "sayi": 5,
     "iki": [
      1,
@@ -587,7 +587,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 3
    },
    {
@@ -595,7 +595,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": false,
-    "sure": "16:21",
+    "sure": "17:21",
     "sayi": 8,
     "iki": [
      1,
@@ -617,7 +617,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-7",
     "vp": 4
    },
    {
@@ -625,7 +625,7 @@
     "ad": "İbrahim Pınarer",
     "no": "10",
     "ilk5": false,
-    "sure": "4:01",
+    "sure": "5:01",
     "sayi": 2,
     "iki": [
      1,
@@ -647,7 +647,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "6",
+    "pm": "5",
     "vp": 1
    },
    {
@@ -745,16 +745,16 @@
    20,
    33,
    12,
-   0
+   2
   ]
  },
- "evSkor": "67",
- "depSkor": "65",
+ "evSkor": "70",
+ "depSkor": "67",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "09:38",
+  "saat": "08:38",
   "uzatma": false
  }
 }
