@@ -41,7 +41,7 @@
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 4,
-    "saat": "06:34",
+    "saat": "05:33",
     "uzatma": false
    }
   },
@@ -50,13 +50,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KİPAŞ K.B.B.",
    "dep": "MERSİN SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "6",
    "salon": "Kahramanmaraş Merkez Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:04",
+    "uzatma": false
+   }
   },
   {
    "id": 345973,
@@ -539,7 +544,7 @@
    "ad": "Vitalis Chikoko",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 15,
-   "saniye": 1446,
+   "saniye": 1452,
    "maclar": [
     345975
    ]
@@ -547,8 +552,8 @@
   "46863": {
    "ad": "Caner Ercan",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 4,
-   "saniye": 1254,
+   "vp": 3,
+   "saniye": 1315,
    "maclar": [
     345975
    ]
@@ -556,8 +561,8 @@
   "380030": {
    "ad": "Tan Ayyıldız",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 4,
-   "saniye": 1226,
+   "vp": 5,
+   "saniye": 1287,
    "maclar": [
     345975
    ]
@@ -566,7 +571,7 @@
    "ad": "Maurice Watson Jr.",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 3,
-   "saniye": 1905,
+   "saniye": 1923,
    "maclar": [
     345975
    ]
@@ -575,7 +580,7 @@
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 10,
-   "saniye": 1685,
+   "saniye": 1746,
    "maclar": [
     345975
    ]
@@ -620,7 +625,7 @@
    "ad": "Doğukan Seyhan",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 3,
-   "saniye": 683,
+   "saniye": 726,
    "maclar": [
     345975
    ]
@@ -628,8 +633,8 @@
   "223180": {
    "ad": "Gökhan Yazıcıoğlu",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 7,
-   "saniye": 575,
+   "vp": 6,
+   "saniye": 630,
    "maclar": [
     345975
    ]
@@ -637,8 +642,8 @@
   "776537": {
    "ad": "Samuel Lee Sessoms",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 5,
-   "saniye": 1618,
+   "vp": 4,
+   "saniye": 1679,
    "maclar": [
     345975
    ]
@@ -656,7 +661,7 @@
    "ad": "Abdoulaye Gueye",
    "takim": "YALOVA HAREM SPOR",
    "vp": 13,
-   "saniye": 1657,
+   "saniye": 1718,
    "maclar": [
     345975
    ]
@@ -664,8 +669,8 @@
   "221455": {
    "ad": "Hakan Yapar",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 17,
-   "saniye": 1264,
+   "vp": 18,
+   "saniye": 1325,
    "maclar": [
     345975
    ]
@@ -692,7 +697,7 @@
    "ad": "Ege Havsa",
    "takim": "YALOVA HAREM SPOR",
    "vp": 14,
-   "saniye": 1228,
+   "saniye": 1289,
    "maclar": [
     345975
    ]
@@ -710,7 +715,7 @@
    "ad": "Atakan Şahinkaya",
    "takim": "YALOVA HAREM SPOR",
    "vp": 3,
-   "saniye": 352,
+   "saniye": 413,
    "maclar": [
     345975
    ]
@@ -740,6 +745,204 @@
    "saniye": 1057,
    "maclar": [
     345975
+   ]
+  },
+  "777125": {
+   "ad": "Brandon Miguel Jefferson",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "214552": {
+   "ad": "Burak Gözeneli",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 1,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "277425": {
+   "ad": "Koray Çekici",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 1,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "305920": {
+   "ad": "Batın Tuna",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": -1,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "777124": {
+   "ad": "Ikechukwu Mykal Nweke",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 2,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "782948": {
+   "ad": "Kaya Bayram",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "229233": {
+   "ad": "Baran Avşar",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "354964": {
+   "ad": "Arda Özdoğan",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "202113": {
+   "ad": "Deniz Çelen",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "457130": {
+   "ad": "Ahmet Karaman",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "777508": {
+   "ad": "Kruize Pinkins",
+   "takim": "MERSİN SPOR",
+   "vp": 6,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "225810": {
+   "ad": "Troy Şav",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "130546": {
+   "ad": "Arca Tülüoğlu",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "632441": {
+   "ad": "Mike Smith",
+   "takim": "MERSİN SPOR",
+   "vp": 2,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "123649": {
+   "ad": "Alp Karahan",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 115,
+   "maclar": [
+    345968
+   ]
+  },
+  "320264": {
+   "ad": "Turan Altunbaş",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "431495": {
+   "ad": "Berat Ege Bulut",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "379811": {
+   "ad": "Işık Ali Akpınar",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "61192": {
+   "ad": "Dorukhan Engindeniz",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "214924": {
+   "ad": "Yesukan Onar",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "132341": {
+   "ad": "Kaan Sarıaslan",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
+   ]
+  },
+  "202372": {
+   "ad": "Yiğit Baran Sarıkaya",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345968
    ]
   }
  }

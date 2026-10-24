@@ -13,7 +13,7 @@
     "ad": "Vitalis Chikoko",
     "no": "5",
     "ilk5": true,
-    "sure": "24:06",
+    "sure": "24:12",
     "sayi": 12,
     "iki": [
      6,
@@ -43,11 +43,11 @@
     "ad": "Caner Ercan",
     "no": "7",
     "ilk5": true,
-    "sure": "20:54",
+    "sure": "21:55",
     "sayi": 3,
     "iki": [
      0,
-     3
+     4
     ],
     "uc": [
      1,
@@ -66,14 +66,14 @@
     "tk": 2,
     "faul": 3,
     "pm": "-2",
-    "vp": 4
+    "vp": 3
    },
    {
     "id": "380030",
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "20:26",
+    "sure": "21:27",
     "sayi": 4,
     "iki": [
      1,
@@ -88,22 +88,22 @@
      4
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 2,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 1,
     "pm": "-5",
-    "vp": 4
+    "vp": 5
    },
    {
     "id": "500443",
     "ad": "Maurice Watson Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "31:45",
+    "sure": "32:03",
     "sayi": 8,
     "iki": [
      3,
@@ -124,7 +124,7 @@
     "tc": 2,
     "blk": 0,
     "tk": 2,
-    "faul": 3,
+    "faul": 4,
     "pm": "-8",
     "vp": 3
    },
@@ -133,7 +133,7 @@
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "28:05",
+    "sure": "29:06",
     "sayi": 8,
     "iki": [
      1,
@@ -283,7 +283,7 @@
     "ad": "Doğukan Seyhan",
     "no": "33",
     "ilk5": false,
-    "sure": "11:23",
+    "sure": "12:06",
     "sayi": 2,
     "iki": [
      1,
@@ -313,7 +313,7 @@
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": false,
-    "sure": "9:35",
+    "sure": "10:30",
     "sayi": 8,
     "iki": [
      1,
@@ -321,7 +321,7 @@
     ],
     "uc": [
      2,
-     4
+     5
     ],
     "sa": [
      0,
@@ -336,7 +336,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 7
+    "vp": 6
    }
   ],
   "ceyrekler": [
@@ -355,11 +355,11 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "26:58",
+    "sure": "27:59",
     "sayi": 5,
     "iki": [
      2,
-     6
+     7
     ],
     "uc": [
      0,
@@ -378,7 +378,7 @@
     "tk": 2,
     "faul": 3,
     "pm": "7",
-    "vp": 5
+    "vp": 4
    },
    {
     "id": "196310",
@@ -415,7 +415,7 @@
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "27:37",
+    "sure": "28:38",
     "sayi": 14,
     "iki": [
      7,
@@ -445,7 +445,7 @@
     "ad": "Hakan Yapar",
     "no": "15",
     "ilk5": true,
-    "sure": "21:04",
+    "sure": "22:05",
     "sayi": 11,
     "iki": [
      4,
@@ -460,15 +460,15 @@
      1
     ],
     "hr": 0,
-    "sr": 5,
-    "rib": 5,
+    "sr": 6,
+    "rib": 6,
     "ast": 5,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 17
+    "vp": 18
    },
    {
     "id": "304808",
@@ -535,7 +535,7 @@
     "ad": "Ege Havsa",
     "no": "5",
     "ilk5": false,
-    "sure": "20:28",
+    "sure": "21:29",
     "sayi": 14,
     "iki": [
      1,
@@ -595,11 +595,11 @@
     "ad": "Atakan Şahinkaya",
     "no": "9",
     "ilk5": false,
-    "sure": "5:52",
+    "sure": "6:53",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
@@ -610,8 +610,8 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 1,
     "blk": 0,
@@ -724,7 +724,7 @@
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 4,
-  "saat": "06:34",
+  "saat": "05:33",
   "uzatma": false
  }
 }
