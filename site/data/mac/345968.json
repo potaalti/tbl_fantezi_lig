@@ -3,14 +3,14 @@
  "lig": "tbl",
  "hafta": 8,
  "tarih": "2026-10-24T18:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "KİPAŞ K.B.B.",
   "skor": "73",
   "oyuncular": [
    {
     "id": "777125",
-    "ad": "Brandon Miguel Jefferson",
+    "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": true,
     "sure": "37:53",
@@ -130,7 +130,7 @@
    },
    {
     "id": "777124",
-    "ad": "Ikechukwu Mykal Nweke",
+    "ad": "Ike Nweke",
     "no": "15",
     "ilk5": true,
     "sure": "26:00",
@@ -691,10 +691,5 @@
  "evSkor": "73",
  "depSkor": "85",
  "salon": "Kahramanmaraş Merkez Spor Salonu",
- "yayin": "Youtube / TBF TV",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "Youtube / TBF TV"
 }
