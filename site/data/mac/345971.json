@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "27",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "223836",
@@ -43,7 +43,7 @@
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": true,
-    "sure": "4:20",
+    "sure": "5:45",
     "sayi": 0,
     "iki": [
      0,
@@ -64,8 +64,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "-3",
+    "faul": 3,
+    "pm": "-1",
     "vp": 1
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": true,
-    "sure": "11:52",
+    "sure": "12:55",
     "sayi": 4,
     "iki": [
      0,
@@ -117,16 +117,16 @@
      4,
      6
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 3,
-    "rib": 3,
+    "rib": 4,
     "ast": 0,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 5
+    "pm": "2",
+    "vp": 6
    },
    {
     "id": "776565",
@@ -163,7 +163,7 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "7:32",
+    "sure": "8:57",
     "sayi": 2,
     "iki": [
      1,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "5",
     "vp": 6
    },
    {
@@ -223,11 +223,11 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "3:52",
+    "sure": "5:17",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -245,8 +245,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 1
+    "pm": "4",
+    "vp": 0
    },
    {
     "id": "433761",
@@ -313,37 +313,37 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": false,
-    "sure": "0:23",
-    "sayi": 0,
+    "sure": "1:48",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
-     0
+     2
     ],
     "sa": [
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 0
+    "pm": "1",
+    "vp": 2
    },
    {
     "id": "393623",
     "ad": "Aybars Varlı",
     "no": "22",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:22",
     "sayi": 0,
     "iki": [
      0,
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    24,
-   3
+   5
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:22",
     "sayi": 3,
     "iki": [
      0,
@@ -413,7 +413,7 @@
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "8:29",
+    "sure": "9:32",
     "sayi": 8,
     "iki": [
      1,
@@ -433,17 +433,17 @@
     "ast": 4,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "8",
-    "vp": 14
+    "tk": 1,
+    "faul": 1,
+    "pm": "6",
+    "vp": 13
    },
    {
     "id": "72610",
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "9:52",
+    "sure": "10:55",
     "sayi": 6,
     "iki": [
      3,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
+    "pm": "4",
     "vp": 9
    },
    {
@@ -503,7 +503,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:22",
     "sayi": 3,
     "iki": [
      0,
@@ -533,7 +533,7 @@
     "ad": "Tolga Kay",
     "no": "1",
     "ilk5": false,
-    "sure": "0:23",
+    "sure": "1:48",
     "sayi": 0,
     "iki": [
      0,
@@ -541,7 +541,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -555,8 +555,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 0
+    "pm": "-1",
+    "vp": -1
    },
    {
     "id": "343659",
@@ -593,7 +593,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": false,
-    "sure": "5:15",
+    "sure": "6:40",
     "sayi": 0,
     "iki": [
      0,
@@ -608,15 +608,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-4",
-    "vp": -2
+    "pm": "-6",
+    "vp": -1
    },
    {
     "id": "201358",
@@ -713,7 +713,7 @@
     "ad": "Berat Çevik",
     "no": "38",
     "ilk5": false,
-    "sure": "1:52",
+    "sure": "3:17",
     "sayi": 0,
     "iki": [
      0,
@@ -735,7 +735,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "2",
     "vp": 0
    }
   ],
@@ -744,13 +744,13 @@
    7
   ]
  },
- "evSkor": "27",
+ "evSkor": "29",
  "depSkor": "27",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "08:17",
+  "saat": "06:43",
   "uzatma": false
  }
 }
