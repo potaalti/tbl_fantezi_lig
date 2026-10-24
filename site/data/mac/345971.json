@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "84",
+  "skor": "87",
   "oyuncular": [
    {
     "id": "223836",
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "30:18",
-    "sayi": 33,
+    "sure": "31:10",
+    "sayi": 36,
     "iki": [
      10,
      13
@@ -24,8 +24,8 @@
      5
     ],
     "sa": [
-     4,
-     5
+     7,
+     8
     ],
     "hr": 0,
     "sr": 4,
@@ -35,8 +35,8 @@
     "blk": 0,
     "tk": 6,
     "faul": 2,
-    "pm": "4",
-    "vp": 35
+    "pm": "2",
+    "vp": 38
    },
    {
     "id": "419692",
@@ -73,7 +73,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "21:59",
+    "sure": "22:51",
     "sayi": 2,
     "iki": [
      1,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "7",
+    "pm": "5",
     "vp": 4
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": true,
-    "sure": "28:51",
+    "sure": "29:43",
     "sayi": 10,
     "iki": [
      2,
@@ -125,7 +125,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 2,
-    "pm": "10",
+    "pm": "8",
     "vp": 17
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "30:50",
+    "sure": "31:42",
     "sayi": 13,
     "iki": [
      6,
@@ -155,7 +155,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 2,
-    "pm": "4",
+    "pm": "2",
     "vp": 17
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "23:42",
+    "sure": "24:34",
     "sayi": 7,
     "iki": [
      3,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "8",
+    "pm": "6",
     "vp": 6
    },
    {
@@ -373,27 +373,27 @@
    24,
    20,
    23,
-   17
+   20
   ]
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "80",
+  "skor": "85",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "31:03",
-    "sayi": 20,
+    "sure": "31:55",
+    "sayi": 23,
     "iki": [
      3,
      5
     ],
     "uc": [
-     2,
-     10
+     3,
+     11
     ],
     "sa": [
      8,
@@ -407,8 +407,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-8",
-    "vp": 13
+    "pm": "-6",
+    "vp": 16
    },
    {
     "id": "260898",
@@ -445,11 +445,11 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "31:11",
-    "sayi": 6,
+    "sure": "32:03",
+    "sayi": 8,
     "iki": [
-     3,
-     4
+     4,
+     5
     ],
     "uc": [
      0,
@@ -467,8 +467,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "-4",
-    "vp": 11
+    "pm": "-2",
+    "vp": 13
    },
    {
     "id": "110163",
@@ -505,7 +505,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "27:28",
+    "sure": "28:20",
     "sayi": 11,
     "iki": [
      3,
@@ -527,7 +527,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 3,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 12
    },
    {
@@ -565,7 +565,7 @@
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "12:58",
+    "sure": "13:50",
     "sayi": 13,
     "iki": [
      2,
@@ -587,7 +587,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-4",
     "vp": 8
    },
    {
@@ -595,7 +595,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": false,
-    "sure": "20:52",
+    "sure": "21:44",
     "sayi": 8,
     "iki": [
      1,
@@ -612,13 +612,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
-    "pm": "-10",
-    "vp": 5
+    "faul": 2,
+    "pm": "-8",
+    "vp": 6
    },
    {
     "id": "201358",
@@ -745,16 +745,16 @@
    20,
    33,
    12,
-   15
+   20
   ]
  },
- "evSkor": "84",
- "depSkor": "80",
+ "evSkor": "87",
+ "depSkor": "85",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "03:48",
+  "saat": "02:57",
   "uzatma": false
  }
 }
