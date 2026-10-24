@@ -32,18 +32,13 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T16:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "YALOVA HAREM SPOR",
    "evSkor": "66",
    "depSkor": "72",
    "salon": "Gölbaşı Spor Salonu",
-   "yayin": "HT SPOR",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "HT SPOR"
   },
   {
    "id": 345968,
@@ -54,12 +49,12 @@
    "ev": "KİPAŞ K.B.B.",
    "dep": "MERSİN SPOR",
    "evSkor": "20",
-   "depSkor": "28",
+   "depSkor": "30",
    "salon": "Kahramanmaraş Merkez Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "08:29",
+    "saat": "07:55",
     "uzatma": false
    }
   },
@@ -738,7 +733,7 @@
     345975
    ]
   },
-  "fiba-alihan-deniz-genc": {
+  "210252": {
    "ad": "Alihan Deniz Genç",
    "takim": "YALOVA HAREM SPOR",
    "vp": 8,
@@ -751,7 +746,7 @@
    "ad": "Brandon Miguel Jefferson",
    "takim": "KİPAŞ K.B.B.",
    "vp": 5,
-   "saniye": 593,
+   "saniye": 627,
    "maclar": [
     345968
    ]
@@ -760,7 +755,7 @@
    "ad": "Burak Gözeneli",
    "takim": "KİPAŞ K.B.B.",
    "vp": 5,
-   "saniye": 555,
+   "saniye": 589,
    "maclar": [
     345968
    ]
@@ -805,7 +800,7 @@
    "ad": "Baran Avşar",
    "takim": "KİPAŞ K.B.B.",
    "vp": 2,
-   "saniye": 470,
+   "saniye": 504,
    "maclar": [
     345968
    ]
@@ -813,8 +808,8 @@
   "354964": {
    "ad": "Arda Özdoğan",
    "takim": "KİPAŞ K.B.B.",
-   "vp": 0,
-   "saniye": 125,
+   "vp": -1,
+   "saniye": 159,
    "maclar": [
     345968
    ]
@@ -823,7 +818,7 @@
    "ad": "Deniz Çelen",
    "takim": "KİPAŞ K.B.B.",
    "vp": 3,
-   "saniye": 289,
+   "saniye": 323,
    "maclar": [
     345968
    ]
@@ -840,8 +835,8 @@
   "777508": {
    "ad": "Kruize Pinkins",
    "takim": "MERSİN SPOR",
-   "vp": 17,
-   "saniye": 508,
+   "vp": 18,
+   "saniye": 542,
    "maclar": [
     345968
    ]
@@ -859,7 +854,7 @@
    "ad": "Arca Tülüoğlu",
    "takim": "MERSİN SPOR",
    "vp": -1,
-   "saniye": 557,
+   "saniye": 591,
    "maclar": [
     345968
    ]
@@ -877,7 +872,7 @@
    "ad": "Alp Karahan",
    "takim": "MERSİN SPOR",
    "vp": 6,
-   "saniye": 600,
+   "saniye": 634,
    "maclar": [
     345968
    ]
@@ -931,7 +926,7 @@
    "ad": "Kaan Sarıaslan",
    "takim": "MERSİN SPOR",
    "vp": 0,
-   "saniye": 136,
+   "saniye": 170,
    "maclar": [
     345968
    ]
@@ -939,8 +934,8 @@
   "202372": {
    "ad": "Yiğit Baran Sarıkaya",
    "takim": "MERSİN SPOR",
-   "vp": -1,
-   "saniye": 196,
+   "vp": 1,
+   "saniye": 230,
    "maclar": [
     345968
    ]
