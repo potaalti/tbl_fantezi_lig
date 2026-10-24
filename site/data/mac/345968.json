@@ -6,22 +6,22 @@
  "durum": "canli",
  "ev": {
   "ad": "KİPAŞ K.B.B.",
-  "skor": "35",
+  "skor": "38",
   "oyuncular": [
    {
     "id": "777125",
     "ad": "Brandon Miguel Jefferson",
     "no": "3",
     "ilk5": true,
-    "sure": "16:46",
-    "sayi": 8,
+    "sure": "17:44",
+    "sayi": 11,
     "iki": [
      1,
      2
     ],
     "uc": [
-     1,
-     3
+     2,
+     4
     ],
     "sa": [
      3,
@@ -30,13 +30,13 @@
     "hr": 1,
     "sr": 3,
     "rib": 4,
-    "ast": 5,
+    "ast": 6,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 15
+    "pm": "2",
+    "vp": 19
    },
    {
     "id": "214552",
@@ -73,7 +73,7 @@
     "ad": "Koray Çekici",
     "no": "6",
     "ilk5": true,
-    "sure": "13:14",
+    "sure": "14:12",
     "sayi": 4,
     "iki": [
      2,
@@ -95,7 +95,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 11
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Batın Tuna",
     "no": "7",
     "ilk5": true,
-    "sure": "7:48",
+    "sure": "8:46",
     "sayi": 0,
     "iki": [
      0,
@@ -124,8 +124,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "-8",
+    "faul": 2,
+    "pm": "-5",
     "vp": -1
    },
    {
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-1",
     "vp": 0
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Baran Avşar",
     "no": "8",
     "ilk5": false,
-    "sure": "11:56",
+    "sure": "12:54",
     "sayi": 2,
     "iki": [
      1,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "3",
+    "pm": "5",
     "vp": 2
    },
    {
@@ -253,11 +253,11 @@
     "ad": "Deniz Çelen",
     "no": "13",
     "ilk5": false,
-    "sure": "11:42",
-    "sayi": 11,
+    "sure": "12:40",
+    "sayi": 13,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      3,
@@ -265,7 +265,7 @@
     ],
     "sa": [
      0,
-     0
+     1
     ],
     "hr": 0,
     "sr": 1,
@@ -275,8 +275,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "0",
-    "vp": 10
+    "pm": "2",
+    "vp": 11
    },
    {
     "id": "457130",
@@ -311,19 +311,19 @@
   ],
   "ceyrekler": [
    18,
-   17
+   20
   ]
  },
  "dep": {
   "ad": "MERSİN SPOR",
-  "skor": "40",
+  "skor": "41",
   "oyuncular": [
    {
     "id": "777508",
     "ad": "Kruize Pinkins",
     "no": "12",
     "ilk5": true,
-    "sure": "15:21",
+    "sure": "16:19",
     "sayi": 17,
     "iki": [
      2,
@@ -343,17 +343,17 @@
     "ast": 5,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "7",
-    "vp": 25
+    "tk": 1,
+    "faul": 2,
+    "pm": "4",
+    "vp": 24
    },
    {
     "id": "225810",
     "ad": "Troy Şav",
     "no": "17",
     "ilk5": true,
-    "sure": "13:05",
+    "sure": "14:03",
     "sayi": 2,
     "iki": [
      1,
@@ -368,22 +368,22 @@
      0
     ],
     "hr": 0,
-    "sr": 3,
-    "rib": 3,
+    "sr": 4,
+    "rib": 4,
     "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "3",
-    "vp": 4
+    "pm": "1",
+    "vp": 5
    },
    {
     "id": "130546",
     "ad": "Arca Tülüoğlu",
     "no": "20",
     "ilk5": true,
-    "sure": "12:02",
+    "sure": "13:00",
     "sayi": 0,
     "iki": [
      0,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "5",
+    "pm": "2",
     "vp": -2
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Mike Smith",
     "no": "21",
     "ilk5": true,
-    "sure": "13:53",
+    "sure": "14:51",
     "sayi": 6,
     "iki": [
      0,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "11",
+    "pm": "9",
     "vp": 9
    },
    {
@@ -443,8 +443,8 @@
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "16:53",
-    "sayi": 7,
+    "sure": "17:51",
+    "sayi": 8,
     "iki": [
      2,
      3
@@ -454,8 +454,8 @@
      3
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 2,
@@ -465,8 +465,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "7",
-    "vp": 5
+    "pm": "5",
+    "vp": 6
    },
    {
     "id": "320264",
@@ -615,7 +615,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-5",
     "vp": -1
    },
    {
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 5
    },
    {
@@ -681,16 +681,16 @@
   ],
   "ceyrekler": [
    28,
-   12
+   13
   ]
  },
- "evSkor": "35",
- "depSkor": "40",
+ "evSkor": "38",
+ "depSkor": "41",
  "salon": "Kahramanmaraş Merkez Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:36",
+  "saat": "00:38",
   "uzatma": false
  }
 }
