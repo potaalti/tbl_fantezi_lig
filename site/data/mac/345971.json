@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "92",
+  "skor": "93",
   "oyuncular": [
    {
     "id": "223836",
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "33:37",
-    "sayi": 38,
+    "sure": "33:56",
+    "sayi": 39,
     "iki": [
      11,
      15
@@ -24,8 +24,8 @@
      6
     ],
     "sa": [
-     7,
-     8
+     8,
+     10
     ],
     "hr": 0,
     "sr": 4,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 6,
     "faul": 2,
-    "pm": "4",
+    "pm": "5",
     "vp": 38
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "25:08",
+    "sure": "25:27",
     "sayi": 2,
     "iki": [
      1,
@@ -88,22 +88,22 @@
      0
     ],
     "hr": 1,
-    "sr": 1,
-    "rib": 2,
+    "sr": 2,
+    "rib": 3,
     "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "5",
-    "vp": 4
+    "pm": "6",
+    "vp": 5
    },
    {
     "id": "257839",
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": true,
-    "sure": "32:10",
+    "sure": "32:29",
     "sayi": 10,
     "iki": [
      2,
@@ -125,7 +125,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 2,
-    "pm": "10",
+    "pm": "11",
     "vp": 19
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "21:27",
+    "sure": "21:46",
     "sayi": 11,
     "iki": [
      2,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-1",
+    "pm": "0",
     "vp": 13
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "27:01",
+    "sure": "27:20",
     "sayi": 7,
     "iki": [
      3,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 4,
-    "pm": "8",
+    "pm": "9",
     "vp": 7
    },
    {
@@ -373,7 +373,7 @@
    24,
    20,
    23,
-   25
+   26
   ]
  },
  "dep": {
@@ -385,7 +385,7 @@
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "34:22",
+    "sure": "34:41",
     "sayi": 23,
     "iki": [
      3,
@@ -393,7 +393,7 @@
     ],
     "uc": [
      3,
-     11
+     12
     ],
     "sa": [
      8,
@@ -407,8 +407,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-8",
-    "vp": 17
+    "pm": "-9",
+    "vp": 16
    },
    {
     "id": "260898",
@@ -445,7 +445,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "34:31",
+    "sure": "34:49",
     "sayi": 8,
     "iki": [
      4,
@@ -467,7 +467,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 14
    },
    {
@@ -475,7 +475,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": true,
-    "sure": "15:46",
+    "sure": "16:05",
     "sayi": 6,
     "iki": [
      0,
@@ -497,7 +497,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 10
    },
    {
@@ -505,7 +505,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "30:47",
+    "sure": "31:06",
     "sayi": 11,
     "iki": [
      3,
@@ -526,7 +526,7 @@
     "tc": 0,
     "blk": 1,
     "tk": 0,
-    "faul": 4,
+    "faul": 5,
     "pm": "-8",
     "vp": 12
    },
@@ -595,7 +595,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": false,
-    "sure": "24:01",
+    "sure": "24:20",
     "sayi": 8,
     "iki": [
      1,
@@ -617,7 +617,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-7",
+    "pm": "-8",
     "vp": 4
    },
    {
@@ -647,7 +647,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "7",
+    "pm": "6",
     "vp": 1
    },
    {
@@ -748,13 +748,13 @@
    23
   ]
  },
- "evSkor": "92",
+ "evSkor": "93",
  "depSkor": "88",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "00:29",
+  "saat": "00:11",
   "uzatma": false
  }
 }
