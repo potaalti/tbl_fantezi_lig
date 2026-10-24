@@ -13,7 +13,7 @@
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "15:43",
+    "sure": "16:50",
     "sayi": 17,
     "iki": [
      6,
@@ -33,10 +33,10 @@
     "ast": 2,
     "tc": 1,
     "blk": 0,
-    "tk": 4,
+    "tk": 5,
     "faul": 0,
-    "pm": "-5",
-    "vp": 14
+    "pm": "-12",
+    "vp": 13
    },
    {
     "id": "419692",
@@ -73,7 +73,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "8:28",
+    "sure": "9:35",
     "sayi": 0,
     "iki": [
      0,
@@ -94,8 +94,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "-2",
+    "faul": 2,
+    "pm": "-9",
     "vp": 0
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": true,
-    "sure": "15:17",
+    "sure": "16:24",
     "sayi": 6,
     "iki": [
      0,
@@ -125,7 +125,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "-4",
     "vp": 8
    },
    {
@@ -133,11 +133,11 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "12:47",
+    "sure": "13:54",
     "sayi": 4,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      0,
@@ -155,15 +155,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 7
+    "pm": "-8",
+    "vp": 6
    },
    {
     "id": "287585",
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "13:24",
+    "sure": "14:31",
     "sayi": 8,
     "iki": [
      1,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "0",
+    "pm": "-7",
     "vp": 11
    },
    {
@@ -376,26 +376,26 @@
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "44",
+  "skor": "51",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "14:49",
-    "sayi": 8,
+    "sure": "15:56",
+    "sayi": 15,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
-     1,
-     5
+     2,
+     7
     ],
     "sa": [
-     3,
-     3
+     5,
+     5
     ],
     "hr": 0,
     "sr": 1,
@@ -405,15 +405,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 8
+    "pm": "8",
+    "vp": 14
    },
    {
     "id": "260898",
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "12:09",
+    "sure": "13:16",
     "sayi": 10,
     "iki": [
      2,
@@ -428,22 +428,22 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 4,
+    "sr": 2,
+    "rib": 2,
+    "ast": 5,
     "tc": 3,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "8",
-    "vp": 17
+    "pm": "15",
+    "vp": 19
    },
    {
     "id": "72610",
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "13:08",
+    "sure": "14:15",
     "sayi": 6,
     "iki": [
      3,
@@ -460,20 +460,20 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
-    "vp": 9
+    "pm": "10",
+    "vp": 10
    },
    {
     "id": "110163",
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": true,
-    "sure": "4:58",
+    "sure": "6:05",
     "sayi": 3,
     "iki": [
      0,
@@ -487,23 +487,23 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 1,
-    "rib": 1,
-    "ast": 0,
-    "tc": 0,
+    "rib": 2,
+    "ast": 1,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "3",
-    "vp": 3
+    "pm": "10",
+    "vp": 6
    },
    {
     "id": "284498",
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "12:36",
+    "sure": "13:43",
     "sayi": 7,
     "iki": [
      2,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "9",
     "vp": 5
    },
    {
@@ -741,16 +741,16 @@
   ],
   "ceyrekler": [
    20,
-   24
+   31
   ]
  },
  "evSkor": "41",
- "depSkor": "44",
+ "depSkor": "51",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "02:16",
+  "saat": "01:09",
   "uzatma": false
  }
 }
