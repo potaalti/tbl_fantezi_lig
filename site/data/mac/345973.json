@@ -13,7 +13,7 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": true,
-    "sure": "26:31",
+    "sure": "27:44",
     "sayi": 18,
     "iki": [
      2,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 4,
-    "pm": "-4",
+    "pm": "-10",
     "vp": 19
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "34:37",
+    "sure": "35:50",
     "sayi": 12,
     "iki": [
      4,
@@ -85,7 +85,7 @@
     ],
     "sa": [
      1,
-     2
+     4
     ],
     "hr": 0,
     "sr": 4,
@@ -93,17 +93,17 @@
     "ast": 12,
     "tc": 0,
     "blk": 0,
-    "tk": 8,
+    "tk": 9,
     "faul": 1,
-    "pm": "0",
-    "vp": 15
+    "pm": "-6",
+    "vp": 12
    },
    {
     "id": "380032",
     "ad": "Arda Birkeser",
     "no": "22",
     "ilk5": true,
-    "sure": "25:38",
+    "sure": "26:51",
     "sayi": 13,
     "iki": [
      6,
@@ -125,7 +125,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 3,
-    "pm": "-4",
+    "pm": "-10",
     "vp": 16
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "32:56",
+    "sure": "34:09",
     "sayi": 11,
     "iki": [
      4,
@@ -155,7 +155,7 @@
     "blk": 6,
     "tk": 3,
     "faul": 1,
-    "pm": "-12",
+    "pm": "-18",
     "vp": 20
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Mert Konuk",
     "no": "13",
     "ilk5": false,
-    "sure": "10:07",
+    "sure": "11:20",
     "sayi": 2,
     "iki": [
      1,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-1",
+    "pm": "-7",
     "vp": 2
    },
    {
@@ -378,18 +378,18 @@
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "81",
+  "skor": "87",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "28:51",
-    "sayi": 16,
+    "sure": "30:04",
+    "sayi": 18,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      3,
@@ -407,19 +407,19 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "8",
-    "vp": 16
+    "pm": "14",
+    "vp": 18
    },
    {
     "id": "229599",
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "24:13",
-    "sayi": 16,
+    "sure": "25:26",
+    "sayi": 18,
     "iki": [
-     6,
-     7
+     7,
+     8
     ],
     "uc": [
      1,
@@ -432,13 +432,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 2,
-    "tc": 2,
+    "ast": 3,
+    "tc": 3,
     "blk": 1,
     "tk": 1,
-    "faul": 3,
-    "pm": "5",
-    "vp": 17
+    "faul": 4,
+    "pm": "11",
+    "vp": 21
    },
    {
     "id": "117624",
@@ -475,11 +475,11 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": true,
-    "sure": "10:56",
-    "sayi": 5,
+    "sure": "12:09",
+    "sayi": 7,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      1,
@@ -497,15 +497,15 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "-3",
-    "vp": 4
+    "pm": "3",
+    "vp": 6
    },
    {
     "id": "275328",
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": true,
-    "sure": "24:33",
+    "sure": "25:46",
     "sayi": 8,
     "iki": [
      2,
@@ -522,20 +522,20 @@
     "hr": 4,
     "sr": 3,
     "rib": 7,
-    "ast": 3,
+    "ast": 4,
     "tc": 3,
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "6",
-    "vp": 15
+    "pm": "12",
+    "vp": 16
    },
    {
     "id": "222762",
     "ad": "Can Özcan",
     "no": "00",
     "ilk5": false,
-    "sure": "27:22",
+    "sure": "28:35",
     "sayi": 3,
     "iki": [
      0,
@@ -550,15 +550,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 3,
-    "pm": "16",
-    "vp": 5
+    "faul": 4,
+    "pm": "22",
+    "vp": 6
    },
    {
     "id": "345440",
@@ -745,16 +745,16 @@
    14,
    32,
    14,
-   21
+   27
   ]
  },
  "evSkor": "76",
- "depSkor": "81",
+ "depSkor": "87",
  "salon": "TOBB ETÜ Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "03:22",
+  "saat": "02:09",
   "uzatma": false
  }
 }
