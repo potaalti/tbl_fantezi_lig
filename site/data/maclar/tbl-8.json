@@ -23,13 +23,13 @@
    "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": "44",
+   "evSkor": "50",
    "depSkor": "53",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 3,
-    "saat": "10:00",
+    "saat": "08:30",
     "uzatma": false
    }
   },
@@ -38,13 +38,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "4",
+   "depSkor": "2",
    "salon": "Gölbaşı Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:23",
+    "uzatma": false
+   }
   },
   {
    "id": 345968,

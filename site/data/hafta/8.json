@@ -22,13 +22,13 @@
    "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": "44",
+   "evSkor": "50",
    "depSkor": "53",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 3,
-    "saat": "10:00",
+    "saat": "08:30",
     "uzatma": false
    }
   },
@@ -37,13 +37,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "4",
+   "depSkor": "2",
    "salon": "Gölbaşı Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:23",
+    "uzatma": false
+   }
   },
   {
    "id": 345968,
@@ -322,8 +327,8 @@
   "223836": {
    "ad": "Eray Akyüz",
    "takim": "iLab BASKETBOL",
-   "vp": 15,
-   "saniye": 1079,
+   "vp": 21,
+   "saniye": 1169,
    "maclar": [
     345971
    ]
@@ -341,7 +346,7 @@
    "ad": "Batuhan Acar",
    "takim": "iLab BASKETBOL",
    "vp": 0,
-   "saniye": 644,
+   "saniye": 734,
    "maclar": [
     345971
    ]
@@ -349,8 +354,8 @@
   "257839": {
    "ad": "Cihat Dalgalı",
    "takim": "iLab BASKETBOL",
-   "vp": 8,
-   "saniye": 984,
+   "vp": 10,
+   "saniye": 1074,
    "maclar": [
     345971
    ]
@@ -358,8 +363,8 @@
   "776565": {
    "ad": "Jeremiah Lamonure Tilmon Jr",
    "takim": "iLab BASKETBOL",
-   "vp": 6,
-   "saniye": 903,
+   "vp": 8,
+   "saniye": 993,
    "maclar": [
     345971
    ]
@@ -386,7 +391,7 @@
    "ad": "Can Kaan Turgut",
    "takim": "iLab BASKETBOL",
    "vp": 4,
-   "saniye": 556,
+   "saniye": 646,
    "maclar": [
     345971
    ]
@@ -430,8 +435,8 @@
   "430940": {
    "ad": "Jacob Pullen",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 14,
-   "saniye": 956,
+   "vp": 13,
+   "saniye": 1046,
    "maclar": [
     345971
    ]
@@ -439,8 +444,8 @@
   "260898": {
    "ad": "Bora Satır",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 21,
-   "saniye": 865,
+   "vp": 19,
+   "saniye": 955,
    "maclar": [
     345971
    ]
@@ -449,7 +454,7 @@
    "ad": "Ramazan Tekin",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 10,
-   "saniye": 924,
+   "saniye": 1014,
    "maclar": [
     345971
    ]
@@ -458,7 +463,7 @@
    "ad": "Atakan Akçam",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 6,
-   "saniye": 434,
+   "saniye": 524,
    "maclar": [
     345971
    ]
@@ -466,8 +471,8 @@
   "284498": {
    "ad": "İnanç Mert Hotamış",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 5,
-   "saniye": 823,
+   "vp": 6,
+   "saniye": 913,
    "maclar": [
     345971
    ]
@@ -533,6 +538,213 @@
    "saniye": 464,
    "maclar": [
     345971
+   ]
+  },
+  "776821": {
+   "ad": "Vitalis Chikoko",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 2,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "46863": {
+   "ad": "Caner Ercan",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 1,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "380030": {
+   "ad": "Tan Ayyıldız",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 2,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "500443": {
+   "ad": "Maurice Watson Jr.",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 1,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "222696": {
+   "ad": "Burak Erol",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": -1,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "372344": {
+   "ad": "Ege Ersun",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "316543": {
+   "ad": "Can Sayın",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "408965": {
+   "ad": "Eren Karakaya",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "248386": {
+   "ad": "Berkay Genç",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "363336": {
+   "ad": "Doğukan Seyhan",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "223180": {
+   "ad": "Gökhan Yazıcıoğlu",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "776537": {
+   "ad": "Samuel Lee Sessoms",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "196310": {
+   "ad": "Berke Aygündüz",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "471743": {
+   "ad": "Abdoulaye Gueye",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 1,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "221455": {
+   "ad": "Hakan Yapar",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "304808": {
+   "ad": "Ege Özçelik",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 1,
+   "saniye": 97,
+   "maclar": [
+    345975
+   ]
+  },
+  "220370": {
+   "ad": "Yiğit Özkan",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "113781": {
+   "ad": "Ege Havsa",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "108904": {
+   "ad": "Metin Türen",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "153564": {
+   "ad": "Atakan Şahinkaya",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "381036": {
+   "ad": "Salih Ege Yaman",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "482295": {
+   "ad": "Yavuz Kara",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
+   ]
+  },
+  "fiba-alihan-deniz-genc": {
+   "ad": "Alihan Deniz Genç",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345975
    ]
   }
  }
