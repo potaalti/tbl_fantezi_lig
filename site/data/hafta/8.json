@@ -19,18 +19,13 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-24T15:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "iLab BASKETBOL",
    "dep": "MKE ANKARAGÜCÜ",
    "evSkor": "95",
    "depSkor": "92",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345975,
@@ -40,13 +35,13 @@
    "durum": "canli",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": "39",
+   "evSkor": "43",
    "depSkor": "44",
    "salon": "Gölbaşı Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 3,
-    "saat": "09:59",
+    "saat": "07:42",
     "uzatma": false
    }
   },
@@ -543,8 +538,8 @@
   "776821": {
    "ad": "Vitalis Chikoko",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 8,
-   "saniye": 818,
+   "vp": 12,
+   "saniye": 956,
    "maclar": [
     345975
    ]
@@ -552,8 +547,8 @@
   "46863": {
    "ad": "Caner Ercan",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 3,
-   "saniye": 846,
+   "vp": 5,
+   "saniye": 984,
    "maclar": [
     345975
    ]
@@ -562,7 +557,7 @@
    "ad": "Tan Ayyıldız",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 3,
-   "saniye": 807,
+   "saniye": 945,
    "maclar": [
     345975
    ]
@@ -571,7 +566,7 @@
    "ad": "Maurice Watson Jr.",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 2,
-   "saniye": 1135,
+   "saniye": 1273,
    "maclar": [
     345975
    ]
@@ -579,8 +574,8 @@
   "222696": {
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 12,
-   "saniye": 880,
+   "vp": 11,
+   "saniye": 1018,
    "maclar": [
     345975
    ]
@@ -643,7 +638,7 @@
    "ad": "Samuel Lee Sessoms",
    "takim": "YALOVA HAREM SPOR",
    "vp": 7,
-   "saniye": 813,
+   "saniye": 951,
    "maclar": [
     345975
    ]
@@ -660,8 +655,8 @@
   "471743": {
    "ad": "Abdoulaye Gueye",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 11,
-   "saniye": 1020,
+   "vp": 10,
+   "saniye": 1158,
    "maclar": [
     345975
    ]
@@ -670,7 +665,7 @@
    "ad": "Hakan Yapar",
    "takim": "YALOVA HAREM SPOR",
    "vp": 9,
-   "saniye": 647,
+   "saniye": 785,
    "maclar": [
     345975
    ]
@@ -688,7 +683,7 @@
    "ad": "Yiğit Özkan",
    "takim": "YALOVA HAREM SPOR",
    "vp": 5,
-   "saniye": 642,
+   "saniye": 780,
    "maclar": [
     345975
    ]
@@ -742,7 +737,7 @@
    "ad": "Alihan Deniz Genç",
    "takim": "YALOVA HAREM SPOR",
    "vp": 0,
-   "saniye": 330,
+   "saniye": 468,
    "maclar": [
     345975
    ]
