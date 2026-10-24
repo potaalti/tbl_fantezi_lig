@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "23",
+  "skor": "25",
   "oyuncular": [
    {
     "id": "776821",
@@ -103,11 +103,11 @@
     "ad": "Maurice Watson Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "9:48",
+    "sure": "11:51",
     "sayi": 4,
     "iki": [
      2,
-     4
+     5
     ],
     "uc": [
      0,
@@ -120,12 +120,12 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "2",
+    "pm": "1",
     "vp": 2
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "9:39",
+    "sure": "11:42",
     "sayi": 5,
     "iki": [
      1,
@@ -148,22 +148,22 @@
      0
     ],
     "hr": 1,
-    "sr": 3,
-    "rib": 4,
+    "sr": 4,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "5",
-    "vp": 8
+    "pm": "4",
+    "vp": 9
    },
    {
     "id": "372344",
     "ad": "Ege Ersun",
     "no": "0",
     "ilk5": false,
-    "sure": "0:41",
+    "sure": "2:44",
     "sayi": 0,
     "iki": [
      0,
@@ -178,15 +178,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 0
+    "pm": "1",
+    "vp": 1
    },
    {
     "id": "316543",
@@ -253,7 +253,7 @@
     "ad": "Berkay Genç",
     "no": "18",
     "ilk5": false,
-    "sure": "2:28",
+    "sure": "4:31",
     "sayi": 3,
     "iki": [
      1,
@@ -267,16 +267,16 @@
      1,
      2
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 1,
-    "rib": 2,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 3
+    "pm": "-1",
+    "vp": 4
    },
    {
     "id": "363336",
@@ -313,15 +313,15 @@
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": false,
-    "sure": "0:29",
-    "sayi": 3,
+    "sure": "2:32",
+    "sayi": 5,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      0,
@@ -335,17 +335,18 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 3
+    "pm": "0",
+    "vp": 4
    }
   ],
   "ceyrekler": [
-   23
+   23,
+   2
   ]
  },
  "dep": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "20",
+  "skor": "23",
   "oyuncular": [
    {
     "id": "776537",
@@ -502,7 +503,7 @@
     "ad": "Yiğit Özkan",
     "no": "2",
     "ilk5": false,
-    "sure": "2:28",
+    "sure": "4:31",
     "sayi": 2,
     "iki": [
      1,
@@ -510,7 +511,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -524,23 +525,23 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 3
+    "pm": "1",
+    "vp": 2
    },
    {
     "id": "113781",
     "ad": "Ege Havsa",
     "no": "5",
     "ilk5": false,
-    "sure": "0:41",
-    "sayi": 0,
+    "sure": "2:44",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -554,15 +555,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
-    "vp": 1
+    "pm": "-1",
+    "vp": 4
    },
    {
     "id": "108904",
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "2:28",
+    "sure": "4:31",
     "sayi": 0,
     "iki": [
      0,
@@ -584,7 +585,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "1",
     "vp": 1
    },
    {
@@ -652,7 +653,7 @@
     "ad": "Yavuz Kara",
     "no": "13",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "2:03",
     "sayi": 0,
     "iki": [
      0,
@@ -660,21 +661,21 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 0
    },
    {
@@ -682,7 +683,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": false,
-    "sure": "2:28",
+    "sure": "4:31",
     "sayi": 0,
     "iki": [
      0,
@@ -704,21 +705,22 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 0
    }
   ],
   "ceyrekler": [
-   20
+   20,
+   3
   ]
  },
- "evSkor": "23",
- "depSkor": "20",
+ "evSkor": "25",
+ "depSkor": "23",
  "salon": "Gölbaşı Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "07:57",
   "uzatma": false
  }
 }
