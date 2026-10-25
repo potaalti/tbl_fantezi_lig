@@ -13,7 +13,7 @@
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "12:27",
+    "sure": "13:33",
     "sayi": 5,
     "iki": [
      1,
@@ -73,7 +73,7 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "11:37",
+    "sure": "12:14",
     "sayi": 6,
     "iki": [
      3,
@@ -94,7 +94,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 0,
+    "faul": 1,
     "pm": "9",
     "vp": 11
    },
@@ -103,7 +103,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "14:18",
+    "sure": "15:24",
     "sayi": 4,
     "iki": [
      2,
@@ -133,7 +133,7 @@
     "ad": "Ege Akçay",
     "no": "20",
     "ilk5": true,
-    "sure": "7:09",
+    "sure": "7:38",
     "sayi": 2,
     "iki": [
      1,
@@ -163,7 +163,7 @@
     "ad": "Arda Çelik",
     "no": "1",
     "ilk5": false,
-    "sure": "1:47",
+    "sure": "2:53",
     "sayi": 1,
     "iki": [
      0,
@@ -283,7 +283,7 @@
     "ad": "Eren İlyem",
     "no": "19",
     "ilk5": false,
-    "sure": "7:18",
+    "sure": "8:24",
     "sayi": 3,
     "iki": [
      0,
@@ -298,15 +298,15 @@
      2
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 0,
+    "faul": 1,
     "pm": "6",
-    "vp": -3
+    "vp": -2
    },
    {
     "id": "345957",
@@ -383,7 +383,7 @@
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "16:16",
+    "sure": "17:22",
     "sayi": 14,
     "iki": [
      3,
@@ -413,11 +413,11 @@
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "11:46",
+    "sure": "12:52",
     "sayi": 3,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      0,
@@ -434,9 +434,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "-3",
-    "vp": -1
+    "vp": -2
    },
    {
     "id": "116084",
@@ -503,7 +503,7 @@
     "ad": "Cenker Evran",
     "no": "99",
     "ilk5": true,
-    "sure": "9:19",
+    "sure": "10:25",
     "sayi": 0,
     "iki": [
      0,
@@ -517,16 +517,16 @@
      0,
      0
     ],
-    "hr": 2,
+    "hr": 3,
     "sr": 3,
-    "rib": 5,
+    "rib": 6,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "-7",
-    "vp": 5
+    "vp": 6
    },
    {
     "id": "502279",
@@ -563,7 +563,7 @@
     "ad": "Gökhan Akkoyun",
     "no": "6",
     "ilk5": false,
-    "sure": "5:56",
+    "sure": "7:02",
     "sayi": 0,
     "iki": [
      0,
@@ -577,46 +577,46 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 1,
-    "rib": 1,
+    "rib": 2,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "-3",
-    "vp": 0
+    "vp": 1
    },
    {
     "id": "111242",
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "11:16",
+    "sure": "12:22",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "-5",
-    "vp": 1
+    "vp": 0
    },
    {
     "id": "274052",
@@ -750,7 +750,7 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:44",
+  "saat": "02:38",
   "uzatma": false
  }
 }
