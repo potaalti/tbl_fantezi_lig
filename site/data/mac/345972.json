@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "16",
+  "skor": "18",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "4:50",
+    "sure": "6:11",
     "sayi": 0,
     "iki": [
      0,
@@ -31,9 +31,9 @@
     "sr": 0,
     "rib": 0,
     "ast": 3,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "8",
     "vp": -1
@@ -43,11 +43,11 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "4:50",
+    "sure": "6:11",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -66,14 +66,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "8",
-    "vp": -1
+    "vp": -2
    },
    {
     "id": "488870",
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "4:50",
+    "sure": "6:11",
     "sayi": 6,
     "iki": [
      0,
@@ -81,7 +81,7 @@
     ],
     "uc": [
      2,
-     2
+     3
     ],
     "sa": [
      0,
@@ -96,18 +96,18 @@
     "tk": 0,
     "faul": 1,
     "pm": "8",
-    "vp": 6
+    "vp": 5
    },
    {
     "id": "211415",
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "4:50",
-    "sayi": 5,
+    "sure": "6:11",
+    "sayi": 7,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      1,
@@ -117,16 +117,16 @@
      0,
      0
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 1,
-    "rib": 2,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "pm": "8",
-    "vp": 6
+    "vp": 9
    },
    {
     "id": "14106",
@@ -253,7 +253,7 @@
     "ad": "Mustafa Faruk Yerkazanoğlu",
     "no": "19",
     "ilk5": false,
-    "sure": "0:56",
+    "sure": "2:17",
     "sayi": 0,
     "iki": [
      0,
@@ -268,15 +268,15 @@
      0
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "-2",
-    "vp": 1
+    "vp": 2
    },
    {
     "id": "317314",
@@ -370,19 +370,19 @@
    }
   ],
   "ceyrekler": [
-   16
+   18
   ]
  },
  "dep": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "8",
+  "skor": "10",
   "oyuncular": [
    {
     "id": "316467",
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "4:50",
+    "sure": "6:11",
     "sayi": 0,
     "iki": [
      0,
@@ -403,7 +403,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
+    "faul": 1,
     "pm": "-8",
     "vp": 0
    },
@@ -412,7 +412,7 @@
     "ad": "Isaiah Dandre Washington",
     "no": "5",
     "ilk5": true,
-    "sure": "4:50",
+    "sure": "6:11",
     "sayi": 0,
     "iki": [
      0,
@@ -472,19 +472,19 @@
     "ad": "Ahmet Can Duran",
     "no": "10",
     "ilk5": true,
-    "sure": "4:50",
-    "sayi": 4,
+    "sure": "6:11",
+    "sayi": 6,
     "iki": [
      2,
-     2
+     3
     ],
     "uc": [
      0,
      0
     ],
     "sa": [
-     0,
-     2
+     2,
+     4
     ],
     "hr": 0,
     "sr": 0,
@@ -492,7 +492,7 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
     "pm": "-8",
     "vp": 1
@@ -502,7 +502,7 @@
     "ad": "Jamari Traylor",
     "no": "13",
     "ilk5": true,
-    "sure": "4:50",
+    "sure": "6:11",
     "sayi": 4,
     "iki": [
      2,
@@ -517,15 +517,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-8",
-    "vp": 5
+    "vp": 7
    },
    {
     "id": "163820",
@@ -652,7 +652,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "1:21",
     "sayi": 0,
     "iki": [
      0,
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   8
+   10
   ]
  },
- "evSkor": "16",
- "depSkor": "8",
+ "evSkor": "18",
+ "depSkor": "10",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 1,
-  "saat": "05:10",
+  "saat": "03:49",
   "uzatma": false
  }
 }
