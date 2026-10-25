@@ -3,7 +3,7 @@
  "lig": "tbl",
  "hafta": 8,
  "tarih": "2026-10-25T16:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
   "skor": "79",
@@ -371,6 +371,7 @@
   ],
   "ceyrekler": [
    15,
+   6,
    16,
    16,
    26
@@ -501,8 +502,8 @@
     "vp": 11
    },
    {
-    "id": "fiba-keshun-deion-sherrill",
-    "ad": "Keshun Deıon Sherrill",
+    "id": "473518",
+    "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
     "sure": "41:38",
@@ -683,6 +684,7 @@
   ],
   "ceyrekler": [
    7,
+   16,
    22,
    29,
    15
@@ -691,10 +693,5 @@
  "evSkor": "79",
  "depSkor": "89",
  "salon": "Şehit Turgut Solak Spor Salonu",
- "yayin": "Youtube / TBF TV",
- "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
-  "uzatma": true
- }
+ "yayin": "Youtube / TBF TV"
 }
