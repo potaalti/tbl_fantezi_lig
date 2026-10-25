@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-  "skor": "20",
+  "skor": "26",
   "oyuncular": [
    {
     "id": "317200",
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": true,
-    "sure": "10:03",
+    "sure": "10:28",
     "sayi": 4,
     "iki": [
      2,
@@ -30,20 +30,20 @@
     "hr": 0,
     "sr": 4,
     "rib": 4,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "8",
-    "vp": 7
+    "pm": "14",
+    "vp": 8
    },
    {
     "id": "777504",
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "14:00",
+    "sure": "14:25",
     "sayi": 7,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "3",
+    "pm": "9",
     "vp": 5
    },
    {
@@ -133,15 +133,15 @@
     "ad": "Emirali Göktürk",
     "no": "99",
     "ilk5": true,
-    "sure": "7:20",
-    "sayi": 2,
+    "sure": "7:45",
+    "sayi": 7,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
-     0,
-     1
+     1,
+     2
     ],
     "sa": [
      0,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
-    "vp": 2
+    "pm": "0",
+    "vp": 7
    },
    {
     "id": "392789",
@@ -253,8 +253,8 @@
     "ad": "Önder Atun",
     "no": "17",
     "ilk5": false,
-    "sure": "9:24",
-    "sayi": 2,
+    "sure": "9:49",
+    "sayi": 3,
     "iki": [
      1,
      1
@@ -264,26 +264,26 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 3,
-    "rib": 3,
-    "ast": 0,
+    "rib": 4,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "10",
-    "vp": 4
+    "pm": "16",
+    "vp": 6
    },
    {
     "id": "293126",
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": false,
-    "sure": "1:20",
+    "sure": "1:45",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "5",
     "vp": 0
    },
    {
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    15,
-   5
+   11
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Yağız Aksu",
     "no": "10",
     "ilk5": true,
-    "sure": "4:34",
+    "sure": "4:59",
     "sayi": 2,
     "iki": [
      0,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "3",
+    "pm": "-3",
     "vp": 2
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "9:49",
+    "sure": "10:14",
     "sayi": 0,
     "iki": [
      0,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "4",
+    "pm": "-2",
     "vp": 3
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": true,
-    "sure": "11:37",
+    "sure": "11:50",
     "sayi": 5,
     "iki": [
      2,
@@ -495,7 +495,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-3",
+    "pm": "-5",
     "vp": 4
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "9:11",
+    "sure": "9:36",
     "sayi": 4,
     "iki": [
      2,
@@ -585,7 +585,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-8",
     "vp": 2
    },
    {
@@ -593,7 +593,7 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "4:13",
+    "sure": "4:38",
     "sayi": 4,
     "iki": [
      0,
@@ -615,7 +615,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "-1",
     "vp": 4
    },
    {
@@ -653,7 +653,7 @@
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": false,
-    "sure": "4:43",
+    "sure": "4:55",
     "sayi": 0,
     "iki": [
      0,
@@ -673,10 +673,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
-    "pm": "-7",
-    "vp": -2
+    "tk": 1,
+    "faul": 2,
+    "pm": "-11",
+    "vp": -3
    }
   ],
   "ceyrekler": [
@@ -684,13 +684,13 @@
    10
   ]
  },
- "evSkor": "20",
+ "evSkor": "26",
  "depSkor": "17",
  "salon": "Şehit Turgut Solak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "06:01",
+  "saat": "05:35",
   "uzatma": false
  }
 }
