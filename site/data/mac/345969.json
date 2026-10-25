@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "DARÜŞŞAFAKA",
-  "skor": "59",
+  "skor": "61",
   "oyuncular": [
    {
     "id": "606144",
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "23:57",
+    "sure": "25:15",
     "sayi": 13,
     "iki": [
      3,
@@ -28,22 +28,22 @@
      9
     ],
     "hr": 0,
-    "sr": 3,
-    "rib": 3,
-    "ast": 6,
+    "sr": 4,
+    "rib": 4,
+    "ast": 7,
     "tc": 1,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "pm": "4",
-    "vp": 15
+    "vp": 17
    },
    {
     "id": "734741",
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "23:26",
+    "sure": "24:44",
     "sayi": 18,
     "iki": [
      3,
@@ -64,7 +64,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
+    "faul": 2,
     "pm": "-2",
     "vp": 25
    },
@@ -73,7 +73,7 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "20:48",
+    "sure": "21:56",
     "sayi": 10,
     "iki": [
      4,
@@ -103,7 +103,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "23:52",
+    "sure": "24:02",
     "sayi": 8,
     "iki": [
      4,
@@ -124,7 +124,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 3,
+    "faul": 4,
     "pm": "7",
     "vp": 8
    },
@@ -193,15 +193,15 @@
     "ad": "Ege Eskinazi",
     "no": "7",
     "ilk5": false,
-    "sure": "9:46",
-    "sayi": 2,
+    "sure": "11:04",
+    "sayi": 4,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
      0,
@@ -211,23 +211,23 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "pm": "3",
-    "vp": 0
+    "vp": 2
    },
    {
     "id": "447497",
     "ad": "Ahmet Arda Ene",
     "no": "11",
     "ilk5": false,
-    "sure": "7:45",
+    "sure": "9:03",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -246,7 +246,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "-1",
-    "vp": 0
+    "vp": -1
    },
    {
     "id": "248403",
@@ -372,42 +372,42 @@
   "ceyrekler": [
    23,
    21,
-   15
+   17
   ]
  },
  "dep": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "54",
+  "skor": "56",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "27:11",
-    "sayi": 21,
+    "sure": "28:29",
+    "sayi": 23,
     "iki": [
      5,
      9
     ],
     "uc": [
      2,
-     4
+     5
     ],
     "sa": [
-     5,
-     6
+     7,
+     8
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 4,
     "tc": 1,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 3,
     "pm": "-5",
-    "vp": 19
+    "vp": 20
    },
    {
     "id": "139924",
@@ -444,7 +444,7 @@
     "ad": "Mustafa Baştürk",
     "no": "12",
     "ilk5": true,
-    "sure": "17:52",
+    "sure": "19:10",
     "sayi": 4,
     "iki": [
      2,
@@ -504,7 +504,7 @@
     "ad": "Cenker Evran",
     "no": "99",
     "ilk5": true,
-    "sure": "15:51",
+    "sure": "17:09",
     "sayi": 2,
     "iki": [
      0,
@@ -519,15 +519,15 @@
      2
     ],
     "hr": 3,
-    "sr": 6,
-    "rib": 9,
+    "sr": 7,
+    "rib": 10,
     "ast": 0,
     "tc": 1,
     "blk": 1,
     "tk": 0,
     "faul": 2,
     "pm": "-5",
-    "vp": 11
+    "vp": 12
    },
    {
     "id": "502279",
@@ -564,7 +564,7 @@
     "ad": "Gökhan Akkoyun",
     "no": "6",
     "ilk5": false,
-    "sure": "16:05",
+    "sure": "17:23",
     "sayi": 0,
     "iki": [
      0,
@@ -594,7 +594,7 @@
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "22:46",
+    "sure": "24:04",
     "sayi": 5,
     "iki": [
      1,
@@ -743,16 +743,16 @@
   "ceyrekler": [
    16,
    17,
-   21
+   23
   ]
  },
- "evSkor": "59",
- "depSkor": "54",
+ "evSkor": "61",
+ "depSkor": "56",
  "salon": "Darüşşafaka Ayhan Şahenk Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "02:14",
+  "saat": "00:56",
   "uzatma": false
  }
 }
