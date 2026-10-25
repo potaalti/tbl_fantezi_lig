@@ -74,13 +74,13 @@
    "durum": "canli",
    "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": "71",
-   "depSkor": "70",
+   "evSkor": "72",
+   "depSkor": "71",
    "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "02:10",
+    "saat": "01:41",
     "uzatma": false
    }
   },
@@ -92,13 +92,13 @@
    "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "GÖZTEPE ISONEM",
-   "evSkor": "66",
-   "depSkor": "62",
+   "evSkor": "67",
+   "depSkor": "68",
    "salon": "Selçuklu Belediyesi Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 3,
-    "saat": "02:37",
+    "saat": "01:27",
     "uzatma": false
    }
   },
@@ -107,13 +107,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-25T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "DARÜŞŞAFAKA",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Darüşşafaka Ayhan Şahenk Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:58",
+    "uzatma": false
+   }
   }
  ],
  "oyuncular": {
@@ -1165,7 +1170,7 @@
    "ad": "Ahmet Kutay Güneş",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 11,
-   "saniye": 1522,
+   "saniye": 1534,
    "maclar": [
     345974
    ]
@@ -1174,7 +1179,7 @@
    "ad": "Christian Alexander Bradford",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 7,
-   "saniye": 2270,
+   "saniye": 2299,
    "maclar": [
     345974
    ]
@@ -1210,7 +1215,7 @@
    "ad": "Cem Küçüközkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 2,
-   "saniye": 987,
+   "saniye": 1016,
    "maclar": [
     345974
    ]
@@ -1237,7 +1242,7 @@
    "ad": "Önder Atun",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 10,
-   "saniye": 1120,
+   "saniye": 1149,
    "maclar": [
     345974
    ]
@@ -1246,7 +1251,7 @@
    "ad": "Ufuk Tan Ertan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 12,
-   "saniye": 1123,
+   "saniye": 1152,
    "maclar": [
     345974
    ]
@@ -1255,7 +1260,7 @@
    "ad": "Berat Berke Tunç",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 2,
-   "saniye": 808,
+   "saniye": 825,
    "maclar": [
     345974
    ]
@@ -1282,7 +1287,7 @@
    "ad": "Ömer Sancaklı",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 7,
-   "saniye": 1436,
+   "saniye": 1465,
    "maclar": [
     345974
    ]
@@ -1300,7 +1305,7 @@
    "ad": "Ahmet Arda Aydın",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 8,
-   "saniye": 1155,
+   "saniye": 1184,
    "maclar": [
     345974
    ]
@@ -1309,7 +1314,7 @@
    "ad": "Keshun Deıon Sherrill",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 11,
-   "saniye": 2068,
+   "saniye": 2097,
    "maclar": [
     345974
    ]
@@ -1327,7 +1332,7 @@
    "ad": "Ömercan Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 15,
-   "saniye": 1614,
+   "saniye": 1643,
    "maclar": [
     345974
    ]
@@ -1345,7 +1350,7 @@
    "ad": "Umut Geçen",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 13,
-   "saniye": 1046,
+   "saniye": 1075,
    "maclar": [
     345974
    ]
@@ -1362,8 +1367,8 @@
   "782891": {
    "ad": "Robert Smith",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "vp": 5,
-   "saniye": 1566,
+   "vp": 4,
+   "saniye": 1597,
    "maclar": [
     345972
    ]
@@ -1372,7 +1377,7 @@
    "ad": "Ömer Yasir Küçük",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": -1,
-   "saniye": 1174,
+   "saniye": 1244,
    "maclar": [
     345972
    ]
@@ -1381,7 +1386,7 @@
    "ad": "Yiğit Çoban",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 29,
-   "saniye": 1236,
+   "saniye": 1306,
    "maclar": [
     345972
    ]
@@ -1389,8 +1394,8 @@
   "211415": {
    "ad": "Cengizhan İvedi",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "vp": 18,
-   "saniye": 1582,
+   "vp": 17,
+   "saniye": 1621,
    "maclar": [
     345972
    ]
@@ -1399,7 +1404,7 @@
    "ad": "Doğan Şenli",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 17,
-   "saniye": 1053,
+   "saniye": 1123,
    "maclar": [
     345972
    ]
@@ -1444,7 +1449,7 @@
    "ad": "Enes Bayraktar",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 2,
-   "saniye": 529,
+   "saniye": 599,
    "maclar": [
     345972
    ]
@@ -1470,8 +1475,8 @@
   "316467": {
    "ad": "Emir Arda Sivas",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 4,
-   "saniye": 588,
+   "vp": 7,
+   "saniye": 658,
    "maclar": [
     345972
    ]
@@ -1479,8 +1484,8 @@
   "777502": {
    "ad": "Isaiah Dandre Washington",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 11,
-   "saniye": 1450,
+   "vp": 15,
+   "saniye": 1520,
    "maclar": [
     345972
    ]
@@ -1506,8 +1511,8 @@
   "623478": {
    "ad": "Jamari Traylor",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 13,
-   "saniye": 1286,
+   "vp": 14,
+   "saniye": 1356,
    "maclar": [
     345972
    ]
@@ -1516,7 +1521,7 @@
    "ad": "Berke Atar",
    "takim": "GÖZTEPE ISONEM",
    "vp": 22,
-   "saniye": 872,
+   "saniye": 942,
    "maclar": [
     345972
    ]
@@ -1570,9 +1575,225 @@
    "ad": "Eray Büyükcangaz",
    "takim": "GÖZTEPE ISONEM",
    "vp": 9,
-   "saniye": 977,
+   "saniye": 1047,
    "maclar": [
     345972
+   ]
+  },
+  "606144": {
+   "ad": "Josh Sharkey",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "734741": {
+   "ad": "Trev Crews",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "252757": {
+   "ad": "İsmail Karabilen",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "205923": {
+   "ad": "Mert Ali Sert",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "386417": {
+   "ad": "Ege Akçay",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "447523": {
+   "ad": "Arda Çelik",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "286635": {
+   "ad": "Ege Eskinazi",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "447497": {
+   "ad": "Ahmet Arda Ene",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "248403": {
+   "ad": "Yiğit Elgün",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "393345": {
+   "ad": "Eren İlyem",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "345957": {
+   "ad": "Berkay Terzi",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "489789": {
+   "ad": "Eren Ertaş",
+   "takim": "DARÜŞŞAFAKA",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "665900": {
+   "ad": "Jordan Barnes",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "139924": {
+   "ad": "Kerem Aydan Özel",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "116084": {
+   "ad": "Mustafa Baştürk",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "616402": {
+   "ad": "Julien Ducree",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "319886": {
+   "ad": "Cenker Evran",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345969
+   ]
+  },
+  "502279": {
+   "ad": "Edin Baçevaç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "229642": {
+   "ad": "Gökhan Akkoyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "111242": {
+   "ad": "Oğulcan Baykan",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "274052": {
+   "ad": "Kutluhan Celayir",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "509422": {
+   "ad": "Erdinç Alex Koyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "332044": {
+   "ad": "Enes Tunç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
+   ]
+  },
+  "385476": {
+   "ad": "Ali Hamza Altın",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345969
    ]
   }
  }

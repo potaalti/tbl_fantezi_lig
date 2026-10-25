@@ -75,13 +75,13 @@
    "durum": "canli",
    "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": "71",
-   "depSkor": "70",
+   "evSkor": "72",
+   "depSkor": "71",
    "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "02:10",
+    "saat": "01:41",
     "uzatma": false
    }
   },
@@ -93,13 +93,13 @@
    "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "GÖZTEPE ISONEM",
-   "evSkor": "66",
-   "depSkor": "62",
+   "evSkor": "67",
+   "depSkor": "68",
    "salon": "Selçuklu Belediyesi Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 3,
-    "saat": "02:37",
+    "saat": "01:27",
     "uzatma": false
    }
   },
@@ -108,13 +108,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-25T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "DARÜŞŞAFAKA",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Darüşşafaka Ayhan Şahenk Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:58",
+    "uzatma": false
+   }
   }
  ]
 }
