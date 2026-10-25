@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "64",
+  "skor": "66",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "24:11",
+    "sure": "25:05",
     "sayi": 9,
     "iki": [
      3,
@@ -73,7 +73,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "18:41",
+    "sure": "19:35",
     "sayi": 26,
     "iki": [
      3,
@@ -103,11 +103,11 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "25:28",
-    "sayi": 14,
+    "sure": "26:22",
+    "sayi": 16,
     "iki": [
-     5,
-     8
+     6,
+     9
     ],
     "uc": [
      1,
@@ -126,7 +126,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "8",
-    "vp": 16
+    "vp": 18
    },
    {
     "id": "14106",
@@ -253,7 +253,7 @@
     "ad": "Mustafa Faruk Yerkazanoğlu",
     "no": "19",
     "ilk5": false,
-    "sure": "3:17",
+    "sure": "4:11",
     "sayi": 1,
     "iki": [
      0,
@@ -273,17 +273,17 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 3,
     "pm": "-2",
-    "vp": 2
+    "vp": 1
    },
    {
     "id": "317314",
     "ad": "Enes Bayraktar",
     "no": "20",
     "ilk5": false,
-    "sure": "6:54",
+    "sure": "7:48",
     "sayi": 2,
     "iki": [
      1,
@@ -372,12 +372,12 @@
   "ceyrekler": [
    31,
    18,
-   15
+   17
   ]
  },
  "dep": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "56",
+  "skor": "58",
   "oyuncular": [
    {
     "id": "316467",
@@ -414,7 +414,7 @@
     "ad": "Isaiah Dandre Washington",
     "no": "5",
     "ilk5": true,
-    "sure": "22:15",
+    "sure": "23:09",
     "sayi": 5,
     "iki": [
      1,
@@ -431,13 +431,13 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 5,
+    "ast": 6,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "-6",
-    "vp": 7
+    "vp": 8
    },
    {
     "id": "39445",
@@ -504,7 +504,7 @@
     "ad": "Jamari Traylor",
     "no": "13",
     "ilk5": true,
-    "sure": "19:31",
+    "sure": "20:25",
     "sayi": 4,
     "iki": [
      2,
@@ -534,11 +534,11 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "12:37",
-    "sayi": 13,
+    "sure": "13:31",
+    "sayi": 15,
     "iki": [
-     4,
-     6
+     5,
+     7
     ],
     "uc": [
      0,
@@ -552,12 +552,12 @@
     "sr": 4,
     "rib": 5,
     "ast": 3,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
     "tk": 2,
     "faul": 2,
     "pm": "-6",
-    "vp": 18
+    "vp": 21
    },
    {
     "id": "375553",
@@ -624,7 +624,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "16:04",
+    "sure": "16:58",
     "sayi": 4,
     "iki": [
      1,
@@ -714,7 +714,7 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": false,
-    "sure": "14:22",
+    "sure": "15:16",
     "sayi": 11,
     "iki": [
      1,
@@ -729,30 +729,30 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "pm": "2",
-    "vp": 10
+    "vp": 9
    }
   ],
   "ceyrekler": [
    22,
    24,
-   10
+   12
   ]
  },
- "evSkor": "64",
- "depSkor": "56",
+ "evSkor": "66",
+ "depSkor": "58",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:32",
+  "saat": "03:38",
   "uzatma": false
  }
 }

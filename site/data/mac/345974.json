@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-  "skor": "65",
+  "skor": "70",
   "oyuncular": [
    {
     "id": "317200",
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": true,
-    "sure": "23:48",
+    "sure": "24:37",
     "sayi": 6,
     "iki": [
      3,
@@ -31,19 +31,19 @@
     "sr": 6,
     "rib": 8,
     "ast": 3,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
     "tk": 1,
     "faul": 4,
     "pm": "13",
-    "vp": 10
+    "vp": 11
    },
    {
     "id": "777504",
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "35:43",
+    "sure": "37:05",
     "sayi": 9,
     "iki": [
      3,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 5
    },
    {
@@ -103,11 +103,11 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "20:36",
+    "sure": "21:58",
     "sayi": 19,
     "iki": [
      5,
-     8
+     9
     ],
     "uc": [
      1,
@@ -125,8 +125,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 4,
-    "pm": "18",
-    "vp": 16
+    "pm": "20",
+    "vp": 15
    },
    {
     "id": "335737",
@@ -163,15 +163,15 @@
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": false,
-    "sure": "14:20",
-    "sayi": 0,
+    "sure": "15:42",
+    "sayi": 3,
     "iki": [
      0,
      1
     ],
     "uc": [
-     0,
-     1
+     1,
+     2
     ],
     "sa": [
      0,
@@ -185,8 +185,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
-    "vp": -1
+    "pm": "-4",
+    "vp": 2
    },
    {
     "id": "356958",
@@ -283,7 +283,7 @@
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": false,
-    "sure": "16:36",
+    "sure": "17:58",
     "sayi": 9,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "2",
     "vp": 13
    },
    {
@@ -343,8 +343,8 @@
     "ad": "Onur Aslaner",
     "no": "77",
     "ilk5": false,
-    "sure": "4:16",
-    "sayi": 2,
+    "sure": "4:49",
+    "sayi": 4,
     "iki": [
      0,
      0
@@ -354,31 +354,31 @@
      0
     ],
     "sa": [
-     2,
-     2
+     4,
+     4
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
-    "vp": 2
+    "pm": "3",
+    "vp": 5
    }
   ],
   "ceyrekler": [
    15,
    16,
    16,
-   18
+   23
   ]
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "65",
+  "skor": "68",
   "oyuncular": [
    {
     "id": "381972",
@@ -415,7 +415,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "21:49",
+    "sure": "23:11",
     "sayi": 3,
     "iki": [
      0,
@@ -430,15 +430,15 @@
      0
     ],
     "hr": 0,
-    "sr": 3,
-    "rib": 3,
+    "sr": 4,
+    "rib": 4,
     "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "0",
-    "vp": 6
+    "pm": "-2",
+    "vp": 7
    },
    {
     "id": "340042",
@@ -475,7 +475,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": true,
-    "sure": "17:57",
+    "sure": "18:30",
     "sayi": 7,
     "iki": [
      3,
@@ -497,7 +497,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "0",
+    "pm": "-2",
     "vp": 8
    },
    {
@@ -505,7 +505,7 @@
     "ad": "Keshun Deıon Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "32:21",
+    "sure": "33:43",
     "sayi": 10,
     "iki": [
      3,
@@ -525,10 +525,10 @@
     "ast": 3,
     "tc": 2,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
-    "pm": "9",
-    "vp": 12
+    "pm": "7",
+    "vp": 11
    },
    {
     "id": "360298",
@@ -565,7 +565,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "24:47",
+    "sure": "26:09",
     "sayi": 15,
     "iki": [
      7,
@@ -587,7 +587,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-8",
+    "pm": "-10",
     "vp": 14
    },
    {
@@ -625,15 +625,15 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": false,
-    "sure": "15:19",
-    "sayi": 7,
+    "sure": "16:41",
+    "sayi": 10,
     "iki": [
      1,
      2
     ],
     "uc": [
-     1,
-     3
+     2,
+     4
     ],
     "sa": [
      2,
@@ -647,15 +647,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-6",
-    "vp": 9
+    "pm": "-8",
+    "vp": 12
    },
    {
     "id": "35766",
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": false,
-    "sure": "12:40",
+    "sure": "13:29",
     "sayi": 0,
     "iki": [
      0,
@@ -676,7 +676,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 4,
+    "faul": 5,
     "pm": "-8",
     "vp": -1
    }
@@ -685,16 +685,16 @@
    7,
    22,
    29,
-   7
+   10
   ]
  },
- "evSkor": "65",
- "depSkor": "65",
+ "evSkor": "70",
+ "depSkor": "68",
  "salon": "Şehit Turgut Solak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:17",
+  "saat": "02:55",
   "uzatma": false
  }
 }
