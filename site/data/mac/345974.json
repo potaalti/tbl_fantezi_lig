@@ -13,11 +13,11 @@
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": true,
-    "sure": "16:03",
+    "sure": "17:48",
     "sayi": 4,
     "iki": [
      2,
-     5
+     7
     ],
     "uc": [
      0,
@@ -27,23 +27,23 @@
      0,
      0
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 5,
-    "rib": 6,
+    "rib": 7,
     "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "7",
-    "vp": 7
+    "pm": "4",
+    "vp": 6
    },
    {
     "id": "777504",
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "20:00",
+    "sure": "21:50",
     "sayi": 7,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "2",
+    "pm": "-1",
     "vp": 2
    },
    {
@@ -133,11 +133,11 @@
     "ad": "Emirali Göktürk",
     "no": "99",
     "ilk5": true,
-    "sure": "13:20",
+    "sure": "15:10",
     "sayi": 10,
     "iki": [
      3,
-     3
+     4
     ],
     "uc": [
      1,
@@ -148,20 +148,50 @@
      2
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-7",
+    "pm": "-10",
     "vp": 8
    },
    {
     "id": "392789",
     "ad": "Cem Küçüközkan",
     "no": "2",
+    "ilk5": false,
+    "sure": "3:35",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-10",
+    "vp": 0
+   },
+   {
+    "id": "356958",
+    "ad": "Taylan George Warren",
+    "no": "13",
     "ilk5": false,
     "sure": "1:45",
     "sayi": 0,
@@ -184,38 +214,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "-7",
-    "vp": 0
-   },
-   {
-    "id": "356958",
-    "ad": "Taylan George Warren",
-    "no": "13",
-    "ilk5": false,
-    "sure": "0:00",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "0",
+    "faul": 1,
+    "pm": "-3",
     "vp": 0
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": false,
-    "sure": "5:10",
+    "sure": "5:15",
     "sayi": 0,
     "iki": [
      0,
@@ -313,7 +313,7 @@
     "ad": "Berat Berke Tunç",
     "no": "44",
     "ilk5": false,
-    "sure": "9:05",
+    "sure": "9:10",
     "sayi": 0,
     "iki": [
      0,
@@ -371,19 +371,20 @@
   ],
   "ceyrekler": [
    15,
-   16
+   16,
+   0
   ]
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "29",
+  "skor": "32",
   "oyuncular": [
    {
     "id": "381972",
     "ad": "Yağız Aksu",
     "no": "10",
     "ilk5": true,
-    "sure": "10:34",
+    "sure": "12:24",
     "sayi": 4,
     "iki": [
      1,
@@ -405,7 +406,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "4",
+    "pm": "7",
     "vp": 4
    },
    {
@@ -413,15 +414,15 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "12:24",
-    "sayi": 0,
+    "sure": "14:14",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     2
     ],
     "sa": [
      0,
@@ -435,15 +436,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "3",
-    "vp": 3
+    "pm": "6",
+    "vp": 5
    },
    {
     "id": "340042",
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": true,
-    "sure": "11:03",
+    "sure": "12:53",
     "sayi": 4,
     "iki": [
      2,
@@ -464,8 +465,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "3",
+    "faul": 1,
+    "pm": "6",
     "vp": 3
    },
    {
@@ -473,7 +474,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": true,
-    "sure": "13:33",
+    "sure": "15:23",
     "sayi": 7,
     "iki": [
      3,
@@ -488,22 +489,22 @@
      1
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
-    "pm": "-2",
-    "vp": 7
+    "faul": 3,
+    "pm": "1",
+    "vp": 8
    },
    {
     "id": "fiba-keshun-deion-sherrill",
     "ad": "Keshun Deıon Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "18:51",
+    "sure": "20:41",
     "sayi": 5,
     "iki": [
      2,
@@ -520,13 +521,13 @@
     "hr": 0,
     "sr": 3,
     "rib": 3,
-    "ast": 2,
+    "ast": 3,
     "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
-    "vp": 7
+    "pm": "5",
+    "vp": 8
    },
    {
     "id": "360298",
@@ -681,16 +682,17 @@
   ],
   "ceyrekler": [
    7,
-   22
+   22,
+   3
   ]
  },
  "evSkor": "31",
- "depSkor": "29",
+ "depSkor": "32",
  "salon": "Şehit Turgut Solak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "10:00",
+  "saat": "08:10",
   "uzatma": false
  }
 }
