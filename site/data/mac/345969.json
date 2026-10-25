@@ -6,37 +6,37 @@
  "durum": "canli",
  "ev": {
   "ad": "DARÜŞŞAFAKA",
-  "skor": "33",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "606144",
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "11:48",
-    "sayi": 2,
+    "sure": "12:27",
+    "sayi": 5,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
      2
     ],
     "sa": [
-     2,
-     2
+     3,
+     4
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
     "ast": 2,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "6",
-    "vp": 0
+    "pm": "9",
+    "vp": 3
    },
    {
     "id": "734741",
@@ -73,7 +73,7 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "10:58",
+    "sure": "11:37",
     "sayi": 6,
     "iki": [
      3,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "6",
+    "pm": "9",
     "vp": 11
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "13:39",
+    "sure": "14:18",
     "sayi": 4,
     "iki": [
      2,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "8",
+    "pm": "11",
     "vp": 3
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Arda Çelik",
     "no": "1",
     "ilk5": false,
-    "sure": "1:08",
+    "sure": "1:47",
     "sayi": 1,
     "iki": [
      0,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "8",
     "vp": 1
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Eren İlyem",
     "no": "19",
     "ilk5": false,
-    "sure": "6:39",
+    "sure": "7:18",
     "sayi": 3,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "3",
+    "pm": "6",
     "vp": -3
    },
    {
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    23,
-   10
+   13
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "15:37",
+    "sure": "16:16",
     "sayi": 14,
     "iki": [
      3,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-7",
+    "pm": "-10",
     "vp": 14
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "11:23",
+    "sure": "11:46",
     "sayi": 3,
     "iki": [
      1,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-3",
     "vp": -1
    },
    {
@@ -443,7 +443,7 @@
     "ad": "Mustafa Baştürk",
     "no": "12",
     "ilk5": true,
-    "sure": "13:28",
+    "sure": "13:44",
     "sayi": 2,
     "iki": [
      1,
@@ -463,21 +463,21 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
-    "pm": "-9",
-    "vp": -1
+    "pm": "-11",
+    "vp": -2
    },
    {
     "id": "616402",
     "ad": "Julien Ducree",
     "no": "54",
     "ilk5": true,
-    "sure": "12:24",
+    "sure": "13:03",
     "sayi": 4,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      0,
@@ -494,16 +494,16 @@
     "tc": 2,
     "blk": 1,
     "tk": 1,
-    "faul": 2,
-    "pm": "-9",
-    "vp": 5
+    "faul": 3,
+    "pm": "-11",
+    "vp": 4
    },
    {
     "id": "319886",
     "ad": "Cenker Evran",
     "no": "99",
     "ilk5": true,
-    "sure": "8:40",
+    "sure": "9:19",
     "sayi": 0,
     "iki": [
      0,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-4",
+    "pm": "-7",
     "vp": 5
    },
    {
@@ -585,7 +585,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 0
    },
    {
@@ -593,7 +593,7 @@
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "10:37",
+    "sure": "11:16",
     "sayi": 3,
     "iki": [
      0,
@@ -615,7 +615,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-5",
     "vp": 1
    },
    {
@@ -744,13 +744,13 @@
    10
   ]
  },
- "evSkor": "33",
+ "evSkor": "36",
  "depSkor": "26",
  "salon": "Darüşşafaka Ayhan Şahenk Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "04:23",
+  "saat": "03:44",
   "uzatma": false
  }
 }
