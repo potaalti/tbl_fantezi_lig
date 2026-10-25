@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-  "skor": "28",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "317200",
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": true,
-    "sure": "12:38",
+    "sure": "13:53",
     "sayi": 4,
     "iki": [
      2,
-     2
+     3
     ],
     "uc": [
      0,
@@ -35,19 +35,19 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "9",
-    "vp": 9
+    "pm": "8",
+    "vp": 8
    },
    {
     "id": "777504",
     "ad": "Christian Alexander Bradford",
     "no": "3",
     "ilk5": true,
-    "sure": "16:35",
+    "sure": "17:50",
     "sayi": 7,
     "iki": [
      2,
-     5
+     6
     ],
     "uc": [
      1,
@@ -65,15 +65,15 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "4",
-    "vp": 4
+    "pm": "3",
+    "vp": 3
    },
    {
     "id": "153011",
     "ad": "Harun Can Doğan",
     "no": "22",
     "ilk5": true,
-    "sure": "5:19",
+    "sure": "6:34",
     "sayi": 0,
     "iki": [
      0,
@@ -90,13 +90,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
-    "vp": -2
+    "pm": "-10",
+    "vp": -1
    },
    {
     "id": "777505",
@@ -133,8 +133,8 @@
     "ad": "Emirali Göktürk",
     "no": "99",
     "ilk5": true,
-    "sure": "9:55",
-    "sayi": 9,
+    "sure": "11:10",
+    "sayi": 10,
     "iki": [
      3,
      3
@@ -144,8 +144,8 @@
      3
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 8
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": false,
-    "sure": "3:55",
+    "sure": "5:10",
     "sayi": 0,
     "iki": [
      0,
@@ -298,15 +298,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "-1",
+    "vp": 1
    },
    {
     "id": "415783",
@@ -371,23 +371,23 @@
   ],
   "ceyrekler": [
    15,
-   13
+   14
   ]
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "24",
+  "skor": "26",
   "oyuncular": [
    {
     "id": "381972",
     "ad": "Yağız Aksu",
     "no": "10",
     "ilk5": true,
-    "sure": "7:09",
-    "sayi": 2,
+    "sure": "8:24",
+    "sayi": 4,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -404,9 +404,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "2",
-    "vp": 2
+    "faul": 2,
+    "pm": "3",
+    "vp": 4
    },
    {
     "id": "56403",
@@ -443,11 +443,11 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": true,
-    "sure": "7:38",
+    "sure": "8:53",
     "sayi": 2,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      0,
@@ -465,8 +465,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 1
+    "pm": "2",
+    "vp": 0
    },
    {
     "id": "467246",
@@ -503,7 +503,7 @@
     "ad": "Keshun Deıon Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "15:26",
+    "sure": "16:41",
     "sayi": 5,
     "iki": [
      2,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 6
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "9:36",
+    "sure": "10:51",
     "sayi": 4,
     "iki": [
      2,
@@ -578,22 +578,22 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-8",
-    "vp": 2
+    "pm": "-7",
+    "vp": 4
    },
    {
     "id": "471334",
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "6:48",
+    "sure": "8:03",
     "sayi": 4,
     "iki": [
      0,
@@ -615,7 +615,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
+    "pm": "5",
     "vp": 3
    },
    {
@@ -681,16 +681,16 @@
   ],
   "ceyrekler": [
    7,
-   17
+   19
   ]
  },
- "evSkor": "28",
- "depSkor": "24",
+ "evSkor": "29",
+ "depSkor": "26",
  "salon": "Şehit Turgut Solak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:25",
+  "saat": "02:10",
   "uzatma": false
  }
 }
