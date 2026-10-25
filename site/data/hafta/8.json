@@ -74,13 +74,13 @@
    "durum": "canli",
    "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": "15",
+   "evSkor": "18",
    "depSkor": "14",
    "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "08:29",
+    "saat": "07:20",
     "uzatma": false
    }
   },
@@ -89,13 +89,18 @@
    "lig": "tbl",
    "hafta": 8,
    "tarih": "2026-10-25T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "GÖZTEPE ISONEM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "8",
+   "depSkor": "2",
    "salon": "Selçuklu Belediyesi Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:08",
+    "uzatma": false
+   }
   },
   {
    "id": 345969,
@@ -1168,8 +1173,8 @@
   "777504": {
    "ad": "Christian Alexander Bradford",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 1,
-   "saniye": 691,
+   "vp": 4,
+   "saniye": 762,
    "maclar": [
     345974
    ]
@@ -1187,7 +1192,7 @@
    "ad": "Jaquan Elijah Scott",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 4,
-   "saniye": 484,
+   "saniye": 555,
    "maclar": [
     345974
    ]
@@ -1222,8 +1227,8 @@
   "130234": {
    "ad": "Mustafa Kırcalı",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 0,
-   "saniye": 27,
+   "vp": 1,
+   "saniye": 98,
    "maclar": [
     345974
    ]
@@ -1231,8 +1236,8 @@
   "241322": {
    "ad": "Önder Atun",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 3,
-   "saniye": 415,
+   "vp": 2,
+   "saniye": 486,
    "maclar": [
     345974
    ]
@@ -1259,7 +1264,7 @@
    "ad": "Onur Aslaner",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 0,
-   "saniye": 0,
+   "saniye": 71,
    "maclar": [
     345974
    ]
@@ -1277,7 +1282,7 @@
    "ad": "Ömer Sancaklı",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 3,
-   "saniye": 440,
+   "saniye": 511,
    "maclar": [
     345974
    ]
@@ -1294,8 +1299,8 @@
   "467246": {
    "ad": "Ahmet Arda Aydın",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 3,
-   "saniye": 549,
+   "vp": 2,
+   "saniye": 620,
    "maclar": [
     345974
    ]
@@ -1304,7 +1309,7 @@
    "ad": "Keshun Deıon Sherrill",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 3,
-   "saniye": 691,
+   "saniye": 762,
    "maclar": [
     345974
    ]
@@ -1321,8 +1326,8 @@
   "224801": {
    "ad": "Ömercan Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 3,
-   "saniye": 402,
+   "vp": 4,
+   "saniye": 473,
    "maclar": [
     345974
    ]
@@ -1331,7 +1336,7 @@
    "ad": "Demir Öztürk",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 4,
-   "saniye": 104,
+   "saniye": 175,
    "maclar": [
     345974
    ]
@@ -1352,6 +1357,222 @@
    "saniye": 282,
    "maclar": [
     345974
+   ]
+  },
+  "782891": {
+   "ad": "Robert Smith",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "218578": {
+   "ad": "Ömer Yasir Küçük",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": -1,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "488870": {
+   "ad": "Yiğit Çoban",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 3,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "211415": {
+   "ad": "Cengizhan İvedi",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 6,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "14106": {
+   "ad": "Doğan Şenli",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 2,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "777242": {
+   "ad": "Jalen Terrell Ray",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "357281": {
+   "ad": "Yiğit Karalar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "233847": {
+   "ad": "Atakan Erdek",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "362839": {
+   "ad": "Mustafa Faruk Yerkazanoğlu",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "317314": {
+   "ad": "Enes Bayraktar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "330206": {
+   "ad": "Arda Midye",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "640045": {
+   "ad": "Okay Camgöz",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "316467": {
+   "ad": "Emir Arda Sivas",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "777502": {
+   "ad": "Isaiah Dandre Washington",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 2,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "39445": {
+   "ad": "Fatih Cantitiz",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": -2,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "196982": {
+   "ad": "Ahmet Can Duran",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 1,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "623478": {
+   "ad": "Jamari Traylor",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 2,
+   "saniye": 128,
+   "maclar": [
+    345972
+   ]
+  },
+  "163820": {
+   "ad": "Berke Atar",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "375553": {
+   "ad": "Kerem Soyuçaylı",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "223176": {
+   "ad": "Murat Can Esen",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "230701": {
+   "ad": "Eray Aydoğan",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "384273": {
+   "ad": "Rijad Aydın",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "399293": {
+   "ad": "Deniz Savut",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
+   ]
+  },
+  "287583": {
+   "ad": "Eray Büyükcangaz",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345972
    ]
   }
  }
