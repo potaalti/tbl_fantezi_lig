@@ -13,7 +13,7 @@ const kacis = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<'
 const baslik = s => String(s ?? '').split(' ').map(k =>
   k !== k.toLocaleUpperCase('tr') || k.replace(/\./g, '').length <= 3 ? k
     : k.toLocaleLowerCase('tr').replace(/(^|[.\-])(\p{L})/gu, (_, a, b) => a + b.toLocaleUpperCase('tr'))
-).join(' ');
+).join(' ').replace(/Technıc/u, 'Technic'); // yabancı kelimede Türkçe küçük harf "ı" olmasın
 
 const dakika = sn => `${Math.floor(sn / 60)}:${String(sn % 60).padStart(2, '0')}`;
 const tarihSaat = iso => new Date(iso).toLocaleString('tr-TR', { weekday: 'short', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
@@ -684,21 +684,137 @@ async function artieksiDoldur(lig, donem) {
   haftaCipiniGoster();
 }
 
+const SEZON_ADI = '2026-2027';
+const LIG_TAM_ADI = { tbl: 'TÜRKİYE SİGORTA TBL', bsl: 'TÜRKİYE SİGORTA BSL' };
+// Görselde uzun takım adları kısalır: "Balıkesir Büyükşehir Belediye Spor" -> "Balıkesir BŞB"
+const kisaTakim = ad => baslik(ad).replace(/Büyükşehir Belediye(si)? Spor/u, 'BŞB');
+// Görseldeki isim: Türk oyuncular Türkçe büyük harfle (ALİ), yabancılar Türkçe harf olmadan (MIKE) ve
+// göbek adı olmadan ("Jaquan Elijah Scott" -> "JAQUAN SCOTT"; "Jr." gibi ekler kalır)
+const ISIM_EKI = /^(jr\.?|sr\.?|ii|iii|iv)$/i;
+function gorselIsmi(k) {
+  const turk = TURK_ULKELER.has(k.ulke) || /[çğıöşüÇĞİÖŞÜ]/.test(k.ad);
+  if (turk) return k.ad.toLocaleUpperCase('tr');
+  const kelimeler = k.ad.split(/\s+/);
+  const ek = kelimeler.length > 2 && ISIM_EKI.test(kelimeler.at(-1)) ? kelimeler.pop() : null;
+  const kisa = kelimeler.length > 2 ? [kelimeler[0], kelimeler.at(-1)] : kelimeler;
+  return [...kisa, ek].filter(Boolean).join(' ').toUpperCase();
+}
+
 function artieksiGorselVerisi(anahtar) {
   const [lig, donem] = anahtar.split('-');
-  const d = artieksiVerisi.get(lig).veri;
   const sezon = donem === 'sezon';
-  const haftalar = Object.keys(d.haftalar);
   return {
-    baslik: `${LIGLER[lig]} +/- Sıralaması`,
-    altBaslik: sezon ? `Sezon · ${haftalar[0]}–${haftalar.at(-1)}. haftalar` : `${donem}. Hafta`,
-    adBasligi: 'OYUNCU',
-    sutunlar: ['+/-'],
-    satirlar: artieksiListesi(d, sezon ? 'sezon' : Number(donem)).map(k => ({
-      sira: k.sira, ad: k.ad, degerler: [isaretli(k.pm)],
-      not: `${baslik(k.takim)}${sezon ? ` · ${k.mac} maç` : ''}`,
+    baslik: `${sezon ? 'SEZONUN' : `${donem}. HAFTANIN`} +/- LİDERLERİ`,
+    altBaslik: `${SEZON_ADI} ${LIG_TAM_ADI[lig]}`,
+    satirlar: artieksiListesi(artieksiVerisi.get(lig).veri, sezon ? 'sezon' : Number(donem)).map(k => ({
+      sira: k.sira, ad: gorselIsmi(k), takim: kisaTakim(k.takim), deger: isaretli(k.pm),
     })),
   };
+}
+
+// +/- liderleri görseli (yayın şablonu): açık gri zemin, beyaz kenarlı turkuaz başlık, siyah lig şeridi,
+// solda sıra, ortada siyahtan maviye giden şeritte oyuncu ve takımı, sağda +/-
+const SABLON = {
+  genislik: 1080, ust: 240, satirYuk: 112, kutuYuk: 98, alt: 34,
+  kutuSol: 200, kutuSag: 850, turkuaz: '#0d6f86', acikTurkuaz: '#3cc6d3',
+  baslikYazi: 'Anton, Impact, "Arial Narrow", sans-serif', govdeYazi: 'Montserrat, Arial, sans-serif',
+};
+
+// Yazı tipi gelmezse (internet yok vb.) görsel yedek yazı tipiyle yine oluşur
+async function yaziTipleriniYukle() {
+  const yukle = Promise.all([document.fonts.load(`100px ${SABLON.baslikYazi}`, 'İ+'),
+    document.fonts.load(`700 40px ${SABLON.govdeYazi}`, 'İ'), document.fonts.load(`800 90px ${SABLON.govdeYazi}`, '+1')]);
+  await Promise.race([yukle, new Promise(ok => setTimeout(ok, 4000))]).catch(() => {});
+}
+
+// Yazı kutuya sığmıyorsa küçültülür
+function sigdir(ctx, metin, enBuyuk, genislik, yaziTipi) {
+  let boyut = enBuyuk;
+  do ctx.font = `${yaziTipi.replace('{}', boyut)}`; while (ctx.measureText(metin).width > genislik && --boyut > 18);
+}
+
+async function artieksiGorseli({ baslik: baslikYazisi, altBaslik, satirlar }) {
+  const g = SABLON;
+  await yaziTipleriniYukle();
+  const yukseklik = g.ust + satirlar.length * g.satirYuk + g.alt;
+  const tuval = document.createElement('canvas');
+  tuval.width = g.genislik;
+  tuval.height = yukseklik;
+  const ctx = tuval.getContext('2d');
+  const orta = g.genislik / 2;
+
+  // Zemin: açık gri, üstte hafif aydınlık
+  const zemin = ctx.createLinearGradient(0, 0, 0, yukseklik);
+  zemin.addColorStop(0, '#f4f5f6');
+  zemin.addColorStop(1, '#d9dde0');
+  ctx.fillStyle = zemin;
+  ctx.fillRect(0, 0, g.genislik, yukseklik);
+  const isik = ctx.createRadialGradient(orta, 160, 40, orta, 160, 700);
+  isik.addColorStop(0, 'rgba(255,255,255,.7)');
+  isik.addColorStop(1, 'rgba(255,255,255,0)');
+  ctx.fillStyle = isik;
+  ctx.fillRect(0, 0, g.genislik, yukseklik);
+
+  // Başlık: beyaz kenarlı, gölgeli turkuaz
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'alphabetic';
+  sigdir(ctx, baslikYazisi, 118, g.genislik - 60, `{}px ${g.baslikYazi}`);
+  ctx.lineJoin = 'round';
+  ctx.shadowColor = 'rgba(0,0,0,.28)';
+  ctx.shadowBlur = 10;
+  ctx.shadowOffsetY = 4;
+  ctx.lineWidth = 12;
+  ctx.strokeStyle = '#ffffff';
+  ctx.strokeText(baslikYazisi, orta, 150);
+  ctx.shadowColor = 'transparent';
+  ctx.fillStyle = g.turkuaz;
+  ctx.fillText(baslikYazisi, orta, 150);
+
+  // Lig şeridi
+  const serit = ctx.createLinearGradient(110, 0, g.genislik - 110, 0);
+  serit.addColorStop(0, '#020304');
+  serit.addColorStop(0.55, '#0b1620');
+  serit.addColorStop(1, '#1d4563');
+  ctx.fillStyle = serit;
+  ctx.fillRect(110, 168, g.genislik - 220, 46);
+  ctx.fillStyle = '#ffffff';
+  ctx.font = `700 26px ${g.govdeYazi}`;
+  if ('letterSpacing' in ctx) ctx.letterSpacing = '4px';
+  ctx.fillText(altBaslik, orta, 201);
+  if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
+
+  const kutuGen = g.kutuSag - g.kutuSol;
+  satirlar.forEach((s, i) => {
+    const ust = g.ust + i * g.satirYuk;
+    const merkez = ust + g.kutuYuk / 2;
+    // Şerit: soldan siyah, sağa doğru mavi
+    const kutu = ctx.createLinearGradient(g.kutuSol, 0, g.kutuSag, 0);
+    kutu.addColorStop(0, '#020304');
+    kutu.addColorStop(0.5, '#0c1924');
+    kutu.addColorStop(1, '#1f4a69');
+    ctx.fillStyle = kutu;
+    ctx.fillRect(g.kutuSol, ust, kutuGen, g.kutuYuk);
+    ctx.strokeStyle = 'rgba(255,255,255,.18)';
+    ctx.lineWidth = 2;
+    ctx.strokeRect(g.kutuSol + 1, ust + 1, kutuGen - 2, g.kutuYuk - 2);
+    // Oyuncu ve takımı
+    ctx.textAlign = 'center';
+    ctx.fillStyle = '#ffffff';
+    sigdir(ctx, s.ad, 36, kutuGen - 40, `700 {}px ${g.govdeYazi}`);
+    ctx.fillText(s.ad, g.kutuSol + kutuGen / 2, merkez - 6);
+    ctx.fillStyle = g.acikTurkuaz;
+    sigdir(ctx, s.takim, 33, kutuGen - 40, `700 {}px ${g.govdeYazi}`);
+    ctx.fillText(s.takim, g.kutuSol + kutuGen / 2, merkez + 34);
+    // Sıra ve +/-
+    ctx.fillStyle = g.turkuaz;
+    ctx.textAlign = 'right';
+    sigdir(ctx, `${s.sira}.`, 84, g.kutuSol - 26, `800 {}px ${g.govdeYazi}`);
+    ctx.fillText(`${s.sira}.`, g.kutuSol - 14, merkez + 30);
+    sigdir(ctx, s.deger, 84, g.genislik - g.kutuSag - 34, `800 {}px ${g.govdeYazi}`);
+    ctx.fillText(s.deger, g.genislik - 22, merkez + 30);
+  });
+
+  return new Promise(ok => tuval.toBlob(ok, 'image/png'));
 }
 
 // ---------- yönlendirme ----------
@@ -776,7 +892,7 @@ function yuvarlakDikdortgen(ctx, sol, ust, gen, yuk, r) {
 }
 
 // satirlar: [{ sira, ad, not, degerler: [...] }], sutunlar: ['VP', 'Puan']
-async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar, adBasligi = 'TAKIM' }) {
+async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar }) {
   const g = GORSEL;
   const yukseklik = g.baslikYuk + g.sutunYuk + satirlar.length * g.satirYuk + g.altYuk + g.kenar;
   const tuval = document.createElement('canvas');
@@ -828,7 +944,7 @@ async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar, adBaslig
   ctx.fillStyle = g.soluk;
   ctx.font = font(700, 24);
   ctx.textAlign = 'left';
-  ctx.fillText(adBasligi, g.kenar + 80, kartUst + 44);
+  ctx.fillText('TAKIM', g.kenar + 80, kartUst + 44);
   ctx.textAlign = 'right';
   sutunlar.forEach((s, i) => ctx.fillText(s.toLocaleUpperCase('tr'), sutunX[i], kartUst + 44));
 
@@ -920,9 +1036,9 @@ const PAYLAS_YAZISI = '📤 Paylaş';
 let hazirGorsel = null; // { anahtar, zaman, dosya, bilgi }
 
 function gorselVerisi(tur, n) {
-  if (tur === 'genel') return { bilgi: genelGorselVerisi(), dosyaAdi: 'pota-alti-genel-klasman.png' };
-  if (tur === 'artieksi') return { bilgi: artieksiGorselVerisi(n), dosyaAdi: `pota-alti-arti-eksi-${n}.png` };
-  return { bilgi: haftalikGorselVerisi(Number(n)), dosyaAdi: `pota-alti-${fHafta(Number(n))}-hafta.png` };
+  if (tur === 'genel') return { bilgi: genelGorselVerisi(), dosyaAdi: 'pota-alti-genel-klasman.png', cizici: siralamaGorseli };
+  if (tur === 'artieksi') return { bilgi: artieksiGorselVerisi(n), dosyaAdi: `pota-alti-arti-eksi-${n}.png`, cizici: artieksiGorseli };
+  return { bilgi: haftalikGorselVerisi(Number(n)), dosyaAdi: `pota-alti-${fHafta(Number(n))}-hafta.png`, cizici: siralamaGorseli };
 }
 
 function gorseliIndir(dosya) {
@@ -943,8 +1059,8 @@ async function siralamayiPaylas(dugme, tur, n, indir = false) {
   try {
     if (!hazir) {
       dugme.textContent = 'Hazırlanıyor…';
-      const { bilgi, dosyaAdi } = gorselVerisi(tur, n);
-      const blob = await siralamaGorseli(bilgi);
+      const { bilgi, dosyaAdi, cizici } = gorselVerisi(tur, n);
+      const blob = await cizici(bilgi);
       hazir = hazirGorsel = { anahtar, zaman: Date.now(), dosya: new File([blob], dosyaAdi, { type: 'image/png' }), bilgi };
     }
     const { dosya, bilgi } = hazir;

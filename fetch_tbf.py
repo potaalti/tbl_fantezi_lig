@@ -282,8 +282,26 @@ def artieksi_ekle(tablo, hafta, pid, mac, taraf, o):
     k["mac"] += 1
 
 
-def artieksi_yaz(lig, tablo):
-    """site/data/artieksi/<lig>.json: haftalık ve sezon boyu +/- (yönetici modundaki sıralama için)."""
+def bsl_ulkeleri(yenile):
+    """BSL oyuncularının ülkesi (TBF takım kadrolarından, günde iki kez yenilenir)."""
+    yol = CACHE / "bsl-ulkeler.json"
+    if yol.exists() and not yenile:
+        return json.loads(yol.read_text(encoding="utf-8"))
+    ulkeler = {}
+    for t in api(f"/Team/get-teams-by-leauge?leaugeId={BSL_LIG_ID}"):
+        for o in api(f"/Team/get-team-active-player-list-by-season-and-league?LeagueId={BSL_LIG_ID}"
+                     f"&SeasonId={SEZON_ID}&TeamProcessId={t['teamProcessId']}&prefix=bsl") or []:
+            ulkeler[str(o["personId"])] = o.get("country") or ""
+    json_yaz(yol, ulkeler)
+    return ulkeler
+
+
+def artieksi_yaz(lig, tablo, ulkeler):
+    """site/data/artieksi/<lig>.json: haftalık ve sezon boyu +/- (yönetici modundaki sıralama için).
+    Ülke, paylaşılan görselde ismin Türkçe mi yazılacağı için (Ali -> ALİ, Mike -> MIKE)."""
+    for kayitlar in tablo.values():
+        for pid, k in kayitlar.items():
+            k["ulke"] = ulkeler.get(pid, "")
     sezon = {}
     for hafta in sorted(tablo):
         for pid, k in tablo[hafta].items():
@@ -382,7 +400,12 @@ def bsl_guncelle(yenile):
         lig_haftasi_yaz("bsl", hafta, maclar)
     for pid, kayit in oyuncular.items():
         json_yaz(SITE_DATA / "bsl-oyuncu" / f"{pid}.json", kayit)
-    artieksi_yaz("bsl", artieksi)
+    try:
+        ulkeler = bsl_ulkeleri(yenile)
+    except Exception as e:  # noqa: BLE001 - ülke bilinmezse isim yine yazılır
+        print(f"BSL kadroları alınamadı: {e}")
+        ulkeler = {}
+    artieksi_yaz("bsl", artieksi, ulkeler)
     tum_haftalar = gelecek_haftalar("bsl", BSL_LIG_ID, haftalar, son, yenile)
     sonraki = hafta_maclari.get(guncel + 1, [])
     saatler = [mac_saati(m) for m in hafta_maclari.get(guncel, []) + sonraki]
@@ -480,7 +503,7 @@ def main():
 
     for pid, maclar in gecmis.items():
         json_yaz(SITE_DATA / "oyuncu" / f"{pid}.json", maclar)
-    artieksi_yaz("tbl", artieksi)
+    artieksi_yaz("tbl", artieksi, {pid: v.get("ulke", "") for pid, v in rehber.items()})
 
     # Maç saatleri: telefon "şu an bir maç saatinde miyiz?" sorusunu internete çıkmadan bunlardan cevaplar
     # (bu haftanın ve gelecek haftanın TBL ve BSL maçları)
