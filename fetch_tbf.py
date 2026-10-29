@@ -263,16 +263,22 @@ def canli_mac(mac, m, rehber):
     return stat, ozet
 
 
-def artieksi_ekle(tablo, hafta, pid, takim, o):
-    """+/- sıralaması için: oyuncunun o haftaki +/- toplamı (süre almadıysa sayılmaz)."""
+def artieksi_ekle(tablo, hafta, pid, mac, taraf, o):
+    """+/- sıralaması için: oyuncunun o haftaki +/- toplamı ve takımının o maçlardaki skor farkı
+    (süre almadıysa sayılmaz). Eşit +/-'de takımı daha kötü sonuç alan üstte: takımı 10 farkla
+    kaybederken +21 yapan, takımı 7 farkla kazanırken +21 yapandan daha değerli."""
     if saniye(o["minutesPlayed"]) == 0:
         return
+    rakip = "dep" if taraf == "ev" else "ev"
+    fark = int(mac[f"{taraf}Skor"] or 0) - int(mac[f"{rakip}Skor"] or 0)
     try:
         pm = int(str(o.get("plusMinus") or 0).replace("+", ""))
     except ValueError:
         pm = 0
-    k = tablo.setdefault(hafta, {}).setdefault(pid, {"id": pid, "ad": o["playerName"].strip(), "takim": takim, "pm": 0, "mac": 0})
+    k = tablo.setdefault(hafta, {}).setdefault(pid, {
+        "id": pid, "ad": o["playerName"].strip(), "takim": mac[taraf], "pm": 0, "fark": 0, "mac": 0})
     k["pm"] += pm
+    k["fark"] += fark
     k["mac"] += 1
 
 
@@ -281,13 +287,15 @@ def artieksi_yaz(lig, tablo):
     sezon = {}
     for hafta in sorted(tablo):
         for pid, k in tablo[hafta].items():
-            t = sezon.setdefault(pid, {**k, "pm": 0, "mac": 0})
+            t = sezon.setdefault(pid, {**k, "pm": 0, "fark": 0, "mac": 0})
             t.update(ad=k["ad"], takim=k["takim"])  # transfer olduysa son takımı
             t["pm"] += k["pm"]
+            t["fark"] += k["fark"]
             t["mac"] += k["mac"]
 
     def sirala(kayitlar):
-        return sorted(kayitlar, key=lambda k: (-k["pm"], k["ad"]))
+        # +/- büyükten küçüğe; eşitse takımın skor farkı küçük olan (takımına göre daha çok katkı) üstte
+        return sorted(kayitlar, key=lambda k: (-k["pm"], k["fark"], k["ad"]))
     json_yaz(SITE_DATA / "artieksi" / f"{lig}.json", {
         "haftalar": {str(h): sirala(v.values()) for h, v in sorted(tablo.items())},
         "sezon": sirala(sezon.values()),
@@ -363,7 +371,7 @@ def bsl_guncelle(yenile):
             for liste, taraf in STAT_LISTELERI:
                 for o in stat.get(liste) or []:
                     pid = str(o["playerId"])
-                    artieksi_ekle(artieksi, hafta, pid, mac[taraf], o)
+                    artieksi_ekle(artieksi, hafta, pid, mac, taraf, o)
                     if pid.startswith("fiba-"):  # TBF kimliği bilinmeyen canlı oyuncunun sayfası olmaz
                         continue
                     kayit = oyuncular.setdefault(pid, {"maclar": []})
@@ -459,7 +467,7 @@ def main():
                     kayit["saniye"] += saniye(o["minutesPlayed"])
                     kayit["maclar"].append(m["matchId"])
                     gecmis.setdefault(pid, []).append(oyuncu_maci(o, mac, taraf))
-                    artieksi_ekle(artieksi, hafta, pid, takimlar[taraf], o)
+                    artieksi_ekle(artieksi, hafta, pid, mac, taraf, o)
 
         if hafta == guncel:
             guncel_maclar = hafta_maclar

@@ -615,7 +615,8 @@ async function macDetayDoldur(id) {
 }
 
 // ---------- +/- sıralaması (yönetici modu) ----------
-// TBL ve BSL oyuncularının haftalık ya da sezon boyu +/- toplamı: ilk 10, 10. ile aynı +/- olanlar da
+// TBL ve BSL oyuncularının haftalık ya da sezon boyu +/- toplamı, ilk 10. Eşit +/-'de takımının skor
+// farkı daha kötü olan üstte (takımı 10 farkla kaybederken +21, takımı 7 farkla kazanırken +21'den değerli).
 const artieksiVerisi = new Map(); // lig -> { zaman, veri }
 let gosterilenArtieksi = null;
 const isaretli = pm => pm > 0 ? `+${pm}` : String(pm);
@@ -625,13 +626,15 @@ function artieksiRotasi(a, b) {
   return { lig, donem: b === 'sezon' ? 'sezon' : Number(b) || null }; // null: son oynanan hafta
 }
 
-// Eşit +/- aynı sırayı paylaşır
+// Veri zaten sıralı gelir (+/-, sonra takım farkı). 1'den 10'a numaralanır; 10. ile hem +/- hem takım
+// farkı aynı olan (ör. aynı maçta aynı +/- yapan takım arkadaşı) da dışarıda kalmaz.
 function artieksiListesi(d, donem) {
   const tum = (donem === 'sezon' ? d.sezon : d.haftalar[donem]) ?? [];
-  const sinir = tum[Math.min(9, tum.length - 1)]?.pm;
-  const liste = tum.filter(k => k.pm >= sinir);
-  return liste.map((k, i) => ({ ...k, sira: liste.findIndex(x => x.pm === k.pm) + 1 }));
+  const onuncu = tum[9];
+  const liste = onuncu ? tum.filter((k, i) => i < 10 || (k.pm === onuncu.pm && k.fark === onuncu.fark)) : tum;
+  return liste.map((k, i) => ({ ...k, sira: i + 1 }));
 }
+const farkYazisi = k => `takım ${isaretli(k.fark ?? 0)}`;
 
 function artieksiEkrani(lig, donem) {
   if (!yoneticiModu) return '<p class="bos">Bu sayfa yönetici modunda açılır.</p>';
@@ -657,7 +660,7 @@ function artieksiIcerik(lig, donem, d) {
     const [ac, kapa] = sayfa ? [`<a class="satir" href="${sayfa}">`, '</a>'] : ['<div class="satir">', '</div>'];
     return `${ac}
       ${siraRozeti(k.sira)}
-      <div class="ad"><strong>${kacis(k.ad)}</strong><small>${kacis(baslik(k.takim))}${secili === 'sezon' ? ` · ${k.mac} maç` : ''}</small></div>
+      <div class="ad"><strong>${kacis(k.ad)}</strong><small>${kacis(baslik(k.takim))} · ${secili === 'sezon' ? `${k.mac} maç · ` : ''}${farkYazisi(k)}</small></div>
       <div class="sayi"><strong>${isaretli(k.pm)}</strong><small>+/-</small></div>
     ${kapa}`;
   }).join('');
@@ -694,7 +697,7 @@ function artieksiGorselVerisi(anahtar) {
     sutunlar: ['+/-'],
     satirlar: artieksiListesi(d, sezon ? 'sezon' : Number(donem)).map(k => ({
       sira: k.sira, ad: k.ad, degerler: [isaretli(k.pm)],
-      not: `${baslik(k.takim)}${sezon ? ` · ${k.mac} maç` : ''}`,
+      not: `${baslik(k.takim)} · ${sezon ? `${k.mac} maç · ` : ''}${farkYazisi(k)}`,
     })),
   };
 }
