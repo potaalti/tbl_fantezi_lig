@@ -455,7 +455,7 @@ function ligCipleri(lig, n) {
   const ligler = Object.entries(LIGLER).filter(([l]) => l === 'tbl' || veri.index.maclar?.[l]);
   const ligSecimi = ligler.length < 2 ? '' : `<div class="secenekler lig-secici">${ligler.map(([l, ad]) =>
     `<a class="secenek ${l === lig ? 'aktif' : ''}" href="#/maclar/${l}">${ad}</a>`).join('')}</div>`;
-  const haftalar = `<div class="secenekler hafta-cipleri" id="mac-hafta-cipleri">${ligBilgisi(lig).haftalar.map(k =>
+  const haftalar = `<div class="secenekler hafta-cipleri kaydir-ortala">${ligBilgisi(lig).haftalar.map(k =>
     `<a class="secenek ${k === n ? 'aktif' : ''}" href="#/maclar/${lig}/${k}">${k}. hafta</a>`).join('')}</div>`;
   return ligSecimi + haftalar;
 }
@@ -492,9 +492,17 @@ function macRotasi(a, b) {
     seciliLig = lig;
     try { localStorage.setItem(LIG_ANAHTARI, lig); } catch { /* depolama yok */ }
   }
-  const { haftalar, guncel } = ligBilgisi(lig);
   const istenen = Number(LIGLER[a] ? b : a);
-  return { lig, n: haftalar.includes(istenen) ? istenen : haftalar.includes(guncel) ? guncel : haftalar.at(-1) };
+  return { lig, n: ligBilgisi(lig).haftalar.includes(istenen) ? istenen : ligVarsayilanHaftasi(lig) };
+}
+
+// Bu hafta bittiyse, sıradaki haftanın ilk maçından önceki Perşembe'den itibaren sıradaki hafta açılır
+function ligVarsayilanHaftasi(lig) {
+  const { haftalar, guncel, guncelBitti, siradaki } = ligBilgisi(lig);
+  // TBL'nin güncel haftası canlı veriyle yüklü; bitip bitmediği oradan daha taze
+  const bitti = lig === 'tbl' && veri.haftalar.has(guncel) ? haftaDurumu(veri.haftalar.get(guncel)).tamamlandi : guncelBitti;
+  if (siradaki && bitti && haftalar.includes(siradaki.hafta) && new Date() >= new Date(siradaki.gosterim)) return siradaki.hafta;
+  return haftalar.includes(guncel) ? guncel : haftalar.at(-1);
 }
 
 // Yüklenmemiş ya da henüz bitmemiş haftanın maçlarını dosyadan getirir
@@ -514,7 +522,7 @@ async function ligMaclariDoldur(lig, n) {
 
 // Seçili hafta çipi ortada görünsün (uzun listede sağda kalabilir)
 function haftaCipiniGoster() {
-  const aktif = document.querySelector('#mac-hafta-cipleri .aktif');
+  const aktif = document.querySelector('.kaydir-ortala .aktif');
   if (!aktif) return;
   const satir = aktif.parentElement;
   satir.scrollLeft = aktif.offsetLeft - satir.offsetLeft - (satir.clientWidth - aktif.offsetWidth) / 2;
@@ -606,6 +614,91 @@ async function macDetayDoldur(id) {
     : `<p class="bos">${mac.durum === 'oynanmadi' ? 'Maç henüz oynanmadı.' : 'İstatistikler henüz gelmedi.'}</p>`);
 }
 
+// ---------- +/- sıralaması (yönetici modu) ----------
+// TBL ve BSL oyuncularının haftalık ya da sezon boyu +/- toplamı: ilk 10, 10. ile aynı +/- olanlar da
+const artieksiVerisi = new Map(); // lig -> { zaman, veri }
+let gosterilenArtieksi = null;
+const isaretli = pm => pm > 0 ? `+${pm}` : String(pm);
+
+function artieksiRotasi(a, b) {
+  const lig = a === 'bsl' && veri.index.maclar?.bsl ? 'bsl' : 'tbl';
+  return { lig, donem: b === 'sezon' ? 'sezon' : Number(b) || null }; // null: son oynanan hafta
+}
+
+// Eşit +/- aynı sırayı paylaşır
+function artieksiListesi(d, donem) {
+  const tum = (donem === 'sezon' ? d.sezon : d.haftalar[donem]) ?? [];
+  const sinir = tum[Math.min(9, tum.length - 1)]?.pm;
+  const liste = tum.filter(k => k.pm >= sinir);
+  return liste.map((k, i) => ({ ...k, sira: liste.findIndex(x => x.pm === k.pm) + 1 }));
+}
+
+function artieksiEkrani(lig, donem) {
+  if (!yoneticiModu) return '<p class="bos">Bu sayfa yönetici modunda açılır.</p>';
+  const d = artieksiVerisi.get(lig)?.veri;
+  return `<div id="artieksi">${d ? artieksiIcerik(lig, donem, d) : '<p class="bos">Yükleniyor…</p>'}</div>`;
+}
+
+function artieksiIcerik(lig, donem, d) {
+  const haftalar = Object.keys(d.haftalar).map(Number);
+  const secili = donem === 'sezon' || haftalar.includes(donem) ? donem : haftalar.at(-1) ?? 'sezon';
+  const ligler = Object.entries(LIGLER).filter(([l]) => l === 'tbl' || veri.index.maclar?.[l]);
+  const ligSecimi = `<div class="secenekler lig-secici">${ligler.map(([l, ad]) =>
+    `<a class="secenek ${l === lig ? 'aktif' : ''}" href="#/artieksi/${l}/${secili === 'sezon' ? 'sezon' : ''}">${ad}</a>`).join('')}</div>`;
+  const donemler = `<div class="secenekler hafta-cipleri kaydir-ortala">${['sezon', ...haftalar].map(k =>
+    `<a class="secenek ${k === secili ? 'aktif' : ''}" href="#/artieksi/${lig}/${k}">${k === 'sezon' ? 'Sezon' : `${k}. hafta`}</a>`).join('')}</div>`;
+  const anahtar = `${lig}-${secili}`;
+  const dugmeler = `<div class="paylas-satiri">
+      <button class="paylas" data-tur="artieksi" data-hafta="${anahtar}" data-islem="paylas">📤 Paylaş</button>
+      <button class="paylas" data-tur="artieksi" data-hafta="${anahtar}" data-islem="indir">⬇️ İndir</button>
+    </div>`;
+  const satirlar = artieksiListesi(d, secili).map(k => {
+    const sayfa = k.id.startsWith('fiba-') ? '' : `#/oyuncu/${k.id}${lig === 'bsl' ? '/bsl' : ''}`;
+    const [ac, kapa] = sayfa ? [`<a class="satir" href="${sayfa}">`, '</a>'] : ['<div class="satir">', '</div>'];
+    return `${ac}
+      ${siraRozeti(k.sira)}
+      <div class="ad"><strong>${kacis(k.ad)}</strong><small>${kacis(baslik(k.takim))}${secili === 'sezon' ? ` · ${k.mac} maç` : ''}</small></div>
+      <div class="sayi"><strong>${isaretli(k.pm)}</strong><small>+/-</small></div>
+    ${kapa}`;
+  }).join('');
+  const donemAdi = secili === 'sezon' ? 'Sezon' : `${secili}. Hafta`;
+  return `${ligSecimi}${donemler}${dugmeler}
+    <section class="kart"><h2>${LIGLER[lig]} · ${donemAdi} · +/- ilk 10</h2>${satirlar || '<p class="bos">Henüz veri yok.</p>'}</section>`;
+}
+
+async function artieksiDoldur(lig, donem) {
+  const onbellek = artieksiVerisi.get(lig);
+  if (onbellek && Date.now() - onbellek.zaman < YENILEME_MS) return;
+  try {
+    artieksiVerisi.set(lig, { zaman: Date.now(), veri: await json(`data/artieksi/${lig}.json`) });
+  } catch {
+    if (onbellek) return;
+    artieksiVerisi.set(lig, { zaman: Date.now(), veri: { haftalar: {}, sezon: [] } });
+  }
+  const kutu = document.getElementById('artieksi');
+  if (!kutu || gosterilenArtieksi !== `${lig}-${donem}`) return; // bu arada başka sayfaya geçildi
+  kutu.innerHTML = artieksiIcerik(lig, donem, artieksiVerisi.get(lig).veri);
+  paylasDugmeleriniBagla(kutu);
+  haftaCipiniGoster();
+}
+
+function artieksiGorselVerisi(anahtar) {
+  const [lig, donem] = anahtar.split('-');
+  const d = artieksiVerisi.get(lig).veri;
+  const sezon = donem === 'sezon';
+  const haftalar = Object.keys(d.haftalar);
+  return {
+    baslik: `${LIGLER[lig]} +/- Sıralaması`,
+    altBaslik: sezon ? `Sezon · ${haftalar[0]}–${haftalar.at(-1)}. haftalar` : `${donem}. Hafta`,
+    adBasligi: 'OYUNCU',
+    sutunlar: ['+/-'],
+    satirlar: artieksiListesi(d, sezon ? 'sezon' : Number(donem)).map(k => ({
+      sira: k.sira, ad: k.ad, degerler: [isaretli(k.pm)],
+      not: `${baslik(k.takim)}${sezon ? ` · ${k.mac} maç` : ''}`,
+    })),
+  };
+}
+
 // ---------- yönlendirme ----------
 function ciz() {
   const [, sekme = '', a, b] = location.hash.split('/');
@@ -617,7 +710,7 @@ function ciz() {
   const secimGecerli = sonKadro().some(t => t.ad === seciliTakim);
   const gecerliGorunen = n => gorunenHaftalar().includes(n) ? n : acilisHaftasi(sonHafta());
 
-  let html, aktif = sekme, macHaftasi = null;
+  let html, aktif = sekme, macHaftasi = null, artieksiSecimi = null;
   if (sekme === 'secim' || (!secimGecerli && sekme !== 'takim')) { html = secimEkrani(); aktif = 'takimim'; }
   else if (sekme === 'genel') html = genelEkran();
   else if (sekme === 'hafta') html = haftalikEkran(gecerliGorunen(Number(a)));
@@ -630,6 +723,12 @@ function ciz() {
     html = maclarEkrani(macHaftasi.lig, macHaftasi.n);
   }
   else if (sekme === 'mac') { html = macEkrani(); aktif = 'maclar'; }
+  else if (sekme === 'artieksi') {
+    artieksiSecimi = artieksiRotasi(a, b);
+    gosterilenArtieksi = `${artieksiSecimi.lig}-${artieksiSecimi.donem}`;
+    html = artieksiEkrani(artieksiSecimi.lig, artieksiSecimi.donem);
+    aktif = 'hafta';
+  }
   else { html = takimEkrani(seciliTakim, gecerliGorunen(Number(a)), true); aktif = 'takimim'; }
   // Otomatik yenileme arama kutusuna yazarken odağı kaçırmasın
   const aramaOdakta = document.activeElement?.id === 'arama';
@@ -640,13 +739,15 @@ function ciz() {
   }
   if (sekme === 'oyuncu') oyuncuGecmisiDoldur(a, b === 'bsl' ? 'bsl' : 'tbl');
   if (sekme === 'mac') macDetayDoldur(a);
+  if (artieksiSecimi && yoneticiModu) {
+    haftaCipiniGoster();
+    artieksiDoldur(artieksiSecimi.lig, artieksiSecimi.donem);
+  }
   if (macHaftasi) {
     haftaCipiniGoster();
     ligMaclariDoldur(macHaftasi.lig, macHaftasi.n);
   }
-  // button.paylas: aynı sınıfı kullanan İstatistikler bağlantısı (<a>) değil, Paylaş düğmesi
-  const paylas = icerik.querySelector('button.paylas');
-  paylas?.addEventListener('click', () => siralamayiPaylas(paylas, paylas.dataset.tur, Number(paylas.dataset.hafta)));
+  paylasDugmeleriniBagla(icerik);
 
   document.querySelectorAll('.alt-menu a').forEach(el => el.classList.toggle('aktif', el.dataset.sekme === aktif));
   document.getElementById('canli').hidden = !haftaDurumu(veri.haftalar.get(sonHafta())).canli;
@@ -673,7 +774,7 @@ function yuvarlakDikdortgen(ctx, sol, ust, gen, yuk, r) {
 }
 
 // satirlar: [{ sira, ad, not, degerler: [...] }], sutunlar: ['VP', 'Puan']
-async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar }) {
+async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar, adBasligi = 'TAKIM' }) {
   const g = GORSEL;
   const yukseklik = g.baslikYuk + g.sutunYuk + satirlar.length * g.satirYuk + g.altYuk + g.kenar;
   const tuval = document.createElement('canvas');
@@ -694,7 +795,8 @@ async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar }) {
   try {
     const logo = new Image();
     logo.src = 'icon-192.png';
-    await logo.decode();
+    // Logo takılırsa paylaşım beklemede kalmasın: 3 saniyede gelmezse logosuz çizilir
+    await Promise.race([logo.decode(), new Promise((_, hata) => setTimeout(() => hata(new Error('logo')), 3000))]);
     // Logonun kare zemini şeritten farklı renkte; sadece siyah yuvarlak kısmı kesilip çizilir
     // (ikonda siyah daire kenarın %47'si kadar yarıçapta)
     ctx.save();
@@ -724,7 +826,7 @@ async function siralamaGorseli({ baslik, altBaslik, sutunlar, satirlar }) {
   ctx.fillStyle = g.soluk;
   ctx.font = font(700, 24);
   ctx.textAlign = 'left';
-  ctx.fillText('TAKIM', g.kenar + 80, kartUst + 44);
+  ctx.fillText(adBasligi, g.kenar + 80, kartUst + 44);
   ctx.textAlign = 'right';
   sutunlar.forEach((s, i) => ctx.fillText(s.toLocaleUpperCase('tr'), sutunX[i], kartUst + 44));
 
@@ -804,26 +906,47 @@ function genelGorselVerisi() {
   };
 }
 
+// button.paylas: aynı sınıfı kullanan İstatistikler bağlantısı (<a>) değil, Paylaş / İndir düğmeleri
+function paylasDugmeleriniBagla(kok) {
+  kok.querySelectorAll('button.paylas').forEach(d => d.addEventListener('click',
+    () => siralamayiPaylas(d, d.dataset.tur, d.dataset.hafta, d.dataset.islem === 'indir')));
+}
+
 // Telefonlar paylaşım menüsünü ancak dokunuştan hemen sonra açtırır. Görsel hazırlanırken bu süre
 // dolarsa (NotAllowedError) hazır görsel saklanır ve düğmeye ikinci dokunuşta hemen paylaşılır.
 const PAYLAS_YAZISI = '📤 Paylaş';
 let hazirGorsel = null; // { anahtar, zaman, dosya, bilgi }
 
-async function siralamayiPaylas(dugme, tur, n) {
+function gorselVerisi(tur, n) {
+  if (tur === 'genel') return { bilgi: genelGorselVerisi(), dosyaAdi: 'pota-alti-genel-klasman.png' };
+  if (tur === 'artieksi') return { bilgi: artieksiGorselVerisi(n), dosyaAdi: `pota-alti-arti-eksi-${n}.png` };
+  return { bilgi: haftalikGorselVerisi(Number(n)), dosyaAdi: `pota-alti-${fHafta(Number(n))}-hafta.png` };
+}
+
+function gorseliIndir(dosya) {
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(dosya);
+  a.download = dosya.name;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
+}
+
+// indir: paylaşım menüsü yerine görseli doğrudan cihaza kaydeder
+async function siralamayiPaylas(dugme, tur, n, indir = false) {
   const anahtar = `${tur}-${n}`;
   let hazir = hazirGorsel?.anahtar === anahtar && Date.now() - hazirGorsel.zaman < 60_000 ? hazirGorsel : null;
-  let sonYazi = PAYLAS_YAZISI;
+  const ilkYazi = dugme.textContent;
+  let sonYazi = indir ? ilkYazi : PAYLAS_YAZISI;
   dugme.disabled = true;
   try {
     if (!hazir) {
       dugme.textContent = 'Hazırlanıyor…';
-      const bilgi = tur === 'genel' ? genelGorselVerisi() : haftalikGorselVerisi(n);
+      const { bilgi, dosyaAdi } = gorselVerisi(tur, n);
       const blob = await siralamaGorseli(bilgi);
-      const dosyaAdi = tur === 'genel' ? 'pota-alti-genel-klasman.png' : `pota-alti-${fHafta(n)}-hafta.png`;
       hazir = hazirGorsel = { anahtar, zaman: Date.now(), dosya: new File([blob], dosyaAdi, { type: 'image/png' }), bilgi };
     }
     const { dosya, bilgi } = hazir;
-    if (navigator.canShare?.({ files: [dosya] })) {
+    if (!indir && navigator.canShare?.({ files: [dosya] })) {
       try {
         await navigator.share({ files: [dosya], title: bilgi.baslik, text: `${bilgi.baslik} · ${bilgi.altBaslik}` });
         hazirGorsel = null;
@@ -837,12 +960,8 @@ async function siralamayiPaylas(dugme, tur, n) {
         }
       }
     } else {
-      // Paylaşım menüsü yoksa (ör. bilgisayar) görseli indir
-      const a = document.createElement('a');
-      a.href = URL.createObjectURL(dosya);
-      a.download = dosya.name;
-      a.click();
-      setTimeout(() => URL.revokeObjectURL(a.href), 10_000);
+      // İndir düğmesi ya da paylaşım menüsü yoksa (ör. bilgisayar) görseli indir
+      gorseliIndir(dosya);
       hazirGorsel = null;
     }
   } catch (e) {
@@ -872,6 +991,7 @@ sayacAyari();
 
 const paylasDugmesi = (tur, n = '') => !yoneticiModu ? ''
   : `<div class="paylas-satiri">
+      <a class="paylas" href="#/artieksi">± +/-</a>
       <a class="paylas" href="${ISTATISTIK_ADRESI}" target="_blank" rel="noopener">📊 İstatistikler</a>
       <button class="paylas" data-tur="${tur}" data-hafta="${n}">📤 Paylaş</button>
     </div>`;

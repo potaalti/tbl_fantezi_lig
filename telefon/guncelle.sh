@@ -2,7 +2,7 @@
 # Telefonda 15 dakikada bir tetiklenir (Android daha sık izin vermez). Şarjı korumak için:
 #   - Maç saatlerinde (bir maçın başlamasına 10 dk kala, o maç TBF'de kesinleşene kadar; en fazla
 #     4 saat): telefon uyanık kalır ve 3 dakikada bir günceller (wake lock). Maç saatleri telefondaki
-#     son veriden okunur (bu ve gelecek hafta, Cuma maçları dahil).
+#     son veriden okunur (TBL ve BSL'nin bu ve gelecek haftası, Cuma maçları dahil).
 #   - Maç yokken: günde 2 güncelleme, 12:00'de (fikstür, maç saatleri, TBL kadroları) ve 23:00'te
 #     (maç sonrası kesin sonuçlar).
 #   - Diğer bütün tetiklemeler internete bile bağlanmadan hemen kapanır.
