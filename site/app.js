@@ -634,7 +634,6 @@ function artieksiListesi(d, donem) {
   const liste = onuncu ? tum.filter((k, i) => i < 10 || k.pm === onuncu.pm) : tum;
   return liste.map((k, i) => ({ ...k, sira: i + 1 }));
 }
-const farkYazisi = k => `takım ${isaretli(k.fark ?? 0)}`;
 
 function artieksiEkrani(lig, donem) {
   if (!yoneticiModu) return '<p class="bos">Bu sayfa yönetici modunda açılır.</p>';
@@ -660,7 +659,7 @@ function artieksiIcerik(lig, donem, d) {
     const [ac, kapa] = sayfa ? [`<a class="satir" href="${sayfa}">`, '</a>'] : ['<div class="satir">', '</div>'];
     return `${ac}
       ${siraRozeti(k.sira)}
-      <div class="ad"><strong>${kacis(k.ad)}</strong><small>${kacis(baslik(k.takim))} · ${secili === 'sezon' ? `${k.mac} maç · ` : ''}${farkYazisi(k)}</small></div>
+      <div class="ad"><strong>${kacis(k.ad)}</strong><small>${kacis(baslik(k.takim))}${secili === 'sezon' ? ` · ${k.mac} maç` : ''}</small></div>
       <div class="sayi"><strong>${isaretli(k.pm)}</strong><small>+/-</small></div>
     ${kapa}`;
   }).join('');
@@ -697,7 +696,7 @@ function artieksiGorselVerisi(anahtar) {
     sutunlar: ['+/-'],
     satirlar: artieksiListesi(d, sezon ? 'sezon' : Number(donem)).map(k => ({
       sira: k.sira, ad: k.ad, degerler: [isaretli(k.pm)],
-      not: `${baslik(k.takim)} · ${sezon ? `${k.mac} maç · ` : ''}${farkYazisi(k)}`,
+      not: `${baslik(k.takim)}${sezon ? ` · ${k.mac} maç` : ''}`,
     })),
   };
 }
