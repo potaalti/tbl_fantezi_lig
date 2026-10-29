@@ -626,12 +626,12 @@ function artieksiRotasi(a, b) {
   return { lig, donem: b === 'sezon' ? 'sezon' : Number(b) || null }; // null: son oynanan hafta
 }
 
-// Veri zaten sıralı gelir (+/-, sonra takım farkı). 1'den 10'a numaralanır; 10. ile hem +/- hem takım
-// farkı aynı olan (ör. aynı maçta aynı +/- yapan takım arkadaşı) da dışarıda kalmaz.
+// Veri zaten sıralı gelir (+/-, sonra takım farkı) ve sırayla numaralanır. 10. ile aynı +/- yapanlar da
+// listeye girer (11, 12, ...); aralarındaki sıra yine takım farkına göredir.
 function artieksiListesi(d, donem) {
   const tum = (donem === 'sezon' ? d.sezon : d.haftalar[donem]) ?? [];
   const onuncu = tum[9];
-  const liste = onuncu ? tum.filter((k, i) => i < 10 || (k.pm === onuncu.pm && k.fark === onuncu.fark)) : tum;
+  const liste = onuncu ? tum.filter((k, i) => i < 10 || k.pm === onuncu.pm) : tum;
   return liste.map((k, i) => ({ ...k, sira: i + 1 }));
 }
 const farkYazisi = k => `takım ${isaretli(k.fark ?? 0)}`;
