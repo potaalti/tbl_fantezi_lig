@@ -3,7 +3,7 @@
  "lig": "bsl",
  "hafta": 6,
  "tarih": "2026-10-31T18:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "PİZZABULLS BORDO BANDIRMA",
   "skor": "103",
@@ -249,7 +249,7 @@
     "vp": 10
    },
    {
-    "id": "fiba-dogan-bozveli",
+    "id": "354404",
     "ad": "Doğan Bozveli",
     "no": "9",
     "ilk5": false,
@@ -682,7 +682,7 @@
    },
    {
     "id": "776655",
-    "ad": "David Dileo",
+    "ad": "David DiLeo",
     "no": "51",
     "ilk5": false,
     "sure": "15:31",
@@ -751,10 +751,5 @@
  "evSkor": "103",
  "depSkor": "88",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
- "yayin": "beINSports",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "beINSports"
 }
