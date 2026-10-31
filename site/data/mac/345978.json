@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "MERSİN SPOR",
-  "skor": "5",
+  "skor": "7",
   "oyuncular": [
    {
     "id": "777508",
     "ad": "Kruize Pinkins",
     "no": "12",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "5:49",
     "sayi": 2,
     "iki": [
      1,
@@ -30,24 +30,24 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": 2
+    "pm": "-6",
+    "vp": 3
    },
    {
     "id": "225810",
     "ad": "Troy Şav",
     "no": "17",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "5:49",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
@@ -57,15 +57,15 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-6",
     "vp": 4
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Arca Tülüoğlu",
     "no": "20",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "5:49",
     "sayi": 0,
     "iki": [
      0,
@@ -81,7 +81,7 @@
     ],
     "uc": [
      0,
-     0
+     3
     ],
     "sa": [
      0,
@@ -95,19 +95,19 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-2",
-    "vp": -1
+    "pm": "-6",
+    "vp": -4
    },
    {
     "id": "632441",
     "ad": "Mike Smith",
     "no": "21",
     "ilk5": true,
-    "sure": "3:46",
-    "sayi": 0,
+    "sure": "5:49",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -115,7 +115,7 @@
     ],
     "sa": [
      0,
-     0
+     1
     ],
     "hr": 0,
     "sr": 1,
@@ -125,15 +125,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-2",
-    "vp": 1
+    "pm": "-6",
+    "vp": 2
    },
    {
     "id": "123649",
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "5:49",
     "sayi": 0,
     "iki": [
      0,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-6",
     "vp": -1
    },
    {
@@ -370,19 +370,19 @@
    }
   ],
   "ceyrekler": [
-   5
+   7
   ]
  },
  "dep": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "7",
+  "skor": "13",
   "oyuncular": [
    {
     "id": "776821",
     "ad": "Vitalis Chikoko",
     "no": "5",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "5:49",
     "sayi": 4,
     "iki": [
      2,
@@ -397,26 +397,26 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 5
+    "pm": "6",
+    "vp": 6
    },
    {
     "id": "46863",
     "ad": "Caner Ercan",
     "no": "7",
     "ilk5": true,
-    "sure": "3:46",
-    "sayi": 0,
+    "sure": "5:49",
+    "sayi": 4,
     "iki": [
-     0,
-     0
+     2,
+     2
     ],
     "uc": [
      0,
@@ -427,22 +427,22 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "2",
-    "vp": -1
+    "tk": 1,
+    "faul": 1,
+    "pm": "6",
+    "vp": 4
    },
    {
     "id": "380030",
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "4:25",
     "sayi": 2,
     "iki": [
      1,
@@ -457,26 +457,26 @@
      0
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
+    "faul": 2,
     "pm": "2",
-    "vp": 1
+    "vp": 2
    },
    {
     "id": "500443",
     "ad": "Maurice Watson Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "3:46",
-    "sayi": 1,
+    "sure": "5:49",
+    "sayi": 3,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -494,15 +494,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 1
+    "pm": "6",
+    "vp": 3
    },
    {
     "id": "222696",
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "3:46",
+    "sure": "5:49",
     "sayi": 0,
     "iki": [
      0,
@@ -519,20 +519,20 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 2
+    "pm": "6",
+    "vp": 3
    },
    {
     "id": "372344",
     "ad": "Ege Ersun",
     "no": "0",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "1:24",
     "sayi": 0,
     "iki": [
      0,
@@ -554,7 +554,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "4",
     "vp": 0
    },
    {
@@ -709,16 +709,16 @@
    }
   ],
   "ceyrekler": [
-   7
+   13
   ]
  },
- "evSkor": "5",
- "depSkor": "7",
+ "evSkor": "7",
+ "depSkor": "13",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "06:14",
+  "saat": "04:11",
   "uzatma": false
  }
 }
