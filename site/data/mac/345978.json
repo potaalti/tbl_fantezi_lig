@@ -13,7 +13,7 @@
     "ad": "Kruize Pinkins",
     "no": "12",
     "ilk5": true,
-    "sure": "7:42",
+    "sure": "7:45",
     "sayi": 2,
     "iki": [
      1,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 3
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Mike Smith",
     "no": "21",
     "ilk5": true,
-    "sure": "9:58",
+    "sure": "10:08",
     "sayi": 2,
     "iki": [
      1,
@@ -253,7 +253,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "13",
     "ilk5": false,
-    "sure": "4:08",
+    "sure": "4:21",
     "sayi": 6,
     "iki": [
      0,
@@ -275,7 +275,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "3",
+    "pm": "1",
     "vp": 7
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Yesukan Onar",
     "no": "14",
     "ilk5": false,
-    "sure": "2:15",
+    "sure": "2:28",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
+    "pm": "0",
     "vp": 1
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Kaan Sarıaslan",
     "no": "22",
     "ilk5": false,
-    "sure": "4:08",
+    "sure": "4:21",
     "sayi": 2,
     "iki": [
      1,
@@ -335,7 +335,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": 2
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "1:27",
+    "sure": "1:39",
     "sayi": 0,
     "iki": [
      0,
@@ -365,24 +365,25 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 0
    }
   ],
   "ceyrekler": [
-   17
+   17,
+   0
   ]
  },
  "dep": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "20",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "776821",
     "ad": "Vitalis Chikoko",
     "no": "5",
     "ilk5": true,
-    "sure": "5:49",
+    "sure": "5:52",
     "sayi": 4,
     "iki": [
      2,
@@ -404,7 +405,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
+    "pm": "8",
     "vp": 6
    },
    {
@@ -472,7 +473,7 @@
     "ad": "Maurice Watson Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "9:58",
+    "sure": "10:08",
     "sayi": 5,
     "iki": [
      2,
@@ -502,7 +503,7 @@
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "9:58",
+    "sure": "10:10",
     "sayi": 2,
     "iki": [
      1,
@@ -519,20 +520,20 @@
     "hr": 1,
     "sr": 1,
     "rib": 2,
-    "ast": 3,
+    "ast": 4,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
-    "vp": 7
+    "pm": "5",
+    "vp": 8
    },
    {
     "id": "372344",
     "ad": "Ege Ersun",
     "no": "0",
     "ilk5": false,
-    "sure": "4:06",
+    "sure": "4:16",
     "sayi": 0,
     "iki": [
      0,
@@ -592,11 +593,41 @@
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "1:27",
+    "sure": "1:29",
     "sayi": 0,
     "iki": [
      0,
      0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "3",
+    "vp": 0
+   },
+   {
+    "id": "248386",
+    "ad": "Berkay Genç",
+    "no": "18",
+    "ilk5": false,
+    "sure": "3:31",
+    "sayi": 2,
+    "iki": [
+     1,
+     1
     ],
     "uc": [
      0,
@@ -615,37 +646,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "1",
-    "vp": 0
-   },
-   {
-    "id": "248386",
-    "ad": "Berkay Genç",
-    "no": "18",
-    "ilk5": false,
-    "sure": "3:18",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "-1",
-    "vp": 0
+    "vp": 2
    },
    {
     "id": "363336",
@@ -682,7 +683,7 @@
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": false,
-    "sure": "4:08",
+    "sure": "4:21",
     "sayi": 3,
     "iki": [
      0,
@@ -704,21 +705,22 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-3",
+    "pm": "-1",
     "vp": 2
    }
   ],
   "ceyrekler": [
-   20
+   22,
+   0
   ]
  },
  "evSkor": "17",
- "depSkor": "20",
+ "depSkor": "22",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:02",
+  "periyot": 2,
+  "saat": "09:50",
   "uzatma": false
  }
 }
