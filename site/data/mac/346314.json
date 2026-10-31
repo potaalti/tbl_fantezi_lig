@@ -13,7 +13,7 @@
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "29:59",
+    "sure": "30:03",
     "sayi": 26,
     "iki": [
      5,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "5",
+    "pm": "3",
     "vp": 27
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "34:36",
+    "sure": "34:40",
     "sayi": 29,
     "iki": [
      1,
@@ -155,7 +155,7 @@
     "blk": 1,
     "tk": 4,
     "faul": 2,
-    "pm": "18",
+    "pm": "16",
     "vp": 24
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "20:49",
+    "sure": "21:00",
     "sayi": 4,
     "iki": [
      1,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "1",
+    "pm": "-1",
     "vp": 7
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Doğan Bozveli",
     "no": "9",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:07",
     "sayi": 0,
     "iki": [
      0,
@@ -283,7 +283,7 @@
     "ad": "Özgür Şahin",
     "no": "13",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:07",
     "sayi": 0,
     "iki": [
      0,
@@ -313,7 +313,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "25:28",
+    "sure": "25:39",
     "sayi": 9,
     "iki": [
      0,
@@ -335,7 +335,7 @@
     "blk": 2,
     "tk": 1,
     "faul": 1,
-    "pm": "11",
+    "pm": "9",
     "vp": 13
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "20:52",
+    "sure": "21:03",
     "sayi": 14,
     "iki": [
      7,
@@ -363,10 +363,10 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 3,
-    "pm": "4",
-    "vp": 20
+    "pm": "2",
+    "vp": 19
    }
   ],
   "ceyrekler": [
@@ -378,18 +378,18 @@
  },
  "dep": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "86",
+  "skor": "88",
   "oyuncular": [
    {
     "id": "609095",
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": true,
-    "sure": "25:53",
-    "sayi": 19,
+    "sure": "26:04",
+    "sayi": 21,
     "iki": [
-     5,
-     9
+     6,
+     10
     ],
     "uc": [
      2,
@@ -403,12 +403,12 @@
     "sr": 0,
     "rib": 0,
     "ast": 3,
-    "tc": 2,
+    "tc": 3,
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-9",
-    "vp": 16
+    "pm": "-7",
+    "vp": 19
    },
    {
     "id": "608898",
@@ -505,7 +505,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": true,
-    "sure": "24:24",
+    "sure": "24:35",
     "sayi": 14,
     "iki": [
      3,
@@ -527,7 +527,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 16
    },
    {
@@ -535,7 +535,7 @@
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "22:26",
+    "sure": "22:37",
     "sayi": 14,
     "iki": [
      4,
@@ -557,7 +557,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-16",
+    "pm": "-14",
     "vp": 8
    },
    {
@@ -685,7 +685,7 @@
     "ad": "David Dileo",
     "no": "51",
     "ilk5": false,
-    "sure": "15:04",
+    "sure": "15:15",
     "sayi": 3,
     "iki": [
      0,
@@ -706,8 +706,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-21",
+    "faul": 2,
+    "pm": "-19",
     "vp": 1
    },
    {
@@ -715,7 +715,7 @@
     "ad": "Luka Mitrovic",
     "no": "99",
     "ilk5": false,
-    "sure": "5:49",
+    "sure": "6:00",
     "sayi": 0,
     "iki": [
      0,
@@ -737,7 +737,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 1
    }
   ],
@@ -745,16 +745,16 @@
    16,
    18,
    29,
-   23
+   25
   ]
  },
  "evSkor": "103",
- "depSkor": "86",
+ "depSkor": "88",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "00:43",
+  "saat": "00:15",
   "uzatma": false
  }
 }
