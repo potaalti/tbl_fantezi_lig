@@ -13,7 +13,7 @@
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "19:22",
+    "sure": "19:56",
     "sayi": 18,
     "iki": [
      4,
@@ -43,7 +43,7 @@
     "ad": "Boubacar Toure",
     "no": "21",
     "ilk5": true,
-    "sure": "13:00",
+    "sure": "13:15",
     "sayi": 1,
     "iki": [
      0,
@@ -73,7 +73,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": true,
-    "sure": "15:45",
+    "sure": "16:19",
     "sayi": 7,
     "iki": [
      2,
@@ -163,7 +163,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "5:49",
+    "sure": "6:23",
     "sayi": 0,
     "iki": [
      0,
@@ -313,7 +313,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "17:50",
+    "sure": "18:24",
     "sayi": 6,
     "iki": [
      0,
@@ -343,7 +343,7 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "11:00",
+    "sure": "11:19",
     "sayi": 10,
     "iki": [
      5,
@@ -363,10 +363,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 2,
+    "tk": 1,
+    "faul": 3,
     "pm": "-2",
-    "vp": 13
+    "vp": 12
    }
   ],
   "ceyrekler": [
@@ -414,7 +414,7 @@
     "ad": "Tyler Cavanaugh",
     "no": "34",
     "ilk5": true,
-    "sure": "19:29",
+    "sure": "20:03",
     "sayi": 8,
     "iki": [
      1,
@@ -428,13 +428,13 @@
      0,
      0
     ],
-    "hr": 3,
+    "hr": 4,
     "sr": 3,
-    "rib": 6,
+    "rib": 7,
     "ast": 1,
     "tc": 2,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
     "pm": "-7",
     "vp": 12
@@ -444,7 +444,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "19:55",
+    "sure": "20:29",
     "sayi": 5,
     "iki": [
      2,
@@ -452,7 +452,7 @@
     ],
     "uc": [
      0,
-     2
+     3
     ],
     "sa": [
      1,
@@ -467,14 +467,14 @@
     "tk": 0,
     "faul": 1,
     "pm": "-5",
-    "vp": 3
+    "vp": 2
    },
    {
     "id": "734505",
     "ad": "Trevion Williams",
     "no": "50",
     "ilk5": true,
-    "sure": "13:44",
+    "sure": "14:18",
     "sayi": 10,
     "iki": [
      4,
@@ -504,7 +504,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": true,
-    "sure": "13:15",
+    "sure": "13:49",
     "sayi": 8,
     "iki": [
      2,
@@ -534,7 +534,7 @@
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "13:35",
+    "sure": "14:09",
     "sayi": 4,
     "iki": [
      2,
@@ -752,7 +752,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "05:26",
+  "saat": "04:53",
   "uzatma": false
  }
 }

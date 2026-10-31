@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "38",
+  "skor": "40",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "23:06",
+    "sure": "23:15",
     "sayi": 12,
     "iki": [
      1,
@@ -43,7 +43,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "22:43",
+    "sure": "23:07",
     "sayi": 20,
     "iki": [
      2,
@@ -73,7 +73,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "23:29",
+    "sure": "23:53",
     "sayi": 2,
     "iki": [
      1,
@@ -103,7 +103,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": true,
-    "sure": "4:59",
+    "sure": "5:14",
     "sayi": 0,
     "iki": [
      0,
@@ -124,7 +124,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-13",
     "vp": 0
    },
@@ -133,7 +133,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "20:45",
+    "sure": "21:09",
     "sayi": 3,
     "iki": [
      0,
@@ -163,8 +163,8 @@
     "ad": "Tolga Kay",
     "no": "1",
     "ilk5": false,
-    "sure": "5:33",
-    "sayi": 0,
+    "sure": "5:57",
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -174,8 +174,8 @@
      1
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 3,
@@ -186,7 +186,7 @@
     "tk": 2,
     "faul": 1,
     "pm": "3",
-    "vp": 0
+    "vp": 2
    },
    {
     "id": "260898",
@@ -372,12 +372,12 @@
   "ceyrekler": [
    16,
    15,
-   7
+   9
   ]
  },
  "dep": {
   "ad": "GAZİANTEP BASKETBOL",
-  "skor": "46",
+  "skor": "48",
   "oyuncular": [
    {
     "id": "51504",
@@ -474,7 +474,7 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": true,
-    "sure": "17:50",
+    "sure": "18:14",
     "sayi": 4,
     "iki": [
      0,
@@ -534,7 +534,7 @@
     "ad": "Sarp Coşkun",
     "no": "0",
     "ilk5": false,
-    "sure": "8:31",
+    "sure": "8:55",
     "sayi": 5,
     "iki": [
      1,
@@ -551,13 +551,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 1,
     "tk": 1,
     "faul": 3,
     "pm": "0",
-    "vp": 7
+    "vp": 8
    },
    {
     "id": "330914",
@@ -594,7 +594,7 @@
     "ad": "Ömer Utku Al",
     "no": "3",
     "ilk5": false,
-    "sure": "10:26",
+    "sure": "10:50",
     "sayi": 0,
     "iki": [
      0,
@@ -624,7 +624,7 @@
     "ad": "Jarmar Gulley",
     "no": "15",
     "ilk5": false,
-    "sure": "11:37",
+    "sure": "12:01",
     "sayi": 0,
     "iki": [
      0,
@@ -714,11 +714,11 @@
     "ad": "Emre Tanışan",
     "no": "24",
     "ilk5": false,
-    "sure": "8:16",
-    "sayi": 8,
+    "sure": "8:40",
+    "sayi": 10,
     "iki": [
-     4,
-     4
+     5,
+     5
     ],
     "uc": [
      0,
@@ -735,24 +735,24 @@
     "tc": 1,
     "blk": 0,
     "tk": 1,
-    "faul": 2,
+    "faul": 3,
     "pm": "6",
-    "vp": 7
+    "vp": 9
    }
   ],
   "ceyrekler": [
    22,
    15,
-   9
+   11
   ]
  },
- "evSkor": "38",
- "depSkor": "46",
+ "evSkor": "40",
+ "depSkor": "48",
  "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:25",
+  "saat": "04:01",
   "uzatma": false
  }
 }
