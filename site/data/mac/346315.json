@@ -13,7 +13,7 @@
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "11:27",
+    "sure": "12:08",
     "sayi": 3,
     "iki": [
      1,
@@ -33,17 +33,17 @@
     "ast": 0,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
-    "pm": "1",
-    "vp": 2
+    "tk": 1,
+    "faul": 2,
+    "pm": "-1",
+    "vp": 1
    },
    {
     "id": "373162",
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "8:31",
+    "sure": "9:12",
     "sayi": 2,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-2",
     "vp": 1
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "11:28",
+    "sure": "12:09",
     "sayi": 0,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 1
    },
    {
@@ -103,7 +103,7 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "7:02",
+    "sure": "7:43",
     "sayi": 5,
     "iki": [
      1,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "2",
+    "pm": "0",
     "vp": 7
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "10:49",
+    "sure": "11:30",
     "sayi": 8,
     "iki": [
      4,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 10
    },
    {
@@ -376,14 +376,14 @@
  },
  "dep": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "24",
+  "skor": "26",
   "oyuncular": [
    {
     "id": "250129",
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "8:38",
+    "sure": "9:19",
     "sayi": 4,
     "iki": [
      1,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 6
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "6:47",
+    "sure": "7:14",
     "sayi": 1,
     "iki": [
      0,
@@ -533,7 +533,7 @@
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": false,
-    "sure": "6:34",
+    "sure": "6:48",
     "sayi": 3,
     "iki": [
      1,
@@ -555,7 +555,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "1",
+    "pm": "3",
     "vp": 0
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "5:31",
+    "sure": "6:12",
     "sayi": 3,
     "iki": [
      1,
@@ -580,13 +580,13 @@
     "hr": 2,
     "sr": 1,
     "rib": 3,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
-    "vp": 4
+    "pm": "4",
+    "vp": 5
    },
    {
     "id": "221447",
@@ -623,11 +623,11 @@
     "ad": "Alen Smailagic",
     "no": "9",
     "ilk5": false,
-    "sure": "6:34",
-    "sayi": 2,
+    "sure": "7:15",
+    "sayi": 4,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      0,
@@ -637,16 +637,16 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "1",
-    "vp": 2
+    "pm": "3",
+    "vp": 5
    },
    {
     "id": "363559",
@@ -713,7 +713,7 @@
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "6:34",
+    "sure": "7:15",
     "sayi": 5,
     "iki": [
      1,
@@ -735,22 +735,22 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "3",
     "vp": 7
    }
   ],
   "ceyrekler": [
    17,
-   7
+   9
   ]
  },
  "evSkor": "23",
- "depSkor": "24",
+ "depSkor": "26",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "07:03",
+  "saat": "06:26",
   "uzatma": false
  }
 }
