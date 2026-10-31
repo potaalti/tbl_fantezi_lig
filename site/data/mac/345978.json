@@ -163,7 +163,7 @@
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": false,
-    "sure": "4:45",
+    "sure": "5:47",
     "sayi": 5,
     "iki": [
      0,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": 6
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": false,
-    "sure": "3:30",
+    "sure": "4:32",
     "sayi": 0,
     "iki": [
      0,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "3",
+    "pm": "1",
     "vp": 1
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Işık Ali Akpınar",
     "no": "11",
     "ilk5": false,
-    "sure": "2:54",
+    "sure": "3:56",
     "sayi": 0,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 0
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Yesukan Onar",
     "no": "14",
     "ilk5": false,
-    "sure": "15:53",
+    "sure": "16:56",
     "sayi": 12,
     "iki": [
      5,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "15",
+    "pm": "13",
     "vp": 16
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "16:17",
+    "sure": "17:20",
     "sayi": 11,
     "iki": [
      5,
@@ -351,7 +351,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      1,
@@ -365,8 +365,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "18",
-    "vp": 14
+    "pm": "16",
+    "vp": 13
    }
   ],
   "ceyrekler": [
@@ -378,7 +378,7 @@
  },
  "dep": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "63",
+  "skor": "65",
   "oyuncular": [
    {
     "id": "776821",
@@ -445,7 +445,7 @@
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "24:00",
+    "sure": "25:02",
     "sayi": 6,
     "iki": [
      3,
@@ -467,7 +467,7 @@
     "blk": 1,
     "tk": 4,
     "faul": 2,
-    "pm": "-19",
+    "pm": "-17",
     "vp": 6
    },
    {
@@ -535,7 +535,7 @@
     "ad": "Ege Ersun",
     "no": "0",
     "ilk5": false,
-    "sure": "10:03",
+    "sure": "11:05",
     "sayi": 2,
     "iki": [
      1,
@@ -557,7 +557,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
+    "pm": "-7",
     "vp": 0
    },
    {
@@ -565,7 +565,7 @@
     "ad": "Can Sayın",
     "no": "6",
     "ilk5": false,
-    "sure": "3:56",
+    "sure": "4:58",
     "sayi": 0,
     "iki": [
      0,
@@ -587,7 +587,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-4",
     "vp": 1
    },
    {
@@ -595,11 +595,11 @@
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "8:05",
-    "sayi": 0,
+    "sure": "9:07",
+    "sayi": 2,
     "iki": [
-     0,
-     3
+     1,
+     4
     ],
     "uc": [
      0,
@@ -617,8 +617,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
-    "vp": -3
+    "pm": "-3",
+    "vp": -1
    },
    {
     "id": "248386",
@@ -655,7 +655,7 @@
     "ad": "Doğukan Seyhan",
     "no": "33",
     "ilk5": false,
-    "sure": "8:31",
+    "sure": "9:33",
     "sayi": 4,
     "iki": [
      1,
@@ -672,13 +672,13 @@
     "hr": 1,
     "sr": 0,
     "rib": 1,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-12",
-    "vp": 2
+    "pm": "-10",
+    "vp": 3
    },
    {
     "id": "223180",
@@ -715,16 +715,16 @@
    22,
    18,
    15,
-   8
+   10
   ]
  },
  "evSkor": "100",
- "depSkor": "63",
+ "depSkor": "65",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "01:03",
+  "saat": "00:00",
   "uzatma": false
  }
 }
