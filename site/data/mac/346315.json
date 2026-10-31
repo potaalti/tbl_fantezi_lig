@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "40",
+  "skor": "46",
   "oyuncular": [
    {
     "id": "778996",
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "19:24",
+    "sure": "21:18",
     "sayi": 5,
     "iki": [
      1,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-1",
+    "pm": "1",
     "vp": 5
    },
    {
@@ -43,11 +43,11 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "19:45",
-    "sayi": 4,
+    "sure": "21:39",
+    "sayi": 8,
     "iki": [
-     2,
-     5
+     4,
+     7
     ],
     "uc": [
      0,
@@ -60,20 +60,20 @@
     "hr": 2,
     "sr": 2,
     "rib": 4,
-    "ast": 1,
-    "tc": 1,
+    "ast": 2,
+    "tc": 2,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-6",
-    "vp": 6
+    "faul": 2,
+    "pm": "-4",
+    "vp": 12
    },
    {
     "id": "779010",
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "19:37",
+    "sure": "21:31",
     "sayi": 2,
     "iki": [
      1,
@@ -90,24 +90,24 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-4",
-    "vp": 3
+    "pm": "-2",
+    "vp": 4
    },
    {
     "id": "736366",
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "18:16",
-    "sayi": 10,
+    "sure": "20:10",
+    "sayi": 12,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      2,
@@ -125,15 +125,15 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "-4",
-    "vp": 10
+    "pm": "-2",
+    "vp": 12
    },
    {
     "id": "470765",
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "18:58",
+    "sure": "20:52",
     "sayi": 12,
     "iki": [
      6,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-2",
+    "pm": "0",
     "vp": 13
    },
    {
@@ -372,19 +372,19 @@
   "ceyrekler": [
    17,
    12,
-   11
+   17
   ]
  },
  "dep": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "47",
+  "skor": "51",
   "oyuncular": [
    {
     "id": "250129",
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "17:04",
+    "sure": "18:58",
     "sayi": 8,
     "iki": [
      2,
@@ -392,7 +392,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      4,
@@ -404,17 +404,17 @@
     "ast": 1,
     "tc": 1,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 0,
-    "pm": "-1",
-    "vp": 8
+    "pm": "-3",
+    "vp": 6
    },
    {
     "id": "502492",
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "16:34",
+    "sure": "18:28",
     "sayi": 6,
     "iki": [
      2,
@@ -436,7 +436,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "2",
+    "pm": "0",
     "vp": 3
    },
    {
@@ -444,11 +444,11 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "15:31",
-    "sayi": 2,
+    "sure": "17:25",
+    "sayi": 4,
     "iki": [
-     1,
-     5
+     2,
+     6
     ],
     "uc": [
      0,
@@ -466,15 +466,15 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
-    "vp": 0
+    "pm": "-3",
+    "vp": 2
    },
    {
     "id": "779274",
     "ad": "Oumar Ballo",
     "no": "11",
     "ilk5": true,
-    "sure": "13:39",
+    "sure": "15:33",
     "sayi": 6,
     "iki": [
      2,
@@ -496,7 +496,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 2,
-    "pm": "0",
+    "pm": "-2",
     "vp": 9
    },
    {
@@ -504,11 +504,11 @@
     "ad": "Dyshawn Pierre",
     "no": "21",
     "ilk5": true,
-    "sure": "14:52",
-    "sayi": 2,
+    "sure": "16:46",
+    "sayi": 4,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      0,
@@ -518,16 +518,16 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 1,
-    "rib": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 3
+    "pm": "-2",
+    "vp": 6
    },
    {
     "id": "736340",
@@ -743,16 +743,16 @@
   "ceyrekler": [
    17,
    24,
-   6
+   10
   ]
  },
- "evSkor": "40",
- "depSkor": "47",
+ "evSkor": "46",
+ "depSkor": "51",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "05:48",
+  "saat": "03:55",
   "uzatma": false
  }
 }
