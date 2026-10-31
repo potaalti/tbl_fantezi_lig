@@ -13,7 +13,7 @@
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "8:45",
+    "sure": "9:11",
     "sayi": 14,
     "iki": [
      3,
@@ -73,7 +73,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": true,
-    "sure": "8:13",
+    "sure": "8:48",
     "sayi": 3,
     "iki": [
      0,
@@ -81,7 +81,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      0,
@@ -96,7 +96,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "11",
-    "vp": 4
+    "vp": 3
    },
    {
     "id": "307500",
@@ -133,7 +133,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "8:11",
+    "sure": "8:21",
     "sayi": 9,
     "iki": [
      0,
@@ -163,7 +163,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "2:58",
+    "sure": "3:33",
     "sayi": 0,
     "iki": [
      0,
@@ -223,7 +223,7 @@
     "ad": "Kadir Bayram",
     "no": "8",
     "ilk5": false,
-    "sure": "0:56",
+    "sure": "1:05",
     "sayi": 0,
     "iki": [
      0,
@@ -313,7 +313,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "2:58",
+    "sure": "3:33",
     "sayi": 0,
     "iki": [
      0,
@@ -343,7 +343,7 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "2:58",
+    "sure": "3:23",
     "sayi": 2,
     "iki": [
      1,
@@ -370,7 +370,8 @@
    }
   ],
   "ceyrekler": [
-   28
+   28,
+   0
   ]
  },
  "dep": {
@@ -382,7 +383,7 @@
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": true,
-    "sure": "6:27",
+    "sure": "7:02",
     "sayi": 0,
     "iki": [
      0,
@@ -402,17 +403,17 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "-7",
-    "vp": 0
+    "vp": -1
    },
    {
     "id": "608898",
     "ad": "Tyler Cavanaugh",
     "no": "34",
     "ilk5": true,
-    "sure": "5:56",
+    "sure": "6:12",
     "sayi": 6,
     "iki": [
      0,
@@ -442,7 +443,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "8:21",
+    "sure": "8:56",
     "sayi": 4,
     "iki": [
      2,
@@ -532,7 +533,7 @@
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "5:05",
+    "sure": "5:40",
     "sayi": 0,
     "iki": [
      0,
@@ -622,7 +623,7 @@
     "ad": "Furkan Haltalı",
     "no": "14",
     "ilk5": false,
-    "sure": "4:10",
+    "sure": "4:45",
     "sayi": 2,
     "iki": [
      1,
@@ -682,7 +683,7 @@
     "ad": "David Dileo",
     "no": "51",
     "ilk5": false,
-    "sure": "4:10",
+    "sure": "4:29",
     "sayi": 0,
     "iki": [
      0,
@@ -739,7 +740,8 @@
    }
   ],
   "ceyrekler": [
-   16
+   16,
+   0
   ]
  },
  "evSkor": "28",
@@ -747,8 +749,8 @@
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:31",
+  "periyot": 2,
+  "saat": "09:44",
   "uzatma": false
  }
 }
