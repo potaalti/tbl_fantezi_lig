@@ -6,44 +6,44 @@
  "durum": "canli",
  "ev": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "5",
+  "skor": "9",
   "oyuncular": [
    {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "1:41",
-    "sayi": 0,
+    "sure": "4:04",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 0
+    "pm": "3",
+    "vp": 2
    },
    {
     "id": "56403",
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 2,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "3",
     "vp": 2
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 0,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "1",
+    "pm": "3",
     "vp": -1
    },
    {
@@ -103,11 +103,11 @@
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
@@ -125,19 +125,19 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 3
+    "pm": "3",
+    "vp": 2
    },
    {
     "id": "473518",
     "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "1:41",
-    "sayi": 0,
+    "sure": "4:04",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -148,15 +148,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 2
+    "pm": "3",
+    "vp": 5
    },
    {
     "id": "511470",
@@ -370,23 +370,23 @@
    }
   ],
   "ceyrekler": [
-   5
+   9
   ]
  },
  "dep": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "4",
+  "skor": "6",
   "oyuncular": [
    {
     "id": "500173",
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -404,15 +404,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-1",
-    "vp": -1
+    "pm": "-3",
+    "vp": -2
    },
    {
     "id": "27582",
     "ad": "Hazer Avcı",
     "no": "11",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 0,
     "iki": [
      0,
@@ -427,14 +427,14 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 0
    },
    {
@@ -442,7 +442,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 0,
     "iki": [
      0,
@@ -464,7 +464,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 1
    },
    {
@@ -472,11 +472,11 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "1:41",
-    "sayi": 0,
+    "sure": "4:04",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -494,15 +494,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 0
+    "pm": "-3",
+    "vp": 2
    },
    {
     "id": "209010",
     "ad": "Oktay Güneş",
     "no": "25",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "4:04",
     "sayi": 4,
     "iki": [
      2,
@@ -510,21 +510,21 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 5
    },
    {
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   4
+   6
   ]
  },
- "evSkor": "5",
- "depSkor": "4",
+ "evSkor": "9",
+ "depSkor": "6",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "08:19",
+  "saat": "05:56",
   "uzatma": false
  }
 }
