@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "17",
+  "skor": "21",
   "oyuncular": [
    {
     "id": "778996",
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "8:30",
+    "sure": "10:15",
     "sayi": 1,
     "iki": [
      0,
@@ -73,7 +73,7 @@
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "8:31",
+    "sure": "10:16",
     "sayi": 0,
     "iki": [
      0,
@@ -133,11 +133,11 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "7:52",
-    "sayi": 6,
+    "sure": "9:37",
+    "sayi": 8,
     "iki": [
-     3,
-     4
+     4,
+     5
     ],
     "uc": [
      0,
@@ -150,20 +150,20 @@
     "hr": 0,
     "sr": 3,
     "rib": 3,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 8
+    "vp": 11
    },
    {
     "id": "779011",
     "ad": "Jhonathan Dunn",
     "no": "2",
     "ilk5": false,
-    "sure": "2:58",
+    "sure": "4:43",
     "sayi": 3,
     "iki": [
      0,
@@ -180,13 +180,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-2",
-    "vp": 2
+    "vp": 3
    },
    {
     "id": "379563",
@@ -343,11 +343,11 @@
     "ad": "Mustapha Amzil",
     "no": "22",
     "ilk5": false,
-    "sure": "1:29",
-    "sayi": 0,
+    "sure": "3:14",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -366,16 +366,17 @@
     "tk": 0,
     "faul": 1,
     "pm": "0",
-    "vp": 0
+    "vp": 2
    }
   ],
   "ceyrekler": [
-   17
+   17,
+   4
   ]
  },
  "dep": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "17",
+  "skor": "21",
   "oyuncular": [
    {
     "id": "250129",
@@ -532,11 +533,11 @@
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": false,
-    "sure": "3:37",
-    "sayi": 1,
+    "sure": "5:22",
+    "sayi": 3,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -555,14 +556,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": -1
+    "vp": 1
    },
    {
     "id": "128768",
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "2:34",
+    "sure": "4:19",
     "sayi": 3,
     "iki": [
      1,
@@ -570,7 +571,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      1,
@@ -585,7 +586,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 4
+    "vp": 3
    },
    {
     "id": "221447",
@@ -622,7 +623,7 @@
     "ad": "Alen Smailagic",
     "no": "9",
     "ilk5": false,
-    "sure": "3:37",
+    "sure": "5:22",
     "sayi": 2,
     "iki": [
      1,
@@ -682,11 +683,11 @@
     "ad": "Buğrahan Tuncer",
     "no": "19",
     "ilk5": false,
-    "sure": "2:34",
+    "sure": "4:19",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -703,20 +704,20 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "1",
-    "vp": 1
+    "vp": 0
    },
    {
     "id": "781548",
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "3:37",
-    "sayi": 0,
+    "sure": "5:22",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -726,29 +727,30 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 2,
     "sr": 0,
-    "rib": 0,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 4
    }
   ],
   "ceyrekler": [
-   17
+   17,
+   4
   ]
  },
- "evSkor": "17",
- "depSkor": "17",
+ "evSkor": "21",
+ "depSkor": "21",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "08:18",
   "uzatma": false
  }
 }
