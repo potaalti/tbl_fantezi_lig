@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BİOTEKNO KÖRFEZ BASKET",
-  "skor": "23",
+  "skor": "26",
   "oyuncular": [
    {
     "id": "778181",
@@ -43,7 +43,7 @@
     "ad": "Matt Mitchell",
     "no": "11",
     "ilk5": true,
-    "sure": "5:55",
+    "sure": "6:57",
     "sayi": 5,
     "iki": [
      1,
@@ -64,8 +64,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
-    "pm": "8",
+    "faul": 1,
+    "pm": "6",
     "vp": 5
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Filip Barna",
     "no": "88",
     "ilk5": true,
-    "sure": "8:17",
+    "sure": "9:19",
     "sayi": 7,
     "iki": [
      0,
@@ -150,13 +150,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "9",
-    "vp": 8
+    "pm": "7",
+    "vp": 9
    },
    {
     "id": "778161",
@@ -193,7 +193,7 @@
     "ad": "Mert Akay",
     "no": "4",
     "ilk5": false,
-    "sure": "3:31",
+    "sure": "4:32",
     "sayi": 0,
     "iki": [
      0,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "5",
+    "pm": "3",
     "vp": 2
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": false,
-    "sure": "2:22",
+    "sure": "3:23",
     "sayi": 2,
     "iki": [
      1,
@@ -335,7 +335,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "-1",
     "vp": 3
    },
    {
@@ -343,15 +343,15 @@
     "ad": "Paulius Danusevicius",
     "no": "77",
     "ilk5": false,
-    "sure": "1:28",
-    "sayi": 0,
+    "sure": "2:29",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -364,18 +364,18 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "1",
-    "vp": 0
+    "faul": 1,
+    "pm": "-1",
+    "vp": 3
    }
   ],
   "ceyrekler": [
-   23
+   26
   ]
  },
  "dep": {
   "ad": "TRABZONSPOR",
-  "skor": "14",
+  "skor": "19",
   "oyuncular": [
    {
     "id": "501871",
@@ -412,7 +412,7 @@
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": true,
-    "sure": "8:17",
+    "sure": "9:19",
     "sayi": 5,
     "iki": [
      0,
@@ -434,7 +434,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
+    "pm": "-7",
     "vp": 3
    },
    {
@@ -532,11 +532,11 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": false,
-    "sure": "3:31",
+    "sure": "4:32",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
@@ -549,13 +549,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
-    "vp": 2
+    "pm": "-3",
+    "vp": 3
    },
    {
     "id": "133530",
@@ -592,11 +592,11 @@
     "ad": "Akwasi Yeboah",
     "no": "15",
     "ilk5": false,
-    "sure": "2:22",
-    "sayi": 0,
+    "sure": "3:23",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -614,15 +614,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 1
+    "pm": "1",
+    "vp": 3
    },
    {
     "id": "741031",
     "ad": "Royce Hamm Jr.",
     "no": "17",
     "ilk5": false,
-    "sure": "1:28",
+    "sure": "2:29",
     "sayi": 0,
     "iki": [
      0,
@@ -644,7 +644,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "1",
     "vp": 1
    },
    {
@@ -712,15 +712,15 @@
     "ad": "Rıdvan Öncel",
     "no": "99",
     "ilk5": false,
-    "sure": "1:09",
-    "sayi": 0,
+    "sure": "2:10",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -734,21 +734,21 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 0
+    "pm": "1",
+    "vp": 3
    }
   ],
   "ceyrekler": [
-   14
+   19
   ]
  },
- "evSkor": "23",
- "depSkor": "14",
+ "evSkor": "26",
+ "depSkor": "19",
  "salon": "Şehit Polis Recep Topaloğlu Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "01:43",
+  "saat": "00:41",
   "uzatma": false
  }
 }
