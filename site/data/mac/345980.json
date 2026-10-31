@@ -13,7 +13,7 @@
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "10:02",
+    "sure": "11:24",
     "sayi": 2,
     "iki": [
      1,
@@ -28,15 +28,15 @@
      0
     ],
     "hr": 1,
-    "sr": 3,
-    "rib": 4,
+    "sr": 4,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 4
+    "pm": "-1",
+    "vp": 5
    },
    {
     "id": "56403",
@@ -103,7 +103,7 @@
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": true,
-    "sure": "9:46",
+    "sure": "11:08",
     "sayi": 6,
     "iki": [
      0,
@@ -111,7 +111,7 @@
     ],
     "uc": [
      2,
-     2
+     3
     ],
     "sa": [
      0,
@@ -124,20 +124,20 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "4",
-    "vp": 8
+    "faul": 1,
+    "pm": "2",
+    "vp": 7
    },
    {
     "id": "473518",
     "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "10:05",
+    "sure": "11:27",
     "sayi": 4,
     "iki": [
      2,
-     4
+     5
     ],
     "uc": [
      0,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "3",
-    "vp": 5
+    "pm": "1",
+    "vp": 4
    },
    {
     "id": "511470",
@@ -223,7 +223,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "6:06",
+    "sure": "7:28",
     "sayi": 0,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": -1
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Yağız Aksu",
     "no": "10",
     "ilk5": false,
-    "sure": "4:54",
+    "sure": "6:16",
     "sayi": 0,
     "iki": [
      0,
@@ -274,8 +274,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
-    "pm": "0",
+    "faul": 1,
+    "pm": "-2",
     "vp": 1
    },
    {
@@ -376,14 +376,14 @@
  },
  "dep": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "23",
+  "skor": "25",
   "oyuncular": [
    {
     "id": "500173",
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "9:03",
+    "sure": "9:59",
     "sayi": 6,
     "iki": [
      0,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-2",
+    "pm": "0",
     "vp": 5
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Hazer Avcı",
     "no": "11",
     "ilk5": true,
-    "sure": "8:36",
+    "sure": "9:02",
     "sayi": 0,
     "iki": [
      0,
@@ -428,15 +428,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
     "pm": "-7",
-    "vp": -1
+    "vp": 0
    },
    {
     "id": "261226",
@@ -473,7 +473,7 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "12:53",
+    "sure": "13:27",
     "sayi": 8,
     "iki": [
      4,
@@ -490,20 +490,20 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 0,
+    "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-3",
-    "vp": 10
+    "pm": "-1",
+    "vp": 11
    },
    {
     "id": "209010",
     "ad": "Oktay Güneş",
     "no": "25",
     "ilk5": true,
-    "sure": "8:55",
+    "sure": "9:21",
     "sayi": 4,
     "iki": [
      2,
@@ -563,11 +563,11 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": false,
-    "sure": "7:48",
+    "sure": "9:10",
     "sayi": 4,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      0,
@@ -585,19 +585,19 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "2",
-    "vp": 1
+    "pm": "4",
+    "vp": 0
    },
    {
     "id": "332037",
     "ad": "Emir Apaydın",
     "no": "3",
     "ilk5": false,
-    "sure": "3:09",
+    "sure": "4:05",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -607,16 +607,16 @@
      0,
      0
     ],
-    "hr": 1,
-    "sr": 1,
-    "rib": 2,
+    "hr": 2,
+    "sr": 2,
+    "rib": 4,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "2",
-    "vp": 2
+    "faul": 1,
+    "pm": "4",
+    "vp": 3
    },
    {
     "id": "207867",
@@ -683,11 +683,11 @@
     "ad": "Arda Birkeser",
     "no": "22",
     "ilk5": false,
-    "sure": "2:53",
-    "sayi": 0,
+    "sure": "4:15",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -695,7 +695,7 @@
     ],
     "sa": [
      0,
-     0
+     1
     ],
     "hr": 1,
     "sr": 1,
@@ -705,15 +705,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 2
+    "pm": "1",
+    "vp": 3
    },
    {
     "id": "350568",
     "ad": "Bora Can Işık",
     "no": "24",
     "ilk5": false,
-    "sure": "1:08",
+    "sure": "1:56",
     "sayi": 0,
     "iki": [
      0,
@@ -727,30 +727,30 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "2",
-    "vp": 0
+    "vp": 1
    }
   ],
   "ceyrekler": [
    19,
-   4
+   6
   ]
  },
  "evSkor": "26",
- "depSkor": "23",
+ "depSkor": "25",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "07:07",
+  "saat": "05:45",
   "uzatma": false
  }
 }
