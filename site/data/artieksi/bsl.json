@@ -7554,6 +7554,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "781548",
+    "ad": "Kj Simpson",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 9,
+    "fark": 12,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "106461",
     "ad": "Kadir Bayram",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -7576,7 +7585,16 @@
     "ad": "Berkan Durmaz",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 8,
-    "fark": 10,
+    "fark": 12,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "54128",
+    "ad": "Buğrahan Tuncer",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 8,
+    "fark": 12,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7603,7 +7621,7 @@
     "ad": "Aleksej Nikolic",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 7,
-    "fark": 10,
+    "fark": 12,
     "mac": 1,
     "ulke": "SLOVENYA"
    },
@@ -7612,18 +7630,9 @@
     "ad": "Alen Smailagic",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 7,
-    "fark": 10,
+    "fark": 12,
     "mac": 1,
     "ulke": "SIRBİSTAN"
-   },
-   {
-    "id": "781548",
-    "ad": "Kj Simpson",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 6,
-    "fark": 10,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "734505",
@@ -7635,13 +7644,22 @@
     "ulke": "ABD"
    },
    {
-    "id": "54128",
-    "ad": "Buğrahan Tuncer",
+    "id": "500054",
+    "ad": "Dyshawn Pierre",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 5,
-    "fark": 10,
+    "fark": 12,
     "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": "KANADA"
+   },
+   {
+    "id": "779274",
+    "ad": "Oumar Ballo",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 5,
+    "fark": 12,
+    "mac": 1,
+    "ulke": "MALİ"
    },
    {
     "id": "609266",
@@ -7671,11 +7689,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "779275",
+    "ad": "Chimezie Metu",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 4,
+    "fark": 12,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "250129",
     "ad": "Şehmus Hazer",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 4,
-    "fark": 10,
+    "fark": 12,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7684,7 +7711,7 @@
     "ad": "Jerome Robinson Jr.",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 3,
-    "fark": 10,
+    "fark": 12,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7716,38 +7743,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "500054",
-    "ad": "Dyshawn Pierre",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 2,
-    "fark": 10,
-    "mac": 1,
-    "ulke": "KANADA"
-   },
-   {
-    "id": "779274",
-    "ad": "Oumar Ballo",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 2,
-    "fark": 10,
-    "mac": 1,
-    "ulke": "MALİ"
-   },
-   {
     "id": "778310",
     "ad": "Zach Hankins",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 2,
     "fark": 15,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "779275",
-    "ad": "Chimezie Metu",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 1,
-    "fark": 10,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7774,7 +7774,7 @@
     "ad": "Mustafa Yılmaz",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": 0,
-    "fark": -10,
+    "fark": -12,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7801,7 +7801,7 @@
     "ad": "Mustapha Amzil",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -1,
-    "fark": -10,
+    "fark": -12,
     "mac": 1,
     "ulke": "FİNLANDİYA"
    },
@@ -7842,15 +7842,6 @@
     "ulke": "SIRBİSTAN"
    },
    {
-    "id": "124128",
-    "ad": "Egemen Güven",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -2,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "397073",
     "ad": "Altan Çamoğlu",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -7878,20 +7869,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "778996",
-    "ad": "Brae Ivey",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -3,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "779011",
     "ad": "Jhonathan Dunn",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -3,
-    "fark": -10,
+    "fark": -12,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7923,6 +7905,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "124128",
+    "ad": "Egemen Güven",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": -5,
+    "fark": -12,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "470601",
     "ad": "Filip Barna",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -7950,20 +7941,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "736366",
-    "ad": "John Meeks",
+    "id": "778996",
+    "ad": "Brae Ivey",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -6,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "779010",
-    "ad": "Victor Bailey Jr.",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -6,
-    "fark": -10,
+    "fark": -12,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7990,18 +7972,9 @@
     "ad": "Mahir Ağva",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -7,
-    "fark": -10,
+    "fark": -12,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "373162",
-    "ad": "Marko Pecarski",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -8,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
    },
    {
     "id": "358272",
@@ -8017,9 +7990,36 @@
     "ad": "Erten Gazi",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -9,
-    "fark": -10,
+    "fark": -12,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "736366",
+    "ad": "John Meeks",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": -9,
+    "fark": -12,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "779010",
+    "ad": "Victor Bailey Jr.",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": -9,
+    "fark": -12,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "373162",
+    "ad": "Marko Pecarski",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": -11,
+    "fark": -12,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
    },
    {
     "id": "776935",
@@ -8065,7 +8065,7 @@
    "ad": "Alen Smailagic",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 51,
-   "fark": 52,
+   "fark": 54,
    "mac": 6,
    "ulke": "SIRBİSTAN"
   },
@@ -8106,6 +8106,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "781548",
+   "ad": "Kj Simpson",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 44,
+   "fark": 43,
+   "mac": 3,
+   "ulke": "ABD"
+  },
+  {
    "id": "129216",
    "ad": "Doğuş Özdemiroğlu",
    "takim": "TÜRK TELEKOM",
@@ -8121,15 +8130,6 @@
    "pm": 42,
    "fark": 43,
    "mac": 5,
-   "ulke": "ABD"
-  },
-  {
-   "id": "781548",
-   "ad": "Kj Simpson",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 41,
-   "fark": 41,
-   "mac": 3,
    "ulke": "ABD"
   },
   {
@@ -8178,11 +8178,20 @@
    "ulke": "ABD"
   },
   {
+   "id": "54128",
+   "ad": "Buğrahan Tuncer",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 33,
+   "fark": 31,
+   "mac": 5,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "502492",
    "ad": "Aleksej Nikolic",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 33,
-   "fark": 52,
+   "fark": 54,
    "mac": 6,
    "ulke": "SLOVENYA"
   },
@@ -8205,15 +8214,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "54128",
-   "ad": "Buğrahan Tuncer",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 30,
-   "fark": 29,
-   "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "54659",
    "ad": "Sertaç Şanlı",
    "takim": "FENERBAHÇE TARFİN",
@@ -8227,7 +8227,7 @@
    "ad": "Şehmus Hazer",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 29,
-   "fark": 52,
+   "fark": 54,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -8272,7 +8272,7 @@
    "ad": "Berkan Durmaz",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 26,
-   "fark": 36,
+   "fark": 38,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -8284,6 +8284,15 @@
    "fark": 42,
    "mac": 5,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "779275",
+   "ad": "Chimezie Metu",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 26,
+   "fark": 54,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "192987",
@@ -8338,15 +8347,6 @@
    "fark": 42,
    "mac": 5,
    "ulke": "HIRVATİSTAN"
-  },
-  {
-   "id": "779275",
-   "ad": "Chimezie Metu",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 23,
-   "fark": 52,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "133112",
@@ -8578,7 +8578,7 @@
    "ad": "Jerome Robinson Jr.",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 11,
-   "fark": 57,
+   "fark": 59,
    "mac": 5,
    "ulke": "ABD"
   },
@@ -8617,6 +8617,15 @@
    "fark": 43,
    "mac": 5,
    "ulke": "BELÇİKA"
+  },
+  {
+   "id": "779274",
+   "ad": "Oumar Ballo",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 10,
+   "fark": 54,
+   "mac": 6,
+   "ulke": "MALİ"
   },
   {
    "id": "778080",
@@ -8709,15 +8718,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "779274",
-   "ad": "Oumar Ballo",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 7,
-   "fark": 52,
-   "mac": 6,
-   "ulke": "MALİ"
-  },
-  {
    "id": "778402",
    "ad": "Zach Nutall",
    "takim": "TOFAŞ",
@@ -8797,6 +8797,15 @@
    "fark": 1,
    "mac": 1,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "500054",
+   "ad": "Dyshawn Pierre",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 3,
+   "fark": 20,
+   "mac": 5,
+   "ulke": "KANADA"
   },
   {
    "id": "753775",
@@ -8934,15 +8943,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "500054",
-   "ad": "Dyshawn Pierre",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 0,
-   "fark": 18,
-   "mac": 5,
-   "ulke": "KANADA"
-  },
-  {
    "id": "778459",
    "ad": "Warren Washington",
    "takim": "BURSASPOR BASKETBOL",
@@ -9055,7 +9055,7 @@
    "ad": "Mahir Ağva",
    "takim": "YUKATEL DENİZLİ BASKET",
    "pm": -3,
-   "fark": -35,
+   "fark": -37,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -9118,7 +9118,7 @@
    "ad": "Mustafa Yılmaz",
    "takim": "YUKATEL DENİZLİ BASKET",
    "pm": -4,
-   "fark": -31,
+   "fark": -33,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -9352,16 +9352,7 @@
    "ad": "Jhonathan Dunn",
    "takim": "YUKATEL DENİZLİ BASKET",
    "pm": -10,
-   "fark": -35,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "736366",
-   "ad": "John Meeks",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -10,
-   "fark": -35,
+   "fark": -37,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -9438,15 +9429,6 @@
    "ulke": "POLONYA"
   },
   {
-   "id": "778996",
-   "ad": "Brae Ivey",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -11,
-   "fark": -35,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "470601",
    "ad": "Filip Barna",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -9483,6 +9465,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "736366",
+   "ad": "John Meeks",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -13,
+   "fark": -37,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "778398",
    "ad": "Gabe Brown",
    "takim": "TOFAŞ",
@@ -9499,6 +9490,15 @@
    "fark": -6,
    "mac": 4,
    "ulke": "KANADA"
+  },
+  {
+   "id": "778996",
+   "ad": "Brae Ivey",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -14,
+   "fark": -37,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "397202",
@@ -9627,15 +9627,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "373162",
-   "ad": "Marko Pecarski",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -20,
-   "fark": -35,
-   "mac": 6,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "502519",
    "ad": "Bryce Brown",
    "takim": "BURSASPOR BASKETBOL",
@@ -9643,6 +9634,15 @@
    "fark": -24,
    "mac": 3,
    "ulke": "ABD"
+  },
+  {
+   "id": "373162",
+   "ad": "Marko Pecarski",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -23,
+   "fark": -37,
+   "mac": 6,
+   "ulke": "SIRBİSTAN"
   },
   {
    "id": "778399",
@@ -9712,18 +9712,9 @@
    "ad": "Erten Gazi",
    "takim": "YUKATEL DENİZLİ BASKET",
    "pm": -26,
-   "fark": -35,
+   "fark": -37,
    "mac": 6,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "779010",
-   "ad": "Victor Bailey Jr.",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -26,
-   "fark": -35,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "589830",
@@ -9753,20 +9744,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "124128",
-   "ad": "Egemen Güven",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -27,
-   "fark": -35,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "779012",
    "ad": "Mustapha Amzil",
    "takim": "YUKATEL DENİZLİ BASKET",
    "pm": -27,
-   "fark": -35,
+   "fark": -37,
    "mac": 6,
    "ulke": "FİNLANDİYA"
   },
@@ -9798,6 +9780,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "779010",
+   "ad": "Victor Bailey Jr.",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -29,
+   "fark": -37,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "704476",
    "ad": "Edon Maxhuni",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -9814,6 +9805,15 @@
    "fark": -43,
    "mac": 5,
    "ulke": "ABD"
+  },
+  {
+   "id": "124128",
+   "ad": "Egemen Güven",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -30,
+   "fark": -37,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "777635",
