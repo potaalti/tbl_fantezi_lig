@@ -10,13 +10,13 @@
    "durum": "canli",
    "ev": "CEDİ OSMAN BASKETBOL",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": "75",
+   "evSkor": "76",
    "depSkor": "73",
    "salon": "Gazanfer Bilge Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "00:03",
+    "saat": "00:00",
     "uzatma": false
    }
   },
@@ -25,26 +25,36 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-10-31T16:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "DARÜŞŞAFAKA",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "8",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:10",
+    "uzatma": false
+   }
   },
   {
    "id": 345978,
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-10-31T16:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "4",
    "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "07:56",
+    "uzatma": false
+   }
   },
   {
    "id": 345979,
