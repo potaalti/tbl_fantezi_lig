@@ -7503,8 +7503,8 @@
     "id": "667625",
     "ad": "Damien Jefferson",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 18,
-    "fark": 16,
+    "pm": 20,
+    "fark": 18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7512,8 +7512,8 @@
     "id": "501076",
     "ad": "Quentin Peterson",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 17,
-    "fark": 16,
+    "pm": 19,
+    "fark": 18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7521,8 +7521,8 @@
     "id": "512379",
     "ad": "Boubacar Toure",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 15,
-    "fark": 16,
+    "pm": 17,
+    "fark": 18,
     "mac": 1,
     "ulke": "SENEGAL"
    },
@@ -7540,9 +7540,18 @@
     "ad": "Kadir Bayram",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 10,
-    "fark": 16,
+    "fark": 18,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "473261",
+    "ad": "Peyton Aldridge",
+    "takim": "PİZZABULLS BORDO BANDIRMA",
+    "pm": 10,
+    "fark": 18,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "129295",
@@ -7567,18 +7576,9 @@
     "ad": "Mehmet Oğuzhan Kızıl",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 8,
-    "fark": 16,
+    "fark": 18,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "473261",
-    "ad": "Peyton Aldridge",
-    "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 8,
-    "fark": 16,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "105532",
@@ -7594,7 +7594,7 @@
     "ad": "Ty Gordon",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 6,
-    "fark": 16,
+    "fark": 18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7626,15 +7626,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "131296",
-    "ad": "Kenan Sipahi",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 2,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "735812",
     "ad": "Brandon Boston Jr.",
     "takim": "TRABZONSPOR",
@@ -7653,20 +7644,20 @@
     "ulke": "ABD"
    },
    {
-    "id": "734505",
-    "ad": "Trevion Williams",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 0,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "130898",
     "ad": "Okben Ulubay",
     "takim": "PİZZABULLS BORDO BANDIRMA",
+    "pm": 2,
+    "fark": 18,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "131296",
+    "ad": "Kenan Sipahi",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 0,
-    "fark": 16,
+    "fark": -18,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7685,6 +7676,15 @@
     "takim": "TRABZONSPOR",
     "pm": -1,
     "fark": 6,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "734505",
+    "ad": "Trevion Williams",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": -2,
+    "fark": -18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7711,7 +7711,7 @@
     "ad": "Zach Hankins",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": -2,
-    "fark": 16,
+    "fark": 18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7729,7 +7729,7 @@
     "ad": "Luka Mitrovic",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -4,
-    "fark": -16,
+    "fark": -18,
     "mac": 1,
     "ulke": "SIRBİSTAN"
    },
@@ -7750,15 +7750,6 @@
     "fark": 6,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "384595",
-    "ad": "Mateusz Ponitka",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": -5,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "POLONYA"
    },
    {
     "id": "470601",
@@ -7788,11 +7779,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "384595",
+    "ad": "Mateusz Ponitka",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": -7,
+    "fark": -18,
+    "mac": 1,
+    "ulke": "POLONYA"
+   },
+   {
     "id": "608898",
     "ad": "Tyler Cavanaugh",
     "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": -7,
-    "fark": -16,
+    "pm": -9,
+    "fark": -18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7801,7 +7801,7 @@
     "ad": "Marcquise Reed",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -10,
-    "fark": -16,
+    "fark": -18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7810,7 +7810,7 @@
     "ad": "David Dileo",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -13,
-    "fark": -16,
+    "fark": -18,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7819,7 +7819,7 @@
     "ad": "İsmet Akpınar",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -13,
-    "fark": -16,
+    "fark": -18,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7828,7 +7828,7 @@
     "ad": "Furkan Haltalı",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -14,
-    "fark": -16,
+    "fark": -18,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7836,8 +7836,8 @@
     "id": "776935",
     "ad": "Aleksa Avramovic",
     "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": -16,
-    "fark": -16,
+    "pm": -18,
+    "fark": -18,
     "mac": 1,
     "ulke": "SIRBİSTAN"
    },
@@ -7947,8 +7947,8 @@
    "id": "473261",
    "ad": "Peyton Aldridge",
    "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 35,
-   "fark": -15,
+   "pm": 37,
+   "fark": -13,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -7965,8 +7965,8 @@
    "id": "734505",
    "ad": "Trevion Williams",
    "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 35,
-   "fark": 31,
+   "pm": 33,
+   "fark": 29,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -7974,8 +7974,8 @@
    "id": "131296",
    "ad": "Kenan Sipahi",
    "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 33,
-   "fark": 31,
+   "pm": 31,
+   "fark": 29,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -8070,6 +8070,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "501076",
+   "ad": "Quentin Peterson",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": 24,
+   "fark": -13,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "192987",
    "ad": "Rıdvan Öncel",
    "takim": "TRABZONSPOR",
@@ -8140,15 +8149,6 @@
    "fark": -15,
    "mac": 6,
    "ulke": "LİTVANYA"
-  },
-  {
-   "id": "501076",
-   "ad": "Quentin Peterson",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 22,
-   "fark": -15,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "776570",
@@ -8304,20 +8304,11 @@
    "ulke": "ABD"
   },
   {
-   "id": "384595",
-   "ad": "Mateusz Ponitka",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 14,
-   "fark": 31,
-   "mac": 6,
-   "ulke": "POLONYA"
-  },
-  {
    "id": "106461",
    "ad": "Kadir Bayram",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": 13,
-   "fark": -22,
+   "fark": -20,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -8347,6 +8338,15 @@
    "fark": 14,
    "mac": 1,
    "ulke": "ABD"
+  },
+  {
+   "id": "384595",
+   "ad": "Mateusz Ponitka",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 12,
+   "fark": 29,
+   "mac": 6,
+   "ulke": "POLONYA"
   },
   {
    "id": "133530",
@@ -8569,7 +8569,7 @@
    "ad": "Marcquise Reed",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 4,
-   "fark": 31,
+   "fark": 29,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -8709,15 +8709,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "776935",
-   "ad": "Aleksa Avramovic",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 0,
-   "fark": 23,
-   "mac": 5,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "778459",
    "ad": "Warren Washington",
    "takim": "BURSASPOR BASKETBOL",
@@ -8727,11 +8718,20 @@
    "ulke": "ABD"
   },
   {
+   "id": "130898",
+   "ad": "Okben Ulubay",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -1,
+   "fark": -13,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "307500",
    "ad": "Mehmet Oğuzhan Kızıl",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -1,
-   "fark": -5,
+   "fark": -3,
    "mac": 3,
    "ulke": "TÜRKİYE"
   },
@@ -8781,6 +8781,15 @@
    "ulke": "KANADA"
   },
   {
+   "id": "776935",
+   "ad": "Aleksa Avramovic",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": -2,
+   "fark": 21,
+   "mac": 5,
+   "ulke": "SIRBİSTAN"
+  },
+  {
    "id": "112715",
    "ad": "Emircan Koşut",
    "takim": "TÜRK TELEKOM",
@@ -8817,20 +8826,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "130898",
-   "ad": "Okben Ulubay",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -3,
-   "fark": -15,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "666515",
    "ad": "Ty Gordon",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -3,
-   "fark": -15,
+   "fark": -13,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -8868,15 +8868,6 @@
    "pm": -3,
    "fark": 22,
    "mac": 4,
-   "ulke": "ABD"
-  },
-  {
-   "id": "608898",
-   "ad": "Tyler Cavanaugh",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": -3,
-   "fark": 31,
-   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -8947,7 +8938,7 @@
    "ad": "Furkan Haltalı",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": -4,
-   "fark": 27,
+   "fark": 25,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -8965,7 +8956,7 @@
    "ad": "Luka Mitrovic",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": -5,
-   "fark": -2,
+   "fark": -4,
    "mac": 3,
    "ulke": "SIRBİSTAN"
   },
@@ -8976,6 +8967,15 @@
    "pm": -5,
    "fark": 11,
    "mac": 3,
+   "ulke": "ABD"
+  },
+  {
+   "id": "608898",
+   "ad": "Tyler Cavanaugh",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": -5,
+   "fark": 29,
+   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -9001,7 +9001,7 @@
    "ad": "Zach Hankins",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -6,
-   "fark": -15,
+   "fark": -13,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -9145,7 +9145,7 @@
    "ad": "İsmet Akpınar",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": -9,
-   "fark": 16,
+   "fark": 14,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -9280,7 +9280,7 @@
    "ad": "David Dileo",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": -13,
-   "fark": -16,
+   "fark": -18,
    "mac": 1,
    "ulke": "ABD"
   },
@@ -9384,6 +9384,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "512379",
+   "ad": "Boubacar Toure",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -18,
+   "fark": -13,
+   "mac": 6,
+   "ulke": "SENEGAL"
+  },
+  {
    "id": "359434",
    "ad": "Errick McCollum",
    "takim": "ESENLER EROKSPOR",
@@ -9427,15 +9436,6 @@
    "fark": -25,
    "mac": 5,
    "ulke": "ABD"
-  },
-  {
-   "id": "512379",
-   "ad": "Boubacar Toure",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -20,
-   "fark": -15,
-   "mac": 6,
-   "ulke": "SENEGAL"
   },
   {
    "id": "502519",
@@ -9690,21 +9690,21 @@
    "ulke": "ABD"
   },
   {
+   "id": "667625",
+   "ad": "Damien Jefferson",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -53,
+   "fark": -13,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "500074",
    "ad": "Jeremy Simmons",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -54,
    "fark": -43,
    "mac": 5,
-   "ulke": "ABD"
-  },
-  {
-   "id": "667625",
-   "ad": "Damien Jefferson",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -55,
-   "fark": -15,
-   "mac": 6,
    "ulke": "ABD"
   }
  ]
