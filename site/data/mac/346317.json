@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BİOTEKNO KÖRFEZ BASKET",
-  "skor": "5",
+  "skor": "9",
   "oyuncular": [
    {
     "id": "778181",
     "ad": "Boo Buie",
     "no": "0",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
     "sayi": 3,
     "iki": [
      0,
@@ -21,7 +21,7 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      0,
@@ -36,14 +36,14 @@
     "tk": 0,
     "faul": 1,
     "pm": "3",
-    "vp": 5
+    "vp": 4
    },
    {
     "id": "609266",
     "ad": "Matt Mitchell",
     "no": "11",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
     "sayi": 0,
     "iki": [
      0,
@@ -58,22 +58,22 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
     "pm": "3",
-    "vp": -1
+    "vp": 0
    },
    {
     "id": "397073",
     "ad": "Altan Çamoğlu",
     "no": "21",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
     "sayi": 0,
     "iki": [
      0,
@@ -81,7 +81,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -96,17 +96,47 @@
     "tk": 0,
     "faul": 0,
     "pm": "3",
-    "vp": 0
+    "vp": -1
    },
    {
     "id": "778184",
     "ad": "Oscar Cluff",
     "no": "22",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
+    "sayi": 4,
+    "iki": [
+     2,
+     2
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "3",
+    "vp": 5
+   },
+   {
+    "id": "470601",
+    "ad": "Filip Barna",
+    "no": "88",
+    "ilk5": true,
+    "sure": "3:39",
     "sayi": 2,
     "iki": [
-     1,
+     0,
      1
     ],
     "uc": [
@@ -114,49 +144,19 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
-    "tc": 0,
+    "ast": 1,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "3",
-    "vp": 2
-   },
-   {
-    "id": "470601",
-    "ad": "Filip Barna",
-    "no": "88",
-    "ilk5": true,
-    "sure": "1:20",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "3",
-    "vp": 0
+    "vp": 3
    },
    {
     "id": "778161",
@@ -370,19 +370,19 @@
    }
   ],
   "ceyrekler": [
-   5
+   9
   ]
  },
  "dep": {
   "ad": "TRABZONSPOR",
-  "skor": "2",
+  "skor": "6",
   "oyuncular": [
    {
     "id": "501871",
     "ad": "Isaiah Canaan",
     "no": "0",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
     "sayi": 0,
     "iki": [
      0,
@@ -390,7 +390,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -405,14 +405,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "-3",
-    "vp": 1
+    "vp": 0
    },
    {
     "id": "779255",
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
     "sayi": 2,
     "iki": [
      0,
@@ -433,7 +433,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-3",
     "vp": 2
    },
@@ -442,11 +442,11 @@
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": true,
-    "sure": "1:20",
-    "sayi": 0,
+    "sure": "3:39",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -457,26 +457,26 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-3",
-    "vp": 0
+    "vp": 5
    },
    {
     "id": "473256",
     "ad": "Emanuel Terry",
     "no": "33",
     "ilk5": true,
-    "sure": "1:20",
-    "sayi": 0,
+    "sure": "3:39",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     2
     ],
     "uc": [
      0,
@@ -487,22 +487,22 @@
      0
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "-3",
-    "vp": 1
+    "vp": 2
    },
    {
     "id": "590409",
     "ad": "Brady Manek",
     "no": "45",
     "ilk5": true,
-    "sure": "1:20",
+    "sure": "3:39",
     "sayi": 0,
     "iki": [
      0,
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   2
+   6
   ]
  },
- "evSkor": "5",
- "depSkor": "2",
+ "evSkor": "9",
+ "depSkor": "6",
  "salon": "Şehit Polis Recep Topaloğlu Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "08:40",
+  "saat": "06:29",
   "uzatma": false
  }
 }
