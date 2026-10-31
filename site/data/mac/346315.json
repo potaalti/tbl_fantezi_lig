@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "25",
+  "skor": "27",
   "oyuncular": [
    {
     "id": "778996",
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "12:08",
+    "sure": "12:25",
     "sayi": 3,
     "iki": [
      1,
@@ -30,20 +30,20 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 0,
+    "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-1",
-    "vp": 1
+    "pm": "1",
+    "vp": 2
    },
    {
     "id": "373162",
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "12:20",
+    "sure": "12:46",
     "sayi": 4,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-4",
     "vp": 4
    },
    {
@@ -103,7 +103,7 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "10:51",
+    "sure": "11:17",
     "sayi": 5,
     "iki": [
      1,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 6
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "14:38",
+    "sure": "14:47",
     "sayi": 8,
     "iki": [
      4,
@@ -253,7 +253,7 @@
     "ad": "Erten Gazi",
     "no": "11",
     "ilk5": false,
-    "sure": "6:06",
+    "sure": "6:32",
     "sayi": 0,
     "iki": [
      0,
@@ -275,7 +275,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-4",
     "vp": 0
    },
    {
@@ -283,11 +283,11 @@
     "ad": "Egemen Güven",
     "no": "15",
     "ilk5": false,
-    "sure": "3:12",
-    "sayi": 0,
+    "sure": "3:38",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -305,8 +305,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "2",
+    "vp": 2
    },
    {
     "id": "497055",
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    17,
-   8
+   10
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "12:27",
+    "sure": "12:53",
     "sayi": 6,
     "iki": [
      2,
@@ -403,17 +403,17 @@
     "ast": 1,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "6",
-    "vp": 8
+    "pm": "4",
+    "vp": 7
    },
    {
     "id": "502492",
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "10:22",
+    "sure": "10:48",
     "sayi": 1,
     "iki": [
      0,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "2",
     "vp": 1
    },
    {
@@ -443,7 +443,7 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "8:06",
+    "sure": "8:32",
     "sayi": 2,
     "iki": [
      1,
@@ -465,7 +465,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 2
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Oumar Ballo",
     "no": "11",
     "ilk5": true,
-    "sure": "6:23",
+    "sure": "6:40",
     "sayi": 2,
     "iki": [
      1,
@@ -495,7 +495,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-2",
     "vp": 3
    },
    {
@@ -503,7 +503,7 @@
     "ad": "Dyshawn Pierre",
     "no": "21",
     "ilk5": true,
-    "sure": "7:27",
+    "sure": "7:53",
     "sayi": 2,
     "iki": [
      1,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 2
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "9:20",
+    "sure": "9:29",
     "sayi": 5,
     "iki": [
      2,
@@ -744,13 +744,13 @@
    15
   ]
  },
- "evSkor": "25",
+ "evSkor": "27",
  "depSkor": "32",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:14",
+  "saat": "02:48",
   "uzatma": false
  }
 }
