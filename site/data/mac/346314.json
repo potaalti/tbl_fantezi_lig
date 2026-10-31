@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "PİZZABULLS BORDO BANDIRMA",
-  "skor": "62",
+  "skor": "65",
   "oyuncular": [
    {
     "id": "666515",
@@ -43,7 +43,7 @@
     "ad": "Boubacar Toure",
     "no": "21",
     "ilk5": true,
-    "sure": "13:15",
+    "sure": "13:33",
     "sayi": 1,
     "iki": [
      0,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "15",
+    "pm": "18",
     "vp": 6
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": true,
-    "sure": "16:19",
+    "sure": "16:37",
     "sayi": 7,
     "iki": [
      2,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "18",
+    "pm": "21",
     "vp": 7
    },
    {
@@ -133,15 +133,15 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "20:10",
-    "sayi": 13,
+    "sure": "20:28",
+    "sayi": 16,
     "iki": [
      0,
      1
     ],
     "uc": [
-     4,
-     8
+     5,
+     9
     ],
     "sa": [
      1,
@@ -155,15 +155,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "17",
-    "vp": 10
+    "pm": "20",
+    "vp": 13
    },
    {
     "id": "130898",
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "6:23",
+    "sure": "6:41",
     "sayi": 0,
     "iki": [
      0,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "3",
     "vp": -2
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "18:24",
+    "sure": "18:42",
     "sayi": 6,
     "iki": [
      0,
@@ -335,7 +335,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "8",
+    "pm": "11",
     "vp": 9
    },
    {
@@ -372,7 +372,7 @@
   "ceyrekler": [
    28,
    25,
-   9
+   12
   ]
  },
  "dep": {
@@ -414,7 +414,7 @@
     "ad": "Tyler Cavanaugh",
     "no": "34",
     "ilk5": true,
-    "sure": "20:03",
+    "sure": "20:21",
     "sayi": 8,
     "iki": [
      1,
@@ -436,7 +436,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-7",
+    "pm": "-10",
     "vp": 12
    },
    {
@@ -444,7 +444,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "20:29",
+    "sure": "20:47",
     "sayi": 5,
     "iki": [
      2,
@@ -466,7 +466,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-8",
     "vp": 2
    },
    {
@@ -474,7 +474,7 @@
     "ad": "Trevion Williams",
     "no": "50",
     "ilk5": true,
-    "sure": "14:18",
+    "sure": "14:36",
     "sayi": 10,
     "iki": [
      4,
@@ -496,7 +496,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "0",
+    "pm": "-3",
     "vp": 16
    },
    {
@@ -504,7 +504,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": true,
-    "sure": "13:49",
+    "sure": "14:07",
     "sayi": 8,
     "iki": [
      2,
@@ -526,7 +526,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "-1",
     "vp": 7
    },
    {
@@ -534,7 +534,7 @@
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "14:09",
+    "sure": "14:27",
     "sayi": 4,
     "iki": [
      2,
@@ -556,7 +556,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-16",
+    "pm": "-19",
     "vp": 1
    },
    {
@@ -746,13 +746,13 @@
    12
   ]
  },
- "evSkor": "62",
+ "evSkor": "65",
  "depSkor": "46",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:53",
+  "saat": "04:34",
   "uzatma": false
  }
 }
