@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "MERSİN SPOR",
-  "skor": "33",
+  "skor": "37",
   "oyuncular": [
    {
     "id": "777508",
     "ad": "Kruize Pinkins",
     "no": "12",
     "ilk5": true,
-    "sure": "13:20",
+    "sure": "14:24",
     "sayi": 7,
     "iki": [
      2,
@@ -34,8 +34,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "-1",
+    "faul": 2,
+    "pm": "1",
     "vp": 8
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Troy Şav",
     "no": "17",
     "ilk5": true,
-    "sure": "8:56",
+    "sure": "10:00",
     "sayi": 5,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
+    "pm": "1",
     "vp": 6
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Arca Tülüoğlu",
     "no": "20",
     "ilk5": true,
-    "sure": "10:49",
+    "sure": "11:53",
     "sayi": 3,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 0
    },
    {
@@ -103,8 +103,8 @@
     "ad": "Mike Smith",
     "no": "21",
     "ilk5": true,
-    "sure": "11:44",
-    "sayi": 3,
+    "sure": "12:48",
+    "sayi": 5,
     "iki": [
      1,
      2
@@ -114,8 +114,8 @@
      0
     ],
     "sa": [
-     1,
-     2
+     3,
+     4
     ],
     "hr": 0,
     "sr": 1,
@@ -125,16 +125,16 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "0",
-    "vp": 2
+    "pm": "2",
+    "vp": 4
    },
    {
     "id": "123649",
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "6:14",
-    "sayi": 0,
+    "sure": "7:18",
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -144,8 +144,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-5",
-    "vp": -1
+    "pm": "-3",
+    "vp": 1
    },
    {
     "id": "320264",
@@ -371,19 +371,19 @@
   ],
   "ceyrekler": [
    17,
-   16
+   20
   ]
  },
  "dep": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "34",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "776821",
     "ad": "Vitalis Chikoko",
     "no": "5",
     "ilk5": true,
-    "sure": "9:19",
+    "sure": "10:23",
     "sayi": 6,
     "iki": [
      3,
@@ -404,8 +404,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
-    "pm": "5",
+    "faul": 1,
+    "pm": "3",
     "vp": 7
    },
    {
@@ -443,7 +443,7 @@
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "9:25",
+    "sure": "10:29",
     "sayi": 4,
     "iki": [
      2,
@@ -457,27 +457,27 @@
      0,
      0
     ],
-    "hr": 2,
+    "hr": 3,
     "sr": 2,
-    "rib": 4,
+    "rib": 5,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "0",
-    "vp": 5
+    "pm": "-2",
+    "vp": 6
    },
    {
     "id": "500443",
     "ad": "Maurice Watson Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "16:37",
-    "sayi": 7,
+    "sure": "17:41",
+    "sayi": 9,
     "iki": [
-     3,
-     3
+     4,
+     5
     ],
     "uc": [
      0,
@@ -495,15 +495,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-1",
-    "vp": 8
+    "pm": "-3",
+    "vp": 9
    },
    {
     "id": "222696",
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "15:07",
+    "sure": "16:11",
     "sayi": 2,
     "iki": [
      1,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "0",
+    "pm": "-2",
     "vp": 9
    },
    {
@@ -593,7 +593,7 @@
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "1:36",
+    "sure": "2:40",
     "sayi": 0,
     "iki": [
      0,
@@ -615,7 +615,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 0
    },
    {
@@ -711,16 +711,16 @@
   ],
   "ceyrekler": [
    22,
-   12
+   14
   ]
  },
- "evSkor": "33",
- "depSkor": "34",
+ "evSkor": "37",
+ "depSkor": "36",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:21",
+  "saat": "02:17",
   "uzatma": false
  }
 }
