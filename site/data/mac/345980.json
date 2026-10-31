@@ -223,7 +223,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "13:29",
+    "sure": "13:49",
     "sayi": 1,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-8",
+    "pm": "-10",
     "vp": -3
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Yağız Aksu",
     "no": "10",
     "ilk5": false,
-    "sure": "11:50",
+    "sure": "12:10",
     "sayi": 4,
     "iki": [
      2,
@@ -275,7 +275,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-8",
+    "pm": "-10",
     "vp": 5
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "1:17",
+    "sure": "1:37",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 1
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": false,
-    "sure": "6:19",
+    "sure": "6:39",
     "sayi": 3,
     "iki": [
      1,
@@ -335,7 +335,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-11",
+    "pm": "-13",
     "vp": 1
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": false,
-    "sure": "8:12",
+    "sure": "8:32",
     "sayi": 2,
     "iki": [
      0,
@@ -365,7 +365,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-3",
+    "pm": "-5",
     "vp": 0
    }
   ],
@@ -377,7 +377,7 @@
  },
  "dep": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "54",
+  "skor": "56",
   "oyuncular": [
    {
     "id": "500173",
@@ -414,7 +414,7 @@
     "ad": "Hazer Avcı",
     "no": "11",
     "ilk5": true,
-    "sure": "15:40",
+    "sure": "16:00",
     "sayi": 0,
     "iki": [
      0,
@@ -436,7 +436,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-4",
     "vp": 3
    },
    {
@@ -474,11 +474,11 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "26:21",
-    "sayi": 15,
+    "sure": "26:41",
+    "sayi": 17,
     "iki": [
-     6,
-     9
+     7,
+     10
     ],
     "uc": [
      0,
@@ -496,8 +496,8 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "8",
-    "vp": 21
+    "pm": "10",
+    "vp": 23
    },
    {
     "id": "209010",
@@ -564,7 +564,7 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": false,
-    "sure": "23:15",
+    "sure": "23:35",
     "sayi": 11,
     "iki": [
      3,
@@ -586,7 +586,7 @@
     "blk": 0,
     "tk": 5,
     "faul": 2,
-    "pm": "12",
+    "pm": "14",
     "vp": 11
    },
    {
@@ -624,7 +624,7 @@
     "ad": "Mert Konuk",
     "no": "13",
     "ilk5": false,
-    "sure": "4:41",
+    "sure": "5:01",
     "sayi": 0,
     "iki": [
      0,
@@ -646,7 +646,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "11",
+    "pm": "13",
     "vp": 2
    },
    {
@@ -654,11 +654,11 @@
     "ad": "Oğuzhan Tosun",
     "no": "15",
     "ilk5": false,
-    "sure": "3:16",
+    "sure": "3:36",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -676,8 +676,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "8",
-    "vp": 0
+    "pm": "10",
+    "vp": -1
    },
    {
     "id": "380032",
@@ -743,16 +743,16 @@
   "ceyrekler": [
    19,
    19,
-   16
+   18
   ]
  },
  "evSkor": "49",
- "depSkor": "54",
+ "depSkor": "56",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "00:20",
+  "saat": "00:00",
   "uzatma": false
  }
 }
