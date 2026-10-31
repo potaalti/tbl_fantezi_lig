@@ -1,10 +1,11 @@
 {
  "haftalar": [
   7,
-  8
+  8,
+  9
  ],
- "guncelHafta": 8,
- "guncelleme": "2026-10-31T09:02:16+00:00",
+ "guncelHafta": 9,
+ "guncelleme": "2026-10-31T11:01:04+00:00",
  "rehberGuncelleme": "2026-10-31T09:02:05+00:00",
  "macGunleri": [
   "2026-10-23",
@@ -12,14 +13,11 @@
   "2026-10-25",
   "2026-10-31",
   "2026-11-01",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-07",
+  "2026-11-08"
  ],
  "macSaatleri": [
-  {
-   "tarih": "2026-10-23T18:00:00",
-   "bitti": true,
-   "lig": "tbl"
-  },
   {
    "tarih": "2026-10-23T19:00:00",
    "bitti": true,
@@ -33,27 +31,7 @@
   {
    "tarih": "2026-10-24T15:30:00",
    "bitti": true,
-   "lig": "tbl"
-  },
-  {
-   "tarih": "2026-10-24T15:30:00",
-   "bitti": true,
    "lig": "bsl"
-  },
-  {
-   "tarih": "2026-10-24T16:30:00",
-   "bitti": true,
-   "lig": "tbl"
-  },
-  {
-   "tarih": "2026-10-24T18:00:00",
-   "bitti": true,
-   "lig": "tbl"
-  },
-  {
-   "tarih": "2026-10-24T19:00:00",
-   "bitti": true,
-   "lig": "tbl"
   },
   {
    "tarih": "2026-10-24T20:30:00",
@@ -69,21 +47,6 @@
    "tarih": "2026-10-25T15:30:00",
    "bitti": true,
    "lig": "bsl"
-  },
-  {
-   "tarih": "2026-10-25T16:00:00",
-   "bitti": true,
-   "lig": "tbl"
-  },
-  {
-   "tarih": "2026-10-25T16:30:00",
-   "bitti": true,
-   "lig": "tbl"
-  },
-  {
-   "tarih": "2026-10-25T18:00:00",
-   "bitti": true,
-   "lig": "tbl"
   },
   {
    "tarih": "2026-10-25T18:00:00",
@@ -174,6 +137,46 @@
    "tarih": "2026-11-02T20:30:00",
    "bitti": false,
    "lig": "bsl"
+  },
+  {
+   "tarih": "2026-11-07T15:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-07T16:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-07T16:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-07T19:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-08T14:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-08T16:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-08T16:00:00",
+   "bitti": false,
+   "lig": "tbl"
+  },
+  {
+   "tarih": "2026-11-08T16:30:00",
+   "bitti": false,
+   "lig": "tbl"
   }
  ],
  "maclar": {
@@ -214,11 +217,11 @@
     33,
     34
    ],
-   "guncel": 8,
-   "guncelBitti": true,
+   "guncel": 9,
+   "guncelBitti": false,
    "siradaki": {
-    "hafta": 9,
-    "gosterim": "2026-10-29T00:00:00+03:00"
+    "hafta": 10,
+    "gosterim": "2026-11-05T00:00:00+03:00"
    }
   },
   "bsl": {
@@ -263,7 +266,7 @@
   }
  },
  "siradaki": {
-  "hafta": 9,
-  "gosterim": "2026-10-29T00:00:00+03:00"
+  "hafta": 10,
+  "gosterim": "2026-11-05T00:00:00+03:00"
  }
 }
