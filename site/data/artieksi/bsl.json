@@ -7500,11 +7500,29 @@
   ],
   "6": [
    {
+    "id": "590409",
+    "ad": "Brady Manek",
+    "takim": "TRABZONSPOR",
+    "pm": 10,
+    "fark": 11,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "129295",
     "ad": "Ege Arar",
     "takim": "TRABZONSPOR",
     "pm": 9,
-    "fark": 7,
+    "fark": 11,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "192987",
+    "ad": "Rıdvan Öncel",
+    "takim": "TRABZONSPOR",
+    "pm": 9,
+    "fark": 11,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7513,7 +7531,7 @@
     "ad": "Akwasi Yeboah",
     "takim": "TRABZONSPOR",
     "pm": 8,
-    "fark": 7,
+    "fark": 11,
     "mac": 1,
     "ulke": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI"
    },
@@ -7522,43 +7540,7 @@
     "ad": "Marcus Keene",
     "takim": "TRABZONSPOR",
     "pm": 7,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "590409",
-    "ad": "Brady Manek",
-    "takim": "TRABZONSPOR",
-    "pm": 6,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "192987",
-    "ad": "Rıdvan Öncel",
-    "takim": "TRABZONSPOR",
-    "pm": 5,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "105532",
-    "ad": "Yiğit Arslan",
-    "takim": "TRABZONSPOR",
-    "pm": 5,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "609266",
-    "ad": "Matt Mitchell",
-    "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": 1,
-    "fark": -7,
+    "fark": 11,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7566,8 +7548,8 @@
     "id": "fiba-brandon-boston-jr",
     "ad": "Brandon Boston Jr.",
     "takim": "TRABZONSPOR",
-    "pm": 1,
-    "fark": 7,
+    "pm": 5,
+    "fark": 11,
     "mac": 1,
     "ulke": ""
    },
@@ -7575,8 +7557,26 @@
     "id": "501871",
     "ad": "Isaiah Canaan",
     "takim": "TRABZONSPOR",
+    "pm": 5,
+    "fark": 11,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "105532",
+    "ad": "Yiğit Arslan",
+    "takim": "TRABZONSPOR",
+    "pm": 5,
+    "fark": 11,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "741031",
+    "ad": "Royce Hamm Jr.",
+    "takim": "TRABZONSPOR",
     "pm": 1,
-    "fark": 7,
+    "fark": 11,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7585,7 +7585,7 @@
     "ad": "Paulius Danusevicius",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
     "pm": -1,
-    "fark": -7,
+    "fark": -11,
     "mac": 1,
     "ulke": "LİTVANYA"
    },
@@ -7594,7 +7594,7 @@
     "ad": "Emanuel Terry",
     "takim": "TRABZONSPOR",
     "pm": -1,
-    "fark": 7,
+    "fark": 11,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7603,25 +7603,16 @@
     "ad": "Altan Çamoğlu",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
     "pm": -2,
-    "fark": -7,
+    "fark": -11,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "419874",
-    "ad": "Berk Can Akın",
+    "id": "609266",
+    "ad": "Matt Mitchell",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
     "pm": -3,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "741031",
-    "ad": "Royce Hamm Jr.",
-    "takim": "TRABZONSPOR",
-    "pm": -3,
-    "fark": 7,
+    "fark": -11,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7630,7 +7621,7 @@
     "ad": "Tolga Geçim",
     "takim": "TRABZONSPOR",
     "pm": -3,
-    "fark": 7,
+    "fark": 11,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7638,17 +7629,35 @@
     "id": "778181",
     "ad": "Boo Buie",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -4,
-    "fark": -7,
+    "pm": -5,
+    "fark": -11,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "254785",
+    "ad": "Mert Akay",
+    "takim": "BİOTEKNO KÖRFEZ BASKET",
+    "pm": -6,
+    "fark": -11,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "419874",
+    "ad": "Berk Can Akın",
+    "takim": "BİOTEKNO KÖRFEZ BASKET",
+    "pm": -7,
+    "fark": -11,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "470601",
     "ad": "Filip Barna",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -4,
-    "fark": -7,
+    "pm": -8,
+    "fark": -11,
     "mac": 1,
     "ulke": "SIRBİSTAN"
    },
@@ -7656,26 +7665,17 @@
     "id": "778184",
     "ad": "Oscar Cluff",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -4,
-    "fark": -7,
+    "pm": -8,
+    "fark": -11,
     "mac": 1,
     "ulke": "AVUSTRALYA"
-   },
-   {
-    "id": "254785",
-    "ad": "Mert Akay",
-    "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -6,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "778182",
     "ad": "Alex Reese",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -12,
-    "fark": -7,
+    "pm": -15,
+    "fark": -11,
     "mac": 1,
     "ulke": "ABD"
    }
@@ -7818,6 +7818,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "192987",
+   "ad": "Rıdvan Öncel",
+   "takim": "TRABZONSPOR",
+   "pm": 29,
+   "fark": 13,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "54659",
    "ad": "Sertaç Şanlı",
    "takim": "FENERBAHÇE TARFİN",
@@ -7872,15 +7881,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "192987",
-   "ad": "Rıdvan Öncel",
-   "takim": "TRABZONSPOR",
-   "pm": 25,
-   "fark": 9,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "54128",
    "ad": "Buğrahan Tuncer",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -7903,7 +7903,7 @@
    "ad": "Marcus Keene",
    "takim": "TRABZONSPOR",
    "pm": 24,
-   "fark": 9,
+   "fark": 13,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -7966,9 +7966,18 @@
    "ad": "Paulius Danusevicius",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
    "pm": 22,
-   "fark": -16,
+   "fark": -20,
    "mac": 6,
    "ulke": "LİTVANYA"
+  },
+  {
+   "id": "590409",
+   "ad": "Brady Manek",
+   "takim": "TRABZONSPOR",
+   "pm": 22,
+   "fark": 13,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "776570",
@@ -8061,15 +8070,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "590409",
-   "ad": "Brady Manek",
-   "takim": "TRABZONSPOR",
-   "pm": 18,
-   "fark": 9,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "128768",
    "ad": "Berkan Durmaz",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -8155,9 +8155,18 @@
    "ad": "Akwasi Yeboah",
    "takim": "TRABZONSPOR",
    "pm": 13,
-   "fark": 9,
+   "fark": 13,
    "mac": 6,
    "ulke": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI"
+  },
+  {
+   "id": "741031",
+   "ad": "Royce Hamm Jr.",
+   "takim": "TRABZONSPOR",
+   "pm": 13,
+   "fark": 14,
+   "mac": 2,
+   "ulke": "ABD"
   },
   {
    "id": "346709",
@@ -8182,7 +8191,7 @@
    "ad": "Tolga Geçim",
    "takim": "TRABZONSPOR",
    "pm": 11,
-   "fark": 15,
+   "fark": 19,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -8250,15 +8259,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "741031",
-   "ad": "Royce Hamm Jr.",
-   "takim": "TRABZONSPOR",
-   "pm": 9,
-   "fark": 10,
-   "mac": 2,
-   "ulke": "ABD"
-  },
-  {
    "id": "777675",
    "ad": "Braxton Key",
    "takim": "FENERBAHÇE TARFİN",
@@ -8281,7 +8281,7 @@
    "ad": "Altan Çamoğlu",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
    "pm": 8,
-   "fark": -16,
+   "fark": -20,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -8335,7 +8335,7 @@
    "ad": "Ege Arar",
    "takim": "TRABZONSPOR",
    "pm": 6,
-   "fark": 12,
+   "fark": 16,
    "mac": 2,
    "ulke": "TÜRKİYE"
   },
@@ -8367,13 +8367,13 @@
    "ulke": "ABD"
   },
   {
-   "id": "609266",
-   "ad": "Matt Mitchell",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "id": "fiba-brandon-boston-jr",
+   "ad": "Brandon Boston Jr.",
+   "takim": "TRABZONSPOR",
    "pm": 5,
-   "fark": -16,
-   "mac": 6,
-   "ulke": "ABD"
+   "fark": 11,
+   "mac": 1,
+   "ulke": ""
   },
   {
    "id": "779274",
@@ -8502,6 +8502,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "609266",
+   "ad": "Matt Mitchell",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": 1,
+   "fark": -20,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "412247",
    "ad": "Nicolo Melli",
    "takim": "FENERBAHÇE TARFİN",
@@ -8509,15 +8518,6 @@
    "fark": -19,
    "mac": 3,
    "ulke": "İTALYA"
-  },
-  {
-   "id": "fiba-brandon-boston-jr",
-   "ad": "Brandon Boston Jr.",
-   "takim": "TRABZONSPOR",
-   "pm": 1,
-   "fark": 7,
-   "mac": 1,
-   "ulke": ""
   },
   {
    "id": "778421",
@@ -8812,7 +8812,7 @@
    "ad": "Mert Akay",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
    "pm": -6,
-   "fark": -16,
+   "fark": -20,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -8988,15 +8988,6 @@
    "ulke": "ANGOLA"
   },
   {
-   "id": "470601",
-   "ad": "Filip Barna",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -10,
-   "fark": -16,
-   "mac": 6,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "778161",
    "ad": "Johnny Davis",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -9114,13 +9105,22 @@
    "ulke": "KANADA"
   },
   {
-   "id": "778184",
-   "ad": "Oscar Cluff",
+   "id": "470601",
+   "ad": "Filip Barna",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
    "pm": -14,
-   "fark": -16,
+   "fark": -20,
    "mac": 6,
-   "ulke": "AVUSTRALYA"
+   "ulke": "SIRBİSTAN"
+  },
+  {
+   "id": "501871",
+   "ad": "Isaiah Canaan",
+   "takim": "TRABZONSPOR",
+   "pm": -14,
+   "fark": 13,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "397202",
@@ -9145,7 +9145,7 @@
    "ad": "Emanuel Terry",
    "takim": "TRABZONSPOR",
    "pm": -16,
-   "fark": 9,
+   "fark": 13,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -9195,13 +9195,13 @@
    "ulke": "ABD"
   },
   {
-   "id": "501871",
-   "ad": "Isaiah Canaan",
-   "takim": "TRABZONSPOR",
+   "id": "778184",
+   "ad": "Oscar Cluff",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
    "pm": -18,
-   "fark": 9,
+   "fark": -20,
    "mac": 6,
-   "ulke": "ABD"
+   "ulke": "AVUSTRALYA"
   },
   {
    "id": "359434",
@@ -9249,15 +9249,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778182",
-   "ad": "Alex Reese",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -20,
-   "fark": -16,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "502519",
    "ad": "Bryce Brown",
    "takim": "BURSASPOR BASKETBOL",
@@ -9273,6 +9264,15 @@
    "pm": -23,
    "fark": -21,
    "mac": 5,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778182",
+   "ad": "Alex Reese",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": -23,
+   "fark": -20,
+   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -9300,15 +9300,6 @@
    "pm": -25,
    "fark": -25,
    "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "419874",
-   "ad": "Berk Can Akın",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -25,
-   "fark": -16,
-   "mac": 6,
    "ulke": "TÜRKİYE"
   },
   {
@@ -9361,7 +9352,7 @@
    "ad": "Yiğit Arslan",
    "takim": "TRABZONSPOR",
    "pm": -26,
-   "fark": 9,
+   "fark": 13,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -9384,6 +9375,15 @@
    "ulke": "FİNLANDİYA"
   },
   {
+   "id": "419874",
+   "ad": "Berk Can Akın",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": -29,
+   "fark": -20,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "501134",
    "ad": "Jordon Crawford",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
@@ -9402,15 +9402,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778181",
-   "ad": "Boo Buie",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -30,
-   "fark": -16,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "144725",
    "ad": "Onuralp Bitim",
    "takim": "FENERBAHÇE TARFİN",
@@ -9418,6 +9409,15 @@
    "fark": 21,
    "mac": 5,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778181",
+   "ad": "Boo Buie",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": -31,
+   "fark": -20,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "675128",
