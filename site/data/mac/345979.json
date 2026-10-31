@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "17",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "220370",
@@ -43,7 +43,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "11:18",
+    "sure": "12:16",
     "sayi": 6,
     "iki": [
      2,
@@ -61,19 +61,19 @@
     "sr": 1,
     "rib": 1,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-3",
-    "vp": 3
+    "pm": "0",
+    "vp": 4
    },
    {
     "id": "471743",
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "10:37",
+    "sure": "11:09",
     "sayi": 4,
     "iki": [
      1,
@@ -95,7 +95,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 2,
-    "pm": "-8",
+    "pm": "-5",
     "vp": 4
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Hakan Yapar",
     "no": "15",
     "ilk5": true,
-    "sure": "10:50",
+    "sure": "11:16",
     "sayi": 2,
     "iki": [
      0,
@@ -163,15 +163,15 @@
     "ad": "Ege Havsa",
     "no": "5",
     "ilk5": false,
-    "sure": "8:47",
-    "sayi": 3,
+    "sure": "9:45",
+    "sayi": 8,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
-     1,
-     4
+     2,
+     5
     ],
     "sa": [
      0,
@@ -185,15 +185,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-11",
-    "vp": 1
+    "pm": "-8",
+    "vp": 6
    },
    {
     "id": "108904",
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "3:50",
+    "sure": "4:48",
     "sayi": 0,
     "iki": [
      0,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-3",
     "vp": 0
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Atakan Şahinkaya",
     "no": "9",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:32",
     "sayi": 0,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "3",
     "vp": 0
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": false,
-    "sure": "9:13",
+    "sure": "9:39",
     "sayi": 2,
     "iki": [
      0,
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    14,
-   5
+   8
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": true,
-    "sure": "14:25",
+    "sure": "14:51",
     "sayi": 9,
     "iki": [
      3,
@@ -403,17 +403,17 @@
     "ast": 2,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
+    "tk": 1,
+    "faul": 2,
     "pm": "11",
-    "vp": 8
+    "vp": 7
    },
    {
     "id": "392789",
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "12:18",
+    "sure": "12:50",
     "sayi": 3,
     "iki": [
      0,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "10",
+    "pm": "7",
     "vp": 1
    },
    {
@@ -443,7 +443,7 @@
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": true,
-    "sure": "12:07",
+    "sure": "13:05",
     "sayi": 3,
     "iki": [
      0,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "9",
+    "pm": "6",
     "vp": 3
    },
    {
@@ -503,7 +503,7 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "7:45",
+    "sure": "8:43",
     "sayi": 4,
     "iki": [
      2,
@@ -511,7 +511,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -525,8 +525,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "1",
-    "vp": 7
+    "pm": "-2",
+    "vp": 6
    },
    {
     "id": "245190",
@@ -623,7 +623,7 @@
     "ad": "Önder Atun",
     "no": "17",
     "ilk5": false,
-    "sure": "4:25",
+    "sure": "5:23",
     "sayi": 0,
     "iki": [
      0,
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "0",
     "vp": 2
    },
    {
@@ -713,7 +713,7 @@
     "ad": "Emirali Göktürk",
     "no": "99",
     "ilk5": false,
-    "sure": "4:25",
+    "sure": "5:23",
     "sayi": 2,
     "iki": [
      1,
@@ -735,7 +735,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "0",
     "vp": 4
    }
   ],
@@ -744,13 +744,13 @@
    8
   ]
  },
- "evSkor": "17",
+ "evSkor": "22",
  "depSkor": "30",
  "salon": "90. Yıl Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "05:59",
+  "saat": "04:37",
   "uzatma": false
  }
 }

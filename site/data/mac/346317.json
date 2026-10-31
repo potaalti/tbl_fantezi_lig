@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BİOTEKNO KÖRFEZ BASKET",
-  "skor": "59",
+  "skor": "61",
   "oyuncular": [
    {
     "id": "778181",
     "ad": "Boo Buie",
     "no": "0",
     "ilk5": true,
-    "sure": "27:12",
+    "sure": "27:13",
     "sayi": 11,
     "iki": [
      2,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 11
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Oscar Cluff",
     "no": "22",
     "ilk5": true,
-    "sure": "26:14",
+    "sure": "26:15",
     "sayi": 15,
     "iki": [
      6,
@@ -125,7 +125,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 27
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Filip Barna",
     "no": "88",
     "ilk5": true,
-    "sure": "22:24",
+    "sure": "22:25",
     "sayi": 11,
     "iki": [
      1,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 9
    },
    {
@@ -223,8 +223,8 @@
     "ad": "Berk Can Akın",
     "no": "10",
     "ilk5": false,
-    "sure": "9:15",
-    "sayi": 1,
+    "sure": "9:17",
+    "sayi": 3,
     "iki": [
      0,
      0
@@ -234,8 +234,8 @@
      2
     ],
     "sa": [
-     1,
-     2
+     3,
+     4
     ],
     "hr": 1,
     "sr": 1,
@@ -245,8 +245,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-4",
-    "vp": 0
+    "pm": "-2",
+    "vp": 2
    },
    {
     "id": "217226",
@@ -313,7 +313,7 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": false,
-    "sure": "13:03",
+    "sure": "13:04",
     "sayi": 8,
     "iki": [
      1,
@@ -335,7 +335,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "-13",
+    "pm": "-11",
     "vp": 10
    },
    {
@@ -372,7 +372,7 @@
   "ceyrekler": [
    28,
    18,
-   13
+   15
   ]
  },
  "dep": {
@@ -384,7 +384,7 @@
     "ad": "Isaiah Canaan",
     "no": "0",
     "ilk5": true,
-    "sure": "18:17",
+    "sure": "18:19",
     "sayi": 10,
     "iki": [
      2,
@@ -406,7 +406,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "0",
     "vp": 8
    },
    {
@@ -504,7 +504,7 @@
     "ad": "Brady Manek",
     "no": "45",
     "ilk5": true,
-    "sure": "20:53",
+    "sure": "20:54",
     "sayi": 15,
     "iki": [
      1,
@@ -526,7 +526,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "8",
+    "pm": "6",
     "vp": 18
    },
    {
@@ -534,7 +534,7 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": false,
-    "sure": "10:00",
+    "sure": "10:01",
     "sayi": 3,
     "iki": [
      0,
@@ -556,7 +556,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 2
    },
    {
@@ -624,7 +624,7 @@
     "ad": "Royce Hamm Jr.",
     "no": "17",
     "ilk5": false,
-    "sure": "10:53",
+    "sure": "10:54",
     "sayi": 2,
     "iki": [
      1,
@@ -646,7 +646,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 4
    },
    {
@@ -714,7 +714,7 @@
     "ad": "Rıdvan Öncel",
     "no": "99",
     "ilk5": false,
-    "sure": "6:52",
+    "sure": "6:53",
     "sayi": 3,
     "iki": [
      0,
@@ -735,8 +735,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "6",
+    "faul": 2,
+    "pm": "4",
     "vp": 4
    }
   ],
@@ -746,13 +746,13 @@
    17
   ]
  },
- "evSkor": "59",
+ "evSkor": "61",
  "depSkor": "67",
  "salon": "Şehit Polis Recep Topaloğlu Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:01",
+  "periyot": 4,
+  "saat": "10:00",
   "uzatma": false
  }
 }
