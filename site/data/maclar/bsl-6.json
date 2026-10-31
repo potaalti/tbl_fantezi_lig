@@ -33,13 +33,18 @@
    "lig": "bsl",
    "hafta": 6,
    "tarih": "2026-10-31T20:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "YUKATEL DENİZLİ BASKET",
    "dep": "GALATASARAY MCT TECHNIC",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "4",
+   "depSkor": "4",
    "salon": "Pamukkale Üniversitesi Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:37",
+    "uzatma": false
+   }
   },
   {
    "id": 346316,
