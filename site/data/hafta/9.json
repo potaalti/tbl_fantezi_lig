@@ -22,13 +22,13 @@
    "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "24",
-   "depSkor": "28",
+   "evSkor": "33",
+   "depSkor": "34",
    "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "06:49",
+    "saat": "03:21",
     "uzatma": false
    }
   },
@@ -40,13 +40,13 @@
    "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "DARÜŞŞAFAKA",
-   "evSkor": "16",
-   "depSkor": "26",
+   "evSkor": "22",
+   "depSkor": "31",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "10:00",
+    "saat": "06:15",
     "uzatma": false
    }
   },
@@ -55,13 +55,18 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-10-31T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "YALOVA HAREM SPOR",
    "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "90. Yıl Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:27",
+    "uzatma": false
+   }
   },
   {
    "id": 345982,
@@ -336,8 +341,8 @@
   "777508": {
    "ad": "Kruize Pinkins",
    "takim": "MERSİN SPOR",
-   "vp": 3,
-   "saniye": 592,
+   "vp": 8,
+   "saniye": 800,
    "maclar": [
     345978
    ]
@@ -346,7 +351,7 @@
    "ad": "Troy Şav",
    "takim": "MERSİN SPOR",
    "vp": 6,
-   "saniye": 511,
+   "saniye": 536,
    "maclar": [
     345978
    ]
@@ -354,8 +359,8 @@
   "130546": {
    "ad": "Arca Tülüoğlu",
    "takim": "MERSİN SPOR",
-   "vp": -5,
-   "saniye": 441,
+   "vp": 0,
+   "saniye": 649,
    "maclar": [
     345978
    ]
@@ -363,8 +368,8 @@
   "632441": {
    "ad": "Mike Smith",
    "takim": "MERSİN SPOR",
-   "vp": 1,
-   "saniye": 697,
+   "vp": 2,
+   "saniye": 704,
    "maclar": [
     345978
    ]
@@ -373,7 +378,7 @@
    "ad": "Alp Karahan",
    "takim": "MERSİN SPOR",
    "vp": -1,
-   "saniye": 349,
+   "saniye": 374,
    "maclar": [
     345978
    ]
@@ -408,8 +413,8 @@
   "61192": {
    "ad": "Dorukhan Engindeniz",
    "takim": "MERSİN SPOR",
-   "vp": 7,
-   "saniye": 442,
+   "vp": 5,
+   "saniye": 625,
    "maclar": [
     345978
    ]
@@ -418,7 +423,7 @@
    "ad": "Yesukan Onar",
    "takim": "MERSİN SPOR",
    "vp": 6,
-   "saniye": 329,
+   "saniye": 512,
    "maclar": [
     345978
    ]
@@ -426,8 +431,8 @@
   "132341": {
    "ad": "Kaan Sarıaslan",
    "takim": "MERSİN SPOR",
-   "vp": 7,
-   "saniye": 442,
+   "vp": 9,
+   "saniye": 643,
    "maclar": [
     345978
    ]
@@ -444,8 +449,8 @@
   "776821": {
    "ad": "Vitalis Chikoko",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 6,
-   "saniye": 352,
+   "vp": 7,
+   "saniye": 559,
    "maclar": [
     345978
    ]
@@ -453,8 +458,8 @@
   "46863": {
    "ad": "Caner Ercan",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 4,
-   "saniye": 399,
+   "vp": 8,
+   "saniye": 600,
    "maclar": [
     345978
    ]
@@ -462,8 +467,8 @@
   "380030": {
    "ad": "Tan Ayyıldız",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 3,
-   "saniye": 357,
+   "vp": 5,
+   "saniye": 565,
    "maclar": [
     345978
    ]
@@ -472,7 +477,7 @@
    "ad": "Maurice Watson Jr.",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 8,
-   "saniye": 789,
+   "saniye": 997,
    "maclar": [
     345978
    ]
@@ -481,7 +486,7 @@
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 9,
-   "saniye": 699,
+   "saniye": 907,
    "maclar": [
     345978
    ]
@@ -508,7 +513,7 @@
    "ad": "Eren Karakaya",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 0,
-   "saniye": 89,
+   "saniye": 96,
    "maclar": [
     345978
    ]
@@ -544,7 +549,7 @@
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
    "vp": -1,
-   "saniye": 387,
+   "saniye": 393,
    "maclar": [
     345983
    ]
@@ -552,8 +557,8 @@
   "473677": {
    "ad": "Diante Watkins",
    "takim": "OGM ORMANSPOR",
-   "vp": 4,
-   "saniye": 511,
+   "vp": 8,
+   "saniye": 742,
    "maclar": [
     345983
    ]
@@ -562,7 +567,7 @@
    "ad": "Tolga Kaan Birer",
    "takim": "OGM ORMANSPOR",
    "vp": 5,
-   "saniye": 499,
+   "saniye": 505,
    "maclar": [
     345983
    ]
@@ -579,8 +584,8 @@
   "501170": {
    "ad": "Tobin Carberry",
    "takim": "OGM ORMANSPOR",
-   "vp": 3,
-   "saniye": 516,
+   "vp": 4,
+   "saniye": 747,
    "maclar": [
     345983
    ]
@@ -607,7 +612,7 @@
    "ad": "Kaan Tarla",
    "takim": "OGM ORMANSPOR",
    "vp": 1,
-   "saniye": 213,
+   "saniye": 438,
    "maclar": [
     345983
    ]
@@ -615,8 +620,8 @@
   "194798": {
    "ad": "Tuna Han Dikmen",
    "takim": "OGM ORMANSPOR",
-   "vp": 0,
-   "saniye": 101,
+   "vp": 1,
+   "saniye": 326,
    "maclar": [
     345983
    ]
@@ -624,8 +629,8 @@
   "23926": {
    "ad": "Mustafa Baki Görür",
    "takim": "OGM ORMANSPOR",
-   "vp": 5,
-   "saniye": 340,
+   "vp": 6,
+   "saniye": 571,
    "maclar": [
     345983
    ]
@@ -643,7 +648,7 @@
    "ad": "Josh Sharkey",
    "takim": "DARÜŞŞAFAKA",
    "vp": 5,
-   "saniye": 597,
+   "saniye": 668,
    "maclar": [
     345983
    ]
@@ -651,8 +656,8 @@
   "734741": {
    "ad": "Trev Crews",
    "takim": "DARÜŞŞAFAKA",
-   "vp": 11,
-   "saniye": 600,
+   "vp": 12,
+   "saniye": 831,
    "maclar": [
     345983
    ]
@@ -660,8 +665,8 @@
   "248403": {
    "ad": "Yiğit Elgün",
    "takim": "DARÜŞŞAFAKA",
-   "vp": 6,
-   "saniye": 387,
+   "vp": 4,
+   "saniye": 618,
    "maclar": [
     345983
    ]
@@ -678,8 +683,8 @@
   "386417": {
    "ad": "Ege Akçay",
    "takim": "DARÜŞŞAFAKA",
-   "vp": 2,
-   "saniye": 390,
+   "vp": 1,
+   "saniye": 621,
    "maclar": [
     345983
    ]
@@ -696,8 +701,8 @@
   "286635": {
    "ad": "Ege Eskinazi",
    "takim": "DARÜŞŞAFAKA",
-   "vp": 3,
-   "saniye": 213,
+   "vp": 5,
+   "saniye": 444,
    "maclar": [
     345983
    ]
@@ -714,8 +719,8 @@
   "393345": {
    "ad": "Eren İlyem",
    "takim": "DARÜŞŞAFAKA",
-   "vp": 0,
-   "saniye": 3,
+   "vp": 3,
+   "saniye": 163,
    "maclar": [
     345983
    ]
@@ -745,6 +750,222 @@
    "saniye": 0,
    "maclar": [
     345983
+   ]
+  },
+  "220370": {
+   "ad": "Yiğit Özkan",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "776537": {
+   "ad": "Samuel Lee Sessoms",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "471743": {
+   "ad": "Abdoulaye Gueye",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 2,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "221455": {
+   "ad": "Hakan Yapar",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "304808": {
+   "ad": "Ege Özçelik",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "113781": {
+   "ad": "Ege Havsa",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "108904": {
+   "ad": "Metin Türen",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "153564": {
+   "ad": "Atakan Şahinkaya",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "482295": {
+   "ad": "Yavuz Kara",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "190730": {
+   "ad": "Dusan Cantekin",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "204846": {
+   "ad": "Erkin Şenel",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "210252": {
+   "ad": "Alihan Deniz Genç",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "317200": {
+   "ad": "Ahmet Kutay Güneş",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "392789": {
+   "ad": "Cem Küçüközkan",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "293126": {
+   "ad": "Ufuk Tan Ertan",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "415783": {
+   "ad": "Berat Berke Tunç",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": -1,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "777505": {
+   "ad": "Jaquan Elijah Scott",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 33,
+   "maclar": [
+    345979
+   ]
+  },
+  "245190": {
+   "ad": "Muhammet Engin Kalkan",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "356958": {
+   "ad": "Taylan George Warren",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "130234": {
+   "ad": "Mustafa Kırcalı",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "241322": {
+   "ad": "Önder Atun",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "153011": {
+   "ad": "Harun Can Doğan",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "369470": {
+   "ad": "Onur Aslaner",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
+   ]
+  },
+  "335737": {
+   "ad": "Emirali Göktürk",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345979
    ]
   }
  }

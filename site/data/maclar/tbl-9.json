@@ -23,13 +23,13 @@
    "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "24",
-   "depSkor": "28",
+   "evSkor": "33",
+   "depSkor": "34",
    "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "06:49",
+    "saat": "03:21",
     "uzatma": false
    }
   },
@@ -41,13 +41,13 @@
    "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "DARÜŞŞAFAKA",
-   "evSkor": "16",
-   "depSkor": "26",
+   "evSkor": "22",
+   "depSkor": "31",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "10:00",
+    "saat": "06:15",
     "uzatma": false
    }
   },
@@ -56,13 +56,18 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-10-31T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "YALOVA HAREM SPOR",
    "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "90. Yıl Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:27",
+    "uzatma": false
+   }
   },
   {
    "id": 345982,
