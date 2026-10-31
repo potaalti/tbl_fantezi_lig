@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "MERSİN SPOR",
-  "skor": "91",
+  "skor": "94",
   "oyuncular": [
    {
     "id": "777508",
@@ -43,7 +43,7 @@
     "ad": "Troy Şav",
     "no": "17",
     "ilk5": true,
-    "sure": "20:54",
+    "sure": "22:12",
     "sayi": 11,
     "iki": [
      4,
@@ -58,15 +58,15 @@
      0
     ],
     "hr": 3,
-    "sr": 4,
-    "rib": 7,
+    "sr": 5,
+    "rib": 8,
     "ast": 0,
     "tc": 3,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "15",
-    "vp": 16
+    "pm": "16",
+    "vp": 17
    },
    {
     "id": "130546",
@@ -103,7 +103,7 @@
     "ad": "Mike Smith",
     "no": "21",
     "ilk5": true,
-    "sure": "25:35",
+    "sure": "26:00",
     "sayi": 16,
     "iki": [
      3,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "23",
+    "pm": "24",
     "vp": 17
    },
    {
@@ -163,15 +163,15 @@
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": false,
-    "sure": "1:26",
-    "sayi": 0,
+    "sure": "2:44",
+    "sayi": 3,
     "iki": [
      0,
      1
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -181,19 +181,19 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": -1
+    "pm": "1",
+    "vp": 3
    },
    {
     "id": "431495",
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": false,
-    "sure": "0:11",
+    "sure": "1:29",
     "sayi": 0,
     "iki": [
      0,
@@ -201,21 +201,21 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "0",
+    "faul": 2,
+    "pm": "1",
     "vp": 0
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Işık Ali Akpınar",
     "no": "11",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:53",
     "sayi": 0,
     "iki": [
      0,
@@ -343,7 +343,7 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "12:58",
+    "sure": "14:16",
     "sayi": 9,
     "iki": [
      4,
@@ -365,7 +365,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "15",
+    "pm": "16",
     "vp": 12
    }
   ],
@@ -373,12 +373,12 @@
    17,
    27,
    34,
-   13
+   16
   ]
  },
  "dep": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "57",
+  "skor": "59",
   "oyuncular": [
    {
     "id": "776821",
@@ -415,7 +415,7 @@
     "ad": "Caner Ercan",
     "no": "7",
     "ilk5": true,
-    "sure": "21:33",
+    "sure": "22:40",
     "sayi": 6,
     "iki": [
      3,
@@ -430,22 +430,22 @@
      0
     ],
     "hr": 0,
-    "sr": 3,
-    "rib": 3,
+    "sr": 4,
+    "rib": 4,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-15",
-    "vp": 4
+    "pm": "-16",
+    "vp": 5
    },
    {
     "id": "380030",
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "20:41",
+    "sure": "21:59",
     "sayi": 6,
     "iki": [
      3,
@@ -467,7 +467,7 @@
     "blk": 1,
     "tk": 4,
     "faul": 2,
-    "pm": "-16",
+    "pm": "-17",
     "vp": 6
    },
    {
@@ -505,7 +505,7 @@
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "29:53",
+    "sure": "31:00",
     "sayi": 8,
     "iki": [
      2,
@@ -527,7 +527,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-25",
+    "pm": "-26",
     "vp": 12
    },
    {
@@ -535,7 +535,7 @@
     "ad": "Ege Ersun",
     "no": "0",
     "ilk5": false,
-    "sure": "7:51",
+    "sure": "8:02",
     "sayi": 0,
     "iki": [
      0,
@@ -565,7 +565,7 @@
     "ad": "Can Sayın",
     "no": "6",
     "ilk5": false,
-    "sure": "1:44",
+    "sure": "1:55",
     "sayi": 0,
     "iki": [
      0,
@@ -595,11 +595,11 @@
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "4:46",
+    "sure": "6:04",
     "sayi": 0,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      0,
@@ -615,10 +615,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
-    "pm": "-2",
-    "vp": 1
+    "pm": "-3",
+    "vp": -1
    },
    {
     "id": "248386",
@@ -655,11 +655,11 @@
     "ad": "Doğukan Seyhan",
     "no": "33",
     "ilk5": false,
-    "sure": "5:12",
-    "sayi": 0,
+    "sure": "6:30",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -667,18 +667,18 @@
     ],
     "sa": [
      0,
-     0
+     1
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-9",
-    "vp": -1
+    "pm": "-10",
+    "vp": 1
    },
    {
     "id": "223180",
@@ -715,16 +715,16 @@
    22,
    18,
    15,
-   2
+   4
   ]
  },
- "evSkor": "91",
- "depSkor": "57",
+ "evSkor": "94",
+ "depSkor": "59",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:21",
+  "saat": "03:04",
   "uzatma": false
  }
 }
