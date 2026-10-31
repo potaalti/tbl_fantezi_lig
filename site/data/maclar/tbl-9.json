@@ -16,40 +16,30 @@
    "yayin": "Youtube / TBF TV"
   },
   {
+   "id": 345983,
+   "lig": "tbl",
+   "hafta": 9,
+   "tarih": "2026-10-31T16:00:00",
+   "durum": "bitti",
+   "ev": "OGM ORMANSPOR",
+   "dep": "DARÜŞŞAFAKA",
+   "evSkor": "92",
+   "depSkor": "90",
+   "salon": "M. Sait Zarifoğlu Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
    "id": 345978,
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-10-31T16:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "MERSİN SPOR",
    "dep": "TED ANKARA KOLEJLİLER",
    "evSkor": "100",
    "depSkor": "65",
    "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
-  },
-  {
-   "id": 345983,
-   "lig": "tbl",
-   "hafta": 9,
-   "tarih": "2026-10-31T16:00:00",
-   "durum": "canli",
-   "ev": "OGM ORMANSPOR",
-   "dep": "DARÜŞŞAFAKA",
-   "evSkor": "68",
-   "depSkor": "67",
-   "salon": "M. Sait Zarifoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "04:32",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345979,
@@ -59,13 +49,13 @@
    "durum": "canli",
    "ev": "YALOVA HAREM SPOR",
    "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "evSkor": "32",
-   "depSkor": "44",
+   "evSkor": "53",
+   "depSkor": "56",
    "salon": "90. Yıl Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
-    "periyot": 3,
-    "saat": "07:44",
+    "periyot": 4,
+    "saat": "02:47",
     "uzatma": false
    }
   },
@@ -74,13 +64,18 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-10-31T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "MKE ANKARAGÜCÜ",
    "dep": "GAZİANTEP BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "12",
+   "depSkor": "16",
    "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "02:43",
+    "uzatma": false
+   }
   },
   {
    "id": 345981,

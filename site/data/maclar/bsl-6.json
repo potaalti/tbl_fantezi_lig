@@ -7,31 +7,31 @@
    "lig": "bsl",
    "hafta": 6,
    "tarih": "2026-10-31T15:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "BİOTEKNO KÖRFEZ BASKET",
    "dep": "TRABZONSPOR",
    "evSkor": "83",
-   "depSkor": "92",
+   "depSkor": "89",
    "salon": "Şehit Polis Recep Topaloğlu Spor Salonu",
-   "yayin": "beINSports",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:45",
-    "uzatma": false
-   }
+   "yayin": "beINSports"
   },
   {
    "id": 346314,
    "lig": "bsl",
    "hafta": 6,
    "tarih": "2026-10-31T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "PİZZABULLS BORDO BANDIRMA",
    "dep": "BAHÇEŞEHİR KOLEJİ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "23",
+   "depSkor": "14",
    "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "01:50",
+    "uzatma": false
+   }
   },
   {
    "id": 346315,
