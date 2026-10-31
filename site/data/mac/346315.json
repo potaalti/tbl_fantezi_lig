@@ -13,7 +13,7 @@
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "22:43",
+    "sure": "23:24",
     "sayi": 5,
     "iki": [
      1,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-4",
+    "pm": "-3",
     "vp": 4
    },
    {
@@ -43,11 +43,11 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "23:04",
+    "sure": "23:45",
     "sayi": 8,
     "iki": [
      4,
-     7
+     8
     ],
     "uc": [
      0,
@@ -57,15 +57,15 @@
      0,
      0
     ],
-    "hr": 2,
+    "hr": 3,
     "sr": 2,
-    "rib": 4,
+    "rib": 5,
     "ast": 2,
     "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-9",
+    "pm": "-8",
     "vp": 12
    },
    {
@@ -73,37 +73,37 @@
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "22:56",
-    "sayi": 2,
+    "sure": "23:37",
+    "sayi": 3,
     "iki": [
      1,
      4
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 2,
     "rib": 2,
     "ast": 4,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-7",
-    "vp": 3
+    "pm": "-6",
+    "vp": 4
    },
    {
     "id": "736366",
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "21:35",
+    "sure": "22:16",
     "sayi": 12,
     "iki": [
      2,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "-7",
+    "pm": "-6",
     "vp": 13
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Egemen Güven",
     "no": "15",
     "ilk5": false,
-    "sure": "7:51",
+    "sure": "8:32",
     "sayi": 2,
     "iki": [
      1,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-10",
+    "pm": "-9",
     "vp": 2
    },
    {
@@ -372,7 +372,7 @@
   "ceyrekler": [
    17,
    12,
-   17
+   18
   ]
  },
  "dep": {
@@ -534,7 +534,7 @@
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": false,
-    "sure": "8:13",
+    "sure": "8:54",
     "sayi": 3,
     "iki": [
      1,
@@ -555,8 +555,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
-    "pm": "8",
+    "faul": 3,
+    "pm": "7",
     "vp": 1
    },
    {
@@ -564,7 +564,7 @@
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "9:29",
+    "sure": "10:10",
     "sayi": 5,
     "iki": [
      2,
@@ -586,7 +586,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "8",
+    "pm": "7",
     "vp": 9
    },
    {
@@ -624,7 +624,7 @@
     "ad": "Alen Smailagic",
     "no": "9",
     "ilk5": false,
-    "sure": "10:44",
+    "sure": "11:25",
     "sayi": 9,
     "iki": [
      3,
@@ -646,7 +646,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 0,
-    "pm": "12",
+    "pm": "11",
     "vp": 12
    },
    {
@@ -684,7 +684,7 @@
     "ad": "Buğrahan Tuncer",
     "no": "19",
     "ilk5": false,
-    "sure": "8:32",
+    "sure": "9:13",
     "sayi": 2,
     "iki": [
      1,
@@ -704,17 +704,17 @@
     "ast": 3,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 2,
-    "pm": "13",
-    "vp": 5
+    "pm": "12",
+    "vp": 4
    },
    {
     "id": "781548",
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "11:57",
+    "sure": "12:38",
     "sayi": 7,
     "iki": [
      2,
@@ -736,7 +736,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "14",
+    "pm": "13",
     "vp": 9
    }
   ],
@@ -752,7 +752,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "02:30",
+  "saat": "01:49",
   "uzatma": false
  }
 }
