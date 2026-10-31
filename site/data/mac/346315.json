@@ -13,8 +13,8 @@
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "12:25",
-    "sayi": 3,
+    "sure": "14:00",
+    "sayi": 4,
     "iki": [
      1,
      3
@@ -24,26 +24,26 @@
      1
     ],
     "sa": [
-     1,
-     2
+     2,
+     3
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 1,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 2,
-    "pm": "1",
-    "vp": 2
+    "pm": "-3",
+    "vp": 3
    },
    {
     "id": "373162",
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "12:46",
+    "sure": "14:21",
     "sayi": 4,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-8",
     "vp": 4
    },
    {
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-7",
+    "pm": "-6",
     "vp": 1
    },
    {
@@ -103,7 +103,7 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "11:17",
+    "sure": "12:52",
     "sayi": 5,
     "iki": [
      1,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-2",
+    "pm": "-6",
     "vp": 6
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Erten Gazi",
     "no": "11",
     "ilk5": false,
-    "sure": "6:32",
+    "sure": "8:07",
     "sayi": 0,
     "iki": [
      0,
@@ -261,7 +261,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -274,16 +274,16 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "-4",
-    "vp": 0
+    "faul": 2,
+    "pm": "-9",
+    "vp": -1
    },
    {
     "id": "124128",
     "ad": "Egemen Güven",
     "no": "15",
     "ilk5": false,
-    "sure": "3:38",
+    "sure": "5:13",
     "sayi": 2,
     "iki": [
      1,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "2",
+    "pm": "-2",
     "vp": 2
    },
    {
@@ -371,12 +371,12 @@
   ],
   "ceyrekler": [
    17,
-   10
+   11
   ]
  },
  "dep": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "32",
+  "skor": "37",
   "oyuncular": [
    {
     "id": "250129",
@@ -413,19 +413,19 @@
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "10:48",
-    "sayi": 1,
+    "sure": "12:23",
+    "sayi": 4,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
      2
     ],
     "sa": [
-     1,
-     1
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -434,16 +434,16 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "2",
-    "vp": 1
+    "faul": 2,
+    "pm": "7",
+    "vp": 4
    },
    {
     "id": "779275",
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "8:32",
+    "sure": "10:07",
     "sayi": 2,
     "iki": [
      1,
@@ -465,7 +465,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "-3",
+    "pm": "1",
     "vp": 2
    },
    {
@@ -473,11 +473,11 @@
     "ad": "Oumar Ballo",
     "no": "11",
     "ilk5": true,
-    "sure": "6:40",
-    "sayi": 2,
+    "sure": "8:15",
+    "sayi": 4,
     "iki": [
-     1,
-     4
+     2,
+     5
     ],
     "uc": [
      0,
@@ -495,15 +495,15 @@
     "blk": 2,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": 3
+    "pm": "2",
+    "vp": 5
    },
    {
     "id": "500054",
     "ad": "Dyshawn Pierre",
     "no": "21",
     "ilk5": true,
-    "sure": "7:53",
+    "sure": "9:28",
     "sayi": 2,
     "iki": [
      1,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
+    "pm": "2",
     "vp": 2
    },
    {
@@ -683,11 +683,11 @@
     "ad": "Buğrahan Tuncer",
     "no": "19",
     "ilk5": false,
-    "sure": "4:19",
+    "sure": "5:54",
     "sayi": 0,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      0,
@@ -698,15 +698,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 1,
+    "sr": 1,
+    "rib": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "1",
-    "vp": 0
+    "pm": "5",
+    "vp": 1
    },
    {
     "id": "781548",
@@ -735,22 +735,22 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "7",
+    "pm": "6",
     "vp": 7
    }
   ],
   "ceyrekler": [
    17,
-   15
+   20
   ]
  },
  "evSkor": "27",
- "depSkor": "32",
+ "depSkor": "37",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "02:48",
+  "saat": "01:13",
   "uzatma": false
  }
 }
