@@ -1,0 +1,258 @@
+{
+ "matchId": "345982",
+ "homeTeamScore": [
+  {
+   "score": 16,
+   "quarter": 1,
+   "periodType": 1
+  },
+  {
+   "score": 15,
+   "quarter": 2,
+   "periodType": 1
+  },
+  {
+   "score": 15,
+   "quarter": 3,
+   "periodType": 1
+  },
+  {
+   "score": 16,
+   "quarter": 4,
+   "periodType": 1
+  }
+ ],
+ "awayTeamScore": [
+  {
+   "score": 22,
+   "quarter": 1,
+   "periodType": 1
+  },
+  {
+   "score": 15,
+   "quarter": 2,
+   "periodType": 1
+  },
+  {
+   "score": 19,
+   "quarter": 3,
+   "periodType": 1
+  },
+  {
+   "score": 15,
+   "quarter": 4,
+   "periodType": 1
+  }
+ ],
+ "matchHighlightLeaders": [
+  {
+   "title": "Sayı",
+   "homeValue": "26",
+   "awayValue": "12",
+   "homePlayer": "Tyler Harris",
+   "homePlayerImage": "https://tbf.org.tr/res/f8e0b2ae-5b2a-4232-9ca1-b3bfe78d90bf_6763.jpg",
+   "awayPlayer": "Emre Tanışan",
+   "awayPlayerImage": "https://tbf.org.tr/res/7101f039-03c9-40b5-87c9-da32e8f017cc_24.webp"
+  },
+  {
+   "title": "Ribaund",
+   "homeValue": "11",
+   "awayValue": "11",
+   "homePlayer": "Ramazan Tekin",
+   "homePlayerImage": "https://tbf.org.tr/res/e76a69ed-6a0b-4e5a-8b80-f1d8f646e21a_18440518450.jpg",
+   "awayPlayer": "Samet Geyik",
+   "awayPlayerImage": "https://tbf.org.tr/res/a63dc5d1-bd6e-4378-b25c-4fc584285d01_4.webp"
+  },
+  {
+   "title": "Asist",
+   "homeValue": "3",
+   "awayValue": "6",
+   "homePlayer": "Jacob Pullen",
+   "homePlayerImage": "https://tbf.org.tr/res/523777-5488-F2B20C8B-0929-4C05-8159-D5FB631990AD.png",
+   "awayPlayer": "Mert Celep",
+   "awayPlayerImage": "https://tbf.org.tr/res/f6cf7142-6af8-4953-ac08-83652d92f62e_35.webp"
+  }
+ ],
+ "matchHighlightStatistics": [
+  {
+   "title": "Sayı",
+   "leaderCategory": "Sayi",
+   "homeValue": "62",
+   "awayValue": "71"
+  },
+  {
+   "title": "Ribaund",
+   "leaderCategory": "Ribaund",
+   "homeValue": "38",
+   "awayValue": "32"
+  },
+  {
+   "title": "Hücum Ribaundu",
+   "leaderCategory": "HucumRibaundu",
+   "homeValue": "11",
+   "awayValue": "8"
+  },
+  {
+   "title": "Savunma Ribaundu",
+   "leaderCategory": "SavunmaRibaundu",
+   "homeValue": "27",
+   "awayValue": "24"
+  },
+  {
+   "title": "Asist",
+   "leaderCategory": "Asist",
+   "homeValue": "11",
+   "awayValue": "21"
+  },
+  {
+   "title": "Top Çalma",
+   "leaderCategory": "TopCalma",
+   "homeValue": "10",
+   "awayValue": "8"
+  },
+  {
+   "title": "Top Kaybı",
+   "leaderCategory": "Turnovers",
+   "homeValue": "19",
+   "awayValue": "16"
+  },
+  {
+   "title": "Blok",
+   "leaderCategory": "Blok",
+   "homeValue": "0",
+   "awayValue": "1"
+  },
+  {
+   "title": "Faul",
+   "leaderCategory": "Fouls",
+   "homeValue": "17",
+   "awayValue": "29"
+  },
+  {
+   "title": "Verimlilik Puanı",
+   "leaderCategory": "VerimlilikPuanı",
+   "homeValue": "61",
+   "awayValue": "77"
+  },
+  {
+   "title": "Atış Girişimi",
+   "leaderCategory": "AtisGirisimi",
+   "homeValue": "14",
+   "awayValue": "28"
+  },
+  {
+   "title": "Atış Girişimi Denemesi",
+   "leaderCategory": "AtisGirisimiDenemesi",
+   "homeValue": "50",
+   "awayValue": "61"
+  },
+  {
+   "title": "Atış Girişimi Yüzdesi",
+   "leaderCategory": "AtisGirisimiYuzdesi",
+   "homeValue": "28",
+   "awayValue": "46"
+  },
+  {
+   "title": "Serbest Atış",
+   "leaderCategory": "SerbestAtis",
+   "homeValue": "28",
+   "awayValue": "6"
+  },
+  {
+   "title": "Serbest Atış Yüzdesi",
+   "leaderCategory": "SerbestAtisYuzdesi",
+   "homeValue": "90",
+   "awayValue": "55"
+  },
+  {
+   "title": "İki Sayılık Atış Denemesi",
+   "leaderCategory": "IkiSayiAtisDenemesi",
+   "homeValue": "25",
+   "awayValue": "31"
+  },
+  {
+   "title": "İki Sayılık Başarılı Atış",
+   "leaderCategory": "IkiSayiAtis",
+   "homeValue": "8",
+   "awayValue": "19"
+  },
+  {
+   "title": "İki Sayılık Atış Yüzdesi",
+   "leaderCategory": "IkiSayiAtisYuzdesi",
+   "homeValue": "32",
+   "awayValue": "61"
+  },
+  {
+   "title": "Üç Sayılık Atış Denemesi",
+   "leaderCategory": "UcSayiAtisDenemesi",
+   "homeValue": "25",
+   "awayValue": "30"
+  },
+  {
+   "title": "Üç sayılık Başarılı Atış",
+   "leaderCategory": "UcSayiAtis",
+   "homeValue": "6",
+   "awayValue": "9"
+  },
+  {
+   "title": "Üç Sayılık Atış Yüzdesi",
+   "leaderCategory": "UcSayiAtisYuzdesi",
+   "homeValue": "24",
+   "awayValue": "30"
+  },
+  {
+   "title": "Top Kaybından Gelen Sayı",
+   "leaderCategory": "PointsFromTurnover",
+   "homeValue": "18",
+   "awayValue": "14"
+  },
+  {
+   "title": "Hızlı Hücum Sayısı",
+   "leaderCategory": "HizliHucumSayisi",
+   "homeValue": "6",
+   "awayValue": "16"
+  },
+  {
+   "title": "İkinci Şans Sayısı",
+   "leaderCategory": "PointsFromSecondChance",
+   "homeValue": "12",
+   "awayValue": "13"
+  },
+  {
+   "title": "Boyalı Alandan Sayı",
+   "leaderCategory": "PointsFromPaint",
+   "homeValue": "14",
+   "awayValue": "36"
+  },
+  {
+   "title": "Bençten Gelen Sayı",
+   "leaderCategory": "PointsFromBench",
+   "homeValue": "7",
+   "awayValue": "27"
+  },
+  {
+   "title": "En Büyük Fark",
+   "leaderCategory": "EnBuyukFark",
+   "homeValue": "0",
+   "awayValue": "14"
+  },
+  {
+   "title": "En Büyük Seri",
+   "leaderCategory": "BiggestScoringRun",
+   "homeValue": "9",
+   "awayValue": "9"
+  },
+  {
+   "title": "Liderlik Değişimi",
+   "leaderCategory": "LeadChanges",
+   "homeValue": "0",
+   "awayValue": "0"
+  },
+  {
+   "title": "Liderlik Süresi",
+   "leaderCategory": "TimeLeading",
+   "homeValue": "0:00",
+   "awayValue": "39:27"
+  }
+ ]
+}
