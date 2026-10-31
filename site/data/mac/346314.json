@@ -13,7 +13,7 @@
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "9:52",
+    "sure": "10:25",
     "sayi": 14,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "12",
+    "pm": "9",
     "vp": 14
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": true,
-    "sure": "9:29",
+    "sure": "10:02",
     "sayi": 3,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "13",
+    "pm": "10",
     "vp": 2
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "4:14",
+    "sure": "4:47",
     "sayi": 0,
     "iki": [
      0,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "6",
+    "pm": "3",
     "vp": -2
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "4:14",
+    "sure": "4:47",
     "sayi": 0,
     "iki": [
      0,
@@ -333,17 +333,17 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
-    "pm": "6",
-    "vp": 1
+    "pm": "3",
+    "vp": 0
    },
    {
     "id": "778310",
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "4:04",
+    "sure": "4:37",
     "sayi": 4,
     "iki": [
      2,
@@ -364,8 +364,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "6",
+    "faul": 1,
+    "pm": "3",
     "vp": 6
    }
   ],
@@ -376,18 +376,18 @@
  },
  "dep": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "16",
+  "skor": "19",
   "oyuncular": [
    {
     "id": "609095",
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": true,
-    "sure": "7:43",
-    "sayi": 0,
+    "sure": "8:16",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -405,15 +405,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-9",
-    "vp": -1
+    "pm": "-6",
+    "vp": 1
    },
    {
     "id": "608898",
     "ad": "Tyler Cavanaugh",
     "no": "34",
     "ilk5": true,
-    "sure": "6:53",
+    "sure": "7:26",
     "sayi": 6,
     "iki": [
      0,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-7",
+    "pm": "-4",
     "vp": 6
    },
    {
@@ -443,7 +443,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "9:37",
+    "sure": "10:10",
     "sayi": 4,
     "iki": [
      2,
@@ -460,21 +460,21 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
-    "tc": 0,
+    "ast": 1,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-8",
-    "vp": 2
+    "pm": "-5",
+    "vp": 4
    },
    {
     "id": "734505",
     "ad": "Trevion Williams",
     "no": "50",
     "ilk5": true,
-    "sure": "5:33",
-    "sayi": 4,
+    "sure": "6:06",
+    "sayi": 5,
     "iki": [
      2,
      2
@@ -484,30 +484,30 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 2,
-    "rib": 2,
+    "rib": 3,
     "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
-    "vp": 8
+    "pm": "-1",
+    "vp": 9
    },
    {
     "id": "131296",
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": true,
-    "sure": "5:04",
+    "sure": "5:37",
     "sayi": 0,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      0,
@@ -525,8 +525,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
-    "vp": 1
+    "pm": "1",
+    "vp": 0
    },
    {
     "id": "776935",
@@ -741,16 +741,16 @@
   ],
   "ceyrekler": [
    16,
-   0
+   3
   ]
  },
  "evSkor": "30",
- "depSkor": "16",
+ "depSkor": "19",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "09:05",
+  "saat": "08:47",
   "uzatma": false
  }
 }
