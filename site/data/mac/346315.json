@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "11",
+  "skor": "13",
   "oyuncular": [
    {
     "id": "778996",
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "6:23",
+    "sure": "7:02",
     "sayi": 0,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "2",
     "vp": 0
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "6:23",
+    "sure": "7:02",
     "sayi": 2,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "2",
     "vp": 1
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "6:23",
+    "sure": "7:02",
     "sayi": 0,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 1
    },
    {
@@ -103,11 +103,11 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "6:23",
-    "sayi": 3,
+    "sure": "7:02",
+    "sayi": 5,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -124,9 +124,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "0",
-    "vp": 5
+    "faul": 2,
+    "pm": "2",
+    "vp": 7
    },
    {
     "id": "470765",
@@ -283,7 +283,7 @@
     "ad": "Egemen Güven",
     "no": "15",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:39",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0
    },
    {
@@ -370,7 +370,7 @@
    }
   ],
   "ceyrekler": [
-   11
+   13
   ]
  },
  "dep": {
@@ -382,7 +382,7 @@
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "6:23",
+    "sure": "7:02",
     "sayi": 4,
     "iki": [
      1,
@@ -404,7 +404,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 6
    },
    {
@@ -442,7 +442,7 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "6:23",
+    "sure": "7:02",
     "sayi": 2,
     "iki": [
      1,
@@ -464,7 +464,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-2",
     "vp": 3
    },
    {
@@ -532,7 +532,7 @@
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:39",
     "sayi": 0,
     "iki": [
      0,
@@ -544,7 +544,7 @@
     ],
     "sa": [
      0,
-     0
+     1
     ],
     "hr": 0,
     "sr": 0,
@@ -554,8 +554,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "-2",
+    "vp": -1
    },
    {
     "id": "128768",
@@ -622,7 +622,7 @@
     "ad": "Alen Smailagic",
     "no": "9",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:39",
     "sayi": 0,
     "iki": [
      0,
@@ -644,7 +644,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0
    },
    {
@@ -712,7 +712,7 @@
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:39",
     "sayi": 0,
     "iki": [
      0,
@@ -734,7 +734,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0
    }
   ],
@@ -742,13 +742,13 @@
    11
   ]
  },
- "evSkor": "11",
+ "evSkor": "13",
  "depSkor": "11",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "03:37",
+  "saat": "02:58",
   "uzatma": false
  }
 }
