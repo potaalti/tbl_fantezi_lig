@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "37",
+  "skor": "40",
   "oyuncular": [
    {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "16:20",
+    "sure": "16:28",
     "sayi": 7,
     "iki": [
      3,
@@ -31,19 +31,19 @@
     "sr": 4,
     "rib": 6,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-2",
-    "vp": 8
+    "pm": "1",
+    "vp": 9
    },
    {
     "id": "56403",
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "11:15",
+    "sure": "11:24",
     "sayi": 4,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "5",
     "vp": 5
    },
    {
@@ -133,8 +133,8 @@
     "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "16:50",
-    "sayi": 6,
+    "sure": "16:58",
+    "sayi": 9,
     "iki": [
      3,
      6
@@ -144,8 +144,8 @@
      1
     ],
     "sa": [
-     0,
-     0
+     3,
+     3
     ],
     "hr": 0,
     "sr": 2,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "1",
-    "vp": 8
+    "pm": "4",
+    "vp": 11
    },
    {
     "id": "511470",
@@ -223,7 +223,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "10:04",
+    "sure": "10:13",
     "sayi": 0,
     "iki": [
      0,
@@ -231,7 +231,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -245,8 +245,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-3",
-    "vp": -1
+    "pm": "0",
+    "vp": -2
    },
    {
     "id": "381972",
@@ -283,7 +283,7 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "0:53",
+    "sure": "0:59",
     "sayi": 0,
     "iki": [
      0,
@@ -300,13 +300,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-1",
-    "vp": 0
+    "vp": 1
    },
    {
     "id": "340042",
@@ -343,7 +343,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": false,
-    "sure": "5:13",
+    "sure": "5:15",
     "sayi": 2,
     "iki": [
      0,
@@ -365,13 +365,13 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "1",
+    "pm": "4",
     "vp": 1
    }
   ],
   "ceyrekler": [
    21,
-   16
+   19
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "13:55",
+    "sure": "13:54",
     "sayi": 13,
     "iki": [
      1,
@@ -413,7 +413,7 @@
     "ad": "Hazer Avcı",
     "no": "11",
     "ilk5": true,
-    "sure": "9:17",
+    "sure": "9:16",
     "sayi": 0,
     "iki": [
      0,
@@ -443,7 +443,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "11:11",
+    "sure": "11:20",
     "sayi": 1,
     "iki": [
      0,
@@ -463,10 +463,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 2,
-    "pm": "-1",
-    "vp": 0
+    "pm": "-4",
+    "vp": -1
    },
    {
     "id": "271660",
@@ -503,7 +503,7 @@
     "ad": "Oktay Güneş",
     "no": "25",
     "ilk5": true,
-    "sure": "11:02",
+    "sure": "11:11",
     "sayi": 6,
     "iki": [
      2,
@@ -524,8 +524,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-7",
+    "faul": 2,
+    "pm": "-10",
     "vp": 6
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": false,
-    "sure": "14:46",
+    "sure": "14:55",
     "sayi": 6,
     "iki": [
      3,
@@ -585,7 +585,7 @@
     "blk": 0,
     "tk": 4,
     "faul": 1,
-    "pm": "6",
+    "pm": "3",
     "vp": 3
    },
    {
@@ -683,7 +683,7 @@
     "ad": "Arda Birkeser",
     "no": "22",
     "ilk5": false,
-    "sure": "9:37",
+    "sure": "9:46",
     "sayi": 4,
     "iki": [
      1,
@@ -705,7 +705,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
+    "pm": "-2",
     "vp": 7
    },
    {
@@ -713,7 +713,7 @@
     "ad": "Bora Can Işık",
     "no": "24",
     "ilk5": false,
-    "sure": "4:18",
+    "sure": "4:26",
     "sayi": 0,
     "iki": [
      0,
@@ -735,7 +735,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "2",
+    "pm": "-1",
     "vp": 0
    }
   ],
@@ -744,13 +744,13 @@
    19
   ]
  },
- "evSkor": "37",
+ "evSkor": "40",
  "depSkor": "38",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "00:08",
+  "saat": "00:00",
   "uzatma": false
  }
 }
