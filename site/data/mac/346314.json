@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "PİZZABULLS BORDO BANDIRMA",
-  "skor": "71",
+  "skor": "74",
   "oyuncular": [
    {
     "id": "666515",
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "21:02",
+    "sure": "21:28",
     "sayi": 18,
     "iki": [
      4,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-1",
+    "pm": "0",
     "vp": 17
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Boubacar Toure",
     "no": "21",
     "ilk5": true,
-    "sure": "17:41",
+    "sure": "18:07",
     "sayi": 3,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 2,
-    "pm": "9",
+    "pm": "10",
     "vp": 9
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": true,
-    "sure": "20:45",
+    "sure": "21:11",
     "sayi": 9,
     "iki": [
      3,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "12",
+    "pm": "13",
     "vp": 9
    },
    {
@@ -133,8 +133,8 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "24:36",
-    "sayi": 16,
+    "sure": "25:02",
+    "sayi": 19,
     "iki": [
      0,
      2
@@ -144,8 +144,8 @@
      10
     ],
     "sa": [
-     1,
-     2
+     4,
+     5
     ],
     "hr": 0,
     "sr": 2,
@@ -155,15 +155,15 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "11",
-    "vp": 10
+    "pm": "12",
+    "vp": 13
    },
    {
     "id": "130898",
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "10:49",
+    "sure": "11:15",
     "sayi": 2,
     "iki": [
      1,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 3
    },
    {
@@ -372,23 +372,23 @@
   "ceyrekler": [
    28,
    25,
-   18
+   21
   ]
  },
  "dep": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "61",
+  "skor": "63",
   "oyuncular": [
    {
     "id": "609095",
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": true,
-    "sure": "15:53",
-    "sayi": 9,
+    "sure": "16:19",
+    "sayi": 11,
     "iki": [
-     2,
-     4
+     3,
+     5
     ],
     "uc": [
      1,
@@ -401,13 +401,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 2,
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-2",
-    "vp": 9
+    "pm": "-3",
+    "vp": 12
    },
    {
     "id": "608898",
@@ -444,7 +444,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "24:55",
+    "sure": "25:21",
     "sayi": 5,
     "iki": [
      2,
@@ -466,7 +466,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "1",
+    "pm": "0",
     "vp": 3
    },
    {
@@ -564,7 +564,7 @@
     "ad": "İsmet Akpınar",
     "no": "5",
     "ilk5": false,
-    "sure": "10:14",
+    "sure": "10:40",
     "sayi": 3,
     "iki": [
      0,
@@ -586,7 +586,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-7",
     "vp": -2
    },
    {
@@ -624,7 +624,7 @@
     "ad": "Furkan Haltalı",
     "no": "14",
     "ilk5": false,
-    "sure": "8:27",
+    "sure": "8:53",
     "sayi": 2,
     "iki": [
      1,
@@ -646,7 +646,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-11",
+    "pm": "-12",
     "vp": 3
    },
    {
@@ -684,7 +684,7 @@
     "ad": "David Dileo",
     "no": "51",
     "ilk5": false,
-    "sure": "9:36",
+    "sure": "10:02",
     "sayi": 3,
     "iki": [
      0,
@@ -706,7 +706,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-10",
+    "pm": "-11",
     "vp": 3
    },
    {
@@ -743,16 +743,16 @@
   "ceyrekler": [
    16,
    18,
-   27
+   29
   ]
  },
- "evSkor": "71",
- "depSkor": "61",
+ "evSkor": "74",
+ "depSkor": "63",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "00:27",
+  "saat": "00:11",
   "uzatma": false
  }
 }
