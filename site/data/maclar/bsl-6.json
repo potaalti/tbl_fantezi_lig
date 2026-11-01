@@ -72,13 +72,18 @@
    "lig": "bsl",
    "hafta": 6,
    "tarih": "2026-11-01T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BURSASPOR BASKETBOL",
    "dep": "KARŞIYAKA",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Tofaş Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:42",
+    "uzatma": false
+   }
   },
   {
    "id": 346318,
