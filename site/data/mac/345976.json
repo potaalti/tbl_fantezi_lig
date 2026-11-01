@@ -13,7 +13,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "20:36",
+    "sure": "20:52",
     "sayi": 8,
     "iki": [
      1,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "15",
+    "pm": "13",
     "vp": 12
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "22:07",
+    "sure": "22:23",
     "sayi": 8,
     "iki": [
      2,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "13",
+    "pm": "11",
     "vp": 13
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Ahmet Can Duran",
     "no": "10",
     "ilk5": true,
-    "sure": "18:41",
+    "sure": "18:57",
     "sayi": 9,
     "iki": [
      4,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "10",
+    "pm": "8",
     "vp": 11
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "15:30",
+    "sure": "15:46",
     "sayi": 3,
     "iki": [
      0,
@@ -275,7 +275,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "0",
     "vp": 5
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "24:22",
+    "sure": "24:38",
     "sayi": 15,
     "iki": [
      4,
@@ -305,7 +305,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 1,
-    "pm": "19",
+    "pm": "17",
     "vp": 26
    },
    {
@@ -378,14 +378,14 @@
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "63",
+  "skor": "65",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "27:06",
+    "sure": "27:22",
     "sayi": 15,
     "iki": [
      3,
@@ -407,7 +407,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 16
    },
    {
@@ -415,7 +415,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "28:14",
+    "sure": "28:30",
     "sayi": 12,
     "iki": [
      2,
@@ -432,13 +432,13 @@
     "hr": 0,
     "sr": 4,
     "rib": 4,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-3",
-    "vp": 12
+    "pm": "-1",
+    "vp": 13
    },
    {
     "id": "117624",
@@ -505,11 +505,11 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": true,
-    "sure": "26:59",
-    "sayi": 10,
+    "sure": "27:15",
+    "sayi": 12,
     "iki": [
-     5,
-     9
+     6,
+     10
     ],
     "uc": [
      0,
@@ -527,8 +527,8 @@
     "blk": 1,
     "tk": 1,
     "faul": 2,
-    "pm": "-5",
-    "vp": 9
+    "pm": "-3",
+    "vp": 11
    },
    {
     "id": "222762",
@@ -625,7 +625,7 @@
     "ad": "Karl Gamble",
     "no": "14",
     "ilk5": false,
-    "sure": "18:17",
+    "sure": "18:33",
     "sayi": 6,
     "iki": [
      2,
@@ -647,7 +647,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 9
    },
    {
@@ -655,7 +655,7 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "18:50",
+    "sure": "19:06",
     "sayi": 11,
     "iki": [
      3,
@@ -677,7 +677,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "-9",
+    "pm": "-7",
     "vp": 12
    },
    {
@@ -745,16 +745,16 @@
    23,
    12,
    21,
-   7
+   9
   ]
  },
  "evSkor": "77",
- "depSkor": "63",
+ "depSkor": "65",
  "salon": "Altındağ Atatürk Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "06:03",
+  "saat": "05:47",
   "uzatma": false
  }
 }
