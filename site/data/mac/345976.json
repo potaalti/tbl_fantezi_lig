@@ -6,22 +6,22 @@
  "durum": "canli",
  "ev": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "75",
+  "skor": "77",
   "oyuncular": [
    {
     "id": "316467",
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "19:01",
-    "sayi": 6,
+    "sure": "20:22",
+    "sayi": 8,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
-     3
+     4
     ],
     "sa": [
      6,
@@ -36,14 +36,14 @@
     "tk": 0,
     "faul": 2,
     "pm": "15",
-    "vp": 11
+    "vp": 12
    },
    {
     "id": "777502",
     "ad": "Isaiah Dandre Washington",
     "no": "5",
     "ilk5": true,
-    "sure": "23:37",
+    "sure": "24:58",
     "sayi": 8,
     "iki": [
      2,
@@ -103,7 +103,7 @@
     "ad": "Ahmet Can Duran",
     "no": "10",
     "ilk5": true,
-    "sure": "17:06",
+    "sure": "18:27",
     "sayi": 9,
     "iki": [
      4,
@@ -117,16 +117,16 @@
      1,
      2
     ],
-    "hr": 2,
+    "hr": 3,
     "sr": 4,
-    "rib": 6,
+    "rib": 7,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 3,
     "pm": "10",
-    "vp": 11
+    "vp": 12
    },
    {
     "id": "623478",
@@ -283,7 +283,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "22:47",
+    "sure": "24:08",
     "sayi": 15,
     "iki": [
      4,
@@ -297,16 +297,16 @@
      1,
      1
     ],
-    "hr": 1,
-    "sr": 6,
-    "rib": 7,
+    "hr": 2,
+    "sr": 7,
+    "rib": 9,
     "ast": 5,
     "tc": 1,
     "blk": 1,
     "tk": 2,
     "faul": 1,
     "pm": "19",
-    "vp": 24
+    "vp": 26
    },
    {
     "id": "399293",
@@ -343,11 +343,11 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": false,
-    "sure": "17:05",
+    "sure": "18:26",
     "sayi": 8,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      2,
@@ -366,26 +366,26 @@
     "tk": 1,
     "faul": 1,
     "pm": "10",
-    "vp": 6
+    "vp": 5
    }
   ],
   "ceyrekler": [
    24,
    27,
    20,
-   4
+   6
   ]
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "61",
+  "skor": "63",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "25:31",
+    "sure": "26:52",
     "sayi": 15,
     "iki": [
      3,
@@ -415,7 +415,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "26:39",
+    "sure": "28:00",
     "sayi": 12,
     "iki": [
      2,
@@ -505,7 +505,7 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": true,
-    "sure": "25:24",
+    "sure": "26:45",
     "sayi": 10,
     "iki": [
      5,
@@ -526,7 +526,7 @@
     "tc": 0,
     "blk": 1,
     "tk": 1,
-    "faul": 1,
+    "faul": 2,
     "pm": "-5",
     "vp": 9
    },
@@ -625,7 +625,7 @@
     "ad": "Karl Gamble",
     "no": "14",
     "ilk5": false,
-    "sure": "16:42",
+    "sure": "18:03",
     "sayi": 6,
     "iki": [
      2,
@@ -655,15 +655,15 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "17:15",
-    "sayi": 9,
+    "sure": "18:36",
+    "sayi": 11,
     "iki": [
-     2,
-     4
+     3,
+     5
     ],
     "uc": [
      1,
-     4
+     5
     ],
     "sa": [
      2,
@@ -678,7 +678,7 @@
     "tk": 3,
     "faul": 3,
     "pm": "-9",
-    "vp": 11
+    "vp": 12
    },
    {
     "id": "267856",
@@ -745,16 +745,16 @@
    23,
    12,
    21,
-   5
+   7
   ]
  },
- "evSkor": "75",
- "depSkor": "61",
+ "evSkor": "77",
+ "depSkor": "63",
  "salon": "Altındağ Atatürk Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "07:38",
+  "saat": "06:17",
   "uzatma": false
  }
 }
