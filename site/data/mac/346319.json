@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "33",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "54659",
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": true,
-    "sure": "4:20",
+    "sure": "4:54",
     "sayi": 0,
     "iki": [
      0,
@@ -30,13 +30,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
-    "vp": 0
+    "pm": "5",
+    "vp": 1
    },
    {
     "id": "777679",
@@ -73,7 +73,7 @@
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "9:21",
+    "sure": "9:55",
     "sayi": 7,
     "iki": [
      3,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
+    "pm": "7",
     "vp": 10
    },
    {
@@ -103,15 +103,15 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "6:20",
-    "sayi": 6,
+    "sure": "6:54",
+    "sayi": 9,
     "iki": [
      3,
      3
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -125,15 +125,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
-    "vp": 12
+    "pm": "7",
+    "vp": 15
    },
    {
     "id": "346709",
     "ad": "Ignas Sargiunas",
     "no": "43",
     "ilk5": true,
-    "sure": "7:40",
+    "sure": "8:14",
     "sayi": 7,
     "iki": [
      2,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "0",
+    "pm": "3",
     "vp": 5
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Melih Mahmutoğlu",
     "no": "10",
     "ilk5": false,
-    "sure": "3:20",
+    "sure": "3:54",
     "sayi": 0,
     "iki": [
      0,
@@ -275,7 +275,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-3",
+    "pm": "0",
     "vp": 0
    },
    {
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    25,
-   8
+   11
   ]
  },
  "dep": {
@@ -443,7 +443,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "7:24",
+    "sure": "7:58",
     "sayi": 3,
     "iki": [
      0,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
+    "pm": "-2",
     "vp": 4
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": true,
-    "sure": "5:19",
+    "sure": "5:53",
     "sayi": 2,
     "iki": [
      1,
@@ -495,7 +495,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "6",
+    "pm": "3",
     "vp": 1
    },
    {
@@ -623,7 +623,7 @@
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "3:38",
+    "sure": "4:12",
     "sayi": 1,
     "iki": [
      0,
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "1",
     "vp": 1
    },
    {
@@ -653,7 +653,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "6:23",
+    "sure": "6:57",
     "sayi": 3,
     "iki": [
      0,
@@ -675,7 +675,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-9",
     "vp": 2
    },
    {
@@ -713,7 +713,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "8:06",
+    "sure": "8:40",
     "sayi": 0,
     "iki": [
      0,
@@ -735,7 +735,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
+    "pm": "4",
     "vp": -1
    }
   ],
@@ -744,13 +744,13 @@
    13
   ]
  },
- "evSkor": "33",
+ "evSkor": "36",
  "depSkor": "34",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "05:03",
+  "saat": "04:29",
   "uzatma": false
  }
 }
