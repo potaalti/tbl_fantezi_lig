@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "41",
+  "skor": "42",
   "oyuncular": [
    {
     "id": "54659",
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": true,
-    "sure": "6:54",
-    "sayi": 2,
+    "sure": "7:45",
+    "sayi": 3,
     "iki": [
      0,
      1
@@ -24,8 +24,8 @@
      0
     ],
     "sa": [
-     2,
-     2
+     3,
+     3
     ],
     "hr": 0,
     "sr": 0,
@@ -35,8 +35,8 @@
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "6",
-    "vp": 4
+    "pm": "8",
+    "vp": 5
    },
    {
     "id": "777679",
@@ -103,7 +103,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "8:53",
+    "sure": "9:45",
     "sayi": 9,
     "iki": [
      3,
@@ -118,34 +118,34 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 2,
     "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "8",
-    "vp": 15
+    "pm": "10",
+    "vp": 16
    },
    {
     "id": "346709",
     "ad": "Ignas Sargiunas",
     "no": "43",
     "ilk5": true,
-    "sure": "10:14",
-    "sayi": 10,
+    "sure": "11:05",
+    "sayi": 11,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      1,
      1
     ],
     "sa": [
-     3,
-     4
+     4,
+     5
     ],
     "hr": 0,
     "sr": 0,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "4",
+    "pm": "6",
     "vp": 6
    },
    {
@@ -223,7 +223,7 @@
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "6:18",
+    "sure": "7:09",
     "sayi": 3,
     "iki": [
      1,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-2",
+    "pm": "0",
     "vp": 2
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Melih Mahmutoğlu",
     "no": "10",
     "ilk5": false,
-    "sure": "5:54",
+    "sure": "6:45",
     "sayi": 0,
     "iki": [
      0,
@@ -270,13 +270,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
-    "vp": 0
+    "pm": "3",
+    "vp": 1
    },
    {
     "id": "144725",
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    25,
-   16
+   18
   ]
  },
  "dep": {
@@ -443,7 +443,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "9:58",
+    "sure": "10:49",
     "sayi": 3,
     "iki": [
      0,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-3",
+    "pm": "-5",
     "vp": 4
    },
    {
@@ -473,11 +473,11 @@
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": true,
-    "sure": "7:53",
+    "sure": "8:44",
     "sayi": 4,
     "iki": [
      2,
-     2
+     3
     ],
     "uc": [
      0,
@@ -495,8 +495,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "2",
-    "vp": 2
+    "pm": "0",
+    "vp": 1
    },
    {
     "id": "778401",
@@ -593,7 +593,7 @@
     "ad": "Zach Nutall",
     "no": "10",
     "ilk5": false,
-    "sure": "9:38",
+    "sure": "10:29",
     "sayi": 5,
     "iki": [
      1,
@@ -615,7 +615,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 2
    },
    {
@@ -623,7 +623,7 @@
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "6:12",
+    "sure": "7:03",
     "sayi": 1,
     "iki": [
      0,
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "0",
+    "pm": "-2",
     "vp": 1
    },
    {
@@ -653,7 +653,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "8:57",
+    "sure": "9:48",
     "sayi": 5,
     "iki": [
      0,
@@ -674,8 +674,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 2,
-    "pm": "-10",
+    "faul": 3,
+    "pm": "-12",
     "vp": 3
    },
    {
@@ -744,13 +744,13 @@
    17
   ]
  },
- "evSkor": "41",
+ "evSkor": "42",
  "depSkor": "38",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "02:29",
+  "saat": "01:38",
   "uzatma": false
  }
 }
