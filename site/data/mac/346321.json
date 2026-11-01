@@ -3,7 +3,7 @@
  "lig": "bsl",
  "hafta": 6,
  "tarih": "2026-11-01T18:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "BURSASPOR BASKETBOL",
   "skor": "83",
@@ -415,7 +415,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "36:59",
+    "sure": "37:00",
     "sayi": 18,
     "iki": [
      3,
@@ -445,7 +445,7 @@
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "35:32",
+    "sure": "35:33",
     "sayi": 18,
     "iki": [
      4,
@@ -751,10 +751,5 @@
  "evSkor": "83",
  "depSkor": "86",
  "salon": "Tofaş Spor Salonu",
- "yayin": "beINSports",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "beINSports"
 }
