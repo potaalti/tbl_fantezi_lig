@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "36",
+  "skor": "38",
   "oyuncular": [
    {
     "id": "54659",
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": true,
-    "sure": "4:54",
-    "sayi": 0,
+    "sure": "5:43",
+    "sayi": 2,
     "iki": [
      0,
      1
@@ -24,8 +24,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -34,9 +34,9 @@
     "tc": 0,
     "blk": 1,
     "tk": 0,
-    "faul": 1,
-    "pm": "5",
-    "vp": 1
+    "faul": 2,
+    "pm": "4",
+    "vp": 3
    },
    {
     "id": "777679",
@@ -73,7 +73,7 @@
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "9:55",
+    "sure": "10:45",
     "sayi": 7,
     "iki": [
      3,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
+    "pm": "6",
     "vp": 10
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "6:54",
+    "sure": "7:43",
     "sayi": 9,
     "iki": [
      3,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
+    "pm": "6",
     "vp": 15
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Ignas Sargiunas",
     "no": "43",
     "ilk5": true,
-    "sure": "8:14",
+    "sure": "9:04",
     "sayi": 7,
     "iki": [
      2,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "3",
+    "pm": "2",
     "vp": 5
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Melih Mahmutoğlu",
     "no": "10",
     "ilk5": false,
-    "sure": "3:54",
+    "sure": "4:44",
     "sayi": 0,
     "iki": [
      0,
@@ -261,7 +261,7 @@
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
      0,
@@ -275,8 +275,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 0
+    "pm": "-1",
+    "vp": -1
    },
    {
     "id": "144725",
@@ -371,12 +371,12 @@
   ],
   "ceyrekler": [
    25,
-   11
+   13
   ]
  },
  "dep": {
   "ad": "TOFAŞ",
-  "skor": "34",
+  "skor": "37",
   "oyuncular": [
    {
     "id": "227173",
@@ -443,7 +443,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "7:58",
+    "sure": "8:48",
     "sayi": 3,
     "iki": [
      0,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 4
    },
    {
@@ -473,11 +473,11 @@
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": true,
-    "sure": "5:53",
-    "sayi": 2,
+    "sure": "6:43",
+    "sayi": 4,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      0,
@@ -495,8 +495,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "3",
-    "vp": 1
+    "pm": "4",
+    "vp": 3
    },
    {
     "id": "778401",
@@ -623,7 +623,7 @@
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "4:12",
+    "sure": "5:02",
     "sayi": 1,
     "iki": [
      0,
@@ -644,8 +644,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "1",
+    "faul": 2,
+    "pm": "2",
     "vp": 1
    },
    {
@@ -653,8 +653,8 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "6:57",
-    "sayi": 3,
+    "sure": "7:47",
+    "sayi": 4,
     "iki": [
      0,
      1
@@ -664,8 +664,8 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 0,
@@ -675,8 +675,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-9",
-    "vp": 2
+    "pm": "-8",
+    "vp": 3
    },
    {
     "id": "fiba-poyraz-pasaoglu",
@@ -713,7 +713,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "8:40",
+    "sure": "9:30",
     "sayi": 0,
     "iki": [
      0,
@@ -735,22 +735,22 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
+    "pm": "5",
     "vp": -1
    }
   ],
   "ceyrekler": [
    21,
-   13
+   16
   ]
  },
- "evSkor": "36",
- "depSkor": "34",
+ "evSkor": "38",
+ "depSkor": "37",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "04:29",
+  "saat": "03:39",
   "uzatma": false
  }
 }
