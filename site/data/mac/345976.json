@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "21",
+  "skor": "24",
   "oyuncular": [
    {
     "id": "316467",
@@ -43,7 +43,7 @@
     "ad": "Isaiah Dandre Washington",
     "no": "5",
     "ilk5": true,
-    "sure": "9:18",
+    "sure": "10:00",
     "sayi": 3,
     "iki": [
      0,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "1",
     "vp": 2
    },
    {
@@ -163,7 +163,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "4:13",
+    "sure": "4:55",
     "sayi": 6,
     "iki": [
      3,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-7",
+    "pm": "-6",
     "vp": 7
    },
    {
@@ -253,15 +253,15 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "3:08",
-    "sayi": 0,
+    "sure": "3:50",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -275,15 +275,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
-    "vp": 1
+    "pm": "-4",
+    "vp": 4
    },
    {
     "id": "384273",
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "2:00",
+    "sure": "2:42",
     "sayi": 0,
     "iki": [
      0,
@@ -300,13 +300,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": -1
+    "pm": "1",
+    "vp": 0
    },
    {
     "id": "399293",
@@ -343,7 +343,7 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": false,
-    "sure": "2:25",
+    "sure": "3:07",
     "sayi": 0,
     "iki": [
      0,
@@ -358,24 +358,24 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": -1
    }
   ],
   "ceyrekler": [
-   21
+   24
   ]
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "21",
+  "skor": "23",
   "oyuncular": [
    {
     "id": "753710",
@@ -412,7 +412,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "9:18",
+    "sure": "10:00",
     "sayi": 8,
     "iki": [
      0,
@@ -434,7 +434,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-1",
     "vp": 7
    },
    {
@@ -442,7 +442,7 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "5:52",
+    "sure": "6:34",
     "sayi": 0,
     "iki": [
      0,
@@ -460,12 +460,12 @@
     "sr": 0,
     "rib": 0,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-9",
-    "vp": 0
+    "pm": "-10",
+    "vp": 1
    },
    {
     "id": "224189",
@@ -622,11 +622,11 @@
     "ad": "Karl Gamble",
     "no": "14",
     "ilk5": false,
-    "sure": "4:13",
-    "sayi": 2,
+    "sure": "4:55",
+    "sayi": 4,
     "iki": [
-     0,
-     0
+     1,
+     2
     ],
     "uc": [
      0,
@@ -644,15 +644,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
-    "vp": 2
+    "pm": "6",
+    "vp": 3
    },
    {
     "id": "98663",
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "5:46",
+    "sure": "6:28",
     "sayi": 2,
     "iki": [
      1,
@@ -669,20 +669,20 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 3,
+    "ast": 4,
     "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 7
+    "pm": "0",
+    "vp": 8
    },
    {
     "id": "267856",
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "2:00",
+    "sure": "2:42",
     "sayi": 0,
     "iki": [
      0,
@@ -704,7 +704,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 1
    },
    {
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   21
+   23
   ]
  },
- "evSkor": "21",
- "depSkor": "21",
+ "evSkor": "24",
+ "depSkor": "23",
  "salon": "Altındağ Atatürk Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "00:58",
+  "saat": "00:00",
   "uzatma": false
  }
 }
