@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "61",
+  "skor": "63",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "35:10",
-    "sayi": 14,
+    "sure": "36:14",
+    "sayi": 16,
     "iki": [
-     1,
-     4
+     2,
+     5
     ],
     "uc": [
      2,
@@ -35,15 +35,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-8",
-    "vp": 17
+    "pm": "-6",
+    "vp": 19
    },
    {
     "id": "139924",
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "30:23",
+    "sure": "30:47",
     "sayi": 5,
     "iki": [
      1,
@@ -73,7 +73,7 @@
     "ad": "Gökhan Akkoyun",
     "no": "6",
     "ilk5": true,
-    "sure": "19:34",
+    "sure": "20:38",
     "sayi": 3,
     "iki": [
      1,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-1",
+    "pm": "1",
     "vp": 4
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Mustafa Baştürk",
     "no": "12",
     "ilk5": true,
-    "sure": "26:00",
+    "sure": "27:04",
     "sayi": 13,
     "iki": [
      4,
@@ -125,7 +125,7 @@
     "blk": 2,
     "tk": 2,
     "faul": 3,
-    "pm": "-2",
+    "pm": "0",
     "vp": 12
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Julien Ducree",
     "no": "54",
     "ilk5": true,
-    "sure": "30:43",
+    "sure": "31:47",
     "sayi": 20,
     "iki": [
      7,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 26
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "19:40",
+    "sure": "20:20",
     "sayi": 2,
     "iki": [
      1,
@@ -210,13 +210,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-13",
-    "vp": -4
+    "pm": "-11",
+    "vp": -3
    },
    {
     "id": "274052",
@@ -373,7 +373,7 @@
    25,
    13,
    23,
-   0
+   2
   ]
  },
  "dep": {
@@ -385,7 +385,7 @@
     "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": true,
-    "sure": "25:56",
+    "sure": "27:00",
     "sayi": 10,
     "iki": [
      1,
@@ -407,7 +407,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "3",
+    "pm": "1",
     "vp": 7
    },
    {
@@ -415,7 +415,7 @@
     "ad": "Koray Çekici",
     "no": "6",
     "ilk5": true,
-    "sure": "27:11",
+    "sure": "28:15",
     "sayi": 5,
     "iki": [
      1,
@@ -437,7 +437,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "8",
+    "pm": "6",
     "vp": 12
    },
    {
@@ -445,7 +445,7 @@
     "ad": "Batın Tuna",
     "no": "7",
     "ilk5": true,
-    "sure": "22:27",
+    "sure": "23:31",
     "sayi": 9,
     "iki": [
      3,
@@ -466,8 +466,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "1",
+    "faul": 2,
+    "pm": "-1",
     "vp": 12
    },
    {
@@ -475,7 +475,7 @@
     "ad": "Baran Avşar",
     "no": "8",
     "ilk5": true,
-    "sure": "20:25",
+    "sure": "20:49",
     "sayi": 14,
     "iki": [
      7,
@@ -505,7 +505,7 @@
     "ad": "Ike Nweke",
     "no": "15",
     "ilk5": true,
-    "sure": "24:52",
+    "sure": "25:56",
     "sayi": 17,
     "iki": [
      8,
@@ -527,7 +527,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "15",
+    "pm": "13",
     "vp": 23
    },
    {
@@ -535,7 +535,7 @@
     "ad": "Burak Gözeneli",
     "no": "4",
     "ilk5": false,
-    "sure": "26:09",
+    "sure": "26:49",
     "sayi": 10,
     "iki": [
      2,
@@ -543,7 +543,7 @@
     ],
     "uc": [
      2,
-     8
+     9
     ],
     "sa": [
      0,
@@ -557,8 +557,8 @@
     "blk": 0,
     "tk": 4,
     "faul": 0,
-    "pm": "11",
-    "vp": 5
+    "pm": "9",
+    "vp": 4
    },
    {
     "id": "782948",
@@ -748,13 +748,13 @@
    12
   ]
  },
- "evSkor": "61",
+ "evSkor": "63",
  "depSkor": "69",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:46",
+  "saat": "04:06",
   "uzatma": false
  }
 }
