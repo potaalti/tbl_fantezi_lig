@@ -3,7 +3,7 @@
  "lig": "bsl",
  "hafta": 6,
  "tarih": "2026-11-01T15:30:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
   "skor": "88",
@@ -103,7 +103,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "25:02",
+    "sure": "25:03",
     "sayi": 17,
     "iki": [
      6,
@@ -412,7 +412,7 @@
    },
    {
     "id": "508900",
-    "ad": "Jamuni Mcneace",
+    "ad": "Jamuni McNeace",
     "no": "8",
     "ilk5": true,
     "sure": "4:20",
@@ -562,7 +562,7 @@
    },
    {
     "id": "485299",
-    "ad": "Terrell Carter Ii",
+    "ad": "Terrell Carter II",
     "no": "5",
     "ilk5": false,
     "sure": "7:44",
@@ -681,7 +681,7 @@
     "vp": 12
    },
    {
-    "id": "fiba-poyraz-pasaoglu",
+    "id": "450092",
     "ad": "Poyraz Paşaoğlu",
     "no": "35",
     "ilk5": false,
@@ -751,10 +751,5 @@
  "evSkor": "88",
  "depSkor": "77",
  "salon": "Ülker Spor ve Etkinlik Salonu",
- "yayin": "beINSports",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "beINSports"
 }
