@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BURSASPOR BASKETBOL",
-  "skor": "14",
+  "skor": "15",
   "oyuncular": [
    {
     "id": "510723",
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "7:58",
+    "sure": "8:13",
     "sayi": 0,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-4",
     "vp": -1
    },
    {
@@ -43,8 +43,8 @@
     "ad": "Javon Freeman-Liberty",
     "no": "4",
     "ilk5": true,
-    "sure": "7:58",
-    "sayi": 10,
+    "sure": "8:13",
+    "sayi": 11,
     "iki": [
      2,
      4
@@ -54,8 +54,8 @@
      3
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-4",
     "vp": 8
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Ömer Can İlyasoğlu",
     "no": "21",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:15",
     "sayi": 0,
     "iki": [
      0,
@@ -300,24 +300,24 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "1",
+    "vp": 1
    },
    {
     "id": "778459",
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": false,
-    "sure": "1:29",
+    "sure": "1:44",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -335,15 +335,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": 2
+    "pm": "-1",
+    "vp": 1
    },
    {
     "id": "502519",
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": false,
-    "sure": "1:29",
+    "sure": "1:44",
     "sayi": 0,
     "iki": [
      0,
@@ -365,12 +365,12 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 0
    }
   ],
   "ceyrekler": [
-   14
+   15
   ]
  },
  "dep": {
@@ -382,7 +382,7 @@
     "ad": "Briante Weber",
     "no": "2",
     "ilk5": true,
-    "sure": "7:58",
+    "sure": "8:08",
     "sayi": 2,
     "iki": [
      1,
@@ -412,7 +412,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "7:00",
+    "sure": "7:05",
     "sayi": 5,
     "iki": [
      1,
@@ -434,7 +434,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "3",
+    "pm": "2",
     "vp": 4
    },
    {
@@ -442,7 +442,7 @@
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "7:58",
+    "sure": "8:13",
     "sayi": 4,
     "iki": [
      0,
@@ -464,7 +464,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "4",
     "vp": 3
    },
    {
@@ -502,7 +502,7 @@
     "ad": "Steven Enoch",
     "no": "23",
     "ilk5": true,
-    "sure": "7:58",
+    "sure": "8:13",
     "sayi": 6,
     "iki": [
      1,
@@ -524,43 +524,13 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "4",
     "vp": 8
    },
    {
     "id": "228502",
     "ad": "Muhaymin Mustafa",
     "no": "1",
-    "ilk5": false,
-    "sure": "0:43",
-    "sayi": 0,
-    "iki": [
-     0,
-     0
-    ],
-    "uc": [
-     0,
-     0
-    ],
-    "sa": [
-     0,
-     0
-    ],
-    "hr": 0,
-    "sr": 0,
-    "rib": 0,
-    "ast": 0,
-    "tc": 0,
-    "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "0",
-    "vp": 0
-   },
-   {
-    "id": "410874",
-    "ad": "Markel Starks",
-    "no": "4",
     "ilk5": false,
     "sure": "0:58",
     "sayi": 0,
@@ -581,10 +551,40 @@
     "rib": 0,
     "ast": 0,
     "tc": 0,
+    "blk": 1,
+    "tk": 0,
+    "faul": 1,
+    "pm": "-1",
+    "vp": 1
+   },
+   {
+    "id": "410874",
+    "ad": "Markel Starks",
+    "no": "4",
+    "ilk5": false,
+    "sure": "1:13",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "1",
     "vp": 0
    },
    {
@@ -742,13 +742,13 @@
    19
   ]
  },
- "evSkor": "14",
+ "evSkor": "15",
  "depSkor": "19",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:02",
+  "saat": "01:47",
   "uzatma": false
  }
 }
