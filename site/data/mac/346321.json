@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BURSASPOR BASKETBOL",
-  "skor": "51",
+  "skor": "53",
   "oyuncular": [
    {
     "id": "510723",
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "15:35",
+    "sure": "16:07",
     "sayi": 1,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-13",
+    "pm": "-14",
     "vp": 0
    },
    {
@@ -43,11 +43,11 @@
     "ad": "Javon Freeman-Liberty",
     "no": "4",
     "ilk5": true,
-    "sure": "20:06",
-    "sayi": 13,
+    "sure": "20:37",
+    "sayi": 15,
     "iki": [
-     3,
-     6
+     4,
+     7
     ],
     "uc": [
      2,
@@ -65,8 +65,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "-13",
-    "vp": 10
+    "pm": "-14",
+    "vp": 12
    },
    {
     "id": "778461",
@@ -103,7 +103,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "10:23",
+    "sure": "10:54",
     "sayi": 3,
     "iki": [
      1,
@@ -115,7 +115,7 @@
     ],
     "sa": [
      1,
-     1
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -125,8 +125,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-8",
-    "vp": 1
+    "pm": "-9",
+    "vp": 0
    },
    {
     "id": "778460",
@@ -313,7 +313,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": false,
-    "sure": "10:59",
+    "sure": "11:30",
     "sayi": 2,
     "iki": [
      1,
@@ -335,7 +335,7 @@
     "blk": 3,
     "tk": 1,
     "faul": 3,
-    "pm": "7",
+    "pm": "6",
     "vp": 6
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": false,
-    "sure": "13:58",
+    "sure": "14:29",
     "sayi": 9,
     "iki": [
      0,
@@ -365,19 +365,19 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-3",
+    "pm": "-4",
     "vp": 10
    }
   ],
   "ceyrekler": [
    19,
    20,
-   12
+   14
   ]
  },
  "dep": {
   "ad": "KARŞIYAKA",
-  "skor": "58",
+  "skor": "61",
   "oyuncular": [
    {
     "id": "573226",
@@ -414,15 +414,15 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "24:37",
-    "sayi": 12,
+    "sure": "25:08",
+    "sayi": 15,
     "iki": [
      3,
      7
     ],
     "uc": [
-     1,
-     4
+     2,
+     5
     ],
     "sa": [
      3,
@@ -436,15 +436,15 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "11",
-    "vp": 9
+    "pm": "12",
+    "vp": 12
    },
    {
     "id": "500079",
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "23:10",
+    "sure": "23:41",
     "sayi": 14,
     "iki": [
      4,
@@ -466,7 +466,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "11",
+    "pm": "12",
     "vp": 19
    },
    {
@@ -534,7 +534,7 @@
     "ad": "Muhaymin Mustafa",
     "no": "1",
     "ilk5": false,
-    "sure": "2:15",
+    "sure": "2:46",
     "sayi": 0,
     "iki": [
      0,
@@ -551,20 +551,20 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
-    "vp": 1
+    "pm": "3",
+    "vp": 2
    },
    {
     "id": "410874",
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "12:14",
+    "sure": "12:45",
     "sayi": 4,
     "iki": [
      2,
@@ -586,7 +586,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 7
    },
    {
@@ -624,7 +624,7 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": false,
-    "sure": "4:49",
+    "sure": "5:20",
     "sayi": 0,
     "iki": [
      0,
@@ -639,15 +639,15 @@
      0
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
-    "vp": 2
+    "pm": "7",
+    "vp": 3
    },
    {
     "id": "400519",
@@ -743,16 +743,16 @@
   "ceyrekler": [
    21,
    21,
-   16
+   19
   ]
  },
- "evSkor": "51",
- "depSkor": "58",
+ "evSkor": "53",
+ "depSkor": "61",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "02:28",
+  "saat": "01:57",
   "uzatma": false
  }
 }
