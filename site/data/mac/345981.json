@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "55",
+  "skor": "57",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "18:34",
+    "sure": "18:54",
     "sayi": 21,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "16",
+    "pm": "18",
     "vp": 20
    },
    {
@@ -43,11 +43,11 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "17:56",
-    "sayi": 11,
+    "sure": "18:16",
+    "sayi": 13,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      3,
@@ -65,15 +65,15 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "14",
-    "vp": 17
+    "pm": "16",
+    "vp": 19
    },
    {
     "id": "488870",
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "17:48",
+    "sure": "18:08",
     "sayi": 9,
     "iki": [
      1,
@@ -90,20 +90,20 @@
     "hr": 2,
     "sr": 4,
     "rib": 6,
-    "ast": 0,
+    "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "19",
-    "vp": 15
+    "pm": "21",
+    "vp": 16
    },
    {
     "id": "211415",
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "16:18",
+    "sure": "16:38",
     "sayi": 7,
     "iki": [
      2,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "16",
+    "pm": "18",
     "vp": 6
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": true,
-    "sure": "9:17",
+    "sure": "9:37",
     "sayi": 7,
     "iki": [
      2,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "17",
+    "pm": "19",
     "vp": 11
    },
    {
@@ -372,7 +372,7 @@
   "ceyrekler": [
    23,
    30,
-   2
+   4
   ]
  },
  "dep": {
@@ -384,7 +384,7 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": true,
-    "sure": "17:28",
+    "sure": "17:48",
     "sayi": 12,
     "iki": [
      2,
@@ -406,7 +406,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 11
    },
    {
@@ -414,7 +414,7 @@
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": true,
-    "sure": "11:48",
+    "sure": "12:08",
     "sayi": 6,
     "iki": [
      2,
@@ -436,7 +436,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 6
    },
    {
@@ -474,7 +474,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": true,
-    "sure": "20:38",
+    "sure": "20:58",
     "sayi": 3,
     "iki": [
      0,
@@ -496,7 +496,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-8",
     "vp": 6
    },
    {
@@ -504,7 +504,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "13:45",
+    "sure": "14:05",
     "sayi": 10,
     "iki": [
      4,
@@ -526,7 +526,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-13",
+    "pm": "-15",
     "vp": 9
    },
    {
@@ -594,7 +594,7 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "14:13",
+    "sure": "14:33",
     "sayi": 7,
     "iki": [
      2,
@@ -616,7 +616,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 6
    },
    {
@@ -746,13 +746,13 @@
    6
   ]
  },
- "evSkor": "55",
+ "evSkor": "57",
  "depSkor": "44",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "07:57",
+  "saat": "07:37",
   "uzatma": false
  }
 }
