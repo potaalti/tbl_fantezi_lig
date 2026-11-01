@@ -13,11 +13,11 @@
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "18:03",
+    "sure": "18:53",
     "sayi": 1,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      0,
@@ -35,15 +35,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-15",
-    "vp": 0
+    "pm": "-18",
+    "vp": -1
    },
    {
     "id": "666871",
     "ad": "Javon Freeman-Liberty",
     "no": "4",
     "ilk5": true,
-    "sure": "22:32",
+    "sure": "23:22",
     "sayi": 19,
     "iki": [
      4,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-15",
+    "pm": "-18",
     "vp": 16
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Ömer Can İlyasoğlu",
     "no": "21",
     "ilk5": false,
-    "sure": "13:12",
+    "sure": "14:02",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-3",
     "vp": 2
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": false,
-    "sure": "13:27",
+    "sure": "14:17",
     "sayi": 2,
     "iki": [
      1,
@@ -334,8 +334,8 @@
     "tc": 0,
     "blk": 3,
     "tk": 1,
-    "faul": 3,
-    "pm": "5",
+    "faul": 4,
+    "pm": "2",
     "vp": 7
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": false,
-    "sure": "16:26",
+    "sure": "17:16",
     "sayi": 9,
     "iki": [
      0,
@@ -365,19 +365,20 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-8",
     "vp": 10
    }
   ],
   "ceyrekler": [
    19,
    20,
-   18
+   18,
+   0
   ]
  },
  "dep": {
   "ad": "KARŞIYAKA",
-  "skor": "66",
+  "skor": "68",
   "oyuncular": [
    {
     "id": "573226",
@@ -414,7 +415,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "26:59",
+    "sure": "27:49",
     "sayi": 15,
     "iki": [
      3,
@@ -436,7 +437,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "13",
+    "pm": "16",
     "vp": 12
    },
    {
@@ -444,8 +445,8 @@
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "25:32",
-    "sayi": 14,
+    "sure": "26:23",
+    "sayi": 15,
     "iki": [
      4,
      7
@@ -455,8 +456,8 @@
      0
     ],
     "sa": [
-     6,
-     6
+     7,
+     7
     ],
     "hr": 1,
     "sr": 3,
@@ -466,8 +467,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "13",
-    "vp": 20
+    "pm": "16",
+    "vp": 21
    },
    {
     "id": "254789",
@@ -504,7 +505,7 @@
     "ad": "Steven Enoch",
     "no": "23",
     "ilk5": true,
-    "sure": "20:51",
+    "sure": "21:41",
     "sayi": 10,
     "iki": [
      2,
@@ -526,7 +527,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 2,
-    "pm": "-3",
+    "pm": "0",
     "vp": 18
    },
    {
@@ -534,11 +535,11 @@
     "ad": "Muhaymin Mustafa",
     "no": "1",
     "ilk5": false,
-    "sure": "4:43",
-    "sayi": 2,
+    "sure": "5:33",
+    "sayi": 4,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -548,23 +549,23 @@
      2,
      3
     ],
-    "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "hr": 1,
+    "sr": 2,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 4,
-    "pm": "4",
-    "vp": 4
+    "pm": "7",
+    "vp": 8
    },
    {
     "id": "410874",
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "14:42",
+    "sure": "15:32",
     "sayi": 7,
     "iki": [
      2,
@@ -572,7 +573,7 @@
     ],
     "uc": [
      1,
-     4
+     5
     ],
     "sa": [
      0,
@@ -581,12 +582,12 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 3,
+    "ast": 4,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "3",
     "vp": 9
    },
    {
@@ -743,16 +744,17 @@
   "ceyrekler": [
    21,
    21,
-   24
+   24,
+   3
   ]
  },
  "evSkor": "57",
- "depSkor": "66",
+ "depSkor": "68",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "10:00",
+  "saat": "09:10",
   "uzatma": false
  }
 }
