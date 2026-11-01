@@ -43,7 +43,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "14:02",
+    "sure": "14:27",
     "sayi": 11,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "21",
+    "pm": "19",
     "vp": 17
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "12:24",
+    "sure": "12:49",
     "sayi": 5,
     "iki": [
      1,
@@ -111,7 +111,7 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      0,
@@ -125,8 +125,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "23",
-    "vp": 4
+    "pm": "21",
+    "vp": 3
    },
    {
     "id": "14106",
@@ -163,7 +163,7 @@
     "ad": "Tarık Sezgün",
     "no": "1",
     "ilk5": false,
-    "sure": "8:52",
+    "sure": "9:17",
     "sayi": 0,
     "iki": [
      0,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "1",
+    "pm": "-1",
     "vp": 0
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Enes Bayraktar",
     "no": "20",
     "ilk5": false,
-    "sure": "5:04",
+    "sure": "5:29",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-8",
     "vp": -1
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Arda Midye",
     "no": "22",
     "ilk5": false,
-    "sure": "2:24",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -335,7 +335,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-7",
     "vp": -1
    },
    {
@@ -376,14 +376,14 @@
  },
  "dep": {
   "ad": "iLab BASKETBOL",
-  "skor": "33",
+  "skor": "35",
   "oyuncular": [
    {
     "id": "287585",
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": true,
-    "sure": "13:34",
+    "sure": "13:59",
     "sayi": 7,
     "iki": [
      1,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 6
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": true,
-    "sure": "7:54",
+    "sure": "8:19",
     "sayi": 4,
     "iki": [
      1,
@@ -435,7 +435,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 4
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": true,
-    "sure": "16:44",
+    "sure": "17:09",
     "sayi": 3,
     "iki": [
      0,
@@ -488,22 +488,22 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
-    "ast": 3,
+    "sr": 3,
+    "rib": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-13",
-    "vp": 4
+    "pm": "-11",
+    "vp": 6
    },
    {
     "id": "776565",
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "9:51",
+    "sure": "10:16",
     "sayi": 8,
     "iki": [
      3,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-20",
+    "pm": "-18",
     "vp": 5
    },
    {
@@ -593,11 +593,11 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "10:19",
-    "sayi": 5,
+    "sure": "10:44",
+    "sayi": 7,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      1,
@@ -615,8 +615,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-9",
-    "vp": 4
+    "pm": "-7",
+    "vp": 6
    },
    {
     "id": "433761",
@@ -741,16 +741,16 @@
   ],
   "ceyrekler": [
    14,
-   19
+   21
   ]
  },
  "evSkor": "51",
- "depSkor": "33",
+ "depSkor": "35",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:49",
+  "saat": "01:26",
   "uzatma": false
  }
 }
