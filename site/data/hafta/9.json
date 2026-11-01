@@ -74,13 +74,13 @@
    "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "iLab BASKETBOL",
-   "evSkor": "82",
-   "depSkor": "62",
+   "evSkor": "85",
+   "depSkor": "64",
    "salon": "Selçuklu Belediyesi Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "09:35",
+    "saat": "08:44",
     "uzatma": false
    }
   },
@@ -98,7 +98,7 @@
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "08:12",
+    "saat": "07:47",
     "uzatma": false
    }
   },
@@ -107,13 +107,18 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-11-01T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BÜYÜKÇEKMECE BASKETBOL",
    "dep": "KİPAŞ K.B.B.",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Gazanfer Bilge Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:42",
+    "uzatma": false
+   }
   }
  ],
  "oyuncular": {
@@ -1183,7 +1188,7 @@
    "ad": "Robert Smith",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 21,
-   "saniye": 1535,
+   "saniye": 1586,
    "maclar": [
     345981
    ]
@@ -1201,7 +1206,7 @@
    "ad": "Yiğit Çoban",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 18,
-   "saniye": 1570,
+   "saniye": 1621,
    "maclar": [
     345981
    ]
@@ -1209,8 +1214,8 @@
   "211415": {
    "ad": "Cengizhan İvedi",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "vp": 17,
-   "saniye": 1480,
+   "vp": 20,
+   "saniye": 1531,
    "maclar": [
     345981
    ]
@@ -1254,8 +1259,8 @@
   "362839": {
    "ad": "Mustafa Faruk Yerkazanoğlu",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "vp": 1,
-   "saniye": 234,
+   "vp": 2,
+   "saniye": 285,
    "maclar": [
     345981
    ]
@@ -1263,8 +1268,8 @@
   "317314": {
    "ad": "Enes Bayraktar",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "vp": 1,
-   "saniye": 598,
+   "vp": 0,
+   "saniye": 649,
    "maclar": [
     345981
    ]
@@ -1299,8 +1304,8 @@
   "419692": {
    "ad": "Yücel Çağın Başaran",
    "takim": "iLab BASKETBOL",
-   "vp": 8,
-   "saniye": 1161,
+   "vp": 11,
+   "saniye": 1212,
    "maclar": [
     345981
    ]
@@ -1309,7 +1314,7 @@
    "ad": "Batuhan Acar",
    "takim": "iLab BASKETBOL",
    "vp": 3,
-   "saniye": 1015,
+   "saniye": 1066,
    "maclar": [
     345981
    ]
@@ -1318,7 +1323,7 @@
    "ad": "Cihat Dalgalı",
    "takim": "iLab BASKETBOL",
    "vp": 7,
-   "saniye": 1591,
+   "saniye": 1642,
    "maclar": [
     345981
    ]
@@ -1354,7 +1359,7 @@
    "ad": "Can Kaan Turgut",
    "takim": "iLab BASKETBOL",
    "vp": 7,
-   "saniye": 1262,
+   "saniye": 1313,
    "maclar": [
     345981
    ]
@@ -1381,7 +1386,7 @@
    "ad": "Koralp Türk",
    "takim": "iLab BASKETBOL",
    "vp": 6,
-   "saniye": 951,
+   "saniye": 1002,
    "maclar": [
     345981
    ]
@@ -1399,7 +1404,7 @@
    "ad": "Emir Arda Sivas",
    "takim": "GÖZTEPE ISONEM",
    "vp": 6,
-   "saniye": 370,
+   "saniye": 378,
    "maclar": [
     345976
    ]
@@ -1417,7 +1422,7 @@
    "ad": "Fatih Cantitiz",
    "takim": "GÖZTEPE ISONEM",
    "vp": 4,
-   "saniye": 521,
+   "saniye": 546,
    "maclar": [
     345976
    ]
@@ -1426,7 +1431,7 @@
    "ad": "Ahmet Can Duran",
    "takim": "GÖZTEPE ISONEM",
    "vp": 4,
-   "saniye": 305,
+   "saniye": 313,
    "maclar": [
     345976
    ]
@@ -1444,7 +1449,7 @@
    "ad": "Berke Atar",
    "takim": "GÖZTEPE ISONEM",
    "vp": 8,
-   "saniye": 403,
+   "saniye": 420,
    "maclar": [
     345976
    ]
@@ -1471,7 +1476,7 @@
    "ad": "Eray Aydoğan",
    "takim": "GÖZTEPE ISONEM",
    "vp": 5,
-   "saniye": 338,
+   "saniye": 355,
    "maclar": [
     345976
    ]
@@ -1480,7 +1485,7 @@
    "ad": "Rijad Aydın",
    "takim": "GÖZTEPE ISONEM",
    "vp": 4,
-   "saniye": 270,
+   "saniye": 295,
    "maclar": [
     345976
    ]
@@ -1498,7 +1503,7 @@
    "ad": "Eray Büyükcangaz",
    "takim": "GÖZTEPE ISONEM",
    "vp": 0,
-   "saniye": 295,
+   "saniye": 320,
    "maclar": [
     345976
    ]
@@ -1507,7 +1512,7 @@
    "ad": "Fredrick Earl Cleveland",
    "takim": "FİNALSPOR",
    "vp": 4,
-   "saniye": 438,
+   "saniye": 446,
    "maclar": [
     345976
    ]
@@ -1534,7 +1539,7 @@
    "ad": "Arda Berk Kaya",
    "takim": "FİNALSPOR",
    "vp": -2,
-   "saniye": 320,
+   "saniye": 345,
    "maclar": [
     345976
    ]
@@ -1542,8 +1547,8 @@
   "275328": {
    "ad": "Gökay Hacıoğlu",
    "takim": "FİNALSPOR",
-   "vp": 3,
-   "saniye": 619,
+   "vp": 2,
+   "saniye": 644,
    "maclar": [
     345976
    ]
@@ -1579,7 +1584,7 @@
    "ad": "Karl Gamble",
    "takim": "FİNALSPOR",
    "vp": 6,
-   "saniye": 403,
+   "saniye": 428,
    "maclar": [
     345976
    ]
@@ -1588,7 +1593,7 @@
    "ad": "Tayfun Erülkü",
    "takim": "FİNALSPOR",
    "vp": 7,
-   "saniye": 496,
+   "saniye": 521,
    "maclar": [
     345976
    ]
@@ -1597,7 +1602,7 @@
    "ad": "Mithat Can Özalp",
    "takim": "FİNALSPOR",
    "vp": 1,
-   "saniye": 270,
+   "saniye": 287,
    "maclar": [
     345976
    ]
@@ -1609,6 +1614,222 @@
    "saniye": 0,
    "maclar": [
     345976
+   ]
+  },
+  "665900": {
+   "ad": "Jordan Barnes",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "139924": {
+   "ad": "Kerem Aydan Özel",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "229642": {
+   "ad": "Gökhan Akkoyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "116084": {
+   "ad": "Mustafa Baştürk",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "616402": {
+   "ad": "Julien Ducree",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "502279": {
+   "ad": "Edin Baçevaç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "111242": {
+   "ad": "Oğulcan Baykan",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "274052": {
+   "ad": "Kutluhan Celayir",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "509422": {
+   "ad": "Erdinç Alex Koyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "346480": {
+   "ad": "Sadık Bozlağan",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "332044": {
+   "ad": "Enes Tunç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "385476": {
+   "ad": "Ali Hamza Altın",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "777125": {
+   "ad": "Brandon Jefferson",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "277425": {
+   "ad": "Koray Çekici",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "305920": {
+   "ad": "Batın Tuna",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "229233": {
+   "ad": "Baran Avşar",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "777124": {
+   "ad": "Ike Nweke",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 27,
+   "maclar": [
+    345977
+   ]
+  },
+  "214552": {
+   "ad": "Burak Gözeneli",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "782948": {
+   "ad": "Kaya Bayram",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "354964": {
+   "ad": "Arda Özdoğan",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "202113": {
+   "ad": "Deniz Çelen",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "262737": {
+   "ad": "Çağatay Özkan",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "457130": {
+   "ad": "Ahmet Karaman",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
+   ]
+  },
+  "402697": {
+   "ad": "Hüseyin Seviğ",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345977
    ]
   }
  }

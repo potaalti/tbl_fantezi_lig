@@ -75,13 +75,13 @@
    "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "iLab BASKETBOL",
-   "evSkor": "82",
-   "depSkor": "62",
+   "evSkor": "85",
+   "depSkor": "64",
    "salon": "Selçuklu Belediyesi Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "09:35",
+    "saat": "08:44",
     "uzatma": false
    }
   },
@@ -99,7 +99,7 @@
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "08:12",
+    "saat": "07:47",
     "uzatma": false
    }
   },
@@ -108,13 +108,18 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-11-01T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BÜYÜKÇEKMECE BASKETBOL",
    "dep": "KİPAŞ K.B.B.",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Gazanfer Bilge Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:42",
+    "uzatma": false
+   }
   }
  ]
 }
