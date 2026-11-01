@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "62",
+  "skor": "64",
   "oyuncular": [
    {
     "id": "316467",
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "13:40",
-    "sayi": 2,
+    "sure": "14:03",
+    "sayi": 4,
     "iki": [
      0,
      0
@@ -24,19 +24,19 @@
      2
     ],
     "sa": [
-     2,
-     2
+     4,
+     4
     ],
     "hr": 0,
     "sr": 1,
     "rib": 1,
     "ast": 4,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "15",
-    "vp": 6
+    "pm": "17",
+    "vp": 9
    },
    {
     "id": "777502",
@@ -163,7 +163,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "12:17",
+    "sure": "12:40",
     "sayi": 10,
     "iki": [
      5,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "5",
     "vp": 14
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "13:26",
+    "sure": "13:49",
     "sayi": 3,
     "iki": [
      0,
@@ -275,7 +275,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
+    "pm": "1",
     "vp": 6
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "17:26",
+    "sure": "17:49",
     "sayi": 15,
     "iki": [
      4,
@@ -302,11 +302,11 @@
     "rib": 3,
     "ast": 1,
     "tc": 0,
-    "blk": 0,
+    "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "19",
-    "vp": 15
+    "pm": "21",
+    "vp": 16
    },
    {
     "id": "399293",
@@ -343,7 +343,7 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": false,
-    "sure": "11:44",
+    "sure": "12:07",
     "sayi": 3,
     "iki": [
      0,
@@ -365,14 +365,14 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "10",
+    "pm": "12",
     "vp": 4
    }
   ],
   "ceyrekler": [
    24,
    27,
-   11
+   13
   ]
  },
  "dep": {
@@ -404,10 +404,10 @@
     "ast": 3,
     "tc": 1,
     "blk": 0,
-    "tk": 1,
-    "faul": 2,
+    "tk": 2,
+    "faul": 3,
     "pm": "-7",
-    "vp": 15
+    "vp": 14
    },
    {
     "id": "229599",
@@ -444,7 +444,7 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "15:55",
+    "sure": "16:18",
     "sayi": 0,
     "iki": [
      0,
@@ -466,7 +466,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "-15",
+    "pm": "-17",
     "vp": 3
    },
    {
@@ -534,7 +534,7 @@
     "ad": "Can Özcan",
     "no": "00",
     "ilk5": false,
-    "sure": "13:27",
+    "sure": "13:50",
     "sayi": 3,
     "iki": [
      0,
@@ -556,7 +556,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 3
    },
    {
@@ -624,7 +624,7 @@
     "ad": "Karl Gamble",
     "no": "14",
     "ilk5": false,
-    "sure": "11:21",
+    "sure": "11:44",
     "sayi": 6,
     "iki": [
      2,
@@ -638,27 +638,27 @@
      2,
      2
     ],
-    "hr": 2,
+    "hr": 3,
     "sr": 0,
-    "rib": 2,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
-    "vp": 6
+    "pm": "-7",
+    "vp": 7
    },
    {
     "id": "98663",
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "12:49",
+    "sure": "13:12",
     "sayi": 2,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      0,
@@ -676,15 +676,15 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "-9",
-    "vp": 7
+    "pm": "-11",
+    "vp": 6
    },
    {
     "id": "267856",
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "4:47",
+    "sure": "5:10",
     "sayi": 0,
     "iki": [
      0,
@@ -706,7 +706,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-7",
+    "pm": "-9",
     "vp": 1
    },
    {
@@ -746,13 +746,13 @@
    13
   ]
  },
- "evSkor": "62",
+ "evSkor": "64",
  "depSkor": "48",
  "salon": "Altındağ Atatürk Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "03:04",
+  "saat": "02:35",
   "uzatma": false
  }
 }
