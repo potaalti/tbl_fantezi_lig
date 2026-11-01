@@ -6,22 +6,22 @@
  "durum": "canli",
  "ev": {
   "ad": "ESENLER EROKSPOR",
-  "skor": "55",
+  "skor": "58",
   "oyuncular": [
    {
     "id": "606624",
     "ad": "Mike Davis Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "19:47",
+    "sure": "20:47",
     "sayi": 15,
     "iki": [
      2,
-     4
+     5
     ],
     "uc": [
      2,
-     5
+     6
     ],
     "sa": [
      5,
@@ -35,16 +35,16 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-2",
-    "vp": 13
+    "pm": "-1",
+    "vp": 11
    },
    {
     "id": "776570",
     "ad": "Kevin Yebo",
     "no": "10",
     "ilk5": true,
-    "sure": "12:29",
-    "sayi": 2,
+    "sure": "13:29",
+    "sayi": 6,
     "iki": [
      1,
      2
@@ -54,19 +54,19 @@
      1
     ],
     "sa": [
-     0,
-     0
+     4,
+     4
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-16",
-    "vp": -1
+    "pm": "-15",
+    "vp": 4
    },
    {
     "id": "778079",
@@ -103,7 +103,7 @@
     "ad": "Dallas Moore",
     "no": "14",
     "ilk5": true,
-    "sure": "23:05",
+    "sure": "24:05",
     "sayi": 16,
     "iki": [
      3,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "9",
+    "pm": "10",
     "vp": 17
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Jordan Usher",
     "no": "8",
     "ilk5": false,
-    "sure": "15:21",
+    "sure": "16:21",
     "sayi": 12,
     "iki": [
      3,
@@ -208,15 +208,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 3,
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "13",
-    "vp": 17
+    "pm": "14",
+    "vp": 18
    },
    {
     "id": "667498",
@@ -253,7 +253,7 @@
     "ad": "Egehan Arna",
     "no": "18",
     "ilk5": false,
-    "sure": "12:57",
+    "sure": "13:57",
     "sayi": 0,
     "iki": [
      0,
@@ -267,16 +267,16 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 4,
-    "rib": 4,
-    "ast": 0,
+    "rib": 5,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-15",
-    "vp": 1
+    "pm": "-14",
+    "vp": 3
    },
    {
     "id": "57737",
@@ -372,12 +372,13 @@
   "ceyrekler": [
    11,
    25,
-   19
+   19,
+   4
   ]
  },
  "dep": {
   "ad": "TÜRK TELEKOM",
-  "skor": "62",
+  "skor": "65",
   "oyuncular": [
    {
     "id": "384165",
@@ -436,7 +437,7 @@
     "blk": 0,
     "tk": 4,
     "faul": 3,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 8
    },
    {
@@ -474,15 +475,15 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "24:38",
-    "sayi": 22,
+    "sure": "25:38",
+    "sayi": 25,
     "iki": [
      2,
      2
     ],
     "uc": [
-     5,
-     6
+     6,
+     7
     ],
     "sa": [
      3,
@@ -496,15 +497,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
-    "vp": 24
+    "pm": "0",
+    "vp": 27
    },
    {
     "id": "129216",
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "22:13",
+    "sure": "23:13",
     "sayi": 4,
     "iki": [
      1,
@@ -525,8 +526,8 @@
     "tc": 2,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
-    "pm": "4",
+    "faul": 2,
+    "pm": "5",
     "vp": 9
    },
    {
@@ -534,7 +535,7 @@
     "ad": "Ata Kahraman",
     "no": "6",
     "ilk5": false,
-    "sure": "12:26",
+    "sure": "13:26",
     "sayi": 4,
     "iki": [
      2,
@@ -555,8 +556,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
-    "pm": "12",
+    "faul": 1,
+    "pm": "11",
     "vp": 8
    },
    {
@@ -624,7 +625,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "5:12",
+    "sure": "6:12",
     "sayi": 0,
     "iki": [
      0,
@@ -646,7 +647,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "3",
     "vp": 1
    },
    {
@@ -714,11 +715,11 @@
     "ad": "Shaquille Mckissic",
     "no": "77",
     "ilk5": false,
-    "sure": "17:14",
+    "sure": "18:14",
     "sayi": 7,
     "iki": [
      2,
-     4
+     5
     ],
     "uc": [
      1,
@@ -731,28 +732,29 @@
     "hr": 1,
     "sr": 2,
     "rib": 3,
-    "ast": 2,
+    "ast": 3,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "9",
+    "pm": "8",
     "vp": 10
    }
   ],
   "ceyrekler": [
    25,
    17,
-   20
+   20,
+   3
   ]
  },
- "evSkor": "55",
- "depSkor": "62",
+ "evSkor": "58",
+ "depSkor": "65",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "10:00",
+  "saat": "09:00",
   "uzatma": false
  }
 }
