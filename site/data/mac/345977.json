@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "36",
+  "skor": "38",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "19:04",
+    "sure": "19:59",
     "sayi": 14,
     "iki": [
      1,
@@ -30,20 +30,20 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-2",
-    "vp": 17
+    "vp": 18
    },
    {
     "id": "139924",
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "16:40",
+    "sure": "17:34",
     "sayi": 2,
     "iki": [
      1,
@@ -73,7 +73,7 @@
     "ad": "Gökhan Akkoyun",
     "no": "6",
     "ilk5": true,
-    "sure": "8:16",
+    "sure": "9:11",
     "sayi": 1,
     "iki": [
      0,
@@ -103,7 +103,7 @@
     "ad": "Mustafa Baştürk",
     "no": "12",
     "ilk5": true,
-    "sure": "14:52",
+    "sure": "15:46",
     "sayi": 9,
     "iki": [
      2,
@@ -133,8 +133,8 @@
     "ad": "Julien Ducree",
     "no": "54",
     "ilk5": true,
-    "sure": "15:50",
-    "sayi": 6,
+    "sure": "16:44",
+    "sayi": 8,
     "iki": [
      2,
      6
@@ -144,8 +144,8 @@
      0
     ],
     "sa": [
-     2,
-     2
+     4,
+     4
     ],
     "hr": 2,
     "sr": 3,
@@ -156,7 +156,7 @@
     "tk": 2,
     "faul": 1,
     "pm": "0",
-    "vp": 8
+    "vp": 10
    },
    {
     "id": "502279",
@@ -371,19 +371,19 @@
   ],
   "ceyrekler": [
    25,
-   11
+   13
   ]
  },
  "dep": {
   "ad": "KİPAŞ K.B.B.",
-  "skor": "38",
+  "skor": "40",
   "oyuncular": [
    {
     "id": "777125",
     "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": true,
-    "sure": "15:33",
+    "sure": "16:27",
     "sayi": 7,
     "iki": [
      0,
@@ -413,7 +413,7 @@
     "ad": "Koray Çekici",
     "no": "6",
     "ilk5": true,
-    "sure": "11:44",
+    "sure": "12:38",
     "sayi": 2,
     "iki": [
      1,
@@ -443,7 +443,7 @@
     "ad": "Batın Tuna",
     "no": "7",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:55",
     "sayi": 7,
     "iki": [
      2,
@@ -533,7 +533,7 @@
     "ad": "Burak Gözeneli",
     "no": "4",
     "ilk5": false,
-    "sure": "12:38",
+    "sure": "13:32",
     "sayi": 3,
     "iki": [
      0,
@@ -623,11 +623,11 @@
     "ad": "Deniz Çelen",
     "no": "13",
     "ilk5": false,
-    "sure": "11:36",
-    "sayi": 0,
+    "sure": "12:30",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -644,9 +644,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "4",
-    "vp": -2
+    "vp": 0
    },
    {
     "id": "262737",
@@ -741,16 +741,16 @@
   ],
   "ceyrekler": [
    21,
-   17
+   19
   ]
  },
- "evSkor": "36",
- "depSkor": "38",
+ "evSkor": "38",
+ "depSkor": "40",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "00:56",
+  "saat": "00:01",
   "uzatma": false
  }
 }
