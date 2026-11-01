@@ -71,13 +71,18 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-11-01T15:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "iLab BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "33",
+   "depSkor": "20",
    "salon": "Selçuklu Belediyesi Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 2,
+    "saat": "05:47",
+    "uzatma": false
+   }
   },
   {
    "id": 345976,
@@ -1167,6 +1172,222 @@
    "saniye": 882,
    "maclar": [
     345982
+   ]
+  },
+  "782891": {
+   "ad": "Robert Smith",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 14,
+   "saniye": 759,
+   "maclar": [
+    345981
+   ]
+  },
+  "218578": {
+   "ad": "Ömer Yasir Küçük",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 10,
+   "saniye": 606,
+   "maclar": [
+    345981
+   ]
+  },
+  "488870": {
+   "ad": "Yiğit Çoban",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 6,
+   "saniye": 713,
+   "maclar": [
+    345981
+   ]
+  },
+  "211415": {
+   "ad": "Cengizhan İvedi",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 3,
+   "saniye": 508,
+   "maclar": [
+    345981
+   ]
+  },
+  "14106": {
+   "ad": "Doğan Şenli",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 9,
+   "saniye": 436,
+   "maclar": [
+    345981
+   ]
+  },
+  "284219": {
+   "ad": "Tarık Sezgün",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 417,
+   "maclar": [
+    345981
+   ]
+  },
+  "357281": {
+   "ad": "Yiğit Karalar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": -1,
+   "saniye": 345,
+   "maclar": [
+    345981
+   ]
+  },
+  "233847": {
+   "ad": "Atakan Erdek",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 41,
+   "maclar": [
+    345981
+   ]
+  },
+  "362839": {
+   "ad": "Mustafa Faruk Yerkazanoğlu",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345981
+   ]
+  },
+  "317314": {
+   "ad": "Enes Bayraktar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": -1,
+   "saniye": 300,
+   "maclar": [
+    345981
+   ]
+  },
+  "330206": {
+   "ad": "Arda Midye",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": -1,
+   "saniye": 140,
+   "maclar": [
+    345981
+   ]
+  },
+  "640045": {
+   "ad": "Okay Camgöz",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345981
+   ]
+  },
+  "287585": {
+   "ad": "Meriç Kuntker",
+   "takim": "iLab BASKETBOL",
+   "vp": 5,
+   "saniye": 699,
+   "maclar": [
+    345981
+   ]
+  },
+  "419692": {
+   "ad": "Yücel Çağın Başaran",
+   "takim": "iLab BASKETBOL",
+   "vp": 1,
+   "saniye": 349,
+   "maclar": [
+    345981
+   ]
+  },
+  "285246": {
+   "ad": "Batuhan Acar",
+   "takim": "iLab BASKETBOL",
+   "vp": 3,
+   "saniye": 616,
+   "maclar": [
+    345981
+   ]
+  },
+  "257839": {
+   "ad": "Cihat Dalgalı",
+   "takim": "iLab BASKETBOL",
+   "vp": -1,
+   "saniye": 768,
+   "maclar": [
+    345981
+   ]
+  },
+  "776565": {
+   "ad": "Jeremiah Lamonure Tilmon Jr",
+   "takim": "iLab BASKETBOL",
+   "vp": 1,
+   "saniye": 355,
+   "maclar": [
+    345981
+   ]
+  },
+  "223836": {
+   "ad": "Eray Akyüz",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345981
+   ]
+  },
+  "454037": {
+   "ad": "Emir Boran Deldağ",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345981
+   ]
+  },
+  "231062": {
+   "ad": "Can Kaan Turgut",
+   "takim": "iLab BASKETBOL",
+   "vp": 1,
+   "saniye": 504,
+   "maclar": [
+    345981
+   ]
+  },
+  "433761": {
+   "ad": "Ünal Çardak",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345981
+   ]
+  },
+  "446970": {
+   "ad": "Alperen Duruksu",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345981
+   ]
+  },
+  "288806": {
+   "ad": "Koralp Türk",
+   "takim": "iLab BASKETBOL",
+   "vp": 3,
+   "saniye": 596,
+   "maclar": [
+    345981
+   ]
+  },
+  "393623": {
+   "ad": "Aybars Varlı",
+   "takim": "iLab BASKETBOL",
+   "vp": -1,
+   "saniye": 378,
+   "maclar": [
+    345981
    ]
   }
  }

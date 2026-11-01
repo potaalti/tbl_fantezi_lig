@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "2",
+  "skor": "6",
   "oyuncular": [
    {
     "id": "54659",
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": true,
-    "sure": "1:44",
+    "sure": "2:41",
     "sayi": 0,
     "iki": [
      0,
@@ -34,8 +34,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "-1",
+    "faul": 1,
+    "pm": "0",
     "vp": 0
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Johnny  Juzang",
     "no": "9",
     "ilk5": true,
-    "sure": "1:44",
+    "sure": "2:41",
     "sayi": 0,
     "iki": [
      0,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "0",
     "vp": -1
    },
    {
@@ -73,37 +73,37 @@
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "1:44",
-    "sayi": 0,
+    "sure": "2:41",
+    "sayi": 3,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
-    "vp": 0
+    "pm": "0",
+    "vp": 4
    },
    {
     "id": "777675",
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "1:44",
+    "sure": "2:41",
     "sayi": 2,
     "iki": [
      1,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "0",
     "vp": 4
    },
    {
@@ -133,11 +133,11 @@
     "ad": "Ignas Sargiunas",
     "no": "43",
     "ilk5": true,
-    "sure": "1:44",
-    "sayi": 0,
+    "sure": "2:41",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-1",
-    "vp": -2
+    "pm": "0",
+    "vp": 0
    },
    {
     "id": "442131",
@@ -370,20 +370,20 @@
    }
   ],
   "ceyrekler": [
-   2
+   7
   ]
  },
  "dep": {
   "ad": "TOFAŞ",
-  "skor": "3",
+  "skor": "7",
   "oyuncular": [
    {
     "id": "227173",
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": true,
-    "sure": "1:44",
-    "sayi": 0,
+    "sure": "2:41",
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -393,8 +393,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -404,15 +404,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 1
+    "pm": "0",
+    "vp": 3
    },
    {
     "id": "508900",
     "ad": "Jamuni Mcneace",
     "no": "8",
     "ilk5": true,
-    "sure": "1:44",
+    "sure": "2:41",
     "sayi": 0,
     "iki": [
      0,
@@ -434,7 +434,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "0",
     "vp": 0
    },
    {
@@ -442,7 +442,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "1:44",
+    "sure": "2:41",
     "sayi": 0,
     "iki": [
      0,
@@ -464,7 +464,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "0",
     "vp": 0
    },
    {
@@ -472,11 +472,11 @@
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": true,
-    "sure": "1:44",
-    "sayi": 0,
+    "sure": "2:41",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -494,15 +494,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "1",
-    "vp": -1
+    "pm": "0",
+    "vp": 1
    },
    {
     "id": "778401",
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "1:44",
+    "sure": "2:41",
     "sayi": 3,
     "iki": [
      0,
@@ -519,13 +519,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
-    "pm": "1",
-    "vp": 3
+    "faul": 1,
+    "pm": "0",
+    "vp": 4
    },
    {
     "id": "452216",
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   3
+   7
   ]
  },
- "evSkor": "2",
- "depSkor": "3",
+ "evSkor": "6",
+ "depSkor": "7",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "08:16",
+  "saat": "07:19",
   "uzatma": false
  }
 }
