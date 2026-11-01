@@ -7549,7 +7549,7 @@
     "ad": "Jordan Usher",
     "takim": "ESENLER EROKSPOR",
     "pm": 13,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7585,7 +7585,7 @@
     "ad": "Metehan Akyel",
     "takim": "ESENLER EROKSPOR",
     "pm": 9,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7635,15 +7635,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "778080",
-    "ad": "Dallas Moore",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 8,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "307500",
     "ad": "Mehmet Oğuzhan Kızıl",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -7651,6 +7642,15 @@
     "fark": 15,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778726",
+    "ad": "Anthony Lamb",
+    "takim": "TÜRK TELEKOM",
+    "pm": 7,
+    "fark": 3,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "105532",
@@ -7662,6 +7662,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "778080",
+    "ad": "Dallas Moore",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 6,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "734505",
     "ad": "Trevion Williams",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -7671,20 +7680,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "778726",
-    "ad": "Anthony Lamb",
-    "takim": "TÜRK TELEKOM",
-    "pm": 5,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "202579",
     "ad": "Ata Kahraman",
     "takim": "TÜRK TELEKOM",
     "pm": 5,
-    "fark": 1,
+    "fark": 3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7698,29 +7698,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "667498",
-    "ad": "James Webb Iii",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 4,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "606624",
-    "ad": "Mike Davis Jr.",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 4,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "386159",
     "ad": "Shaquille Mckissic",
     "takim": "TÜRK TELEKOM",
     "pm": 4,
-    "fark": 1,
+    "fark": 3,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7747,7 +7729,7 @@
     "ad": "Emircan Koşut",
     "takim": "TÜRK TELEKOM",
     "pm": 3,
-    "fark": 1,
+    "fark": 3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7757,6 +7739,24 @@
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 3,
     "fark": 15,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "667498",
+    "ad": "James Webb Iii",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 2,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "606624",
+    "ad": "Mike Davis Jr.",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 2,
+    "fark": -3,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7806,6 +7806,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "778728",
+    "ad": "Jerrick Harding",
+    "takim": "TÜRK TELEKOM",
+    "pm": 1,
+    "fark": 3,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "384595",
     "ad": "Mateusz Ponitka",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -7833,13 +7842,31 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "129216",
+    "ad": "Doğuş Özdemiroğlu",
+    "takim": "TÜRK TELEKOM",
+    "pm": 0,
+    "fark": 3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "778727",
     "ad": "Ismael Bako",
     "takim": "TÜRK TELEKOM",
     "pm": 0,
-    "fark": 1,
+    "fark": 3,
     "mac": 1,
     "ulke": "BELÇİKA"
+   },
+   {
+    "id": "668012",
+    "ad": "Kris Bankston",
+    "takim": "TÜRK TELEKOM",
+    "pm": 0,
+    "fark": 3,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "354404",
@@ -7882,25 +7909,16 @@
     "ad": "Muhsin Yaşar",
     "takim": "ESENLER EROKSPOR",
     "pm": -1,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778728",
-    "ad": "Jerrick Harding",
-    "takim": "TÜRK TELEKOM",
-    "pm": -1,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "384165",
     "ad": "Tim Schneider",
     "takim": "TÜRK TELEKOM",
     "pm": -1,
-    "fark": 1,
+    "fark": 3,
     "mac": 1,
     "ulke": "ALMANYA"
    },
@@ -7968,24 +7986,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "129216",
-    "ad": "Doğuş Özdemiroğlu",
-    "takim": "TÜRK TELEKOM",
-    "pm": -2,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "668012",
-    "ad": "Kris Bankston",
-    "takim": "TÜRK TELEKOM",
-    "pm": -2,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "779274",
     "ad": "Oumar Ballo",
     "takim": "GALATASARAY MCT TECHNIC",
@@ -8035,9 +8035,18 @@
     "ad": "Melih Tunca",
     "takim": "ESENLER EROKSPOR",
     "pm": -4,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "418533",
+    "ad": "Uros Trifunovic",
+    "takim": "TÜRK TELEKOM",
+    "pm": -4,
+    "fark": 3,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
    },
    {
     "id": "741031",
@@ -8080,7 +8089,7 @@
     "ad": "Amadou Sow",
     "takim": "ESENLER EROKSPOR",
     "pm": -5,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "MALİ"
    },
@@ -8089,7 +8098,7 @@
     "ad": "Errick Mccollum",
     "takim": "ESENLER EROKSPOR",
     "pm": -5,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -8110,15 +8119,6 @@
     "fark": -6,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "418533",
-    "ad": "Uros Trifunovic",
-    "takim": "TÜRK TELEKOM",
-    "pm": -6,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
    },
    {
     "id": "609095",
@@ -8157,20 +8157,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "120437",
-    "ad": "Egehan Arna",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -9,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "57737",
     "ad": "Yunus Emre Sonsırma",
     "takim": "ESENLER EROKSPOR",
     "pm": -9,
-    "fark": -1,
+    "fark": -3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8193,13 +8184,13 @@
     "ulke": "ABD"
    },
    {
-    "id": "776570",
-    "ad": "Kevin Yebo",
+    "id": "120437",
+    "ad": "Egehan Arna",
     "takim": "ESENLER EROKSPOR",
-    "pm": -10,
-    "fark": -1,
+    "pm": -11,
+    "fark": -3,
     "mac": 1,
-    "ulke": "ALMANYA"
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "373162",
@@ -8209,6 +8200,15 @@
     "fark": -13,
     "mac": 1,
     "ulke": "SIRBİSTAN"
+   },
+   {
+    "id": "776570",
+    "ad": "Kevin Yebo",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -12,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "ALMANYA"
    },
    {
     "id": "776935",
@@ -8290,8 +8290,17 @@
    "ad": "Shaquille Mckissic",
    "takim": "TÜRK TELEKOM",
    "pm": 49,
-   "fark": 48,
+   "fark": 50,
    "mac": 4,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778726",
+   "ad": "Anthony Lamb",
+   "takim": "TÜRK TELEKOM",
+   "pm": 47,
+   "fark": 46,
+   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -8304,21 +8313,30 @@
    "ulke": "BAHAMALAR"
   },
   {
-   "id": "778726",
-   "ad": "Anthony Lamb",
-   "takim": "TÜRK TELEKOM",
-   "pm": 45,
-   "fark": 44,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "735811",
    "ad": "Talen Horton-Tucker",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 44,
    "fark": 6,
    "mac": 4,
+   "ulke": "ABD"
+  },
+  {
+   "id": "129216",
+   "ad": "Doğuş Özdemiroğlu",
+   "takim": "TÜRK TELEKOM",
+   "pm": 42,
+   "fark": 46,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "668012",
+   "ad": "Kris Bankston",
+   "takim": "TÜRK TELEKOM",
+   "pm": 42,
+   "fark": 46,
+   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -8336,24 +8354,6 @@
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 40,
    "fark": 32,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "129216",
-   "ad": "Doğuş Özdemiroğlu",
-   "takim": "TÜRK TELEKOM",
-   "pm": 40,
-   "fark": 44,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "668012",
-   "ad": "Kris Bankston",
-   "takim": "TÜRK TELEKOM",
-   "pm": 40,
-   "fark": 44,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -8388,8 +8388,8 @@
    "id": "606624",
    "ad": "Mike Davis Jr.",
    "takim": "ESENLER EROKSPOR",
-   "pm": 34,
-   "fark": 13,
+   "pm": 32,
+   "fark": 11,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -8565,15 +8565,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "120437",
-   "ad": "Egehan Arna",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 21,
-   "fark": 13,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "782949",
    "ad": "Cameron Payne",
    "takim": "ANADOLU EFES",
@@ -8614,9 +8605,18 @@
    "ad": "Amadou Sow",
    "takim": "ESENLER EROKSPOR",
    "pm": 19,
-   "fark": 13,
+   "fark": 11,
    "mac": 6,
    "ulke": "MALİ"
+  },
+  {
+   "id": "120437",
+   "ad": "Egehan Arna",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 19,
+   "fark": 11,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "384595",
@@ -8655,15 +8655,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778080",
-   "ad": "Dallas Moore",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 17,
-   "fark": 2,
-   "mac": 2,
-   "ulke": "ABD"
-  },
-  {
    "id": "27541",
    "ad": "Melih Mahmutoğlu",
    "takim": "FENERBAHÇE TARFİN",
@@ -8688,6 +8679,24 @@
    "pm": 16,
    "fark": 8,
    "mac": 6,
+   "ulke": "ABD"
+  },
+  {
+   "id": "418533",
+   "ad": "Uros Trifunovic",
+   "takim": "TÜRK TELEKOM",
+   "pm": 16,
+   "fark": 46,
+   "mac": 6,
+   "ulke": "SIRBİSTAN"
+  },
+  {
+   "id": "778080",
+   "ad": "Dallas Moore",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 15,
+   "fark": 0,
+   "mac": 2,
    "ulke": "ABD"
   },
   {
@@ -8718,15 +8727,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "418533",
-   "ad": "Uros Trifunovic",
-   "takim": "TÜRK TELEKOM",
-   "pm": 14,
-   "fark": 44,
-   "mac": 6,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "500079",
    "ad": "Rashard Kelly",
    "takim": "KARŞIYAKA",
@@ -8749,7 +8749,7 @@
    "ad": "Ata Kahraman",
    "takim": "TÜRK TELEKOM",
    "pm": 13,
-   "fark": 44,
+   "fark": 46,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -8761,15 +8761,6 @@
    "fark": -23,
    "mac": 4,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "776570",
-   "ad": "Kevin Yebo",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 12,
-   "fark": 13,
-   "mac": 6,
-   "ulke": "ALMANYA"
   },
   {
    "id": "778423",
@@ -8808,6 +8799,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "776570",
+   "ad": "Kevin Yebo",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 10,
+   "fark": 11,
+   "mac": 6,
+   "ulke": "ALMANYA"
+  },
+  {
    "id": "778400",
    "ad": "Collin Malcolm",
    "takim": "ANADOLU EFES",
@@ -8830,7 +8830,7 @@
    "ad": "Ismael Bako",
    "takim": "TÜRK TELEKOM",
    "pm": 10,
-   "fark": 44,
+   "fark": 46,
    "mac": 6,
    "ulke": "BELÇİKA"
   },
@@ -8920,7 +8920,7 @@
    "ad": "Metehan Akyel",
    "takim": "ESENLER EROKSPOR",
    "pm": 6,
-   "fark": -1,
+   "fark": -3,
    "mac": 3,
    "ulke": "TÜRKİYE"
   },
@@ -9082,7 +9082,7 @@
    "ad": "Emircan Koşut",
    "takim": "TÜRK TELEKOM",
    "pm": 1,
-   "fark": 23,
+   "fark": 25,
    "mac": 3,
    "ulke": "TÜRKİYE"
   },
@@ -9240,6 +9240,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "778728",
+   "ad": "Jerrick Harding",
+   "takim": "TÜRK TELEKOM",
+   "pm": -2,
+   "fark": 25,
+   "mac": 5,
+   "ulke": "ABD"
+  },
+  {
    "id": "608898",
    "ad": "Tyler Cavanaugh",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -9343,16 +9352,7 @@
    "ad": "Jordan Usher",
    "takim": "ESENLER EROKSPOR",
    "pm": -4,
-   "fark": 10,
-   "mac": 5,
-   "ulke": "ABD"
-  },
-  {
-   "id": "778728",
-   "ad": "Jerrick Harding",
-   "takim": "TÜRK TELEKOM",
-   "pm": -4,
-   "fark": 23,
+   "fark": 8,
    "mac": 5,
    "ulke": "ABD"
   },
@@ -9372,15 +9372,6 @@
    "pm": -5,
    "fark": 11,
    "mac": 3,
-   "ulke": "ABD"
-  },
-  {
-   "id": "667498",
-   "ad": "James Webb Iii",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -5,
-   "fark": 13,
-   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -9447,11 +9438,20 @@
    "ulke": "ABD"
   },
   {
+   "id": "667498",
+   "ad": "James Webb Iii",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -7,
+   "fark": 11,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "384165",
    "ad": "Tim Schneider",
    "takim": "TÜRK TELEKOM",
    "pm": -7,
-   "fark": 19,
+   "fark": 21,
    "mac": 5,
    "ulke": "ALMANYA"
   },
@@ -9523,7 +9523,7 @@
    "ad": "Muhsin Yaşar",
    "takim": "ESENLER EROKSPOR",
    "pm": -9,
-   "fark": 13,
+   "fark": 11,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -9649,7 +9649,7 @@
    "ad": "Melih Tunca",
    "takim": "ESENLER EROKSPOR",
    "pm": -12,
-   "fark": 5,
+   "fark": 3,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -9676,7 +9676,7 @@
    "ad": "Yunus Emre Sonsırma",
    "takim": "ESENLER EROKSPOR",
    "pm": -13,
-   "fark": -10,
+   "fark": -12,
    "mac": 2,
    "ulke": "TÜRKİYE"
   },
@@ -9847,7 +9847,7 @@
    "ad": "Errick Mccollum",
    "takim": "ESENLER EROKSPOR",
    "pm": -23,
-   "fark": 13,
+   "fark": 11,
    "mac": 6,
    "ulke": "ABD"
   },
