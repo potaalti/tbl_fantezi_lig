@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "38",
+  "skor": "41",
   "oyuncular": [
    {
     "id": "54659",
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": true,
-    "sure": "6:11",
+    "sure": "6:54",
     "sayi": 2,
     "iki": [
      0,
@@ -31,12 +31,12 @@
     "sr": 0,
     "rib": 0,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "3",
-    "vp": 3
+    "pm": "6",
+    "vp": 4
    },
    {
     "id": "777679",
@@ -103,7 +103,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "8:11",
+    "sure": "8:53",
     "sayi": 9,
     "iki": [
      3,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "8",
     "vp": 15
    },
    {
@@ -133,15 +133,15 @@
     "ad": "Ignas Sargiunas",
     "no": "43",
     "ilk5": true,
-    "sure": "9:32",
-    "sayi": 7,
+    "sure": "10:14",
+    "sayi": 10,
     "iki": [
      2,
      3
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      3,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "1",
-    "vp": 4
+    "pm": "4",
+    "vp": 7
    },
    {
     "id": "442131",
@@ -223,7 +223,7 @@
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "5:36",
+    "sure": "6:18",
     "sayi": 3,
     "iki": [
      1,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-2",
     "vp": 2
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Melih Mahmutoğlu",
     "no": "10",
     "ilk5": false,
-    "sure": "5:12",
+    "sure": "5:54",
     "sayi": 0,
     "iki": [
      0,
@@ -270,13 +270,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": -1
+    "pm": "1",
+    "vp": 0
    },
    {
     "id": "144725",
@@ -371,7 +371,7 @@
   ],
   "ceyrekler": [
    25,
-   13
+   16
   ]
  },
  "dep": {
@@ -443,7 +443,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "9:16",
+    "sure": "9:58",
     "sayi": 3,
     "iki": [
      0,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-3",
     "vp": 4
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": true,
-    "sure": "7:11",
+    "sure": "7:53",
     "sayi": 4,
     "iki": [
      2,
@@ -493,10 +493,10 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 0,
-    "pm": "5",
-    "vp": 3
+    "pm": "2",
+    "vp": 2
    },
    {
     "id": "778401",
@@ -623,7 +623,7 @@
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "5:30",
+    "sure": "6:12",
     "sayi": 1,
     "iki": [
      0,
@@ -644,8 +644,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
-    "pm": "3",
+    "faul": 3,
+    "pm": "0",
     "vp": 1
    },
    {
@@ -653,7 +653,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "8:15",
+    "sure": "8:57",
     "sayi": 5,
     "iki": [
      0,
@@ -675,7 +675,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-7",
+    "pm": "-10",
     "vp": 3
    },
    {
@@ -713,7 +713,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "9:58",
+    "sure": "10:40",
     "sayi": 0,
     "iki": [
      0,
@@ -735,7 +735,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
+    "pm": "3",
     "vp": 0
    }
   ],
@@ -744,13 +744,13 @@
    17
   ]
  },
- "evSkor": "38",
+ "evSkor": "41",
  "depSkor": "38",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:11",
+  "saat": "02:29",
   "uzatma": false
  }
 }
