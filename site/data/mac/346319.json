@@ -193,7 +193,7 @@
     "ad": "Marcus Bingham Jr.",
     "no": "1",
     "ilk5": false,
-    "sure": "16:33",
+    "sure": "17:00",
     "sayi": 5,
     "iki": [
      0,
@@ -223,7 +223,7 @@
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "14:22",
+    "sure": "14:49",
     "sayi": 8,
     "iki": [
      1,
@@ -253,7 +253,7 @@
     "ad": "Melih Mahmutoğlu",
     "no": "10",
     "ilk5": false,
-    "sure": "9:26",
+    "sure": "9:53",
     "sayi": 4,
     "iki": [
      0,
@@ -283,7 +283,7 @@
     "ad": "Onuralp Bitim",
     "no": "17",
     "ilk5": false,
-    "sure": "9:22",
+    "sure": "9:49",
     "sayi": 2,
     "iki": [
      1,
@@ -313,7 +313,7 @@
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "11:59",
+    "sure": "12:26",
     "sayi": 3,
     "iki": [
      1,
@@ -372,7 +372,8 @@
   "ceyrekler": [
    25,
    22,
-   23
+   23,
+   0
   ]
  },
  "dep": {
@@ -384,7 +385,7 @@
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": true,
-    "sure": "20:22",
+    "sure": "20:49",
     "sayi": 7,
     "iki": [
      2,
@@ -594,11 +595,11 @@
     "ad": "Zach Nutall",
     "no": "10",
     "ilk5": false,
-    "sure": "20:30",
+    "sure": "20:57",
     "sayi": 10,
     "iki": [
      2,
-     6
+     7
     ],
     "uc": [
      2,
@@ -617,14 +618,14 @@
     "tk": 1,
     "faul": 2,
     "pm": "-11",
-    "vp": 5
+    "vp": 4
    },
    {
     "id": "434482",
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "13:57",
+    "sure": "14:24",
     "sayi": 3,
     "iki": [
      1,
@@ -638,23 +639,23 @@
      1,
      2
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 2,
-    "rib": 2,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 3,
     "pm": "-9",
-    "vp": 4
+    "vp": 5
    },
    {
     "id": "778399",
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "12:10",
+    "sure": "12:37",
     "sayi": 7,
     "iki": [
      0,
@@ -714,7 +715,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "11:57",
+    "sure": "12:24",
     "sayi": 0,
     "iki": [
      0,
@@ -743,7 +744,8 @@
   "ceyrekler": [
    21,
    22,
-   16
+   16,
+   0
   ]
  },
  "evSkor": "70",
@@ -752,7 +754,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "10:00",
+  "saat": "09:35",
   "uzatma": false
  }
 }
