@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "22",
+  "skor": "24",
   "oyuncular": [
    {
     "id": "54659",
@@ -163,7 +163,7 @@
     "ad": "Shane Larkin",
     "no": "0",
     "ilk5": false,
-    "sure": "3:49",
+    "sure": "4:40",
     "sayi": 0,
     "iki": [
      0,
@@ -185,7 +185,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
+    "pm": "5",
     "vp": 0
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Marcus Bingham Jr.",
     "no": "1",
     "ilk5": false,
-    "sure": "3:49",
+    "sure": "4:40",
     "sayi": 2,
     "iki": [
      0,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "7",
+    "pm": "5",
     "vp": 3
    },
    {
@@ -223,11 +223,11 @@
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "2:07",
-    "sayi": 0,
+    "sure": "2:58",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -245,8 +245,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "2",
-    "vp": 0
+    "pm": "0",
+    "vp": 2
    },
    {
     "id": "27541",
@@ -283,7 +283,7 @@
     "ad": "Onuralp Bitim",
     "no": "17",
     "ilk5": false,
-    "sure": "0:33",
+    "sure": "1:24",
     "sayi": 0,
     "iki": [
      0,
@@ -304,8 +304,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "0",
+    "faul": 2,
+    "pm": "-2",
     "vp": 0
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "2:07",
+    "sure": "2:58",
     "sayi": 0,
     "iki": [
      0,
@@ -335,7 +335,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 0
    },
    {
@@ -370,20 +370,20 @@
    }
   ],
   "ceyrekler": [
-   22
+   24
   ]
  },
  "dep": {
   "ad": "TOFAŞ",
-  "skor": "13",
+  "skor": "16",
   "oyuncular": [
    {
     "id": "227173",
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": true,
-    "sure": "6:12",
-    "sayi": 2,
+    "sure": "7:03",
+    "sayi": 3,
     "iki": [
      0,
      1
@@ -393,8 +393,8 @@
      1
     ],
     "sa": [
-     2,
-     2
+     3,
+     3
     ],
     "hr": 0,
     "sr": 1,
@@ -404,8 +404,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-7",
-    "vp": 1
+    "pm": "-5",
+    "vp": 2
    },
    {
     "id": "508900",
@@ -502,7 +502,7 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "5:05",
+    "sure": "5:56",
     "sayi": 5,
     "iki": [
      1,
@@ -519,13 +519,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "0",
-    "vp": 5
+    "pm": "2",
+    "vp": 6
    },
    {
     "id": "452216",
@@ -592,15 +592,15 @@
     "ad": "Zach Nutall",
     "no": "10",
     "ilk5": false,
-    "sure": "3:59",
-    "sayi": 2,
+    "sure": "4:50",
+    "sayi": 5,
     "iki": [
      1,
      2
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -614,15 +614,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-9",
-    "vp": 1
+    "pm": "-7",
+    "vp": 4
    },
    {
     "id": "434482",
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "2:07",
+    "sure": "2:58",
     "sayi": 0,
     "iki": [
      0,
@@ -644,7 +644,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "0",
     "vp": 1
    },
    {
@@ -712,7 +712,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "3:21",
+    "sure": "4:12",
     "sayi": 0,
     "iki": [
      0,
@@ -734,21 +734,21 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
+    "pm": "-2",
     "vp": -1
    }
   ],
   "ceyrekler": [
-   13
+   17
   ]
  },
- "evSkor": "22",
- "depSkor": "13",
+ "evSkor": "24",
+ "depSkor": "16",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:14",
+  "saat": "01:23",
   "uzatma": false
  }
 }
