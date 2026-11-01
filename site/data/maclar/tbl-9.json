@@ -16,19 +16,6 @@
    "yayin": "Youtube / TBF TV"
   },
   {
-   "id": 345978,
-   "lig": "tbl",
-   "hafta": 9,
-   "tarih": "2026-10-31T16:00:00",
-   "durum": "bitti",
-   "ev": "MERSİN SPOR",
-   "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "100",
-   "depSkor": "65",
-   "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV"
-  },
-  {
    "id": 345983,
    "lig": "tbl",
    "hafta": 9,
@@ -39,6 +26,19 @@
    "evSkor": "92",
    "depSkor": "90",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345978,
+   "lig": "tbl",
+   "hafta": 9,
+   "tarih": "2026-10-31T16:00:00",
+   "durum": "bitti",
+   "ev": "MERSİN SPOR",
+   "dep": "TED ANKARA KOLEJLİLER",
+   "evSkor": "100",
+   "depSkor": "65",
+   "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
@@ -98,18 +98,13 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-11-01T16:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "BÜYÜKÇEKMECE BASKETBOL",
    "dep": "KİPAŞ K.B.B.",
    "evSkor": "70",
    "depSkor": "78",
    "salon": "Gazanfer Bilge Spor Salonu",
-   "yayin": "HT SPOR",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "HT SPOR"
   }
  ]
 }

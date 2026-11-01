@@ -15,19 +15,6 @@
    "yayin": "Youtube / TBF TV"
   },
   {
-   "id": 345978,
-   "lig": "tbl",
-   "hafta": 9,
-   "tarih": "2026-10-31T16:00:00",
-   "durum": "bitti",
-   "ev": "MERSİN SPOR",
-   "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "100",
-   "depSkor": "65",
-   "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV"
-  },
-  {
    "id": 345983,
    "lig": "tbl",
    "hafta": 9,
@@ -38,6 +25,19 @@
    "evSkor": "92",
    "depSkor": "90",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345978,
+   "lig": "tbl",
+   "hafta": 9,
+   "tarih": "2026-10-31T16:00:00",
+   "durum": "bitti",
+   "ev": "MERSİN SPOR",
+   "dep": "TED ANKARA KOLEJLİLER",
+   "evSkor": "100",
+   "depSkor": "65",
+   "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
@@ -97,18 +97,13 @@
    "lig": "tbl",
    "hafta": 9,
    "tarih": "2026-11-01T16:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "BÜYÜKÇEKMECE BASKETBOL",
    "dep": "KİPAŞ K.B.B.",
    "evSkor": "70",
    "depSkor": "78",
    "salon": "Gazanfer Bilge Spor Salonu",
-   "yayin": "HT SPOR",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "HT SPOR"
   }
  ],
  "oyuncular": {
@@ -328,213 +323,6 @@
     345980
    ]
   },
-  "777508": {
-   "ad": "Kruize Pinkins",
-   "takim": "MERSİN SPOR",
-   "vp": 12,
-   "saniye": 1323,
-   "maclar": [
-    345978
-   ]
-  },
-  "225810": {
-   "ad": "Troy Şav",
-   "takim": "MERSİN SPOR",
-   "vp": 17,
-   "saniye": 1423,
-   "maclar": [
-    345978
-   ]
-  },
-  "130546": {
-   "ad": "Arca Tülüoğlu",
-   "takim": "MERSİN SPOR",
-   "vp": 12,
-   "saniye": 1422,
-   "maclar": [
-    345978
-   ]
-  },
-  "632441": {
-   "ad": "Mike Smith",
-   "takim": "MERSİN SPOR",
-   "vp": 17,
-   "saniye": 1560,
-   "maclar": [
-    345978
-   ]
-  },
-  "123649": {
-   "ad": "Alp Karahan",
-   "takim": "MERSİN SPOR",
-   "vp": 2,
-   "saniye": 972,
-   "maclar": [
-    345978
-   ]
-  },
-  "320264": {
-   "ad": "Turan Altunbaş",
-   "takim": "MERSİN SPOR",
-   "vp": 6,
-   "saniye": 348,
-   "maclar": [
-    345978
-   ]
-  },
-  "431495": {
-   "ad": "Berat Ege Bulut",
-   "takim": "MERSİN SPOR",
-   "vp": 1,
-   "saniye": 273,
-   "maclar": [
-    345978
-   ]
-  },
-  "379811": {
-   "ad": "Işık Ali Akpınar",
-   "takim": "MERSİN SPOR",
-   "vp": 0,
-   "saniye": 237,
-   "maclar": [
-    345978
-   ]
-  },
-  "61192": {
-   "ad": "Dorukhan Engindeniz",
-   "takim": "MERSİN SPOR",
-   "vp": 7,
-   "saniye": 1173,
-   "maclar": [
-    345978
-   ]
-  },
-  "214924": {
-   "ad": "Yesukan Onar",
-   "takim": "MERSİN SPOR",
-   "vp": 16,
-   "saniye": 1017,
-   "maclar": [
-    345978
-   ]
-  },
-  "132341": {
-   "ad": "Kaan Sarıaslan",
-   "takim": "MERSİN SPOR",
-   "vp": 21,
-   "saniye": 1212,
-   "maclar": [
-    345978
-   ]
-  },
-  "202372": {
-   "ad": "Yiğit Baran Sarıkaya",
-   "takim": "MERSİN SPOR",
-   "vp": 13,
-   "saniye": 1041,
-   "maclar": [
-    345978
-   ]
-  },
-  "776821": {
-   "ad": "Vitalis Chikoko",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 15,
-   "saniye": 1415,
-   "maclar": [
-    345978
-   ]
-  },
-  "46863": {
-   "ad": "Caner Ercan",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 5,
-   "saniye": 1360,
-   "maclar": [
-    345978
-   ]
-  },
-  "380030": {
-   "ad": "Tan Ayyıldız",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 6,
-   "saniye": 1503,
-   "maclar": [
-    345978
-   ]
-  },
-  "500443": {
-   "ad": "Maurice Watson Jr.",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 8,
-   "saniye": 1887,
-   "maclar": [
-    345978
-   ]
-  },
-  "222696": {
-   "ad": "Burak Erol",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 12,
-   "saniye": 1860,
-   "maclar": [
-    345978
-   ]
-  },
-  "372344": {
-   "ad": "Ege Ersun",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 0,
-   "saniye": 666,
-   "maclar": [
-    345978
-   ]
-  },
-  "316543": {
-   "ad": "Can Sayın",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 1,
-   "saniye": 299,
-   "maclar": [
-    345978
-   ]
-  },
-  "408965": {
-   "ad": "Eren Karakaya",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": -1,
-   "saniye": 548,
-   "maclar": [
-    345978
-   ]
-  },
-  "248386": {
-   "ad": "Berkay Genç",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 8,
-   "saniye": 857,
-   "maclar": [
-    345978
-   ]
-  },
-  "363336": {
-   "ad": "Doğukan Seyhan",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 3,
-   "saniye": 574,
-   "maclar": [
-    345978
-   ]
-  },
-  "223180": {
-   "ad": "Gökhan Yazıcıoğlu",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 2,
-   "saniye": 1032,
-   "maclar": [
-    345978
-   ]
-  },
   "109594": {
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
@@ -740,6 +528,213 @@
    "saniye": 0,
    "maclar": [
     345983
+   ]
+  },
+  "777508": {
+   "ad": "Kruize Pinkins",
+   "takim": "MERSİN SPOR",
+   "vp": 12,
+   "saniye": 1323,
+   "maclar": [
+    345978
+   ]
+  },
+  "225810": {
+   "ad": "Troy Şav",
+   "takim": "MERSİN SPOR",
+   "vp": 17,
+   "saniye": 1423,
+   "maclar": [
+    345978
+   ]
+  },
+  "130546": {
+   "ad": "Arca Tülüoğlu",
+   "takim": "MERSİN SPOR",
+   "vp": 12,
+   "saniye": 1422,
+   "maclar": [
+    345978
+   ]
+  },
+  "632441": {
+   "ad": "Mike Smith",
+   "takim": "MERSİN SPOR",
+   "vp": 17,
+   "saniye": 1560,
+   "maclar": [
+    345978
+   ]
+  },
+  "123649": {
+   "ad": "Alp Karahan",
+   "takim": "MERSİN SPOR",
+   "vp": 2,
+   "saniye": 972,
+   "maclar": [
+    345978
+   ]
+  },
+  "320264": {
+   "ad": "Turan Altunbaş",
+   "takim": "MERSİN SPOR",
+   "vp": 6,
+   "saniye": 348,
+   "maclar": [
+    345978
+   ]
+  },
+  "431495": {
+   "ad": "Berat Ege Bulut",
+   "takim": "MERSİN SPOR",
+   "vp": 1,
+   "saniye": 273,
+   "maclar": [
+    345978
+   ]
+  },
+  "379811": {
+   "ad": "Işık Ali Akpınar",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 237,
+   "maclar": [
+    345978
+   ]
+  },
+  "61192": {
+   "ad": "Dorukhan Engindeniz",
+   "takim": "MERSİN SPOR",
+   "vp": 7,
+   "saniye": 1173,
+   "maclar": [
+    345978
+   ]
+  },
+  "214924": {
+   "ad": "Yesukan Onar",
+   "takim": "MERSİN SPOR",
+   "vp": 16,
+   "saniye": 1017,
+   "maclar": [
+    345978
+   ]
+  },
+  "132341": {
+   "ad": "Kaan Sarıaslan",
+   "takim": "MERSİN SPOR",
+   "vp": 21,
+   "saniye": 1212,
+   "maclar": [
+    345978
+   ]
+  },
+  "202372": {
+   "ad": "Yiğit Baran Sarıkaya",
+   "takim": "MERSİN SPOR",
+   "vp": 13,
+   "saniye": 1041,
+   "maclar": [
+    345978
+   ]
+  },
+  "776821": {
+   "ad": "Vitalis Chikoko",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 15,
+   "saniye": 1415,
+   "maclar": [
+    345978
+   ]
+  },
+  "46863": {
+   "ad": "Caner Ercan",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 5,
+   "saniye": 1360,
+   "maclar": [
+    345978
+   ]
+  },
+  "380030": {
+   "ad": "Tan Ayyıldız",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 6,
+   "saniye": 1503,
+   "maclar": [
+    345978
+   ]
+  },
+  "500443": {
+   "ad": "Maurice Watson Jr.",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 8,
+   "saniye": 1887,
+   "maclar": [
+    345978
+   ]
+  },
+  "222696": {
+   "ad": "Burak Erol",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 12,
+   "saniye": 1860,
+   "maclar": [
+    345978
+   ]
+  },
+  "372344": {
+   "ad": "Ege Ersun",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 666,
+   "maclar": [
+    345978
+   ]
+  },
+  "316543": {
+   "ad": "Can Sayın",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 1,
+   "saniye": 299,
+   "maclar": [
+    345978
+   ]
+  },
+  "408965": {
+   "ad": "Eren Karakaya",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": -1,
+   "saniye": 548,
+   "maclar": [
+    345978
+   ]
+  },
+  "248386": {
+   "ad": "Berkay Genç",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 8,
+   "saniye": 857,
+   "maclar": [
+    345978
+   ]
+  },
+  "363336": {
+   "ad": "Doğukan Seyhan",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 3,
+   "saniye": 574,
+   "maclar": [
+    345978
+   ]
+  },
+  "223180": {
+   "ad": "Gökhan Yazıcıoğlu",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 2,
+   "saniye": 1032,
+   "maclar": [
+    345978
    ]
   },
   "220370": {
