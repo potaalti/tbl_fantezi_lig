@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BURSASPOR BASKETBOL",
-  "skor": "67",
+  "skor": "70",
   "oyuncular": [
    {
     "id": "510723",
@@ -43,7 +43,7 @@
     "ad": "Javon Freeman-Liberty",
     "no": "4",
     "ilk5": true,
-    "sure": "27:00",
+    "sure": "27:19",
     "sayi": 21,
     "iki": [
      5,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-18",
+    "pm": "-15",
     "vp": 18
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "12:00",
+    "sure": "12:19",
     "sayi": 3,
     "iki": [
      1,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-7",
+    "pm": "-4",
     "vp": 0
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "22:34",
+    "sure": "22:53",
     "sayi": 10,
     "iki": [
      2,
@@ -148,30 +148,30 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 5,
+    "sr": 2,
+    "rib": 2,
+    "ast": 6,
     "tc": 1,
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "2",
-    "vp": 9
+    "pm": "5",
+    "vp": 11
    },
    {
     "id": "736260",
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "16:22",
-    "sayi": 10,
+    "sure": "16:41",
+    "sayi": 13,
     "iki": [
      3,
      5
     ],
     "uc": [
-     1,
-     2
+     2,
+     3
     ],
     "sa": [
      1,
@@ -185,8 +185,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "2",
-    "vp": 8
+    "pm": "5",
+    "vp": 11
    },
    {
     "id": "198380",
@@ -313,7 +313,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": false,
-    "sure": "17:55",
+    "sure": "18:14",
     "sayi": 4,
     "iki": [
      2,
@@ -335,7 +335,7 @@
     "blk": 3,
     "tk": 1,
     "faul": 4,
-    "pm": "2",
+    "pm": "5",
     "vp": 11
    },
    {
@@ -373,7 +373,7 @@
    19,
    20,
    18,
-   10
+   13
   ]
  },
  "dep": {
@@ -415,7 +415,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "31:27",
+    "sure": "31:46",
     "sayi": 15,
     "iki": [
      3,
@@ -423,7 +423,7 @@
     ],
     "uc": [
      2,
-     5
+     6
     ],
     "sa": [
      3,
@@ -437,15 +437,15 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "16",
-    "vp": 12
+    "pm": "13",
+    "vp": 11
    },
    {
     "id": "500079",
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "30:00",
+    "sure": "30:19",
     "sayi": 18,
     "iki": [
      4,
@@ -467,7 +467,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "16",
+    "pm": "13",
     "vp": 23
    },
    {
@@ -505,7 +505,7 @@
     "ad": "Steven Enoch",
     "no": "23",
     "ilk5": true,
-    "sure": "25:19",
+    "sure": "25:38",
     "sayi": 12,
     "iki": [
      3,
@@ -527,7 +527,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 2,
-    "pm": "0",
+    "pm": "-3",
     "vp": 20
    },
    {
@@ -535,7 +535,7 @@
     "ad": "Muhaymin Mustafa",
     "no": "1",
     "ilk5": false,
-    "sure": "9:11",
+    "sure": "9:30",
     "sayi": 9,
     "iki": [
      2,
@@ -557,7 +557,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 4,
-    "pm": "7",
+    "pm": "4",
     "vp": 16
    },
    {
@@ -565,7 +565,7 @@
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "19:10",
+    "sure": "19:29",
     "sayi": 7,
     "iki": [
      2,
@@ -587,7 +587,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "3",
+    "pm": "0",
     "vp": 7
    },
    {
@@ -748,13 +748,13 @@
    13
   ]
  },
- "evSkor": "67",
+ "evSkor": "70",
  "depSkor": "79",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "05:32",
+  "saat": "05:13",
   "uzatma": false
  }
 }
