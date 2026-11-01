@@ -73,7 +73,7 @@
     "ad": "Amadou Sow",
     "no": "12",
     "ilk5": true,
-    "sure": "13:45",
+    "sure": "13:48",
     "sayi": 7,
     "iki": [
      2,
@@ -95,7 +95,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "-13",
+    "pm": "-15",
     "vp": 8
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Dallas Moore",
     "no": "14",
     "ilk5": true,
-    "sure": "33:02",
+    "sure": "33:05",
     "sayi": 19,
     "iki": [
      3,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "0",
+    "pm": "-2",
     "vp": 18
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Jordan Usher",
     "no": "8",
     "ilk5": false,
-    "sure": "25:18",
+    "sure": "25:21",
     "sayi": 12,
     "iki": [
      3,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "4",
+    "pm": "2",
     "vp": 19
    },
    {
@@ -223,7 +223,7 @@
     "ad": "James Webb Iii",
     "no": "9",
     "ilk5": false,
-    "sure": "22:21",
+    "sure": "22:24",
     "sayi": 3,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "0",
+    "pm": "-2",
     "vp": 4
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Yunus Emre Sonsırma",
     "no": "19",
     "ilk5": false,
-    "sure": "7:38",
+    "sure": "7:41",
     "sayi": 0,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-13",
+    "pm": "-15",
     "vp": 0
    },
    {
@@ -378,14 +378,14 @@
  },
  "dep": {
   "ad": "TÜRK TELEKOM",
-  "skor": "87",
+  "skor": "89",
   "oyuncular": [
    {
     "id": "384165",
     "ad": "Tim Schneider",
     "no": "3",
     "ilk5": true,
-    "sure": "13:39",
+    "sure": "13:42",
     "sayi": 5,
     "iki": [
      1,
@@ -407,7 +407,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "2",
     "vp": 3
    },
    {
@@ -415,7 +415,7 @@
     "ad": "Jerrick Harding",
     "no": "7",
     "ilk5": true,
-    "sure": "26:37",
+    "sure": "26:40",
     "sayi": 17,
     "iki": [
      6,
@@ -437,7 +437,7 @@
     "blk": 0,
     "tk": 4,
     "faul": 3,
-    "pm": "4",
+    "pm": "6",
     "vp": 12
    },
    {
@@ -505,8 +505,8 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "30:59",
-    "sayi": 4,
+    "sure": "31:02",
+    "sayi": 6,
     "iki": [
      1,
      4
@@ -516,8 +516,8 @@
      3
     ],
     "sa": [
-     2,
-     2
+     4,
+     4
     ],
     "hr": 2,
     "sr": 5,
@@ -527,15 +527,15 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "11",
-    "vp": 12
+    "pm": "13",
+    "vp": 14
    },
    {
     "id": "202579",
     "ad": "Ata Kahraman",
     "no": "6",
     "ilk5": false,
-    "sure": "20:46",
+    "sure": "20:49",
     "sayi": 4,
     "iki": [
      2,
@@ -557,7 +557,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "22",
+    "pm": "24",
     "vp": 9
    },
    {
@@ -625,7 +625,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "15:09",
+    "sure": "15:12",
     "sayi": 8,
     "iki": [
      4,
@@ -647,7 +647,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "13",
+    "pm": "15",
     "vp": 11
    },
    {
@@ -745,16 +745,16 @@
    25,
    17,
    20,
-   25
+   27
   ]
  },
  "evSkor": "71",
- "depSkor": "87",
+ "depSkor": "89",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "00:03",
+  "saat": "00:00",
   "uzatma": false
  }
 }
