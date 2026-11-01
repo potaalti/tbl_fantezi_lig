@@ -13,7 +13,7 @@
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "7:53",
     "sayi": 7,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "-1",
     "vp": 6
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "7:53",
     "sayi": 0,
     "iki": [
      0,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "-1",
     "vp": -1
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Gökhan Akkoyun",
     "no": "6",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "7:33",
     "sayi": 1,
     "iki": [
      0,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
+    "pm": "-1",
     "vp": 2
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Mustafa Baştürk",
     "no": "12",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "7:53",
     "sayi": 7,
     "iki": [
      1,
@@ -123,17 +123,17 @@
     "ast": 1,
     "tc": 0,
     "blk": 2,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
-    "pm": "2",
-    "vp": 10
+    "pm": "-1",
+    "vp": 9
    },
    {
     "id": "616402",
     "ad": "Julien Ducree",
     "no": "54",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "7:53",
     "sayi": 2,
     "iki": [
      0,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "-1",
     "vp": 2
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:20",
     "sayi": 0,
     "iki": [
      0,
@@ -375,22 +375,22 @@
  },
  "dep": {
   "ad": "KİPAŞ K.B.B.",
-  "skor": "15",
+  "skor": "18",
   "oyuncular": [
    {
     "id": "777125",
     "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": true,
-    "sure": "7:14",
-    "sayi": 0,
+    "sure": "7:53",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     1
+     1,
+     2
     ],
     "sa": [
      0,
@@ -404,15 +404,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": 1
+    "pm": "1",
+    "vp": 4
    },
    {
     "id": "277425",
     "ad": "Koray Çekici",
     "no": "6",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "7:33",
     "sayi": 2,
     "iki": [
      1,
@@ -434,7 +434,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "1",
     "vp": 4
    },
    {
@@ -532,7 +532,7 @@
     "ad": "Burak Gözeneli",
     "no": "4",
     "ilk5": false,
-    "sure": "2:43",
+    "sure": "3:22",
     "sayi": 0,
     "iki": [
      0,
@@ -549,20 +549,20 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
-    "vp": 0
+    "pm": "-1",
+    "vp": 1
    },
    {
     "id": "782948",
     "ad": "Kaya Bayram",
     "no": "5",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:20",
     "sayi": 0,
     "iki": [
      0,
@@ -592,7 +592,7 @@
     "ad": "Arda Özdoğan",
     "no": "9",
     "ilk5": false,
-    "sure": "2:15",
+    "sure": "2:54",
     "sayi": 2,
     "iki": [
      1,
@@ -614,7 +614,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-2",
     "vp": 2
    },
    {
@@ -622,7 +622,7 @@
     "ad": "Deniz Çelen",
     "no": "13",
     "ilk5": false,
-    "sure": "0:47",
+    "sure": "1:26",
     "sayi": 0,
     "iki": [
      0,
@@ -644,7 +644,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "5",
     "vp": -1
    },
    {
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   15
+   18
   ]
  },
  "evSkor": "17",
- "depSkor": "15",
+ "depSkor": "18",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:46",
+  "saat": "02:07",
   "uzatma": false
  }
 }
