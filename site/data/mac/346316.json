@@ -3,7 +3,7 @@
  "lig": "bsl",
  "hafta": 6,
  "tarih": "2026-11-01T13:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "ESENLER EROKSPOR",
   "skor": "71",
@@ -160,7 +160,7 @@
    },
    {
     "id": "359434",
-    "ad": "Errick Mccollum",
+    "ad": "Errick McCollum",
     "no": "3",
     "ilk5": false,
     "sure": "17:16",
@@ -220,7 +220,7 @@
    },
    {
     "id": "667498",
-    "ad": "James Webb Iii",
+    "ad": "James Webb III",
     "no": "9",
     "ilk5": false,
     "sure": "22:24",
@@ -651,7 +651,7 @@
     "vp": 11
    },
    {
-    "id": "fiba-mete-tekcevik",
+    "id": "272903",
     "ad": "Mete Tekçevik",
     "no": "55",
     "ilk5": false,
@@ -712,7 +712,7 @@
    },
    {
     "id": "386159",
-    "ad": "Shaquille Mckissic",
+    "ad": "Shaquille McKissic",
     "no": "77",
     "ilk5": false,
     "sure": "24:07",
@@ -751,10 +751,5 @@
  "evSkor": "71",
  "depSkor": "89",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
- "yayin": "beINSports",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "beINSports"
 }
