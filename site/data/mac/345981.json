@@ -13,7 +13,7 @@
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "28:09",
+    "sure": "28:12",
     "sayi": 25,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 4,
     "faul": 3,
-    "pm": "22",
+    "pm": "21",
     "vp": 20
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "26:23",
+    "sure": "26:26",
     "sayi": 19,
     "iki": [
      2,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "15",
+    "pm": "14",
     "vp": 26
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "29:28",
+    "sure": "29:31",
     "sayi": 9,
     "iki": [
      1,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "23",
+    "pm": "22",
     "vp": 16
    },
    {
@@ -103,7 +103,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "27:58",
+    "sure": "28:01",
     "sayi": 16,
     "iki": [
      4,
@@ -125,7 +125,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 2,
-    "pm": "20",
+    "pm": "19",
     "vp": 20
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Mustafa Faruk Yerkazanoğlu",
     "no": "19",
     "ilk5": false,
-    "sure": "7:03",
+    "sure": "7:06",
     "sayi": 1,
     "iki": [
      0,
@@ -275,7 +275,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "0",
+    "pm": "-1",
     "vp": 2
    },
    {
@@ -378,15 +378,15 @@
  },
  "dep": {
   "ad": "iLab BASKETBOL",
-  "skor": "70",
+  "skor": "71",
   "oyuncular": [
    {
     "id": "287585",
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": true,
-    "sure": "27:52",
-    "sayi": 14,
+    "sure": "27:55",
+    "sayi": 15,
     "iki": [
      2,
      3
@@ -396,8 +396,8 @@
      7
     ],
     "sa": [
-     4,
-     4
+     5,
+     5
     ],
     "hr": 0,
     "sr": 1,
@@ -407,15 +407,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-4",
-    "vp": 17
+    "pm": "-3",
+    "vp": 18
    },
    {
     "id": "419692",
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": true,
-    "sure": "22:39",
+    "sure": "22:42",
     "sayi": 14,
     "iki": [
      6,
@@ -437,7 +437,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 18
    },
    {
@@ -445,7 +445,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "19:33",
+    "sure": "19:36",
     "sayi": 4,
     "iki": [
      2,
@@ -505,7 +505,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "23:09",
+    "sure": "23:12",
     "sayi": 19,
     "iki": [
      8,
@@ -527,7 +527,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-12",
+    "pm": "-11",
     "vp": 17
    },
    {
@@ -617,7 +617,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 6
    },
    {
@@ -685,7 +685,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": false,
-    "sure": "19:09",
+    "sure": "19:12",
     "sayi": 7,
     "iki": [
      2,
@@ -707,7 +707,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-8",
+    "pm": "-7",
     "vp": 7
    },
    {
@@ -745,16 +745,16 @@
    14,
    24,
    24,
-   8
+   9
   ]
  },
  "evSkor": "85",
- "depSkor": "70",
+ "depSkor": "71",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "06:17",
+  "saat": "06:14",
   "uzatma": false
  }
 }

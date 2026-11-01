@@ -13,7 +13,7 @@
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": true,
-    "sure": "7:45",
+    "sure": "8:04",
     "sayi": 4,
     "iki": [
      0,
@@ -43,7 +43,7 @@
     "ad": "Johnny  Juzang",
     "no": "9",
     "ilk5": true,
-    "sure": "8:28",
+    "sure": "8:47",
     "sayi": 5,
     "iki": [
      1,
@@ -63,17 +63,17 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "6",
-    "vp": 3
+    "vp": 2
    },
    {
     "id": "777704",
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "11:13",
+    "sure": "11:32",
     "sayi": 7,
     "iki": [
      3,
@@ -103,7 +103,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "11:23",
+    "sure": "11:41",
     "sayi": 9,
     "iki": [
      3,
@@ -133,7 +133,7 @@
     "ad": "Ignas Sargiunas",
     "no": "43",
     "ilk5": true,
-    "sure": "11:05",
+    "sure": "11:24",
     "sayi": 11,
     "iki": [
      2,
@@ -371,7 +371,8 @@
   ],
   "ceyrekler": [
    25,
-   22
+   22,
+   0
   ]
  },
  "dep": {
@@ -383,7 +384,7 @@
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": true,
-    "sure": "13:03",
+    "sure": "13:22",
     "sayi": 5,
     "iki": [
      1,
@@ -443,7 +444,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "12:27",
+    "sure": "12:46",
     "sayi": 3,
     "iki": [
      0,
@@ -503,7 +504,7 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "11:00",
+    "sure": "11:19",
     "sayi": 11,
     "iki": [
      2,
@@ -563,7 +564,7 @@
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": false,
-    "sure": "5:54",
+    "sure": "6:13",
     "sayi": 4,
     "iki": [
      2,
@@ -653,7 +654,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "10:33",
+    "sure": "10:52",
     "sayi": 7,
     "iki": [
      0,
@@ -741,7 +742,8 @@
   ],
   "ceyrekler": [
    21,
-   22
+   22,
+   0
   ]
  },
  "evSkor": "47",
@@ -750,7 +752,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "10:00",
+  "saat": "09:41",
   "uzatma": false
  }
 }
