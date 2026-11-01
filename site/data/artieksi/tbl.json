@@ -11943,15 +11943,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "202113",
-    "ad": "Deniz Çelen",
-    "takim": "KİPAŞ K.B.B.",
-    "pm": 7,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "245190",
     "ad": "Muhammet Engin Kalkan",
     "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
@@ -11982,6 +11973,15 @@
     "id": "153564",
     "ad": "Atakan Şahinkaya",
     "takim": "YALOVA HAREM SPOR",
+    "pm": 7,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "139924",
+    "ad": "Kerem Aydan Özel",
+    "takim": "BÜYÜKÇEKMECE BASKETBOL",
     "pm": 7,
     "fark": 4,
     "mac": 1,
@@ -12051,6 +12051,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "202113",
+    "ad": "Deniz Çelen",
+    "takim": "KİPAŞ K.B.B.",
+    "pm": 5,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "332037",
     "ad": "Emir Apaydın",
     "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
@@ -12074,15 +12083,6 @@
     "takim": "OGM ORMANSPOR",
     "pm": 5,
     "fark": 2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "139924",
-    "ad": "Kerem Aydan Özel",
-    "takim": "BÜYÜKÇEKMECE BASKETBOL",
-    "pm": 5,
-    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12411,6 +12411,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "777125",
+    "ad": "Brandon Jefferson",
+    "takim": "KİPAŞ K.B.B.",
+    "pm": -1,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "214552",
     "ad": "Burak Gözeneli",
     "takim": "KİPAŞ K.B.B.",
@@ -12528,6 +12537,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "274052",
+    "ad": "Kutluhan Celayir",
+    "takim": "BÜYÜKÇEKMECE BASKETBOL",
+    "pm": -2,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "482295",
     "ad": "Yavuz Kara",
     "takim": "YALOVA HAREM SPOR",
@@ -12569,15 +12587,6 @@
     "takim": "FİNALSPOR",
     "pm": -3,
     "fark": -5,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "777125",
-    "ad": "Brandon Jefferson",
-    "takim": "KİPAŞ K.B.B.",
-    "pm": -3,
-    "fark": -4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -13173,7 +13182,7 @@
    "id": "777125",
    "ad": "Brandon Jefferson",
    "takim": "KİPAŞ K.B.B.",
-   "pm": 79,
+   "pm": 81,
    "fark": 67,
    "mac": 9,
    "ulke": "ABD"
@@ -13332,21 +13341,21 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "139924",
+   "ad": "Kerem Aydan Özel",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "pm": 47,
+   "fark": 24,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "214552",
    "ad": "Burak Gözeneli",
    "takim": "KİPAŞ K.B.B.",
    "pm": 47,
    "fark": 67,
    "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "139924",
-   "ad": "Kerem Aydan Özel",
-   "takim": "BÜYÜKÇEKMECE BASKETBOL",
-   "pm": 45,
-   "fark": 24,
-   "mac": 8,
    "ulke": "TÜRKİYE"
   },
   {
@@ -13593,15 +13602,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "202113",
-   "ad": "Deniz Çelen",
-   "takim": "KİPAŞ K.B.B.",
-   "pm": 19,
-   "fark": 67,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "415783",
    "ad": "Berat Berke Tunç",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
@@ -13626,6 +13626,15 @@
    "pm": 18,
    "fark": 22,
    "mac": 2,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "202113",
+   "ad": "Deniz Çelen",
+   "takim": "KİPAŞ K.B.B.",
+   "pm": 17,
+   "fark": 67,
+   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -13944,15 +13953,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "274052",
-   "ad": "Kutluhan Celayir",
-   "takim": "BÜYÜKÇEKMECE BASKETBOL",
-   "pm": 3,
-   "fark": 8,
-   "mac": 3,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "153295",
    "ad": "Ömer Utku Al",
    "takim": "GAZİANTEP BASKETBOL",
@@ -14058,6 +14058,15 @@
    "pm": 1,
    "fark": 11,
    "mac": 1,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "274052",
+   "ad": "Kutluhan Celayir",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "pm": 1,
+   "fark": 12,
+   "mac": 4,
    "ulke": "TÜRKİYE"
   },
   {
