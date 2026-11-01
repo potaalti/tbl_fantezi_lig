@@ -7761,6 +7761,42 @@
     "ulke": "ABD"
    },
    {
+    "id": "573226",
+    "ad": "Briante Weber",
+    "takim": "KARŞIYAKA",
+    "pm": 5,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "500079",
+    "ad": "Rashard Kelly",
+    "takim": "KARŞIYAKA",
+    "pm": 5,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "609083",
+    "ad": "Steven Enoch",
+    "takim": "KARŞIYAKA",
+    "pm": 5,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "254789",
+    "ad": "Yavuz Gültekin",
+    "takim": "KARŞIYAKA",
+    "pm": 5,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "27541",
     "ad": "Melih Mahmutoğlu",
     "takim": "FENERBAHÇE TARFİN",
@@ -7824,49 +7860,13 @@
     "ulke": "ABD"
    },
    {
-    "id": "573226",
-    "ad": "Briante Weber",
-    "takim": "KARŞIYAKA",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "779071",
     "ad": "Ishmael El-Amin",
     "takim": "KARŞIYAKA",
     "pm": 3,
-    "fark": 3,
+    "fark": 5,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "500079",
-    "ad": "Rashard Kelly",
-    "takim": "KARŞIYAKA",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "609083",
-    "ad": "Steven Enoch",
-    "takim": "KARŞIYAKA",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "254789",
-    "ad": "Yavuz Gültekin",
-    "takim": "KARŞIYAKA",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "666515",
@@ -7892,6 +7892,15 @@
     "takim": "ESENLER EROKSPOR",
     "pm": 2,
     "fark": -18,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "410874",
+    "ad": "Markel Starks",
+    "takim": "KARŞIYAKA",
+    "pm": 2,
+    "fark": 5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7950,15 +7959,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "303549",
-    "ad": "Buğra Çal",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": 1,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "384595",
     "ad": "Mateusz Ponitka",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -7986,22 +7986,13 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "502519",
-    "ad": "Bryce Brown",
-    "takim": "BURSASPOR BASKETBOL",
+    "id": "228502",
+    "ad": "Muhaymin Mustafa",
+    "takim": "KARŞIYAKA",
     "pm": 0,
-    "fark": -3,
+    "fark": 5,
     "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "778459",
-    "ad": "Warren Washington",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": 0,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "ABD"
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "354404",
@@ -8056,6 +8047,15 @@
     "fark": -6,
     "mac": 1,
     "ulke": "LİTVANYA"
+   },
+   {
+    "id": "303549",
+    "ad": "Buğra Çal",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -1,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "473256",
@@ -8139,6 +8139,24 @@
     "ulke": "ABD"
    },
    {
+    "id": "502519",
+    "ad": "Bryce Brown",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -2,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "778459",
+    "ad": "Warren Washington",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -2,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "442131",
     "ad": "Shane Larkin",
     "takim": "FENERBAHÇE TARFİN",
@@ -8179,25 +8197,7 @@
     "ad": "Brandon Taylor",
     "takim": "BURSASPOR BASKETBOL",
     "pm": -3,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "666871",
-    "ad": "Javon Freeman-Liberty",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -3,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "510723",
-    "ad": "Leyton Hammonds",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -3,
-    "fark": -3,
+    "fark": -5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -8206,7 +8206,7 @@
     "ad": "Nate Watson",
     "takim": "BURSASPOR BASKETBOL",
     "pm": -3,
-    "fark": -3,
+    "fark": -5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -8278,7 +8278,7 @@
     "ad": "Ergi Tırpancı",
     "takim": "BURSASPOR BASKETBOL",
     "pm": -4,
-    "fark": -3,
+    "fark": -5,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8326,6 +8326,24 @@
     "fark": -6,
     "mac": 1,
     "ulke": "AVUSTRALYA"
+   },
+   {
+    "id": "666871",
+    "ad": "Javon Freeman-Liberty",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "510723",
+    "ad": "Leyton Hammonds",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "608898",
@@ -8961,6 +8979,15 @@
    "ulke": "POLONYA"
   },
   {
+   "id": "500079",
+   "ad": "Rashard Kelly",
+   "takim": "KARŞIYAKA",
+   "pm": 18,
+   "fark": -8,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "779277",
    "ad": "Nikola Ivanovic",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -8988,15 +9015,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "500079",
-   "ad": "Rashard Kelly",
-   "takim": "KARŞIYAKA",
-   "pm": 16,
-   "fark": -10,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "512899",
    "ad": "Akwasi Yeboah",
    "takim": "TRABZONSPOR",
@@ -9011,6 +9029,15 @@
    "takim": "TRABZONSPOR",
    "pm": 16,
    "fark": 8,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
+   "id": "609083",
+   "ad": "Steven Enoch",
+   "takim": "KARŞIYAKA",
+   "pm": 15,
+   "fark": -8,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -9030,15 +9057,6 @@
    "pm": 14,
    "fark": 1,
    "mac": 5,
-   "ulke": "ABD"
-  },
-  {
-   "id": "609083",
-   "ad": "Steven Enoch",
-   "takim": "KARŞIYAKA",
-   "pm": 13,
-   "fark": -10,
-   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -9186,6 +9204,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "254789",
+   "ad": "Yavuz Gültekin",
+   "takim": "KARŞIYAKA",
+   "pm": 7,
+   "fark": -8,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "500121",
    "ad": "Xavier Munford",
    "takim": "KARŞIYAKA",
@@ -9236,15 +9263,6 @@
    "takim": "YUKATEL DENİZLİ BASKET",
    "pm": 5,
    "fark": -38,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "254789",
-   "ad": "Yavuz Gültekin",
-   "takim": "KARŞIYAKA",
-   "pm": 5,
-   "fark": -10,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -9397,7 +9415,7 @@
    "ad": "Ergi Tırpancı",
    "takim": "BURSASPOR BASKETBOL",
    "pm": 0,
-   "fark": -42,
+   "fark": -44,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -9463,15 +9481,6 @@
    "fark": 15,
    "mac": 1,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "778459",
-   "ad": "Warren Washington",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -1,
-   "fark": -42,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "778401",
@@ -9582,11 +9591,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "510723",
-   "ad": "Leyton Hammonds",
+   "id": "778459",
+   "ad": "Warren Washington",
    "takim": "BURSASPOR BASKETBOL",
    "pm": -3,
-   "fark": -42,
+   "fark": -44,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -9663,15 +9672,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "779071",
-   "ad": "Ishmael El-Amin",
-   "takim": "KARŞIYAKA",
-   "pm": -4,
-   "fark": -10,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "284983",
    "ad": "Ozan Yılmaz",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -9681,6 +9681,33 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "573226",
+   "ad": "Briante Weber",
+   "takim": "KARŞIYAKA",
+   "pm": -4,
+   "fark": -8,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
+   "id": "779071",
+   "ad": "Ishmael El-Amin",
+   "takim": "KARŞIYAKA",
+   "pm": -4,
+   "fark": -8,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
+   "id": "410874",
+   "ad": "Markel Starks",
+   "takim": "KARŞIYAKA",
+   "pm": -4,
+   "fark": -7,
+   "mac": 5,
+   "ulke": "ABD"
+  },
+  {
    "id": "384165",
    "ad": "Tim Schneider",
    "takim": "TÜRK TELEKOM",
@@ -9688,6 +9715,15 @@
    "fark": 36,
    "mac": 5,
    "ulke": "ALMANYA"
+  },
+  {
+   "id": "510723",
+   "ad": "Leyton Hammonds",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -5,
+   "fark": -44,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "609092",
@@ -9733,24 +9769,6 @@
    "fark": -15,
    "mac": 6,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "410874",
-   "ad": "Markel Starks",
-   "takim": "KARŞIYAKA",
-   "pm": -6,
-   "fark": -12,
-   "mac": 4,
-   "ulke": "ABD"
-  },
-  {
-   "id": "573226",
-   "ad": "Briante Weber",
-   "takim": "KARŞIYAKA",
-   "pm": -6,
-   "fark": -10,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "500054",
@@ -9915,15 +9933,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "228502",
-   "ad": "Muhaymin Mustafa",
-   "takim": "KARŞIYAKA",
-   "pm": -12,
-   "fark": -13,
-   "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "351474",
    "ad": "Melih Tunca",
    "takim": "ESENLER EROKSPOR",
@@ -9939,6 +9948,15 @@
    "pm": -12,
    "fark": -11,
    "mac": 1,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "228502",
+   "ad": "Muhaymin Mustafa",
+   "takim": "KARŞIYAKA",
+   "pm": -12,
+   "fark": -8,
+   "mac": 6,
    "ulke": "TÜRKİYE"
   },
   {
@@ -10113,24 +10131,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "502519",
-   "ad": "Bryce Brown",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -22,
-   "fark": -27,
-   "mac": 4,
-   "ulke": "ABD"
-  },
-  {
-   "id": "666871",
-   "ad": "Javon Freeman-Liberty",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -23,
-   "fark": -42,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "736069",
    "ad": "Tre'shawn Thurman",
    "takim": "TOFAŞ",
@@ -10158,6 +10158,15 @@
    "ulke": "SIRBİSTAN"
   },
   {
+   "id": "502519",
+   "ad": "Bryce Brown",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -24,
+   "fark": -29,
+   "mac": 4,
+   "ulke": "ABD"
+  },
+  {
    "id": "470691",
    "ad": "Thomas Akyazılı",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -10174,6 +10183,15 @@
    "fark": 8,
    "mac": 6,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "666871",
+   "ad": "Javon Freeman-Liberty",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -25,
+   "fark": -44,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "278617",
@@ -10306,18 +10324,9 @@
    "ad": "Brandon Taylor",
    "takim": "BURSASPOR BASKETBOL",
    "pm": -31,
-   "fark": -42,
+   "fark": -44,
    "mac": 6,
    "ulke": "ABD"
-  },
-  {
-   "id": "303549",
-   "ad": "Buğra Çal",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -32,
-   "fark": -42,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "359434",
@@ -10343,6 +10352,15 @@
    "takim": "FENERBAHÇE TARFİN",
    "pm": -33,
    "fark": 32,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "303549",
+   "ad": "Buğra Çal",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -34,
+   "fark": -44,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -10423,7 +10441,7 @@
    "ad": "Nate Watson",
    "takim": "BURSASPOR BASKETBOL",
    "pm": -45,
-   "fark": -42,
+   "fark": -44,
    "mac": 6,
    "ulke": "ABD"
   },
