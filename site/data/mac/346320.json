@@ -13,7 +13,7 @@
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": true,
-    "sure": "18:43",
+    "sure": "18:58",
     "sayi": 0,
     "iki": [
      0,
@@ -103,7 +103,7 @@
     "ad": "Jaylen Nowell",
     "no": "24",
     "ilk5": true,
-    "sure": "18:54",
+    "sure": "18:55",
     "sayi": 14,
     "iki": [
      3,
@@ -223,7 +223,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "9:05",
+    "sure": "9:21",
     "sayi": 5,
     "iki": [
      1,
@@ -244,7 +244,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
+    "faul": 2,
     "pm": "-3",
     "vp": 4
    },
@@ -283,7 +283,7 @@
     "ad": "Scottie Wilbekin",
     "no": "12",
     "ilk5": false,
-    "sure": "12:00",
+    "sure": "12:17",
     "sayi": 6,
     "iki": [
      0,
@@ -313,7 +313,7 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": false,
-    "sure": "12:14",
+    "sure": "12:30",
     "sayi": 4,
     "iki": [
      2,
@@ -343,7 +343,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": false,
-    "sure": "9:43",
+    "sure": "9:59",
     "sayi": 2,
     "iki": [
      1,
@@ -372,7 +372,8 @@
   "ceyrekler": [
    27,
    19,
-   28
+   28,
+   0
   ]
  },
  "dep": {
@@ -414,11 +415,11 @@
     "ad": "Jordon Crawford",
     "no": "1",
     "ilk5": true,
-    "sure": "19:25",
+    "sure": "19:41",
     "sayi": 13,
     "iki": [
      3,
-     7
+     8
     ],
     "uc": [
      1,
@@ -437,7 +438,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "-17",
-    "vp": 13
+    "vp": 12
    },
    {
     "id": "666080",
@@ -504,7 +505,7 @@
     "ad": "Roberto Gallinat",
     "no": "44",
     "ilk5": true,
-    "sure": "13:09",
+    "sure": "13:24",
     "sayi": 6,
     "iki": [
      1,
@@ -534,7 +535,7 @@
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "10:37",
+    "sure": "10:38",
     "sayi": 3,
     "iki": [
      0,
@@ -624,7 +625,7 @@
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": false,
-    "sure": "21:28",
+    "sure": "21:44",
     "sayi": 2,
     "iki": [
      1,
@@ -654,7 +655,7 @@
     "ad": "Canberk Kuş",
     "no": "12",
     "ilk5": false,
-    "sure": "3:50",
+    "sure": "4:06",
     "sayi": 5,
     "iki": [
      1,
@@ -714,7 +715,7 @@
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": false,
-    "sure": "14:01",
+    "sure": "14:17",
     "sayi": 9,
     "iki": [
      3,
@@ -743,7 +744,8 @@
   "ceyrekler": [
    16,
    22,
-   18
+   18,
+   0
   ]
  },
  "evSkor": "74",
@@ -751,8 +753,8 @@
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:01",
+  "periyot": 4,
+  "saat": "09:46",
   "uzatma": false
  }
 }
