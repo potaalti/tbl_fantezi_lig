@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BEŞİKTAŞ",
-  "skor": "61",
+  "skor": "64",
   "oyuncular": [
    {
     "id": "697020",
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": true,
-    "sure": "17:05",
+    "sure": "18:11",
     "sayi": 0,
     "iki": [
      0,
@@ -43,7 +43,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": true,
-    "sure": "15:49",
+    "sure": "16:55",
     "sayi": 9,
     "iki": [
      3,
@@ -73,7 +73,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": true,
-    "sure": "18:02",
+    "sure": "19:08",
     "sayi": 12,
     "iki": [
      0,
@@ -103,7 +103,7 @@
     "ad": "Jaylen Nowell",
     "no": "24",
     "ilk5": true,
-    "sure": "13:26",
+    "sure": "14:32",
     "sayi": 12,
     "iki": [
      3,
@@ -133,30 +133,30 @@
     "ad": "Wenyen Gabriel",
     "no": "32",
     "ilk5": true,
-    "sure": "16:45",
-    "sayi": 10,
+    "sure": "17:45",
+    "sayi": 13,
     "iki": [
-     5,
-     6
+     6,
+     8
     ],
     "uc": [
      0,
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 3,
-    "rib": 4,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 1,
     "pm": "26",
-    "vp": 15
+    "vp": 17
    },
    {
     "id": "114257",
@@ -313,7 +313,7 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": false,
-    "sure": "7:46",
+    "sure": "7:52",
     "sayi": 2,
     "iki": [
      1,
@@ -372,12 +372,12 @@
   "ceyrekler": [
    27,
    19,
-   15
+   18
   ]
  },
  "dep": {
   "ad": "GLİNT ÇAYIROVA BELEDİYESİ",
-  "skor": "42",
+  "skor": "45",
   "oyuncular": [
    {
     "id": "756112",
@@ -444,7 +444,7 @@
     "ad": "Fabian White Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "20:36",
+    "sure": "21:42",
     "sayi": 11,
     "iki": [
      5,
@@ -534,7 +534,7 @@
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "8:33",
+    "sure": "9:39",
     "sayi": 3,
     "iki": [
      0,
@@ -551,13 +551,13 @@
     "hr": 1,
     "sr": 1,
     "rib": 2,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "1",
-    "vp": 7
+    "vp": 8
    },
    {
     "id": "127089",
@@ -594,15 +594,15 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "11:22",
-    "sayi": 0,
+    "sure": "12:28",
+    "sayi": 3,
     "iki": [
      0,
      4
     ],
     "uc": [
-     0,
-     1
+     1,
+     2
     ],
     "sa": [
      0,
@@ -615,16 +615,16 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-1",
-    "vp": -2
+    "vp": 1
    },
    {
     "id": "500074",
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": false,
-    "sure": "16:00",
+    "sure": "17:06",
     "sayi": 2,
     "iki": [
      1,
@@ -644,10 +644,10 @@
     "ast": 2,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 2,
+    "tk": 1,
+    "faul": 3,
     "pm": "2",
-    "vp": 7
+    "vp": 6
    },
    {
     "id": "122136",
@@ -714,7 +714,7 @@
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": false,
-    "sure": "8:33",
+    "sure": "9:39",
     "sayi": 9,
     "iki": [
      3,
@@ -729,30 +729,30 @@
      4
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 2,
     "pm": "1",
-    "vp": 7
+    "vp": 8
    }
   ],
   "ceyrekler": [
    16,
    22,
-   4
+   7
   ]
  },
- "evSkor": "61",
- "depSkor": "42",
+ "evSkor": "64",
+ "depSkor": "45",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "05:29",
+  "saat": "04:23",
   "uzatma": false
  }
 }
