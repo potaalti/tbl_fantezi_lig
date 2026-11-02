@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "BEŞİKTAŞ",
-  "skor": "74",
+  "skor": "75",
   "oyuncular": [
    {
     "id": "697020",
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": true,
-    "sure": "18:58",
-    "sayi": 0,
+    "sure": "19:54",
+    "sayi": 1,
     "iki": [
      0,
      0
@@ -24,8 +24,8 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 2,
     "sr": 1,
@@ -35,8 +35,8 @@
     "blk": 1,
     "tk": 1,
     "faul": 2,
-    "pm": "16",
-    "vp": 8
+    "pm": "15",
+    "vp": 9
    },
    {
     "id": "133112",
@@ -223,7 +223,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "9:21",
+    "sure": "10:17",
     "sayi": 5,
     "iki": [
      1,
@@ -231,7 +231,7 @@
     ],
     "uc": [
      1,
-     3
+     4
     ],
     "sa": [
      0,
@@ -245,8 +245,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-3",
-    "vp": 4
+    "pm": "-4",
+    "vp": 3
    },
    {
     "id": "381972",
@@ -283,7 +283,7 @@
     "ad": "Scottie Wilbekin",
     "no": "12",
     "ilk5": false,
-    "sure": "12:17",
+    "sure": "13:13",
     "sayi": 6,
     "iki": [
      0,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-3",
+    "pm": "-4",
     "vp": 3
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": false,
-    "sure": "12:30",
+    "sure": "13:26",
     "sayi": 4,
     "iki": [
      2,
@@ -331,19 +331,19 @@
     "sr": 0,
     "rib": 4,
     "ast": 3,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-8",
-    "vp": 8
+    "pm": "-9",
+    "vp": 9
    },
    {
     "id": "163489",
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": false,
-    "sure": "9:59",
+    "sure": "10:55",
     "sayi": 2,
     "iki": [
      1,
@@ -365,7 +365,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
+    "pm": "-10",
     "vp": 1
    }
   ],
@@ -373,12 +373,12 @@
    27,
    19,
    28,
-   0
+   1
   ]
  },
  "dep": {
   "ad": "GLİNT ÇAYIROVA BELEDİYESİ",
-  "skor": "56",
+  "skor": "58",
   "oyuncular": [
    {
     "id": "756112",
@@ -415,7 +415,7 @@
     "ad": "Jordon Crawford",
     "no": "1",
     "ilk5": true,
-    "sure": "19:41",
+    "sure": "20:37",
     "sayi": 13,
     "iki": [
      3,
@@ -437,7 +437,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-17",
+    "pm": "-16",
     "vp": 12
    },
    {
@@ -505,7 +505,7 @@
     "ad": "Roberto Gallinat",
     "no": "44",
     "ilk5": true,
-    "sure": "13:24",
+    "sure": "14:20",
     "sayi": 6,
     "iki": [
      1,
@@ -522,12 +522,12 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
-    "pm": "-18",
+    "tk": 1,
+    "faul": 2,
+    "pm": "-17",
     "vp": 0
    },
    {
@@ -625,11 +625,11 @@
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": false,
-    "sure": "21:44",
-    "sayi": 2,
+    "sure": "22:40",
+    "sayi": 4,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      0,
@@ -647,15 +647,15 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "3",
-    "vp": 9
+    "pm": "4",
+    "vp": 11
    },
    {
     "id": "122136",
     "ad": "Canberk Kuş",
     "no": "12",
     "ilk5": false,
-    "sure": "4:06",
+    "sure": "5:02",
     "sayi": 5,
     "iki": [
      1,
@@ -670,15 +670,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
-    "vp": 4
+    "pm": "4",
+    "vp": 5
    },
    {
     "id": "367110",
@@ -715,7 +715,7 @@
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": false,
-    "sure": "14:17",
+    "sure": "15:13",
     "sayi": 9,
     "iki": [
      3,
@@ -736,8 +736,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 3,
-    "pm": "2",
+    "faul": 4,
+    "pm": "3",
     "vp": 11
    }
   ],
@@ -745,16 +745,16 @@
    16,
    22,
    18,
-   0
+   2
   ]
  },
- "evSkor": "74",
- "depSkor": "56",
+ "evSkor": "75",
+ "depSkor": "58",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "09:46",
+  "saat": "08:49",
   "uzatma": false
  }
 }
