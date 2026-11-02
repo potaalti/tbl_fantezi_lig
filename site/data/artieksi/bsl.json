@@ -7500,38 +7500,29 @@
   ],
   "6": [
    {
+    "id": "501381",
+    "ad": "Anthony Brown",
+    "takim": "BEŞİKTAŞ",
+    "pm": 27,
+    "fark": 21,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "777635",
     "ad": "Wenyen Gabriel",
     "takim": "BEŞİKTAŞ",
     "pm": 26,
-    "fark": 19,
+    "fark": 21,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "501381",
-    "ad": "Anthony Brown",
-    "takim": "BEŞİKTAŞ",
-    "pm": 25,
-    "fark": 19,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "202579",
-    "ad": "Ata Kahraman",
-    "takim": "TÜRK TELEKOM",
-    "pm": 24,
-    "fark": 18,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "777637",
     "ad": "Jaylen Nowell",
     "takim": "BEŞİKTAŞ",
-    "pm": 23,
-    "fark": 19,
+    "pm": 25,
+    "fark": 21,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -7539,8 +7530,17 @@
     "id": "133112",
     "ad": "Metecan Birsen",
     "takim": "BEŞİKTAŞ",
-    "pm": 23,
-    "fark": 19,
+    "pm": 25,
+    "fark": 21,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "202579",
+    "ad": "Ata Kahraman",
+    "takim": "TÜRK TELEKOM",
+    "pm": 24,
+    "fark": 18,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -7590,6 +7590,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "697020",
+    "ad": "David Dejulius",
+    "takim": "BEŞİKTAŞ",
+    "pm": 16,
+    "fark": 21,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "668012",
     "ad": "Kris Bankston",
     "takim": "TÜRK TELEKOM",
@@ -7615,15 +7624,6 @@
     "fark": 13,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "697020",
-    "ad": "David Dejulius",
-    "takim": "BEŞİKTAŞ",
-    "pm": 14,
-    "fark": 19,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "782949",
@@ -7945,7 +7945,7 @@
     "ad": "Berk Uğurlu",
     "takim": "BEŞİKTAŞ",
     "pm": 5,
-    "fark": 19,
+    "fark": 21,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8040,15 +8040,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "500074",
-    "ad": "Jeremy Simmons",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": 2,
-    "fark": -19,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "502518",
     "ad": "Jordan Usher",
     "takim": "ESENLER EROKSPOR",
@@ -8130,24 +8121,6 @@
     "ulke": "ALMANYA"
    },
    {
-    "id": "107520",
-    "ad": "Kartal Özmızrak",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": 1,
-    "fark": -19,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "502472",
-    "ad": "Michal Sokolowski",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": 1,
-    "fark": -19,
-    "mac": 1,
-    "ulke": "POLONYA"
-   },
-   {
     "id": "470765",
     "ad": "Mahir Ağva",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -8164,6 +8137,24 @@
     "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "122136",
+    "ad": "Canberk Kuş",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": 0,
+    "fark": -21,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "500074",
+    "ad": "Jeremy Simmons",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": 0,
+    "fark": -21,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "384595",
@@ -8238,13 +8229,22 @@
     "ulke": "BELÇİKA"
    },
    {
-    "id": "510739",
-    "ad": "Rasheed Sulaimon",
+    "id": "107520",
+    "ad": "Kartal Özmızrak",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -1,
-    "fark": -19,
+    "fark": -21,
     "mac": 1,
-    "ulke": "ABD"
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "502472",
+    "ad": "Michal Sokolowski",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -1,
+    "fark": -21,
+    "mac": 1,
+    "ulke": "POLONYA"
    },
    {
     "id": "151935",
@@ -8409,6 +8409,15 @@
     "ulke": "MALİ"
    },
    {
+    "id": "510739",
+    "ad": "Rasheed Sulaimon",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -3,
+    "fark": -21,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "131296",
     "ad": "Kenan Sipahi",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -8530,7 +8539,7 @@
     "ad": "Conor Morgan",
     "takim": "BEŞİKTAŞ",
     "pm": -4,
-    "fark": 19,
+    "fark": 21,
     "mac": 1,
     "ulke": "KANADA"
    },
@@ -8539,7 +8548,7 @@
     "ad": "Scottie Wilbekin",
     "takim": "BEŞİKTAŞ",
     "pm": -4,
-    "fark": 19,
+    "fark": 21,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8598,6 +8607,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "777636",
+    "ad": "Eugene Omoruyi",
+    "takim": "BEŞİKTAŞ",
+    "pm": -5,
+    "fark": 21,
+    "mac": 1,
+    "ulke": "KANADA"
+   },
+   {
     "id": "608898",
     "ad": "Tyler Cavanaugh",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -8638,7 +8656,7 @@
     "ad": "Furkan Korkmaz",
     "takim": "BEŞİKTAŞ",
     "pm": -6,
-    "fark": 19,
+    "fark": 21,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8647,7 +8665,7 @@
     "ad": "Erdi Gülaslan",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -7,
-    "fark": -19,
+    "fark": -21,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8686,15 +8704,6 @@
     "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "777636",
-    "ad": "Eugene Omoruyi",
-    "takim": "BEŞİKTAŞ",
-    "pm": -7,
-    "fark": 19,
-    "mac": 1,
-    "ulke": "KANADA"
    },
    {
     "id": "278617",
@@ -8809,7 +8818,7 @@
     "ad": "Enes Berkay Taşkıran",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -11,
-    "fark": -19,
+    "fark": -21,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -8917,7 +8926,7 @@
     "ad": "Roberto Gallinat",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -18,
-    "fark": -19,
+    "fark": -21,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -8953,7 +8962,7 @@
     "ad": "Jordon Crawford",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -20,
-    "fark": -19,
+    "fark": -21,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -8976,20 +8985,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "666080",
-    "ad": "Fabian White Jr.",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -21,
-    "fark": -19,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "756112",
     "ad": "Nysier Brooks",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -21,
-    "fark": -19,
+    "fark": -21,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9001,6 +9001,15 @@
     "fark": -18,
     "mac": 1,
     "ulke": "ALMANYA"
+   },
+   {
+    "id": "666080",
+    "ad": "Fabian White Jr.",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -23,
+    "fark": -21,
+    "mac": 1,
+    "ulke": "ABD"
    }
   ]
  },
@@ -9081,8 +9090,8 @@
    "id": "133112",
    "ad": "Metecan Birsen",
    "takim": "BEŞİKTAŞ",
-   "pm": 45,
-   "fark": -12,
+   "pm": 47,
+   "fark": -10,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -9204,6 +9213,15 @@
    "ulke": "SIRBİSTAN"
   },
   {
+   "id": "777637",
+   "ad": "Jaylen Nowell",
+   "takim": "BEŞİKTAŞ",
+   "pm": 28,
+   "fark": -10,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "131296",
    "ad": "Kenan Sipahi",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -9220,15 +9238,6 @@
    "fark": 39,
    "mac": 4,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "777637",
-   "ad": "Jaylen Nowell",
-   "takim": "BEŞİKTAŞ",
-   "pm": 26,
-   "fark": -12,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "778249",
@@ -9465,6 +9474,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "697020",
+   "ad": "David Dejulius",
+   "takim": "BEŞİKTAŞ",
+   "pm": 12,
+   "fark": -13,
+   "mac": 5,
+   "ulke": "ABD"
+  },
+  {
    "id": "778423",
    "ad": "Mike James",
    "takim": "ANADOLU EFES",
@@ -9516,15 +9534,6 @@
    "pm": 10,
    "fark": -42,
    "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "697020",
-   "ad": "David Dejulius",
-   "takim": "BEŞİKTAŞ",
-   "pm": 10,
-   "fark": -15,
-   "mac": 5,
    "ulke": "ABD"
   },
   {
@@ -9609,6 +9618,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "501381",
+   "ad": "Anthony Brown",
+   "takim": "BEŞİKTAŞ",
+   "pm": 8,
+   "fark": -10,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "778462",
    "ad": "Xavier Tillman",
    "takim": "TRABZONSPOR",
@@ -9679,15 +9697,6 @@
    "fark": -42,
    "mac": 6,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "501381",
-   "ad": "Anthony Brown",
-   "takim": "BEŞİKTAŞ",
-   "pm": 6,
-   "fark": -12,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "129295",
@@ -9775,7 +9784,7 @@
    "ad": "Nysier Brooks",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": 2,
-   "fark": -39,
+   "fark": -41,
    "mac": 5,
    "ulke": "ABD"
   },
@@ -9996,15 +10005,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "107520",
-   "ad": "Kartal Özmızrak",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -2,
-   "fark": -23,
-   "mac": 4,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "778310",
    "ad": "Zach Hankins",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -10095,13 +10095,13 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "777635",
-   "ad": "Wenyen Gabriel",
-   "takim": "BEŞİKTAŞ",
+   "id": "107520",
+   "ad": "Kartal Özmızrak",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -4,
-   "fark": -17,
+   "fark": -25,
    "mac": 4,
-   "ulke": "ABD"
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "130898",
@@ -10111,6 +10111,15 @@
    "fark": -16,
    "mac": 6,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "777635",
+   "ad": "Wenyen Gabriel",
+   "takim": "BEŞİKTAŞ",
+   "pm": -4,
+   "fark": -15,
+   "mac": 4,
+   "ulke": "ABD"
   },
   {
    "id": "735336",
@@ -10198,7 +10207,7 @@
    "ad": "Furkan Korkmaz",
    "takim": "BEŞİKTAŞ",
    "pm": -8,
-   "fark": -8,
+   "fark": -6,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -10237,15 +10246,6 @@
    "fark": 42,
    "mac": 5,
    "ulke": "ANGOLA"
-  },
-  {
-   "id": "502472",
-   "ad": "Michal Sokolowski",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -10,
-   "fark": -62,
-   "mac": 6,
-   "ulke": "POLONYA"
   },
   {
    "id": "778161",
@@ -10302,13 +10302,13 @@
    "ulke": "ABD"
   },
   {
-   "id": "114257",
-   "ad": "Berk Uğurlu",
-   "takim": "BEŞİKTAŞ",
+   "id": "502472",
+   "ad": "Michal Sokolowski",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -12,
-   "fark": -12,
+   "fark": -64,
    "mac": 6,
-   "ulke": "TÜRKİYE"
+   "ulke": "POLONYA"
   },
   {
    "id": "351474",
@@ -10326,6 +10326,15 @@
    "pm": -12,
    "fark": -11,
    "mac": 1,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "114257",
+   "ad": "Berk Uğurlu",
+   "takim": "BEŞİKTAŞ",
+   "pm": -12,
+   "fark": -10,
+   "mac": 6,
    "ulke": "TÜRKİYE"
   },
   {
@@ -10405,7 +10414,7 @@
    "ad": "Erdi Gülaslan",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -15,
-   "fark": -81,
+   "fark": -83,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -10455,6 +10464,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "122136",
+   "ad": "Canberk Kuş",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -17,
+   "fark": -52,
+   "mac": 3,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "778460",
    "ad": "Brandon Taylor",
    "takim": "BURSASPOR BASKETBOL",
@@ -10471,15 +10489,6 @@
    "fark": -39,
    "mac": 2,
    "ulke": ""
-  },
-  {
-   "id": "122136",
-   "ad": "Canberk Kuş",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -17,
-   "fark": -31,
-   "mac": 2,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "779069",
@@ -10507,6 +10516,15 @@
    "fark": -42,
    "mac": 6,
    "ulke": "ABD"
+  },
+  {
+   "id": "777636",
+   "ad": "Eugene Omoruyi",
+   "takim": "BEŞİKTAŞ",
+   "pm": -18,
+   "fark": 15,
+   "mac": 5,
+   "ulke": "KANADA"
   },
   {
    "id": "227173",
@@ -10545,15 +10563,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "777636",
-   "ad": "Eugene Omoruyi",
-   "takim": "BEŞİKTAŞ",
-   "pm": -20,
-   "fark": 13,
-   "mac": 5,
-   "ulke": "KANADA"
-  },
-  {
    "id": "736069",
    "ad": "Tre'shawn Thurman",
    "takim": "TOFAŞ",
@@ -10585,7 +10594,7 @@
    "ad": "Enes Berkay Taşkıran",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -24,
-   "fark": -62,
+   "fark": -64,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -10693,7 +10702,7 @@
    "ad": "Roberto Gallinat",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -30,
-   "fark": -62,
+   "fark": -64,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -10720,7 +10729,7 @@
    "ad": "Conor Morgan",
    "takim": "BEŞİKTAŞ",
    "pm": -30,
-   "fark": -12,
+   "fark": -10,
    "mac": 6,
    "ulke": "KANADA"
   },
@@ -10797,15 +10806,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "510739",
-   "ad": "Rasheed Sulaimon",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -39,
-   "fark": -62,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "124128",
    "ad": "Egemen Güven",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -10824,6 +10824,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "510739",
+   "ad": "Rasheed Sulaimon",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -41,
+   "fark": -64,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "508900",
    "ad": "Jamuni McNeace",
    "takim": "TOFAŞ",
@@ -10837,7 +10846,7 @@
    "ad": "Scottie Wilbekin",
    "takim": "BEŞİKTAŞ",
    "pm": -45,
-   "fark": -12,
+   "fark": -10,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -10846,16 +10855,7 @@
    "ad": "Jordon Crawford",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -50,
-   "fark": -62,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "500074",
-   "ad": "Jeremy Simmons",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -52,
-   "fark": -62,
+   "fark": -64,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -10865,6 +10865,15 @@
    "takim": "BURSASPOR BASKETBOL",
    "pm": -52,
    "fark": -42,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
+   "id": "500074",
+   "ad": "Jeremy Simmons",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -54,
+   "fark": -64,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -10881,8 +10890,8 @@
    "id": "666080",
    "ad": "Fabian White Jr.",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -58,
-   "fark": -62,
+   "pm": -60,
+   "fark": -64,
    "mac": 6,
    "ulke": "ABD"
   }
