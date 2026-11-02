@@ -85,13 +85,18 @@
    "lig": "bsl",
    "hafta": 6,
    "tarih": "2026-11-02T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "ALİAĞA PETKİM SPOR",
    "dep": "ANADOLU EFES",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "44",
+   "depSkor": "41",
    "salon": "Enka Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 2,
+    "saat": "00:00",
+    "uzatma": false
+   }
   },
   {
    "id": 346320,
