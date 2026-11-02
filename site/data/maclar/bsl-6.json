@@ -98,13 +98,18 @@
    "lig": "bsl",
    "hafta": 6,
    "tarih": "2026-11-02T20:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BEŞİKTAŞ",
    "dep": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "0",
    "salon": "Turkcell Basketbol Gelişim Merkezi",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:35",
+    "uzatma": false
+   }
   }
  ]
 }
