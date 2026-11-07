@@ -20,13 +20,18 @@
    "lig": "bsl",
    "hafta": 7,
    "tarih": "2026-11-07T15:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "TÜRK TELEKOM",
    "dep": "BİOTEKNO KÖRFEZ BASKET",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "0",
    "salon": "Ankara Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:32",
+    "uzatma": false
+   }
   },
   {
    "id": 346325,
