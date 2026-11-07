@@ -61,13 +61,18 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-07T17:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "1",
    "salon": "TOBB ETÜ Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:50",
+    "uzatma": false
+   }
   },
   {
    "id": 345988,

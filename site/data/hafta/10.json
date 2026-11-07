@@ -60,13 +60,18 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-07T17:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "1",
    "salon": "TOBB ETÜ Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:50",
+    "uzatma": false
+   }
   },
   {
    "id": 345988,
@@ -759,6 +764,213 @@
    "saniye": 0,
    "maclar": [
     345986
+   ]
+  },
+  "332037": {
+   "ad": "Emir Apaydın",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "500173": {
+   "ad": "Kahlil Dukes",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "27582": {
+   "ad": "Hazer Avcı",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "109425": {
+   "ad": "Oğuzhan Tosun",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "261226": {
+   "ad": "Efe Sert",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "460265": {
+   "ad": "Efe Kemal Akayın",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "257055": {
+   "ad": "Zahid İsaoğlu",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "207867": {
+   "ad": "Mert Konuk",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "380032": {
+   "ad": "Arda Birkeser",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "209010": {
+   "ad": "Oktay Güneş",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "401353": {
+   "ad": "Mert Can Yılmam",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "220370": {
+   "ad": "Yiğit Özkan",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "776537": {
+   "ad": "Samuel Lee Sessoms",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "113781": {
+   "ad": "Ege Havsa",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "471743": {
+   "ad": "Abdoulaye Gueye",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 1,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "221455": {
+   "ad": "Hakan Yapar",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 10,
+   "maclar": [
+    345989
+   ]
+  },
+  "108904": {
+   "ad": "Metin Türen",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "196310": {
+   "ad": "Berke Aygündüz",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "153564": {
+   "ad": "Atakan Şahinkaya",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "381036": {
+   "ad": "Salih Ege Yaman",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "482295": {
+   "ad": "Yavuz Kara",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "210252": {
+   "ad": "Alihan Deniz Genç",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
+   ]
+  },
+  "304808": {
+   "ad": "Ege Özçelik",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345989
    ]
   }
  }
