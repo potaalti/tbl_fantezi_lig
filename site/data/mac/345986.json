@@ -133,7 +133,7 @@
     "ad": "Mert Celep",
     "no": "35",
     "ilk5": true,
-    "sure": "9:57",
+    "sure": "10:00",
     "sayi": 0,
     "iki": [
      0,
@@ -163,7 +163,7 @@
     "ad": "İbrahim Ethem Yılmaz",
     "no": "1",
     "ilk5": false,
-    "sure": "4:44",
+    "sure": "5:02",
     "sayi": 2,
     "iki": [
      1,
@@ -193,7 +193,7 @@
     "ad": "Erdem İlter",
     "no": "5",
     "ilk5": false,
-    "sure": "1:58",
+    "sure": "2:16",
     "sayi": 3,
     "iki": [
      1,
@@ -283,7 +283,7 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": false,
-    "sure": "1:58",
+    "sure": "2:16",
     "sayi": 0,
     "iki": [
      0,
@@ -313,7 +313,7 @@
     "ad": "Mehmet Fırat Alemdaroğlu",
     "no": "23",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:15",
     "sayi": 0,
     "iki": [
      0,
@@ -332,18 +332,18 @@
     "rib": 0,
     "ast": 0,
     "tc": 0,
-    "blk": 0,
+    "blk": 1,
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 1
    },
    {
     "id": "210255",
     "ad": "Emre Tanışan",
     "no": "24",
     "ilk5": false,
-    "sure": "1:30",
+    "sure": "1:48",
     "sayi": 2,
     "iki": [
      1,
@@ -370,7 +370,8 @@
    }
   ],
   "ceyrekler": [
-   27
+   27,
+   0
   ]
  },
  "dep": {
@@ -382,7 +383,7 @@
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "9:04",
+    "sure": "9:19",
     "sayi": 8,
     "iki": [
      1,
@@ -412,7 +413,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "9:57",
+    "sure": "10:00",
     "sayi": 6,
     "iki": [
      1,
@@ -442,7 +443,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "9:57",
+    "sure": "10:15",
     "sayi": 5,
     "iki": [
      1,
@@ -450,7 +451,7 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      0,
@@ -465,7 +466,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "-1",
-    "vp": 7
+    "vp": 6
    },
    {
     "id": "211415",
@@ -532,7 +533,7 @@
     "ad": "Sedat Ali Karagülle",
     "no": "0",
     "ilk5": false,
-    "sure": "0:53",
+    "sure": "1:11",
     "sayi": 0,
     "iki": [
      0,
@@ -592,11 +593,11 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": false,
-    "sure": "1:58",
+    "sure": "2:16",
     "sayi": 2,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      0,
@@ -615,7 +616,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "0",
-    "vp": 2
+    "vp": 1
    },
    {
     "id": "233847",
@@ -682,7 +683,7 @@
     "ad": "Enes Bayraktar",
     "no": "20",
     "ilk5": false,
-    "sure": "1:58",
+    "sure": "2:16",
     "sayi": 0,
     "iki": [
      0,
@@ -739,7 +740,8 @@
    }
   ],
   "ceyrekler": [
-   26
+   26,
+   0
   ]
  },
  "evSkor": "27",
@@ -747,8 +749,8 @@
  "salon": "Kamil Ocak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:06",
+  "periyot": 2,
+  "saat": "09:45",
   "uzatma": false
  }
 }
