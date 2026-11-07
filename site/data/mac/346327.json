@@ -43,11 +43,11 @@
     "ad": "Fabian White Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "9:10",
+    "sure": "10:00",
     "sayi": 6,
     "iki": [
      2,
-     6
+     7
     ],
     "uc": [
      0,
@@ -57,16 +57,16 @@
      2,
      3
     ],
-    "hr": 2,
+    "hr": 4,
     "sr": 0,
-    "rib": 2,
+    "rib": 4,
     "ast": 1,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 4
+    "vp": 5
    },
    {
     "id": "160245",
@@ -163,7 +163,7 @@
     "ad": "Nysier Brooks",
     "no": "0",
     "ilk5": false,
-    "sure": "0:55",
+    "sure": "1:44",
     "sayi": 0,
     "iki": [
      0,
@@ -193,7 +193,7 @@
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "3:08",
+    "sure": "3:57",
     "sayi": 4,
     "iki": [
      0,
@@ -253,7 +253,7 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "3:08",
+    "sure": "3:57",
     "sayi": 0,
     "iki": [
      0,
@@ -261,15 +261,15 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -283,7 +283,7 @@
     "ad": "Canberk Kuş",
     "no": "12",
     "ilk5": false,
-    "sure": "0:50",
+    "sure": "1:40",
     "sayi": 0,
     "iki": [
      0,
@@ -532,7 +532,7 @@
     "ad": "Alex Perez",
     "no": "2",
     "ilk5": false,
-    "sure": "2:14",
+    "sure": "3:03",
     "sayi": 2,
     "iki": [
      1,
@@ -562,7 +562,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "2:54",
+    "sure": "3:44",
     "sayi": 0,
     "iki": [
      0,
@@ -570,7 +570,7 @@
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
      0,
@@ -585,14 +585,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "1",
-    "vp": -1
+    "vp": -2
    },
    {
     "id": "106461",
     "ad": "Kadir Bayram",
     "no": "8",
     "ilk5": false,
-    "sure": "3:08",
+    "sure": "3:57",
     "sayi": 0,
     "iki": [
      0,
@@ -682,7 +682,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "3:08",
+    "sure": "3:57",
     "sayi": 0,
     "iki": [
      0,
@@ -696,27 +696,27 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 1,
-    "rib": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-1",
-    "vp": 1
+    "vp": 2
    },
    {
     "id": "778310",
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "3:08",
+    "sure": "3:57",
     "sayi": 6,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      0,
@@ -727,8 +727,8 @@
      2
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -747,8 +747,8 @@
  "salon": "Çayırova Belediyesi Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:48",
+  "periyot": 2,
+  "saat": "10:00",
   "uzatma": false
  }
 }
