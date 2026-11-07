@@ -6,13 +6,18 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-07T15:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Gölbaşı Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:58",
+    "uzatma": false
+   }
   },
   {
    "id": 345984,
@@ -106,5 +111,222 @@
    "yayin": "HT SPOR"
   }
  ],
- "oyuncular": {}
+ "oyuncular": {
+  "776821": {
+   "ad": "Vitalis Chikoko",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "46863": {
+   "ad": "Caner Ercan",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "271655": {
+   "ad": "Ekrem Sancaklı",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "380030": {
+   "ad": "Tan Ayyıldız",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "222696": {
+   "ad": "Burak Erol",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "372344": {
+   "ad": "Ege Ersun",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "271128": {
+   "ad": "Furkan Ayça",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "316543": {
+   "ad": "Can Sayın",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "408965": {
+   "ad": "Eren Karakaya",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "248386": {
+   "ad": "Berkay Genç",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "363336": {
+   "ad": "Doğukan Seyhan",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "223180": {
+   "ad": "Gökhan Yazıcıoğlu",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "665900": {
+   "ad": "Jordan Barnes",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "139924": {
+   "ad": "Kerem Aydan Özel",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "229642": {
+   "ad": "Gökhan Akkoyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "111242": {
+   "ad": "Oğulcan Baykan",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "616402": {
+   "ad": "Julien Ducree",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 2,
+   "maclar": [
+    345991
+   ]
+  },
+  "502279": {
+   "ad": "Edin Baçevaç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "274052": {
+   "ad": "Kutluhan Celayir",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "116084": {
+   "ad": "Mustafa Baştürk",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "509422": {
+   "ad": "Erdinç Alex Koyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "332044": {
+   "ad": "Enes Tunç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "fiba-bora-can-isik": {
+   "ad": "Bora Can Işık",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  },
+  "55533": {
+   "ad": "Can Uğur Öğüt",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345991
+   ]
+  }
+ }
 }
