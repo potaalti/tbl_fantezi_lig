@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "GAZİANTEP BASKETBOL",
-  "skor": "33",
+  "skor": "35",
   "oyuncular": [
    {
     "id": "379651",
@@ -193,11 +193,11 @@
     "ad": "Erdem İlter",
     "no": "5",
     "ilk5": false,
-    "sure": "4:18",
-    "sayi": 5,
+    "sure": "5:26",
+    "sayi": 7,
     "iki": [
-     2,
-     2
+     3,
+     3
     ],
     "uc": [
      0,
@@ -215,15 +215,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
-    "vp": 8
+    "pm": "5",
+    "vp": 10
    },
    {
     "id": "58437",
     "ad": "Utku Yücedağ",
     "no": "9",
     "ilk5": false,
-    "sure": "0:53",
+    "sure": "2:01",
     "sayi": 0,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
+    "pm": "5",
     "vp": 0
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": false,
-    "sure": "4:18",
+    "sure": "5:26",
     "sayi": 0,
     "iki": [
      0,
@@ -291,7 +291,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -300,12 +300,12 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "5",
     "vp": -1
    },
    {
@@ -313,7 +313,7 @@
     "ad": "Mehmet Fırat Alemdaroğlu",
     "no": "23",
     "ilk5": false,
-    "sure": "2:17",
+    "sure": "3:25",
     "sayi": 4,
     "iki": [
      2,
@@ -328,22 +328,22 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "4",
-    "vp": 5
+    "pm": "5",
+    "vp": 7
    },
    {
     "id": "210255",
     "ad": "Emre Tanışan",
     "no": "24",
     "ilk5": false,
-    "sure": "3:50",
+    "sure": "4:58",
     "sayi": 2,
     "iki": [
      1,
@@ -365,25 +365,25 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
+    "pm": "8",
     "vp": 2
    }
   ],
   "ceyrekler": [
    27,
-   6
+   8
   ]
  },
  "dep": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "28",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "11:21",
+    "sure": "12:29",
     "sayi": 8,
     "iki": [
      1,
@@ -398,14 +398,14 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 3
    },
    {
@@ -413,7 +413,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "10:09",
+    "sure": "11:17",
     "sayi": 6,
     "iki": [
      1,
@@ -421,7 +421,7 @@
     ],
     "uc": [
      1,
-     3
+     4
     ],
     "sa": [
      1,
@@ -435,8 +435,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-1",
-    "vp": 8
+    "pm": "-2",
+    "vp": 7
    },
    {
     "id": "488870",
@@ -503,7 +503,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": true,
-    "sure": "8:58",
+    "sure": "10:06",
     "sayi": 2,
     "iki": [
      1,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 4
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Yiğit Karalar",
     "no": "8",
     "ilk5": false,
-    "sure": "0:53",
+    "sure": "2:01",
     "sayi": 0,
     "iki": [
      0,
@@ -585,7 +585,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 0
    },
    {
@@ -593,8 +593,8 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": false,
-    "sure": "4:18",
-    "sayi": 4,
+    "sure": "5:26",
+    "sayi": 5,
     "iki": [
      2,
      3
@@ -604,8 +604,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -614,8 +614,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-4",
+    "faul": 2,
+    "pm": "-5",
     "vp": 4
    },
    {
@@ -741,16 +741,16 @@
   ],
   "ceyrekler": [
    26,
-   2
+   3
   ]
  },
- "evSkor": "33",
- "depSkor": "28",
+ "evSkor": "35",
+ "depSkor": "29",
  "salon": "Kamil Ocak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "07:43",
+  "saat": "06:35",
   "uzatma": false
  }
 }
