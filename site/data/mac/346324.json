@@ -13,7 +13,7 @@
     "ad": "Jerrick Harding",
     "no": "7",
     "ilk5": true,
-    "sure": "19:36",
+    "sure": "19:44",
     "sayi": 14,
     "iki": [
      5,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "16",
+    "pm": "19",
     "vp": 11
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "23:16",
+    "sure": "23:24",
     "sayi": 6,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "13",
+    "pm": "16",
     "vp": 6
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "19:35",
+    "sure": "19:43",
     "sayi": 5,
     "iki": [
      1,
@@ -94,8 +94,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 3,
-    "faul": 2,
-    "pm": "7",
+    "faul": 1,
+    "pm": "10",
     "vp": 4
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Ata Kahraman",
     "no": "6",
     "ilk5": false,
-    "sure": "12:07",
+    "sure": "12:15",
     "sayi": 7,
     "iki": [
      2,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "0",
+    "pm": "3",
     "vp": 9
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "16:22",
+    "sure": "16:30",
     "sayi": 9,
     "iki": [
      3,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "8",
+    "pm": "11",
     "vp": 14
    },
    {
@@ -372,7 +372,8 @@
   "ceyrekler": [
    23,
    17,
-   24
+   24,
+   3
   ]
  },
  "dep": {
@@ -384,7 +385,7 @@
     "ad": "Boo Buie",
     "no": "0",
     "ilk5": true,
-    "sure": "20:40",
+    "sure": "20:49",
     "sayi": 3,
     "iki": [
      0,
@@ -406,7 +407,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "-7",
+    "pm": "-10",
     "vp": -1
    },
    {
@@ -474,7 +475,7 @@
     "ad": "Oscar Cluff",
     "no": "22",
     "ilk5": true,
-    "sure": "20:08",
+    "sure": "21:25",
     "sayi": 9,
     "iki": [
      3,
@@ -496,7 +497,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-8",
     "vp": 17
    },
    {
@@ -504,7 +505,7 @@
     "ad": "Filip Barna",
     "no": "88",
     "ilk5": true,
-    "sure": "23:09",
+    "sure": "22:00",
     "sayi": 12,
     "iki": [
      3,
@@ -526,7 +527,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "-8",
+    "pm": "-4",
     "vp": 10
    },
    {
@@ -534,7 +535,7 @@
     "ad": "Johnny Davis",
     "no": "1",
     "ilk5": false,
-    "sure": "22:42",
+    "sure": "22:43",
     "sayi": 17,
     "iki": [
      6,
@@ -564,7 +565,7 @@
     "ad": "Mert Akay",
     "no": "4",
     "ilk5": false,
-    "sure": "4:51",
+    "sure": "4:59",
     "sayi": 0,
     "iki": [
      0,
@@ -586,7 +587,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "-7",
+    "pm": "-10",
     "vp": 2
    },
    {
@@ -684,7 +685,7 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": false,
-    "sure": "13:47",
+    "sure": "13:56",
     "sayi": 9,
     "iki": [
      0,
@@ -706,7 +707,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-9",
     "vp": 8
    },
    {
@@ -714,7 +715,7 @@
     "ad": "Paulius Danusevicius",
     "no": "77",
     "ilk5": false,
-    "sure": "6:46",
+    "sure": "6:54",
     "sayi": 0,
     "iki": [
      0,
@@ -736,14 +737,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-3",
+    "pm": "-6",
     "vp": 1
    }
   ],
   "ceyrekler": [
    19,
    17,
-   19
+   19,
+   0
   ]
  },
  "evSkor": "64",
@@ -751,8 +753,8 @@
  "salon": "Ankara Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:00",
+  "periyot": 4,
+  "saat": "10:00",
   "uzatma": false
  }
 }

@@ -6,18 +6,13 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-07T15:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "TED ANKARA KOLEJLİLER",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
    "evSkor": "67",
    "depSkor": "74",
    "salon": "Gölbaşı Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345984,
@@ -45,13 +40,13 @@
    "durum": "canli",
    "ev": "GAZİANTEP BASKETBOL",
    "dep": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "evSkor": "47",
+   "evSkor": "49",
    "depSkor": "42",
    "salon": "Kamil Ocak Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
-    "periyot": 2,
-    "saat": "00:00",
+    "periyot": 3,
+    "saat": "08:33",
     "uzatma": false
    }
   },
@@ -63,13 +58,13 @@
    "durum": "canli",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": "0",
-   "depSkor": "1",
+   "evSkor": "3",
+   "depSkor": "8",
    "salon": "TOBB ETÜ Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 1,
-    "saat": "09:50",
+    "saat": "07:21",
     "uzatma": false
    }
   },
@@ -325,7 +320,7 @@
     345991
    ]
   },
-  "fiba-bora-can-isik": {
+  "350568": {
    "ad": "Bora Can Işık",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
    "vp": 1,
@@ -554,7 +549,7 @@
    "ad": "Sarp Coşkun",
    "takim": "GAZİANTEP BASKETBOL",
    "vp": 2,
-   "saniye": 313,
+   "saniye": 400,
    "maclar": [
     345986
    ]
@@ -571,8 +566,8 @@
   "51504": {
    "ad": "Samet Geyik",
    "takim": "GAZİANTEP BASKETBOL",
-   "vp": 1,
-   "saniye": 893,
+   "vp": 0,
+   "saniye": 980,
    "maclar": [
     345986
    ]
@@ -581,7 +576,7 @@
    "ad": "Jarmar Gulley",
    "takim": "GAZİANTEP BASKETBOL",
    "vp": 17,
-   "saniye": 803,
+   "saniye": 890,
    "maclar": [
     345986
    ]
@@ -607,8 +602,8 @@
   "25674": {
    "ad": "Erdem İlter",
    "takim": "GAZİANTEP BASKETBOL",
-   "vp": 10,
-   "saniye": 397,
+   "vp": 12,
+   "saniye": 484,
    "maclar": [
     345986
    ]
@@ -652,8 +647,8 @@
   "210255": {
    "ad": "Emre Tanışan",
    "takim": "GAZİANTEP BASKETBOL",
-   "vp": 3,
-   "saniye": 369,
+   "vp": 4,
+   "saniye": 456,
    "maclar": [
     345986
    ]
@@ -662,7 +657,7 @@
    "ad": "Robert Smith",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 3,
-   "saniye": 1098,
+   "saniye": 1185,
    "maclar": [
     345986
    ]
@@ -671,7 +666,7 @@
    "ad": "Ömer Yasir Küçük",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 8,
-   "saniye": 1072,
+   "saniye": 1159,
    "maclar": [
     345986
    ]
@@ -680,7 +675,7 @@
    "ad": "Yiğit Çoban",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 5,
-   "saniye": 1002,
+   "saniye": 1089,
    "maclar": [
     345986
    ]
@@ -688,8 +683,8 @@
   "211415": {
    "ad": "Cengizhan İvedi",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "vp": 5,
-   "saniye": 676,
+   "vp": 4,
+   "saniye": 763,
    "maclar": [
     345986
    ]
@@ -698,7 +693,7 @@
    "ad": "Doğan Şenli",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "vp": 11,
-   "saniye": 1001,
+   "saniye": 1088,
    "maclar": [
     345986
    ]
@@ -770,7 +765,7 @@
    "ad": "Emir Apaydın",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "vp": 0,
-   "saniye": 10,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -778,8 +773,8 @@
   "500173": {
    "ad": "Kahlil Dukes",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "vp": 0,
-   "saniye": 10,
+   "vp": 1,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -787,8 +782,8 @@
   "27582": {
    "ad": "Hazer Avcı",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "vp": 0,
-   "saniye": 10,
+   "vp": -2,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -797,7 +792,7 @@
    "ad": "Oğuzhan Tosun",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "vp": 0,
-   "saniye": 10,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -805,8 +800,8 @@
   "261226": {
    "ad": "Efe Sert",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "vp": 0,
-   "saniye": 10,
+   "vp": 4,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -869,7 +864,7 @@
    "ad": "Yiğit Özkan",
    "takim": "YALOVA HAREM SPOR",
    "vp": 0,
-   "saniye": 10,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -877,8 +872,8 @@
   "776537": {
    "ad": "Samuel Lee Sessoms",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 0,
-   "saniye": 10,
+   "vp": 3,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -886,8 +881,8 @@
   "113781": {
    "ad": "Ege Havsa",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 0,
-   "saniye": 10,
+   "vp": -1,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -895,8 +890,8 @@
   "471743": {
    "ad": "Abdoulaye Gueye",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 1,
-   "saniye": 10,
+   "vp": 7,
+   "saniye": 159,
    "maclar": [
     345989
    ]
@@ -905,7 +900,7 @@
    "ad": "Hakan Yapar",
    "takim": "YALOVA HAREM SPOR",
    "vp": 0,
-   "saniye": 10,
+   "saniye": 159,
    "maclar": [
     345989
    ]
