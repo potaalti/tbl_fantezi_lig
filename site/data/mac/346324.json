@@ -43,7 +43,7 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "20:55",
+    "sure": "21:26",
     "sayi": 6,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "6",
+    "pm": "5",
     "vp": 5
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "17:15",
+    "sure": "17:45",
     "sayi": 5,
     "iki": [
      1,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "0",
+    "pm": "-1",
     "vp": 3
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Ata Kahraman",
     "no": "6",
     "ilk5": false,
-    "sure": "9:46",
+    "sure": "10:17",
     "sayi": 5,
     "iki": [
      1,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-7",
+    "pm": "-8",
     "vp": 5
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "14:01",
+    "sure": "14:32",
     "sayi": 3,
     "iki": [
      1,
@@ -305,7 +305,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
+    "pm": "0",
     "vp": 8
    },
    {
@@ -343,11 +343,11 @@
     "ad": "Shaquille Mckissic",
     "no": "77",
     "ilk5": false,
-    "sure": "14:26",
+    "sure": "14:57",
     "sayi": 9,
     "iki": [
      2,
-     2
+     3
     ],
     "uc": [
      1,
@@ -365,8 +365,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-4",
-    "vp": 9
+    "pm": "-5",
+    "vp": 8
    }
   ],
   "ceyrekler": [
@@ -377,7 +377,7 @@
  },
  "dep": {
   "ad": "BİOTEKNO KÖRFEZ BASKET",
-  "skor": "54",
+  "skor": "55",
   "oyuncular": [
    {
     "id": "778181",
@@ -414,19 +414,19 @@
     "ad": "Matt Mitchell",
     "no": "11",
     "ilk5": true,
-    "sure": "11:33",
-    "sayi": 4,
+    "sure": "12:04",
+    "sayi": 3,
     "iki": [
-     1,
-     3
+     0,
+     2
     ],
     "uc": [
      0,
      0
     ],
     "sa": [
-     2,
-     2
+     3,
+     4
     ],
     "hr": 0,
     "sr": 0,
@@ -436,8 +436,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-5",
-    "vp": 3
+    "pm": "-4",
+    "vp": 1
    },
    {
     "id": "397073",
@@ -504,7 +504,7 @@
     "ad": "Filip Barna",
     "no": "88",
     "ilk5": true,
-    "sure": "20:48",
+    "sure": "21:19",
     "sayi": 12,
     "iki": [
      3,
@@ -526,7 +526,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "-1",
+    "pm": "0",
     "vp": 10
    },
    {
@@ -534,11 +534,11 @@
     "ad": "Johnny Davis",
     "no": "1",
     "ilk5": false,
-    "sure": "20:22",
-    "sayi": 15,
+    "sure": "20:53",
+    "sayi": 17,
     "iki": [
-     5,
-     10
+     6,
+     12
     ],
     "uc": [
      1,
@@ -548,16 +548,16 @@
      2,
      2
     ],
-    "hr": 3,
-    "sr": 1,
-    "rib": 4,
+    "hr": 4,
+    "sr": 2,
+    "rib": 6,
     "ast": 2,
     "tc": 2,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "4",
-    "vp": 15
+    "pm": "5",
+    "vp": 18
    },
    {
     "id": "254785",
@@ -594,7 +594,7 @@
     "ad": "Berk Can Akın",
     "no": "10",
     "ilk5": false,
-    "sure": "15:20",
+    "sure": "15:51",
     "sayi": 0,
     "iki": [
      0,
@@ -616,7 +616,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "10",
+    "pm": "11",
     "vp": 0
    },
    {
@@ -684,7 +684,7 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": false,
-    "sure": "11:27",
+    "sure": "11:58",
     "sayi": 9,
     "iki": [
      0,
@@ -706,7 +706,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "1",
+    "pm": "2",
     "vp": 8
    },
    {
@@ -743,16 +743,16 @@
   "ceyrekler": [
    19,
    17,
-   18
+   19
   ]
  },
  "evSkor": "56",
- "depSkor": "54",
+ "depSkor": "55",
  "salon": "Ankara Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "02:21",
+  "saat": "01:50",
   "uzatma": false
  }
 }
