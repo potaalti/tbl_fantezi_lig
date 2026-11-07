@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "GAZİANTEP BASKETBOL",
-  "skor": "85",
+  "skor": "87",
   "oyuncular": [
    {
     "id": "379651",
     "ad": "Sarp Coşkun",
     "no": "0",
     "ilk5": true,
-    "sure": "13:58",
+    "sure": "15:07",
     "sayi": 3,
     "iki": [
      1,
@@ -30,13 +30,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "pm": "11",
-    "vp": 1
+    "vp": 2
    },
    {
     "id": "153295",
@@ -73,11 +73,11 @@
     "ad": "Samet Geyik",
     "no": "4",
     "ilk5": true,
-    "sure": "26:55",
+    "sure": "27:53",
     "sayi": 11,
     "iki": [
      3,
-     7
+     8
     ],
     "uc": [
      1,
@@ -95,8 +95,8 @@
     "blk": 1,
     "tk": 2,
     "faul": 2,
-    "pm": "15",
-    "vp": 11
+    "pm": "17",
+    "vp": 10
    },
    {
     "id": "500064",
@@ -163,7 +163,7 @@
     "ad": "İbrahim Ethem Yılmaz",
     "no": "1",
     "ilk5": false,
-    "sure": "6:44",
+    "sure": "7:53",
     "sayi": 2,
     "iki": [
      1,
@@ -178,15 +178,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-3",
-    "vp": 2
+    "vp": 3
    },
    {
     "id": "25674",
@@ -253,7 +253,7 @@
     "ad": "Yiğitcan Turna",
     "no": "10",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:52",
     "sayi": 0,
     "iki": [
      0,
@@ -283,7 +283,7 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": false,
-    "sure": "20:34",
+    "sure": "20:51",
     "sayi": 15,
     "iki": [
      3,
@@ -313,7 +313,7 @@
     "ad": "Mehmet Fırat Alemdaroğlu",
     "no": "23",
     "ilk5": false,
-    "sure": "5:05",
+    "sure": "5:16",
     "sayi": 4,
     "iki": [
      2,
@@ -335,7 +335,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 4,
-    "pm": "3",
+    "pm": "1",
     "vp": 5
    },
    {
@@ -343,8 +343,8 @@
     "ad": "Emre Tanışan",
     "no": "24",
     "ilk5": false,
-    "sure": "15:11",
-    "sayi": 8,
+    "sure": "16:20",
+    "sayi": 10,
     "iki": [
      1,
      2
@@ -354,8 +354,8 @@
      3
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 3,
@@ -366,26 +366,26 @@
     "tk": 0,
     "faul": 2,
     "pm": "14",
-    "vp": 13
+    "vp": 15
    }
   ],
   "ceyrekler": [
    27,
    20,
    20,
-   18
+   20
   ]
  },
  "dep": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "64",
+  "skor": "66",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "29:03",
+    "sure": "30:01",
     "sayi": 11,
     "iki": [
      2,
@@ -393,7 +393,7 @@
     ],
     "uc": [
      2,
-     5
+     6
     ],
     "sa": [
      1,
@@ -407,8 +407,8 @@
     "blk": 0,
     "tk": 4,
     "faul": 4,
-    "pm": "-9",
-    "vp": 5
+    "pm": "-11",
+    "vp": 4
    },
    {
     "id": "218578",
@@ -475,8 +475,8 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "19:32",
-    "sayi": 7,
+    "sure": "20:41",
+    "sayi": 9,
     "iki": [
      0,
      2
@@ -486,19 +486,19 @@
      3
     ],
     "sa": [
-     4,
-     4
+     6,
+     6
     ],
     "hr": 0,
-    "sr": 5,
-    "rib": 5,
+    "sr": 6,
+    "rib": 6,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "pm": "-14",
-    "vp": 6
+    "vp": 9
    },
    {
     "id": "14106",
@@ -535,7 +535,7 @@
     "ad": "Sedat Ali Karagülle",
     "no": "0",
     "ilk5": false,
-    "sure": "9:13",
+    "sure": "10:22",
     "sayi": 2,
     "iki": [
      0,
@@ -595,7 +595,7 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": false,
-    "sure": "21:19",
+    "sure": "22:29",
     "sayi": 16,
     "iki": [
      7,
@@ -625,7 +625,7 @@
     "ad": "Atakan Erdek",
     "no": "10",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:11",
     "sayi": 0,
     "iki": [
      0,
@@ -647,7 +647,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0
    },
    {
@@ -715,7 +715,7 @@
     "ad": "Arda Midye",
     "no": "22",
     "ilk5": false,
-    "sure": "0:33",
+    "sure": "1:42",
     "sayi": 0,
     "iki": [
      0,
@@ -736,7 +736,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 3,
     "pm": "1",
     "vp": 0
    }
@@ -745,16 +745,16 @@
    26,
    16,
    13,
-   9
+   11
   ]
  },
- "evSkor": "85",
- "depSkor": "64",
+ "evSkor": "87",
+ "depSkor": "66",
  "salon": "Kamil Ocak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:20",
+  "saat": "03:12",
   "uzatma": false
  }
 }

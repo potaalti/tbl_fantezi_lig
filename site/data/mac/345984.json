@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "KİPAŞ K.B.B.",
-  "skor": "53",
+  "skor": "55",
   "oyuncular": [
    {
     "id": "777125",
     "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": true,
-    "sure": "26:45",
-    "sayi": 16,
+    "sure": "27:18",
+    "sayi": 18,
     "iki": [
-     2,
-     2
+     3,
+     3
     ],
     "uc": [
      4,
@@ -31,19 +31,19 @@
     "sr": 3,
     "rib": 3,
     "ast": 5,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 2,
     "faul": 3,
     "pm": "-9",
-    "vp": 18
+    "vp": 21
    },
    {
     "id": "214552",
     "ad": "Burak Gözeneli",
     "no": "4",
     "ilk5": true,
-    "sure": "15:42",
+    "sure": "16:20",
     "sayi": 5,
     "iki": [
      0,
@@ -63,10 +63,10 @@
     "ast": 4,
     "tc": 0,
     "blk": 0,
-    "tk": 3,
+    "tk": 4,
     "faul": 1,
     "pm": "0",
-    "vp": 5
+    "vp": 4
    },
    {
     "id": "277425",
@@ -133,7 +133,7 @@
     "ad": "Ike Nweke",
     "no": "15",
     "ilk5": true,
-    "sure": "18:55",
+    "sure": "19:33",
     "sayi": 13,
     "iki": [
      5,
@@ -163,7 +163,7 @@
     "ad": "Kaya Bayram",
     "no": "5",
     "ilk5": false,
-    "sure": "8:04",
+    "sure": "8:09",
     "sayi": 0,
     "iki": [
      0,
@@ -184,7 +184,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-1",
     "vp": 1
    },
@@ -193,7 +193,7 @@
     "ad": "Baran Avşar",
     "no": "8",
     "ilk5": false,
-    "sure": "17:09",
+    "sure": "17:47",
     "sayi": 8,
     "iki": [
      3,
@@ -253,7 +253,7 @@
     "ad": "Deniz Çelen",
     "no": "13",
     "ilk5": false,
-    "sure": "13:41",
+    "sure": "14:19",
     "sayi": 6,
     "iki": [
      0,
@@ -274,7 +274,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "pm": "-6",
     "vp": 4
    },
@@ -372,12 +372,13 @@
   "ceyrekler": [
    22,
    14,
-   17
+   17,
+   2
   ]
  },
  "dep": {
   "ad": "OGM ORMANSPOR",
-  "skor": "59",
+  "skor": "61",
   "oyuncular": [
    {
     "id": "109594",
@@ -414,8 +415,8 @@
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "25:32",
-    "sayi": 14,
+    "sure": "26:10",
+    "sayi": 16,
     "iki": [
      4,
      8
@@ -425,8 +426,8 @@
      2
     ],
     "sa": [
-     6,
-     8
+     8,
+     10
     ],
     "hr": 0,
     "sr": 5,
@@ -437,7 +438,7 @@
     "tk": 2,
     "faul": 0,
     "pm": "8",
-    "vp": 17
+    "vp": 19
    },
    {
     "id": "251001",
@@ -504,7 +505,7 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "27:26",
+    "sure": "28:04",
     "sayi": 15,
     "iki": [
      5,
@@ -594,7 +595,7 @@
     "ad": "Kaan Tarla",
     "no": "7",
     "ilk5": false,
-    "sure": "14:40",
+    "sure": "15:18",
     "sayi": 8,
     "iki": [
      1,
@@ -612,19 +613,19 @@
     "sr": 3,
     "rib": 3,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-2",
-    "vp": 11
+    "vp": 12
    },
    {
     "id": "194798",
     "ad": "Tuna Han Dikmen",
     "no": "19",
     "ilk5": false,
-    "sure": "6:45",
+    "sure": "7:23",
     "sayi": 0,
     "iki": [
      0,
@@ -654,7 +655,7 @@
     "ad": "Mustafa Baki Görür",
     "no": "21",
     "ilk5": false,
-    "sure": "14:15",
+    "sure": "14:53",
     "sayi": 7,
     "iki": [
      0,
@@ -674,10 +675,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 2,
     "pm": "7",
-    "vp": 7
+    "vp": 6
    },
    {
     "id": "352299",
@@ -713,16 +714,17 @@
   "ceyrekler": [
    20,
    19,
-   20
+   20,
+   2
   ]
  },
- "evSkor": "53",
- "depSkor": "59",
+ "evSkor": "55",
+ "depSkor": "61",
  "salon": "Kahramanmaraş Merkez Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "10:00",
+  "saat": "09:22",
   "uzatma": false
  }
 }
