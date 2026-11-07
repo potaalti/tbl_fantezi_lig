@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "GAZİANTEP BASKETBOL",
-  "skor": "55",
+  "skor": "58",
   "oyuncular": [
    {
     "id": "379651",
     "ad": "Sarp Coşkun",
     "no": "0",
     "ilk5": true,
-    "sure": "10:17",
+    "sure": "10:40",
     "sayi": 3,
     "iki": [
      1,
@@ -73,7 +73,7 @@
     "ad": "Samet Geyik",
     "no": "4",
     "ilk5": true,
-    "sure": "19:57",
+    "sure": "20:20",
     "sayi": 9,
     "iki": [
      3,
@@ -90,20 +90,20 @@
     "hr": 0,
     "sr": 3,
     "rib": 3,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 1,
     "tk": 2,
     "faul": 2,
     "pm": "4",
-    "vp": 8
+    "vp": 9
    },
    {
     "id": "500064",
     "ad": "Jarmar Gulley",
     "no": "15",
     "ilk5": true,
-    "sure": "18:27",
+    "sure": "18:50",
     "sayi": 16,
     "iki": [
      1,
@@ -193,7 +193,7 @@
     "ad": "Erdem İlter",
     "no": "5",
     "ilk5": false,
-    "sure": "11:41",
+    "sure": "12:04",
     "sayi": 9,
     "iki": [
      3,
@@ -343,15 +343,15 @@
     "ad": "Emre Tanışan",
     "no": "24",
     "ilk5": false,
-    "sure": "11:13",
-    "sayi": 2,
+    "sure": "11:36",
+    "sayi": 5,
     "iki": [
      1,
      2
     ],
     "uc": [
-     0,
-     1
+     1,
+     2
     ],
     "sa": [
      0,
@@ -366,7 +366,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "13",
-    "vp": 5
+    "vp": 8
    }
   ],
   "ceyrekler": [
@@ -474,7 +474,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "16:20",
+    "sure": "16:43",
     "sayi": 5,
     "iki": [
      0,
@@ -494,17 +494,17 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
     "pm": "-11",
-    "vp": 5
+    "vp": 4
    },
    {
     "id": "14106",
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": true,
-    "sure": "21:45",
+    "sure": "22:08",
     "sayi": 6,
     "iki": [
      3,
@@ -534,7 +534,7 @@
     "ad": "Sedat Ali Karagülle",
     "no": "0",
     "ilk5": false,
-    "sure": "5:57",
+    "sure": "6:20",
     "sayi": 2,
     "iki": [
      0,
@@ -594,7 +594,7 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": false,
-    "sure": "10:43",
+    "sure": "11:06",
     "sayi": 11,
     "iki": [
      5,
@@ -684,7 +684,7 @@
     "ad": "Enes Bayraktar",
     "no": "20",
     "ilk5": false,
-    "sure": "7:23",
+    "sure": "7:46",
     "sayi": 2,
     "iki": [
      1,
@@ -746,13 +746,13 @@
    4
   ]
  },
- "evSkor": "55",
+ "evSkor": "58",
  "depSkor": "46",
  "salon": "Kamil Ocak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:56",
+  "saat": "04:33",
   "uzatma": false
  }
 }
