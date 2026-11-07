@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "GLİNT ÇAYIROVA BELEDİYESİ",
-  "skor": "18",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "501134",
@@ -43,7 +43,7 @@
     "ad": "Fabian White Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "6:16",
+    "sure": "7:15",
     "sayi": 6,
     "iki": [
      2,
@@ -103,7 +103,7 @@
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": true,
-    "sure": "6:16",
+    "sure": "7:15",
     "sayi": 2,
     "iki": [
      1,
@@ -118,30 +118,30 @@
      0
     ],
     "hr": 2,
-    "sr": 1,
-    "rib": 3,
+    "sr": 2,
+    "rib": 4,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
     "pm": "1",
-    "vp": 2
+    "vp": 3
    },
    {
     "id": "502472",
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": true,
-    "sure": "6:16",
-    "sayi": 0,
+    "sure": "7:15",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -156,7 +156,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "1",
-    "vp": 0
+    "vp": 3
    },
    {
     "id": "756112",
@@ -193,8 +193,8 @@
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "0:13",
-    "sayi": 0,
+    "sure": "1:12",
+    "sayi": 1,
     "iki": [
      0,
      0
@@ -204,19 +204,19 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "2",
-    "vp": 0
+    "vp": 1
    },
    {
     "id": "127089",
@@ -253,7 +253,7 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "0:13",
+    "sure": "1:12",
     "sayi": 0,
     "iki": [
      0,
@@ -370,12 +370,12 @@
    }
   ],
   "ceyrekler": [
-   18
+   22
   ]
  },
  "dep": {
   "ad": "PİZZABULLS BORDO BANDIRMA",
-  "skor": "17",
+  "skor": "21",
   "oyuncular": [
    {
     "id": "666515",
@@ -502,7 +502,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "6:16",
+    "sure": "6:57",
     "sayi": 5,
     "iki": [
      1,
@@ -519,20 +519,20 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-1",
-    "vp": 3
+    "pm": "-2",
+    "vp": 4
    },
    {
     "id": "fiba-alex-perez",
     "ad": "Alex Perez",
     "no": "2",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:18",
     "sayi": 0,
     "iki": [
      0,
@@ -554,7 +554,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 0
    },
    {
@@ -562,7 +562,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:59",
     "sayi": 0,
     "iki": [
      0,
@@ -570,7 +570,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -585,14 +585,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0
+    "vp": -1
    },
    {
     "id": "106461",
     "ad": "Kadir Bayram",
     "no": "8",
     "ilk5": false,
-    "sure": "0:13",
+    "sure": "1:12",
     "sayi": 0,
     "iki": [
      0,
@@ -609,13 +609,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-2",
-    "vp": 0
+    "vp": 1
    },
    {
     "id": "109611",
@@ -682,7 +682,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": false,
-    "sure": "0:13",
+    "sure": "1:12",
     "sayi": 0,
     "iki": [
      0,
@@ -712,19 +712,19 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "0:13",
-    "sayi": 0,
+    "sure": "1:12",
+    "sayi": 4,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -735,20 +735,20 @@
     "tk": 0,
     "faul": 0,
     "pm": "-2",
-    "vp": 0
+    "vp": 4
    }
   ],
   "ceyrekler": [
-   17
+   21
   ]
  },
- "evSkor": "18",
- "depSkor": "17",
+ "evSkor": "22",
+ "depSkor": "21",
  "salon": "Çayırova Belediyesi Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "03:45",
+  "saat": "02:44",
   "uzatma": false
  }
 }
