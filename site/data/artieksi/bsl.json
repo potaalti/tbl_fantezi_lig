@@ -9027,16 +9027,34 @@
     "ad": "Alex Perez",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 6,
-    "fark": 7,
+    "fark": 2,
     "mac": 1,
     "ulke": ""
+   },
+   {
+    "id": "106461",
+    "ad": "Kadir Bayram",
+    "takim": "PİZZABULLS BORDO BANDIRMA",
+    "pm": 3,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "130898",
+    "ad": "Okben Ulubay",
+    "takim": "PİZZABULLS BORDO BANDIRMA",
+    "pm": 3,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "778310",
     "ad": "Zach Hankins",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 6,
-    "fark": 7,
+    "pm": 3,
+    "fark": 2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9044,53 +9062,17 @@
     "id": "501076",
     "ad": "Quentin Peterson",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 5,
-    "fark": 7,
+    "pm": 2,
+    "fark": 2,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "667625",
-    "ad": "Damien Jefferson",
-    "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 4,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "307500",
-    "ad": "Mehmet Oğuzhan Kızıl",
-    "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 4,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "666515",
-    "ad": "Ty Gordon",
-    "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 4,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "106461",
-    "ad": "Kadir Bayram",
-    "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 3,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "107520",
     "ad": "Kartal Özmızrak",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": 1,
-    "fark": -7,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9099,25 +9081,79 @@
     "ad": "Boubacar Toure",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 1,
-    "fark": 7,
+    "fark": 2,
     "mac": 1,
     "ulke": "SENEGAL"
    },
    {
-    "id": "130898",
-    "ad": "Okben Ulubay",
+    "id": "667625",
+    "ad": "Damien Jefferson",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 1,
-    "fark": 7,
+    "fark": 2,
     "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": "ABD"
    },
    {
     "id": "473261",
     "ad": "Peyton Aldridge",
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 1,
-    "fark": 7,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "666515",
+    "ad": "Ty Gordon",
+    "takim": "PİZZABULLS BORDO BANDIRMA",
+    "pm": 1,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "510739",
+    "ad": "Rasheed Sulaimon",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": 0,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "160245",
+    "ad": "Enes Berkay Taşkıran",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -1,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "307500",
+    "ad": "Mehmet Oğuzhan Kızıl",
+    "takim": "PİZZABULLS BORDO BANDIRMA",
+    "pm": -1,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "666080",
+    "ad": "Fabian White Jr.",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -2,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "500074",
+    "ad": "Jeremy Simmons",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -2,
+    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9126,7 +9162,7 @@
     "ad": "Nysier Brooks",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -2,
-    "fark": -7,
+    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9135,43 +9171,16 @@
     "ad": "Michal Sokolowski",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -3,
-    "fark": -7,
+    "fark": -2,
     "mac": 1,
     "ulke": "POLONYA"
    },
    {
-    "id": "510739",
-    "ad": "Rasheed Sulaimon",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -3,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "160245",
-    "ad": "Enes Berkay Taşkıran",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -4,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "666080",
-    "ad": "Fabian White Jr.",
+    "id": "501134",
+    "ad": "Jordon Crawford",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -5,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "500074",
-    "ad": "Jeremy Simmons",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -5,
-    "fark": -7,
+    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9180,18 +9189,9 @@
     "ad": "Canberk Kuş",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -6,
-    "fark": -7,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "501134",
-    "ad": "Jordon Crawford",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -8,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "ABD"
    }
   ]
  },
@@ -9336,7 +9336,7 @@
    "ad": "Peyton Aldridge",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": 37,
-   "fark": -9,
+   "fark": -14,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -9431,15 +9431,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "501076",
-   "ad": "Quentin Peterson",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 26,
-   "fark": -9,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "779255",
    "ad": "Marcus Keene",
    "takim": "TRABZONSPOR",
@@ -9510,6 +9501,15 @@
    "fark": 55,
    "mac": 6,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "501076",
+   "ad": "Quentin Peterson",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": 23,
+   "fark": -14,
+   "mac": 7,
+   "ulke": "ABD"
   },
   {
    "id": "310250",
@@ -9642,7 +9642,7 @@
    "ad": "Kadir Bayram",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": 15,
-   "fark": -16,
+   "fark": -21,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -9885,7 +9885,7 @@
    "ad": "Alex Perez",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": 6,
-   "fark": 7,
+   "fark": 2,
    "mac": 1,
    "ulke": ""
   },
@@ -9926,15 +9926,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "778310",
-   "ad": "Zach Hankins",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 4,
-   "fark": -9,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "269217",
    "ad": "Tibet Görener",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -9950,15 +9941,6 @@
    "pm": 3,
    "fark": 1,
    "mac": 1,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "307500",
-   "ad": "Mehmet Oğuzhan Kızıl",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 3,
-   "fark": 1,
-   "mac": 4,
    "ulke": "TÜRKİYE"
   },
   {
@@ -10038,7 +10020,7 @@
    "ad": "Nysier Brooks",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": 1,
-   "fark": -44,
+   "fark": -39,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -10050,6 +10032,15 @@
    "fark": -19,
    "mac": 3,
    "ulke": "İTALYA"
+  },
+  {
+   "id": "778310",
+   "ad": "Zach Hankins",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": 1,
+   "fark": -14,
+   "mac": 7,
+   "ulke": "ABD"
   },
   {
    "id": "609083",
@@ -10187,6 +10178,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "130898",
+   "ad": "Okben Ulubay",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -1,
+   "fark": -14,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "444058",
    "ad": "Egemen Yapıcı",
    "takim": "KARŞIYAKA",
@@ -10232,13 +10232,13 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "666515",
-   "ad": "Ty Gordon",
+   "id": "307500",
+   "ad": "Mehmet Oğuzhan Kızıl",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -2,
-   "fark": -9,
-   "mac": 7,
-   "ulke": "ABD"
+   "fark": -4,
+   "mac": 4,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "463878",
@@ -10284,15 +10284,6 @@
    "fark": -32,
    "mac": 6,
    "ulke": "ABD"
-  },
-  {
-   "id": "130898",
-   "ad": "Okben Ulubay",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -3,
-   "fark": -9,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "780954",
@@ -10349,6 +10340,15 @@
    "ulke": "ALMANYA"
   },
   {
+   "id": "666515",
+   "ad": "Ty Gordon",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -5,
+   "fark": -14,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "609092",
    "ad": "Vrenz Bleijenbergh",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -10398,7 +10398,7 @@
    "ad": "Kartal Özmızrak",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -7,
-   "fark": -28,
+   "fark": -23,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -10407,7 +10407,7 @@
    "ad": "Michal Sokolowski",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -8,
-   "fark": -67,
+   "fark": -62,
    "mac": 7,
    "ulke": "POLONYA"
   },
@@ -10704,7 +10704,7 @@
    "ad": "Canberk Kuş",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -18,
-   "fark": -55,
+   "fark": -50,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -10781,6 +10781,15 @@
    "ulke": "FRANSA"
   },
   {
+   "id": "160245",
+   "ad": "Enes Berkay Taşkıran",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -24,
+   "fark": -62,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "373162",
    "ad": "Marko Pecarski",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -10794,7 +10803,7 @@
    "ad": "Boubacar Toure",
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -24,
-   "fark": -9,
+   "fark": -14,
    "mac": 7,
    "ulke": "SENEGAL"
   },
@@ -10832,15 +10841,6 @@
    "pm": -26,
    "fark": -15,
    "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "160245",
-   "ad": "Enes Berkay Taşkıran",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -27,
-   "fark": -67,
-   "mac": 7,
    "ulke": "TÜRKİYE"
   },
   {
@@ -11006,6 +11006,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "510739",
+   "ad": "Rasheed Sulaimon",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -37,
+   "fark": -62,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "124128",
    "ad": "Egemen Güven",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -11021,15 +11030,6 @@
    "pm": -39,
    "fark": -32,
    "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "510739",
-   "ad": "Rasheed Sulaimon",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -40,
-   "fark": -67,
-   "mac": 7,
    "ulke": "ABD"
   },
   {
@@ -11051,11 +11051,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "667625",
-   "ad": "Damien Jefferson",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -50,
-   "fark": -9,
+   "id": "501134",
+   "ad": "Jordon Crawford",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -52,
+   "fark": -62,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -11069,20 +11069,20 @@
    "ulke": "ABD"
   },
   {
-   "id": "501134",
-   "ad": "Jordon Crawford",
+   "id": "500074",
+   "ad": "Jeremy Simmons",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -55,
-   "fark": -67,
+   "pm": -53,
+   "fark": -62,
    "mac": 7,
    "ulke": "ABD"
   },
   {
-   "id": "500074",
-   "ad": "Jeremy Simmons",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -56,
-   "fark": -67,
+   "id": "667625",
+   "ad": "Damien Jefferson",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -53,
+   "fark": -14,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -11090,8 +11090,8 @@
    "id": "666080",
    "ad": "Fabian White Jr.",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -68,
-   "fark": -67,
+   "pm": -65,
+   "fark": -62,
    "mac": 7,
    "ulke": "ABD"
   }
