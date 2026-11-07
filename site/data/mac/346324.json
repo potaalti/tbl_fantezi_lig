@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "TÜRK TELEKOM",
-  "skor": "34",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "778728",
     "ad": "Jerrick Harding",
     "no": "7",
     "ilk5": true,
-    "sure": "10:09",
-    "sayi": 9,
+    "sure": "11:43",
+    "sayi": 11,
     "iki": [
-     3,
-     4
+     4,
+     5
     ],
     "uc": [
      1,
@@ -35,19 +35,19 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "7",
-    "vp": 7
+    "pm": "9",
+    "vp": 9
    },
    {
     "id": "418533",
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "6:43",
+    "sure": "8:17",
     "sayi": 6,
     "iki": [
      1,
-     4
+     5
     ],
     "uc": [
      1,
@@ -58,14 +58,14 @@
      1
     ],
     "hr": 2,
-    "sr": 0,
-    "rib": 2,
+    "sr": 1,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "11",
+    "pm": "13",
     "vp": 5
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Göktuğ Baş",
     "no": "57",
     "ilk5": true,
-    "sure": "8:16",
+    "sure": "9:50",
     "sayi": 7,
     "iki": [
      2,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "9",
+    "pm": "11",
     "vp": 10
    },
    {
@@ -283,7 +283,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "9:05",
+    "sure": "10:39",
     "sayi": 0,
     "iki": [
      0,
@@ -298,15 +298,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
-    "ast": 1,
+    "sr": 3,
+    "rib": 3,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 3
+    "pm": "3",
+    "vp": 5
    },
    {
     "id": "272903",
@@ -343,7 +343,7 @@
     "ad": "Shaquille Mckissic",
     "no": "77",
     "ilk5": false,
-    "sure": "8:52",
+    "sure": "10:26",
     "sayi": 7,
     "iki": [
      1,
@@ -364,14 +364,14 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "1",
+    "faul": 2,
+    "pm": "3",
     "vp": 6
    }
   ],
   "ceyrekler": [
    23,
-   11
+   13
   ]
  },
  "dep": {
@@ -383,7 +383,7 @@
     "ad": "Boo Buie",
     "no": "0",
     "ilk5": true,
-    "sure": "9:45",
+    "sure": "11:19",
     "sayi": 3,
     "iki": [
      0,
@@ -405,7 +405,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-6",
     "vp": 4
    },
    {
@@ -413,11 +413,11 @@
     "ad": "Matt Mitchell",
     "no": "11",
     "ilk5": true,
-    "sure": "5:34",
+    "sure": "7:08",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -435,15 +435,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-7",
-    "vp": 0
+    "pm": "-9",
+    "vp": -1
    },
    {
     "id": "397073",
     "ad": "Altan Çamoğlu",
     "no": "21",
     "ilk5": true,
-    "sure": "4:21",
+    "sure": "5:55",
     "sayi": 0,
     "iki": [
      0,
@@ -465,7 +465,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-8",
     "vp": -1
    },
    {
@@ -473,7 +473,7 @@
     "ad": "Oscar Cluff",
     "no": "22",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "8:15",
     "sayi": 2,
     "iki": [
      1,
@@ -488,15 +488,15 @@
      0
     ],
     "hr": 1,
-    "sr": 3,
-    "rib": 4,
+    "sr": 4,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
-    "vp": 4
+    "pm": "-6",
+    "vp": 5
    },
    {
     "id": "470601",
@@ -683,11 +683,11 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": false,
-    "sure": "8:26",
+    "sure": "10:00",
     "sayi": 9,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      3,
@@ -705,8 +705,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-1",
-    "vp": 9
+    "pm": "-3",
+    "vp": 8
    },
    {
     "id": "778183",
@@ -744,13 +744,13 @@
    8
   ]
  },
- "evSkor": "34",
+ "evSkor": "36",
  "depSkor": "27",
  "salon": "Ankara Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "06:33",
+  "saat": "04:59",
   "uzatma": false
  }
 }

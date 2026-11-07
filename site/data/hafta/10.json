@@ -14,8 +14,8 @@
    "salon": "Gölbaşı Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
-    "periyot": 2,
-    "saat": "00:00",
+    "periyot": 3,
+    "saat": "10:00",
     "uzatma": false
    }
   },
@@ -24,26 +24,36 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-07T16:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KİPAŞ K.B.B.",
    "dep": "OGM ORMANSPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "6",
+   "depSkor": "2",
    "salon": "Kahramanmaraş Merkez Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:14",
+    "uzatma": false
+   }
   },
   {
    "id": 345986,
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-07T16:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "GAZİANTEP BASKETBOL",
    "dep": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "2",
    "salon": "Kamil Ocak Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:03",
+    "uzatma": false
+   }
   },
   {
    "id": 345989,
@@ -326,6 +336,429 @@
    "saniye": 613,
    "maclar": [
     345991
+   ]
+  },
+  "777125": {
+   "ad": "Brandon Jefferson",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 6,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "214552": {
+   "ad": "Burak Gözeneli",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 1,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "277425": {
+   "ad": "Koray Çekici",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "305920": {
+   "ad": "Batın Tuna",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 1,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "777124": {
+   "ad": "Ike Nweke",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "782948": {
+   "ad": "Kaya Bayram",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "229233": {
+   "ad": "Baran Avşar",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "354964": {
+   "ad": "Arda Özdoğan",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "202113": {
+   "ad": "Deniz Çelen",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "262737": {
+   "ad": "Çağatay Özkan",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "457130": {
+   "ad": "Ahmet Karaman",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "402697": {
+   "ad": "Hüseyin Seviğ",
+   "takim": "KİPAŞ K.B.B.",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "109594": {
+   "ad": "Göktürk Gökalp Ural",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "473677": {
+   "ad": "Diante Watkins",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "251001": {
+   "ad": "Tolga Kaan Birer",
+   "takim": "OGM ORMANSPOR",
+   "vp": -1,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "60048": {
+   "ad": "Koray Uzunhasan",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "501170": {
+   "ad": "Tobin Carberry",
+   "takim": "OGM ORMANSPOR",
+   "vp": 2,
+   "saniye": 106,
+   "maclar": [
+    345984
+   ]
+  },
+  "386652": {
+   "ad": "Kutay Odabaşı",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "355280": {
+   "ad": "Yağız Baykurt",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "354791": {
+   "ad": "Kaan Tarla",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "194798": {
+   "ad": "Tuna Han Dikmen",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "23926": {
+   "ad": "Mustafa Baki Görür",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "352299": {
+   "ad": "Doğukan Orgun",
+   "takim": "OGM ORMANSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345984
+   ]
+  },
+  "379651": {
+   "ad": "Sarp Coşkun",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 4,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "153295": {
+   "ad": "Ömer Utku Al",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 2,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "51504": {
+   "ad": "Samet Geyik",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": -1,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "500064": {
+   "ad": "Jarmar Gulley",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": -1,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "108865": {
+   "ad": "Mert Celep",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 1,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "330914": {
+   "ad": "İbrahim Ethem Yılmaz",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "25674": {
+   "ad": "Erdem İlter",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "58437": {
+   "ad": "Utku Yücedağ",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "222469": {
+   "ad": "Yiğitcan Turna",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "736200": {
+   "ad": "Scoochie Smith",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "132328": {
+   "ad": "Mehmet Fırat Alemdaroğlu",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "210255": {
+   "ad": "Emre Tanışan",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "782891": {
+   "ad": "Robert Smith",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": -2,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "218578": {
+   "ad": "Ömer Yasir Küçük",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": -1,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "488870": {
+   "ad": "Yiğit Çoban",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 3,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "211415": {
+   "ad": "Cengizhan İvedi",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "14106": {
+   "ad": "Doğan Şenli",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 1,
+   "saniye": 117,
+   "maclar": [
+    345986
+   ]
+  },
+  "219716": {
+   "ad": "Sedat Ali Karagülle",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "357281": {
+   "ad": "Yiğit Karalar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "779069": {
+   "ad": "Kendall Munson",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "233847": {
+   "ad": "Atakan Erdek",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "362839": {
+   "ad": "Mustafa Faruk Yerkazanoğlu",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "317314": {
+   "ad": "Enes Bayraktar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
+   ]
+  },
+  "330206": {
+   "ad": "Arda Midye",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345986
    ]
   }
  }
