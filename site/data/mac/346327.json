@@ -13,7 +13,7 @@
     "ad": "Jordon Crawford",
     "no": "1",
     "ilk5": true,
-    "sure": "15:39",
+    "sure": "15:42",
     "sayi": 18,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "1",
+    "pm": "0",
     "vp": 20
    },
    {
@@ -43,7 +43,7 @@
     "ad": "Fabian White Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "16:35",
+    "sure": "16:38",
     "sayi": 11,
     "iki": [
      3,
@@ -65,7 +65,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "2",
+    "pm": "1",
     "vp": 12
    },
    {
@@ -133,7 +133,7 @@
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": true,
-    "sure": "14:45",
+    "sure": "14:47",
     "sayi": 7,
     "iki": [
      0,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 4
    },
    {
@@ -193,7 +193,7 @@
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "3:57",
+    "sure": "4:00",
     "sayi": 4,
     "iki": [
      0,
@@ -215,7 +215,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "1",
+    "pm": "0",
     "vp": 4
    },
    {
@@ -253,7 +253,7 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "11:45",
+    "sure": "11:48",
     "sayi": 4,
     "iki": [
      1,
@@ -261,7 +261,7 @@
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
      2,
@@ -275,8 +275,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "4",
-    "vp": 2
+    "pm": "3",
+    "vp": 1
    },
    {
     "id": "122136",
@@ -376,15 +376,15 @@
  },
  "dep": {
   "ad": "PİZZABULLS BORDO BANDIRMA",
-  "skor": "48",
+  "skor": "49",
   "oyuncular": [
    {
     "id": "666515",
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "13:57",
-    "sayi": 6,
+    "sure": "14:00",
+    "sayi": 7,
     "iki": [
      3,
      4
@@ -394,8 +394,8 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 2,
@@ -405,8 +405,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-3",
-    "vp": 11
+    "pm": "-2",
+    "vp": 12
    },
    {
     "id": "512379",
@@ -443,7 +443,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": true,
-    "sure": "10:53",
+    "sure": "10:56",
     "sayi": 4,
     "iki": [
      2,
@@ -465,7 +465,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "2",
+    "pm": "3",
     "vp": 7
    },
    {
@@ -503,7 +503,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "16:22",
+    "sure": "16:25",
     "sayi": 12,
     "iki": [
      3,
@@ -525,7 +525,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-1",
+    "pm": "0",
     "vp": 8
    },
    {
@@ -563,7 +563,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": false,
-    "sure": "10:44",
+    "sure": "10:47",
     "sayi": 0,
     "iki": [
      0,
@@ -585,7 +585,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-1",
+    "pm": "0",
     "vp": -1
    },
    {
@@ -713,7 +713,7 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "11:00",
+    "sure": "11:03",
     "sayi": 12,
     "iki": [
      4,
@@ -735,22 +735,22 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-1",
     "vp": 13
    }
   ],
   "ceyrekler": [
    25,
-   23
+   24
   ]
  },
  "evSkor": "48",
- "depSkor": "48",
+ "depSkor": "49",
  "salon": "Çayırova Belediyesi Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "00:02",
+  "saat": "00:00",
   "uzatma": false
  }
 }
