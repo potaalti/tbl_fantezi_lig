@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KİPAŞ K.B.B.",
-  "skor": "8",
+  "skor": "11",
   "oyuncular": [
    {
     "id": "777125",
     "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 6,
     "iki": [
      0,
@@ -30,28 +30,28 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
-    "vp": 7
+    "pm": "5",
+    "vp": 8
    },
    {
     "id": "214552",
     "ad": "Burak Gözeneli",
     "no": "4",
     "ilk5": true,
-    "sure": "2:35",
-    "sayi": 0,
+    "sure": "3:58",
+    "sayi": 3,
     "iki": [
      0,
      1
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -65,15 +65,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
-    "vp": 0
+    "pm": "5",
+    "vp": 3
    },
    {
     "id": "277425",
     "ad": "Koray Çekici",
     "no": "6",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 0,
     "iki": [
      0,
@@ -91,19 +91,19 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
-    "vp": 0
+    "pm": "5",
+    "vp": 1
    },
    {
     "id": "305920",
     "ad": "Batın Tuna",
     "no": "7",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 0,
     "iki": [
      0,
@@ -125,7 +125,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
+    "pm": "5",
     "vp": 1
    },
    {
@@ -133,11 +133,11 @@
     "ad": "Ike Nweke",
     "no": "15",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 2,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      0,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "6",
-    "vp": 3
+    "pm": "5",
+    "vp": 2
    },
    {
     "id": "782948",
@@ -370,19 +370,19 @@
    }
   ],
   "ceyrekler": [
-   8
+   11
   ]
  },
  "dep": {
   "ad": "OGM ORMANSPOR",
-  "skor": "2",
+  "skor": "4",
   "oyuncular": [
    {
     "id": "109594",
     "ad": "Göktürk Gökalp Ural",
     "no": "4",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 0,
     "iki": [
      0,
@@ -402,21 +402,21 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "-6",
-    "vp": 0
+    "tk": 1,
+    "faul": 1,
+    "pm": "-5",
+    "vp": -1
    },
    {
     "id": "473677",
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "2:35",
-    "sayi": 0,
+    "sure": "3:58",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -427,22 +427,22 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
-    "vp": -1
+    "pm": "-5",
+    "vp": 2
    },
    {
     "id": "251001",
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 0,
     "iki": [
      0,
@@ -464,7 +464,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-5",
     "vp": -1
    },
    {
@@ -472,7 +472,7 @@
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 0,
     "iki": [
      0,
@@ -494,7 +494,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 0
    },
    {
@@ -502,7 +502,7 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "2:35",
+    "sure": "3:58",
     "sayi": 2,
     "iki": [
      1,
@@ -524,7 +524,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 2
    },
    {
@@ -709,16 +709,16 @@
    }
   ],
   "ceyrekler": [
-   2
+   6
   ]
  },
- "evSkor": "8",
- "depSkor": "2",
+ "evSkor": "11",
+ "depSkor": "4",
  "salon": "Kahramanmaraş Merkez Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "07:25",
+  "saat": "06:03",
   "uzatma": false
  }
 }
