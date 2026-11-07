@@ -13160,15 +13160,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "777124",
-    "ad": "Ike Nweke",
-    "takim": "KİPAŞ K.B.B.",
-    "pm": 15,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "210255",
     "ad": "Emre Tanışan",
     "takim": "GAZİANTEP BASKETBOL",
@@ -13223,13 +13214,22 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "214552",
-    "ad": "Burak Gözeneli",
-    "takim": "KİPAŞ K.B.B.",
-    "pm": 10,
-    "fark": 4,
+    "id": "23926",
+    "ad": "Mustafa Baki Görür",
+    "takim": "OGM ORMANSPOR",
+    "pm": 11,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "777124",
+    "ad": "Ike Nweke",
+    "takim": "KİPAŞ K.B.B.",
+    "pm": 10,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "113781",
@@ -13277,15 +13277,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "23926",
-    "ad": "Mustafa Baki Görür",
-    "takim": "OGM ORMANSPOR",
-    "pm": 6,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "471743",
     "ad": "Abdoulaye Gueye",
     "takim": "YALOVA HAREM SPOR",
@@ -13304,11 +13295,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "305920",
-    "ad": "Batın Tuna",
+    "id": "214552",
+    "ad": "Burak Gözeneli",
     "takim": "KİPAŞ K.B.B.",
     "pm": 5,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13371,7 +13362,7 @@
     "ad": "Deniz Çelen",
     "takim": "KİPAŞ K.B.B.",
     "pm": 4,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13412,22 +13403,58 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "777125",
-    "ad": "Brandon Jefferson",
-    "takim": "KİPAŞ K.B.B.",
-    "pm": 1,
-    "fark": 4,
+    "id": "473677",
+    "ad": "Diante Watkins",
+    "takim": "OGM ORMANSPOR",
+    "pm": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "109594",
+    "ad": "Göktürk Gökalp Ural",
+    "takim": "OGM ORMANSPOR",
+    "pm": 3,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "251001",
+    "ad": "Tolga Kaan Birer",
+    "takim": "OGM ORMANSPOR",
+    "pm": 3,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "305920",
+    "ad": "Batın Tuna",
+    "takim": "KİPAŞ K.B.B.",
+    "pm": 0,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "402697",
     "ad": "Hüseyin Seviğ",
     "takim": "KİPAŞ K.B.B.",
     "pm": 0,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "501170",
+    "ad": "Tobin Carberry",
+    "takim": "OGM ORMANSPOR",
+    "pm": 0,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "229642",
@@ -13457,29 +13484,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "194798",
-    "ad": "Tuna Han Dikmen",
-    "takim": "OGM ORMANSPOR",
-    "pm": -1,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "355280",
-    "ad": "Yağız Baykurt",
-    "takim": "OGM ORMANSPOR",
-    "pm": -1,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "229233",
     "ad": "Baran Avşar",
     "takim": "KİPAŞ K.B.B.",
     "pm": -1,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13488,7 +13497,25 @@
     "ad": "Kaya Bayram",
     "takim": "KİPAŞ K.B.B.",
     "pm": -1,
-    "fark": 4,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "194798",
+    "ad": "Tuna Han Dikmen",
+    "takim": "OGM ORMANSPOR",
+    "pm": -1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "355280",
+    "ad": "Yağız Baykurt",
+    "takim": "OGM ORMANSPOR",
+    "pm": -1,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13502,38 +13529,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "473677",
-    "ad": "Diante Watkins",
-    "takim": "OGM ORMANSPOR",
-    "pm": -2,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "109594",
-    "ad": "Göktürk Gökalp Ural",
-    "takim": "OGM ORMANSPOR",
-    "pm": -2,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "251001",
-    "ad": "Tolga Kaan Birer",
-    "takim": "OGM ORMANSPOR",
-    "pm": -2,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "262737",
     "ad": "Çağatay Özkan",
     "takim": "KİPAŞ K.B.B.",
     "pm": -2,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13601,15 +13601,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "277425",
-    "ad": "Koray Çekici",
-    "takim": "KİPAŞ K.B.B.",
-    "pm": -3,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "27582",
     "ad": "Hazer Avcı",
     "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
@@ -13619,11 +13610,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "777125",
+    "ad": "Brandon Jefferson",
+    "takim": "KİPAŞ K.B.B.",
+    "pm": -4,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "354791",
     "ad": "Kaan Tarla",
     "takim": "OGM ORMANSPOR",
     "pm": -4,
-    "fark": -4,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13644,15 +13644,6 @@
     "fark": -19,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "501170",
-    "ad": "Tobin Carberry",
-    "takim": "OGM ORMANSPOR",
-    "pm": -5,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "330914",
@@ -13740,7 +13731,16 @@
     "ad": "Arda Özdoğan",
     "takim": "KİPAŞ K.B.B.",
     "pm": -8,
-    "fark": 4,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "277425",
+    "ad": "Koray Çekici",
+    "takim": "KİPAŞ K.B.B.",
+    "pm": -8,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13758,7 +13758,7 @@
     "ad": "Koray Uzunhasan",
     "takim": "OGM ORMANSPOR",
     "pm": -9,
-    "fark": -4,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13847,15 +13847,6 @@
  },
  "sezon": [
   {
-   "id": "777124",
-   "ad": "Ike Nweke",
-   "takim": "KİPAŞ K.B.B.",
-   "pm": 111,
-   "fark": 83,
-   "mac": 10,
-   "ulke": "ABD"
-  },
-  {
    "id": "632441",
    "ad": "Mike Smith",
    "takim": "MERSİN SPOR",
@@ -13865,11 +13856,20 @@
    "ulke": "ABD"
   },
   {
+   "id": "777124",
+   "ad": "Ike Nweke",
+   "takim": "KİPAŞ K.B.B.",
+   "pm": 106,
+   "fark": 78,
+   "mac": 10,
+   "ulke": "ABD"
+  },
+  {
    "id": "305920",
    "ad": "Batın Tuna",
    "takim": "KİPAŞ K.B.B.",
-   "pm": 96,
-   "fark": 78,
+   "pm": 91,
+   "fark": 73,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13883,15 +13883,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "277425",
-   "ad": "Koray Çekici",
-   "takim": "KİPAŞ K.B.B.",
-   "pm": 87,
-   "fark": 83,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "108904",
    "ad": "Metin Türen",
    "takim": "YALOVA HAREM SPOR",
@@ -13899,15 +13890,6 @@
    "fark": 129,
    "mac": 10,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "777125",
-   "ad": "Brandon Jefferson",
-   "takim": "KİPAŞ K.B.B.",
-   "pm": 86,
-   "fark": 83,
-   "mac": 10,
-   "ulke": "ABD"
   },
   {
    "id": "471743",
@@ -13924,6 +13906,24 @@
    "takim": "YALOVA HAREM SPOR",
    "pm": 83,
    "fark": 129,
+   "mac": 10,
+   "ulke": "ABD"
+  },
+  {
+   "id": "277425",
+   "ad": "Koray Çekici",
+   "takim": "KİPAŞ K.B.B.",
+   "pm": 82,
+   "fark": 78,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "777125",
+   "ad": "Brandon Jefferson",
+   "takim": "KİPAŞ K.B.B.",
+   "pm": 81,
+   "fark": 78,
    "mac": 10,
    "ulke": "ABD"
   },
@@ -13991,15 +13991,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "214552",
-   "ad": "Burak Gözeneli",
-   "takim": "KİPAŞ K.B.B.",
-   "pm": 66,
-   "fark": 83,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "623478",
    "ad": "Jamari Traylor",
    "takim": "GÖZTEPE ISONEM",
@@ -14007,6 +13998,15 @@
    "fark": 69,
    "mac": 8,
    "ulke": "ABD"
+  },
+  {
+   "id": "214552",
+   "ad": "Burak Gözeneli",
+   "takim": "KİPAŞ K.B.B.",
+   "pm": 61,
+   "fark": 78,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "196982",
@@ -14045,20 +14045,20 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "109594",
+   "ad": "Göktürk Gökalp Ural",
+   "takim": "OGM ORMANSPOR",
+   "pm": 54,
+   "fark": 11,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "210255",
    "ad": "Emre Tanışan",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 50,
    "fark": 35,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "109594",
-   "ad": "Göktürk Gökalp Ural",
-   "takim": "OGM ORMANSPOR",
-   "pm": 49,
-   "fark": 6,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14301,7 +14301,7 @@
    "ad": "Deniz Çelen",
    "takim": "KİPAŞ K.B.B.",
    "pm": 21,
-   "fark": 83,
+   "fark": 78,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -14338,6 +14338,15 @@
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
    "pm": 18,
    "fark": 19,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "251001",
+   "ad": "Tolga Kaan Birer",
+   "takim": "OGM ORMANSPOR",
+   "pm": 16,
+   "fark": 11,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14427,16 +14436,7 @@
    "ad": "Koray Uzunhasan",
    "takim": "OGM ORMANSPOR",
    "pm": 11,
-   "fark": 6,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "251001",
-   "ad": "Tolga Kaan Birer",
-   "takim": "OGM ORMANSPOR",
-   "pm": 11,
-   "fark": 6,
+   "fark": 11,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14481,7 +14481,7 @@
    "ad": "Baran Avşar",
    "takim": "KİPAŞ K.B.B.",
    "pm": 10,
-   "fark": 83,
+   "fark": 78,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -14499,7 +14499,7 @@
    "ad": "Yağız Baykurt",
    "takim": "OGM ORMANSPOR",
    "pm": 8,
-   "fark": 5,
+   "fark": 10,
    "mac": 3,
    "ulke": "TÜRKİYE"
   },
@@ -14576,6 +14576,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "473677",
+   "ad": "Diante Watkins",
+   "takim": "OGM ORMANSPOR",
+   "pm": 5,
+   "fark": 11,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "482295",
    "ad": "Yavuz Kara",
    "takim": "YALOVA HAREM SPOR",
@@ -14610,6 +14619,15 @@
    "fark": -19,
    "mac": 1,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "501170",
+   "ad": "Tobin Carberry",
+   "takim": "OGM ORMANSPOR",
+   "pm": 4,
+   "fark": 11,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "386617",
@@ -14760,7 +14778,7 @@
    "ad": "Çağatay Özkan",
    "takim": "KİPAŞ K.B.B.",
    "pm": 1,
-   "fark": 45,
+   "fark": 40,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -14792,15 +14810,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "473677",
-   "ad": "Diante Watkins",
-   "takim": "OGM ORMANSPOR",
-   "pm": 0,
-   "fark": 6,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "379811",
    "ad": "Işık Ali Akpınar",
    "takim": "MERSİN SPOR",
@@ -14826,15 +14835,6 @@
    "fark": 4,
    "mac": 1,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "501170",
-   "ad": "Tobin Carberry",
-   "takim": "OGM ORMANSPOR",
-   "pm": -1,
-   "fark": 6,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "372344",
@@ -15026,6 +15026,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "23926",
+   "ad": "Mustafa Baki Görür",
+   "takim": "OGM ORMANSPOR",
+   "pm": -6,
+   "fark": 11,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "284219",
    "ad": "Tarık Sezgün",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -15075,7 +15084,7 @@
    "ad": "Kaya Bayram",
    "takim": "KİPAŞ K.B.B.",
    "pm": -8,
-   "fark": 0,
+   "fark": -5,
    "mac": 3,
    "ulke": "TÜRKİYE"
   },
@@ -15168,15 +15177,6 @@
    "fark": -19,
    "mac": 1,
    "ulke": "ABD"
-  },
-  {
-   "id": "23926",
-   "ad": "Mustafa Baki Görür",
-   "takim": "OGM ORMANSPOR",
-   "pm": -11,
-   "fark": 6,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "108865",
@@ -15282,7 +15282,7 @@
    "ad": "Hüseyin Seviğ",
    "takim": "KİPAŞ K.B.B.",
    "pm": -14,
-   "fark": 95,
+   "fark": 90,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -15318,7 +15318,7 @@
    "ad": "Tuna Han Dikmen",
    "takim": "OGM ORMANSPOR",
    "pm": -16,
-   "fark": 6,
+   "fark": 11,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -15552,7 +15552,7 @@
    "ad": "Arda Özdoğan",
    "takim": "KİPAŞ K.B.B.",
    "pm": -30,
-   "fark": 83,
+   "fark": 78,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15615,7 +15615,7 @@
    "ad": "Kaan Tarla",
    "takim": "OGM ORMANSPOR",
    "pm": -37,
-   "fark": 6,
+   "fark": 11,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
