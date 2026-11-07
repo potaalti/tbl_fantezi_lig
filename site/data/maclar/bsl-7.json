@@ -33,13 +33,18 @@
    "lig": "bsl",
    "hafta": 7,
    "tarih": "2026-11-07T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "TRABZONSPOR",
    "dep": "ALİAĞA PETKİM SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "3",
    "salon": "Hayri Gür Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:32",
+    "uzatma": false
+   }
   },
   {
    "id": 346329,
