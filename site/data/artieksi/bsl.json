@@ -9086,51 +9086,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "129216",
-    "ad": "Doğuş Özdemiroğlu",
-    "takim": "TÜRK TELEKOM",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "277894",
-    "ad": "Göktuğ Baş",
-    "takim": "TÜRK TELEKOM",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778727",
-    "ad": "Ismael Bako",
-    "takim": "TÜRK TELEKOM",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "BELÇİKA"
-   },
-   {
-    "id": "778728",
-    "ad": "Jerrick Harding",
-    "takim": "TÜRK TELEKOM",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "418533",
-    "ad": "Uros Trifunovic",
-    "takim": "TÜRK TELEKOM",
-    "pm": 3,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
-   },
-   {
     "id": "160245",
     "ad": "Enes Berkay Taşkıran",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
@@ -9138,6 +9093,51 @@
     "fark": 17,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "129216",
+    "ad": "Doğuş Özdemiroğlu",
+    "takim": "TÜRK TELEKOM",
+    "pm": 1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "277894",
+    "ad": "Göktuğ Baş",
+    "takim": "TÜRK TELEKOM",
+    "pm": 1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778727",
+    "ad": "Ismael Bako",
+    "takim": "TÜRK TELEKOM",
+    "pm": 1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "BELÇİKA"
+   },
+   {
+    "id": "778728",
+    "ad": "Jerrick Harding",
+    "takim": "TÜRK TELEKOM",
+    "pm": 1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "418533",
+    "ad": "Uros Trifunovic",
+    "takim": "TÜRK TELEKOM",
+    "pm": 1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
    },
    {
     "id": "106461",
@@ -9158,20 +9158,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "756112",
-    "ad": "Nysier Brooks",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -2,
-    "fark": 17,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "397073",
     "ad": "Altan Çamoğlu",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -3,
-    "fark": -3,
+    "pm": -1,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9179,8 +9170,8 @@
     "id": "778181",
     "ad": "Boo Buie",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -3,
-    "fark": -3,
+    "pm": -1,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9188,8 +9179,8 @@
     "id": "470601",
     "ad": "Filip Barna",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -3,
-    "fark": -3,
+    "pm": -1,
+    "fark": -1,
     "mac": 1,
     "ulke": "SIRBİSTAN"
    },
@@ -9197,8 +9188,8 @@
     "id": "609266",
     "ad": "Matt Mitchell",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -3,
-    "fark": -3,
+    "pm": -1,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9206,10 +9197,19 @@
     "id": "778184",
     "ad": "Oscar Cluff",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
-    "pm": -3,
-    "fark": -3,
+    "pm": -1,
+    "fark": -1,
     "mac": 1,
     "ulke": "AVUSTRALYA"
+   },
+   {
+    "id": "756112",
+    "ad": "Nysier Brooks",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -2,
+    "fark": 17,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "441857",
@@ -9296,15 +9296,6 @@
    "ulke": "SIRBİSTAN"
   },
   {
-   "id": "129216",
-   "ad": "Doğuş Özdemiroğlu",
-   "takim": "TÜRK TELEKOM",
-   "pm": 58,
-   "fark": 64,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "386159",
    "ad": "Shaquille McKissic",
    "takim": "TÜRK TELEKOM",
@@ -9330,6 +9321,15 @@
    "fark": 38,
    "mac": 5,
    "ulke": "BAHAMALAR"
+  },
+  {
+   "id": "129216",
+   "ad": "Doğuş Özdemiroğlu",
+   "takim": "TÜRK TELEKOM",
+   "pm": 56,
+   "fark": 62,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "781548",
@@ -9470,8 +9470,8 @@
    "id": "418533",
    "ad": "Uros Trifunovic",
    "takim": "TÜRK TELEKOM",
-   "pm": 32,
-   "fark": 64,
+   "pm": 30,
+   "fark": 62,
    "mac": 7,
    "ulke": "SIRBİSTAN"
   },
@@ -9728,15 +9728,6 @@
    "ulke": "KANADA"
   },
   {
-   "id": "778727",
-   "ad": "Ismael Bako",
-   "takim": "TÜRK TELEKOM",
-   "pm": 13,
-   "fark": 64,
-   "mac": 7,
-   "ulke": "BELÇİKA"
-  },
-  {
    "id": "106461",
    "ad": "Kadir Bayram",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -9789,6 +9780,15 @@
    "fark": 36,
    "mac": 2,
    "ulke": "ABD"
+  },
+  {
+   "id": "778727",
+   "ad": "Ismael Bako",
+   "takim": "TÜRK TELEKOM",
+   "pm": 11,
+   "fark": 62,
+   "mac": 7,
+   "ulke": "BELÇİKA"
   },
   {
    "id": "778459",
@@ -9845,15 +9845,6 @@
    "ulke": "MALİ"
   },
   {
-   "id": "277894",
-   "ad": "Göktuğ Baş",
-   "takim": "TÜRK TELEKOM",
-   "pm": 9,
-   "fark": 46,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "281408",
    "ad": "David Mutaf",
    "takim": "ANADOLU EFES",
@@ -9899,6 +9890,24 @@
    "ulke": "ABD"
   },
   {
+   "id": "397073",
+   "ad": "Altan Çamoğlu",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": 7,
+   "fark": -16,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "609266",
+   "ad": "Matt Mitchell",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": 7,
+   "fark": -16,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "778080",
    "ad": "Dallas Moore",
    "takim": "ESENLER EROKSPOR",
@@ -9924,6 +9933,15 @@
    "fark": 32,
    "mac": 6,
    "ulke": "ABD"
+  },
+  {
+   "id": "277894",
+   "ad": "Göktuğ Baş",
+   "takim": "TÜRK TELEKOM",
+   "pm": 7,
+   "fark": 44,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "442131",
@@ -9962,15 +9980,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "778728",
-   "ad": "Jerrick Harding",
-   "takim": "TÜRK TELEKOM",
-   "pm": 6,
-   "fark": 43,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "470765",
    "ad": "Mahir Ağva",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -9980,24 +9989,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "397073",
-   "ad": "Altan Çamoğlu",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": 5,
-   "fark": -18,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "609266",
-   "ad": "Matt Mitchell",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": 5,
-   "fark": -18,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "249031",
    "ad": "Metehan Akyel",
    "takim": "ESENLER EROKSPOR",
@@ -10005,6 +9996,15 @@
    "fark": -18,
    "mac": 3,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778728",
+   "ad": "Jerrick Harding",
+   "takim": "TÜRK TELEKOM",
+   "pm": 4,
+   "fark": 41,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "501076",
@@ -10565,6 +10565,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "470601",
+   "ad": "Filip Barna",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": -12,
+   "fark": -16,
+   "mac": 7,
+   "ulke": "SIRBİSTAN"
+  },
+  {
    "id": "351474",
    "ad": "Melih Tunca",
    "takim": "ESENLER EROKSPOR",
@@ -10673,15 +10682,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "470601",
-   "ad": "Filip Barna",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -14,
-   "fark": -18,
-   "mac": 7,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "127089",
    "ad": "Erdi Gülaslan",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
@@ -10736,6 +10736,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "778184",
+   "ad": "Oscar Cluff",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": -16,
+   "fark": -16,
+   "mac": 7,
+   "ulke": "AVUSTRALYA"
+  },
+  {
    "id": "473256",
    "ad": "Emanuel Terry",
    "takim": "TRABZONSPOR",
@@ -10788,15 +10797,6 @@
    "fark": -42,
    "mac": 6,
    "ulke": "ABD"
-  },
-  {
-   "id": "778184",
-   "ad": "Oscar Cluff",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -18,
-   "fark": -18,
-   "mac": 7,
-   "ulke": "AVUSTRALYA"
   },
   {
    "id": "227173",
@@ -11006,6 +11006,15 @@
    "ulke": "FİNLANDİYA"
   },
   {
+   "id": "778181",
+   "ad": "Boo Buie",
+   "takim": "BİOTEKNO KÖRFEZ BASKET",
+   "pm": -29,
+   "fark": -16,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "779010",
    "ad": "Victor Bailey Jr.",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -11030,15 +11039,6 @@
    "pm": -30,
    "fark": -9,
    "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "778181",
-   "ad": "Boo Buie",
-   "takim": "BİOTEKNO KÖRFEZ BASKET",
-   "pm": -31,
-   "fark": -18,
-   "mac": 7,
    "ulke": "ABD"
   },
   {
