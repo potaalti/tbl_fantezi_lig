@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "83",
+  "skor": "87",
   "oyuncular": [
    {
     "id": "332037",
@@ -43,7 +43,7 @@
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "36:14",
+    "sure": "37:32",
     "sayi": 20,
     "iki": [
      4,
@@ -63,17 +63,17 @@
     "ast": 15,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "-5",
-    "vp": 30
+    "vp": 29
    },
    {
     "id": "27582",
     "ad": "Hazer Avcı",
     "no": "11",
     "ilk5": true,
-    "sure": "23:24",
+    "sure": "24:42",
     "sayi": 12,
     "iki": [
      3,
@@ -88,15 +88,15 @@
      0
     ],
     "hr": 1,
-    "sr": 4,
-    "rib": 5,
+    "sr": 5,
+    "rib": 6,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 2,
     "pm": "4",
-    "vp": 13
+    "vp": 14
    },
    {
     "id": "109425",
@@ -133,11 +133,11 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "14:41",
-    "sayi": 6,
+    "sure": "15:59",
+    "sayi": 8,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      2,
@@ -156,7 +156,7 @@
     "tk": 2,
     "faul": 3,
     "pm": "2",
-    "vp": 7
+    "vp": 9
    },
    {
     "id": "460265",
@@ -193,11 +193,11 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": false,
-    "sure": "30:21",
-    "sayi": 22,
+    "sure": "31:39",
+    "sayi": 24,
     "iki": [
-     4,
-     5
+     5,
+     6
     ],
     "uc": [
      3,
@@ -210,13 +210,13 @@
     "hr": 0,
     "sr": 4,
     "rib": 4,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 3,
     "faul": 2,
     "pm": "2",
-    "vp": 21
+    "vp": 24
    },
    {
     "id": "207867",
@@ -253,7 +253,7 @@
     "ad": "Arda Birkeser",
     "no": "22",
     "ilk5": false,
-    "sure": "21:03",
+    "sure": "22:21",
     "sayi": 12,
     "iki": [
      4,
@@ -271,12 +271,12 @@
     "sr": 0,
     "rib": 0,
     "ast": 2,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
     "tk": 1,
     "faul": 3,
     "pm": "-17",
-    "vp": 13
+    "vp": 14
    },
    {
     "id": "209010",
@@ -343,19 +343,19 @@
    17,
    27,
    25,
-   14
+   18
   ]
  },
  "dep": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "88",
+  "skor": "92",
   "oyuncular": [
    {
     "id": "220370",
     "ad": "Yiğit Özkan",
     "no": "2",
     "ilk5": true,
-    "sure": "22:22",
+    "sure": "23:40",
     "sayi": 5,
     "iki": [
      2,
@@ -385,7 +385,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "31:49",
+    "sure": "33:07",
     "sayi": 29,
     "iki": [
      3,
@@ -405,25 +405,25 @@
     "ast": 6,
     "tc": 0,
     "blk": 0,
-    "tk": 4,
+    "tk": 5,
     "faul": 4,
     "pm": "7",
-    "vp": 31
+    "vp": 30
    },
    {
     "id": "113781",
     "ad": "Ege Havsa",
     "no": "5",
     "ilk5": true,
-    "sure": "29:10",
-    "sayi": 9,
+    "sure": "30:28",
+    "sayi": 11,
     "iki": [
-     1,
-     4
+     2,
+     5
     ],
     "uc": [
      2,
-     3
+     4
     ],
     "sa": [
      1,
@@ -433,19 +433,19 @@
     "sr": 0,
     "rib": 0,
     "ast": 3,
-    "tc": 2,
+    "tc": 3,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "6",
-    "vp": 10
+    "vp": 12
    },
    {
     "id": "471743",
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "32:28",
+    "sure": "33:46",
     "sayi": 23,
     "iki": [
      8,
@@ -475,8 +475,8 @@
     "ad": "Hakan Yapar",
     "no": "15",
     "ilk5": true,
-    "sure": "25:59",
-    "sayi": 11,
+    "sure": "27:17",
+    "sayi": 13,
     "iki": [
      0,
      1
@@ -486,8 +486,8 @@
      6
     ],
     "sa": [
-     2,
-     2
+     4,
+     4
     ],
     "hr": 0,
     "sr": 1,
@@ -498,7 +498,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "2",
-    "vp": 8
+    "vp": 10
    },
    {
     "id": "108904",
@@ -715,16 +715,16 @@
    30,
    24,
    19,
-   15
+   19
   ]
  },
- "evSkor": "83",
- "depSkor": "88",
+ "evSkor": "87",
+ "depSkor": "92",
  "salon": "TOBB ETÜ Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "03:46",
+  "saat": "02:28",
   "uzatma": false
  }
 }
