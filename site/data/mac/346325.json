@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "TRABZONSPOR",
-  "skor": "66",
+  "skor": "71",
   "oyuncular": [
    {
     "id": "735812",
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": true,
-    "sure": "18:26",
+    "sure": "18:52",
     "sayi": 12,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-5",
+    "pm": "0",
     "vp": 8
    },
    {
@@ -43,11 +43,11 @@
     "ad": "Akwasi Yeboah",
     "no": "15",
     "ilk5": true,
-    "sure": "21:40",
-    "sayi": 5,
+    "sure": "22:06",
+    "sayi": 7,
     "iki": [
-     1,
-     3
+     2,
+     4
     ],
     "uc": [
      0,
@@ -65,15 +65,15 @@
     "blk": 2,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
-    "vp": 10
+    "pm": "7",
+    "vp": 12
    },
    {
     "id": "473256",
     "ad": "Emanuel Terry",
     "no": "33",
     "ilk5": true,
-    "sure": "24:11",
+    "sure": "24:37",
     "sayi": 14,
     "iki": [
      7,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "-13",
+    "pm": "-8",
     "vp": 13
    },
    {
@@ -193,37 +193,37 @@
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": false,
-    "sure": "25:00",
-    "sayi": 13,
+    "sure": "25:26",
+    "sayi": 16,
     "iki": [
-     3,
-     5
+     4,
+     6
     ],
     "uc": [
      2,
      3
     ],
     "sa": [
-     1,
-     2
+     2,
+     4
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 7,
+    "ast": 8,
     "tc": 0,
     "blk": 0,
     "tk": 4,
     "faul": 3,
-    "pm": "-23",
-    "vp": 12
+    "pm": "-18",
+    "vp": 15
    },
    {
     "id": "105532",
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": false,
-    "sure": "22:22",
+    "sure": "22:48",
     "sayi": 2,
     "iki": [
      1,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-8",
+    "pm": "-3",
     "vp": 7
    },
    {
@@ -373,7 +373,7 @@
    18,
    18,
    17,
-   13
+   18
   ]
  },
  "dep": {
@@ -385,7 +385,7 @@
     "ad": "Khyri Thomas",
     "no": "0",
     "ilk5": true,
-    "sure": "30:30",
+    "sure": "30:56",
     "sayi": 11,
     "iki": [
      3,
@@ -407,7 +407,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "18",
+    "pm": "13",
     "vp": 8
    },
    {
@@ -415,7 +415,7 @@
     "ad": "Max Abmas",
     "no": "3",
     "ilk5": true,
-    "sure": "20:52",
+    "sure": "21:18",
     "sayi": 10,
     "iki": [
      1,
@@ -437,7 +437,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "1",
+    "pm": "-4",
     "vp": 9
    },
    {
@@ -445,7 +445,7 @@
     "ad": "Yiğit Onan",
     "no": "7",
     "ilk5": true,
-    "sure": "26:39",
+    "sure": "27:05",
     "sayi": 15,
     "iki": [
      7,
@@ -467,7 +467,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "15",
+    "pm": "10",
     "vp": 21
    },
    {
@@ -505,7 +505,7 @@
     "ad": "Olivier Hanlan",
     "no": "21",
     "ilk5": true,
-    "sure": "29:28",
+    "sure": "29:54",
     "sayi": 22,
     "iki": [
      4,
@@ -527,7 +527,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "22",
+    "pm": "17",
     "vp": 30
    },
    {
@@ -565,7 +565,7 @@
     "ad": "Chris Horton",
     "no": "2",
     "ilk5": false,
-    "sure": "25:10",
+    "sure": "25:36",
     "sayi": 12,
     "iki": [
      5,
@@ -587,7 +587,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 1,
-    "pm": "17",
+    "pm": "12",
     "vp": 16
    },
    {
@@ -748,13 +748,13 @@
    21
   ]
  },
- "evSkor": "66",
+ "evSkor": "71",
  "depSkor": "81",
  "salon": "Hayri Gür Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "02:58",
+  "saat": "02:32",
   "uzatma": false
  }
 }
