@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "64",
+  "skor": "67",
   "oyuncular": [
    {
     "id": "776821",
     "ad": "Vitalis Chikoko",
     "no": "5",
     "ilk5": true,
-    "sure": "34:46",
+    "sure": "35:21",
     "sayi": 17,
     "iki": [
      7,
@@ -34,8 +34,8 @@
     "tc": 2,
     "blk": 3,
     "tk": 1,
-    "faul": 2,
-    "pm": "-7",
+    "faul": 3,
+    "pm": "-6",
     "vp": 20
    },
    {
@@ -73,7 +73,7 @@
     "ad": "Ekrem Sancaklı",
     "no": "8",
     "ilk5": true,
-    "sure": "35:41",
+    "sure": "36:16",
     "sayi": 15,
     "iki": [
      1,
@@ -88,15 +88,15 @@
      6
     ],
     "hr": 0,
-    "sr": 3,
-    "rib": 3,
-    "ast": 0,
+    "sr": 4,
+    "rib": 4,
+    "ast": 1,
     "tc": 2,
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-5",
-    "vp": 7
+    "pm": "-4",
+    "vp": 9
    },
    {
     "id": "380030",
@@ -133,15 +133,15 @@
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "37:37",
-    "sayi": 13,
+    "sure": "38:12",
+    "sayi": 16,
     "iki": [
      5,
      6
     ],
     "uc": [
-     1,
-     5
+     2,
+     6
     ],
     "sa": [
      0,
@@ -155,8 +155,8 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-5",
-    "vp": 23
+    "pm": "-4",
+    "vp": 26
    },
    {
     "id": "372344",
@@ -223,7 +223,7 @@
     "ad": "Can Sayın",
     "no": "6",
     "ilk5": false,
-    "sure": "15:01",
+    "sure": "15:36",
     "sayi": 3,
     "iki": [
      0,
@@ -245,7 +245,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "5",
+    "pm": "6",
     "vp": 1
    },
    {
@@ -343,7 +343,7 @@
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": false,
-    "sure": "12:04",
+    "sure": "12:39",
     "sayi": 7,
     "iki": [
      2,
@@ -365,7 +365,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 8
    }
   ],
@@ -373,20 +373,20 @@
    16,
    13,
    19,
-   16
+   19
   ]
  },
  "dep": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "70",
+  "skor": "72",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "33:55",
-    "sayi": 15,
+    "sure": "34:30",
+    "sayi": 17,
     "iki": [
      3,
      5
@@ -396,8 +396,8 @@
      8
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -407,8 +407,8 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-3",
-    "vp": 10
+    "pm": "-4",
+    "vp": 12
    },
    {
     "id": "139924",
@@ -505,7 +505,7 @@
     "ad": "Julien Ducree",
     "no": "54",
     "ilk5": true,
-    "sure": "35:10",
+    "sure": "35:45",
     "sayi": 22,
     "iki": [
      7,
@@ -527,7 +527,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 3,
-    "pm": "13",
+    "pm": "12",
     "vp": 24
    },
    {
@@ -595,7 +595,7 @@
     "ad": "Mustafa Baştürk",
     "no": "12",
     "ilk5": false,
-    "sure": "27:29",
+    "sure": "28:04",
     "sayi": 2,
     "iki": [
      1,
@@ -617,7 +617,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-3",
+    "pm": "-4",
     "vp": 5
    },
    {
@@ -625,7 +625,7 @@
     "ad": "Erdinç Alex Koyun",
     "no": "16",
     "ilk5": false,
-    "sure": "26:45",
+    "sure": "27:20",
     "sayi": 10,
     "iki": [
      4,
@@ -647,7 +647,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "4",
+    "pm": "3",
     "vp": 12
    },
    {
@@ -715,7 +715,7 @@
     "ad": "Can Uğur Öğüt",
     "no": "44",
     "ilk5": false,
-    "sure": "23:22",
+    "sure": "23:58",
     "sayi": 13,
     "iki": [
      2,
@@ -723,7 +723,7 @@
     ],
     "uc": [
      3,
-     3
+     4
     ],
     "sa": [
      0,
@@ -737,24 +737,24 @@
     "blk": 0,
     "tk": 1,
     "faul": 4,
-    "pm": "12",
-    "vp": 19
+    "pm": "11",
+    "vp": 18
    }
   ],
   "ceyrekler": [
    18,
    22,
    18,
-   12
+   14
   ]
  },
- "evSkor": "64",
- "depSkor": "70",
+ "evSkor": "67",
+ "depSkor": "72",
  "salon": "Gölbaşı Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "00:55",
+  "saat": "00:19",
   "uzatma": false
  }
 }
