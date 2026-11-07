@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "9",
+  "skor": "12",
   "oyuncular": [
    {
     "id": "776821",
     "ad": "Vitalis Chikoko",
     "no": "5",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 6,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 6
    },
    {
@@ -43,38 +43,38 @@
     "ad": "Caner Ercan",
     "no": "7",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 0,
     "iki": [
      0,
-     0
+     2
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 1
+    "pm": "1",
+    "vp": -1
    },
    {
     "id": "271655",
     "ad": "Ekrem Sancaklı",
     "no": "8",
     "ilk5": true,
-    "sure": "4:07",
-    "sayi": 2,
+    "sure": "6:12",
+    "sayi": 3,
     "iki": [
      1,
      1
@@ -84,30 +84,30 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 2
+    "pm": "1",
+    "vp": 3
    },
    {
     "id": "380030",
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "4:07",
-    "sayi": 1,
+    "sure": "6:12",
+    "sayi": 3,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -125,15 +125,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 1
+    "pm": "1",
+    "vp": 3
    },
    {
     "id": "222696",
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 0,
     "iki": [
      0,
@@ -148,15 +148,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 1,
+    "sr": 2,
+    "rib": 2,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 2
+    "pm": "1",
+    "vp": 4
    },
    {
     "id": "372344",
@@ -370,23 +370,23 @@
    }
   ],
   "ceyrekler": [
-   9
+   12
   ]
  },
  "dep": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "9",
+  "skor": "11",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 5,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      1,
@@ -399,12 +399,12 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "0",
+    "pm": "-1",
     "vp": 4
    },
    {
@@ -412,11 +412,11 @@
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -434,15 +434,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 0
+    "pm": "-1",
+    "vp": -1
    },
    {
     "id": "229642",
     "ad": "Gökhan Akkoyun",
     "no": "6",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 0,
     "iki": [
      0,
@@ -457,26 +457,26 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": -1
+    "pm": "-1",
+    "vp": 0
    },
    {
     "id": "111242",
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": true,
-    "sure": "4:07",
+    "sure": "6:12",
     "sayi": 2,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      0,
@@ -494,19 +494,19 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 4
+    "pm": "-1",
+    "vp": 3
    },
    {
     "id": "616402",
     "ad": "Julien Ducree",
     "no": "54",
     "ilk5": true,
-    "sure": "4:07",
-    "sayi": 2,
+    "sure": "6:12",
+    "sayi": 4,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      0,
@@ -517,15 +517,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 3,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 3
+    "pm": "-1",
+    "vp": 7
    },
    {
     "id": "502279",
@@ -739,16 +739,16 @@
    }
   ],
   "ceyrekler": [
-   9
+   11
   ]
  },
- "evSkor": "9",
- "depSkor": "9",
+ "evSkor": "12",
+ "depSkor": "11",
  "salon": "Gölbaşı Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "05:53",
+  "saat": "03:48",
   "uzatma": false
  }
 }
