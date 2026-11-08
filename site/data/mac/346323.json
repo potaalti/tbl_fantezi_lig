@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "5",
+  "skor": "7",
   "oyuncular": [
    {
     "id": "736340",
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 2,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "5",
+    "pm": "6",
     "vp": 3,
     "sahada": true
    },
@@ -44,7 +44,7 @@
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 0,
     "iki": [
      0,
@@ -65,8 +65,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "5",
+    "faul": 1,
+    "pm": "6",
     "vp": 0,
     "sahada": true
    },
@@ -75,7 +75,7 @@
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 3,
     "iki": [
      0,
@@ -92,13 +92,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
-    "vp": 3,
+    "pm": "6",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -106,11 +106,11 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "1:41",
-    "sayi": 0,
+    "sure": "2:21",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -121,15 +121,15 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
-    "vp": 1,
+    "pm": "6",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -137,7 +137,7 @@
     "ad": "Oumar Ballo",
     "no": "11",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 0,
     "iki": [
      0,
@@ -157,10 +157,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "5",
-    "vp": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "6",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -375,31 +375,31 @@
    }
   ],
   "ceyrekler": [
-   5
+   7
   ]
  },
  "dep": {
   "ad": "ESENLER EROKSPOR",
-  "skor": "0",
+  "skor": "1",
   "oyuncular": [
    {
     "id": "606624",
     "ad": "Mike Davis Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "1:41",
-    "sayi": 0,
+    "sure": "2:21",
+    "sayi": 1,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -409,8 +409,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
-    "vp": 1,
+    "pm": "-6",
+    "vp": 0,
     "sahada": true
    },
    {
@@ -418,7 +418,7 @@
     "ad": "Jordan Usher",
     "no": "8",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 0,
     "iki": [
      0,
@@ -440,7 +440,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 0,
     "sahada": true
    },
@@ -449,7 +449,7 @@
     "ad": "Amadou Sow",
     "no": "12",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 0,
     "iki": [
      0,
@@ -471,7 +471,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-6",
     "vp": -1,
     "sahada": true
    },
@@ -480,7 +480,7 @@
     "ad": "Dallas Moore",
     "no": "14",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 0,
     "iki": [
      0,
@@ -502,7 +502,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-6",
     "vp": -1,
     "sahada": true
    },
@@ -511,7 +511,7 @@
     "ad": "Muhsin Yaşar",
     "no": "77",
     "ilk5": true,
-    "sure": "1:41",
+    "sure": "2:21",
     "sayi": 0,
     "iki": [
      0,
@@ -533,7 +533,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 0,
     "sahada": true
    },
@@ -749,16 +749,16 @@
    }
   ],
   "ceyrekler": [
-   0
+   1
   ]
  },
- "evSkor": "5",
- "depSkor": "0",
+ "evSkor": "7",
+ "depSkor": "1",
  "salon": "Sinan Erdem Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "08:19",
+  "saat": "07:39",
   "uzatma": false
  }
 }

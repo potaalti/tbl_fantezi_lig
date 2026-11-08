@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "59",
+  "skor": "60",
   "oyuncular": [
    {
     "id": "223836",
@@ -43,7 +43,7 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": true,
-    "sure": "11:19",
+    "sure": "11:54",
     "sayi": 2,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "5",
+    "pm": "6",
     "vp": 2,
     "sahada": true
    },
@@ -74,7 +74,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": true,
-    "sure": "15:51",
+    "sure": "15:59",
     "sayi": 5,
     "iki": [
      1,
@@ -96,7 +96,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "6",
+    "pm": "7",
     "vp": 8
    },
    {
@@ -127,7 +127,8 @@
     "tk": 2,
     "faul": 2,
     "pm": "10",
-    "vp": 10
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "386617",
@@ -164,8 +165,8 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "12:24",
-    "sayi": 9,
+    "sure": "12:59",
+    "sayi": 10,
     "iki": [
      3,
      4
@@ -175,8 +176,8 @@
      5
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 2,
     "sr": 1,
@@ -186,7 +187,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-1",
+    "pm": "0",
     "vp": 8,
     "sahada": true
    },
@@ -195,7 +196,7 @@
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": false,
-    "sure": "9:01",
+    "sure": "9:37",
     "sayi": 9,
     "iki": [
      3,
@@ -217,7 +218,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-1",
+    "pm": "0",
     "vp": 7,
     "sahada": true
    },
@@ -286,7 +287,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": false,
-    "sure": "18:40",
+    "sure": "19:07",
     "sayi": 3,
     "iki": [
      0,
@@ -317,7 +318,7 @@
     "ad": "Ünal Çardak",
     "no": "17",
     "ilk5": false,
-    "sure": "6:46",
+    "sure": "7:21",
     "sayi": 2,
     "iki": [
      1,
@@ -339,9 +340,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "0",
-    "vp": 4,
-    "sahada": true
+    "pm": "1",
+    "vp": 4
    },
    {
     "id": "446970",
@@ -377,7 +377,7 @@
   "ceyrekler": [
    23,
    18,
-   18
+   19
   ]
  },
  "dep": {
@@ -412,14 +412,15 @@
     "tk": 1,
     "faul": 3,
     "pm": "-14",
-    "vp": 10
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "39445",
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "25:17",
+    "sure": "25:53",
     "sayi": 0,
     "iki": [
      0,
@@ -427,23 +428,22 @@
     ],
     "uc": [
      0,
-     2
+     3
     ],
     "sa": [
      0,
      0
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 5,
+    "rib": 5,
     "ast": 5,
     "tc": 0,
     "blk": 0,
     "tk": 5,
-    "faul": 1,
-    "pm": "-6",
-    "vp": 0,
-    "sahada": true
+    "faul": 2,
+    "pm": "-7",
+    "vp": 0
    },
    {
     "id": "196982",
@@ -510,7 +510,7 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": true,
-    "sure": "20:53",
+    "sure": "21:28",
     "sayi": 8,
     "iki": [
      3,
@@ -532,7 +532,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "6",
+    "pm": "5",
     "vp": 7,
     "sahada": true
    },
@@ -541,7 +541,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "12:30",
+    "sure": "13:05",
     "sayi": 5,
     "iki": [
      2,
@@ -563,7 +563,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "5",
+    "pm": "4",
     "vp": 5,
     "sahada": true
    },
@@ -662,7 +662,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "19:06",
+    "sure": "19:41",
     "sayi": 5,
     "iki": [
      1,
@@ -684,7 +684,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "4",
+    "pm": "3",
     "vp": 7,
     "sahada": true
    },
@@ -693,7 +693,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "19:43",
+    "sure": "20:19",
     "sayi": 13,
     "iki": [
      3,
@@ -715,7 +715,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "1",
+    "pm": "0",
     "vp": 13,
     "sahada": true
    },
@@ -756,13 +756,13 @@
    15
   ]
  },
- "evSkor": "59",
+ "evSkor": "60",
  "depSkor": "53",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "HT SPOR",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:37",
+  "periyot": 4,
+  "saat": "10:00",
   "uzatma": false
  }
 }
