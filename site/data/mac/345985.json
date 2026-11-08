@@ -66,15 +66,14 @@
     "tk": 1,
     "faul": 0,
     "pm": "11",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "375276",
     "ad": "Ata Özbek",
     "no": "11",
     "ilk5": true,
-    "sure": "6:29",
+    "sure": "8:01",
     "sayi": 2,
     "iki": [
      1,
@@ -96,15 +95,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "8",
-    "vp": 4
+    "pm": "6",
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "777244",
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "8:44",
+    "sure": "10:16",
     "sayi": 13,
     "iki": [
      5,
@@ -119,15 +119,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 1,
     "blk": 1,
-    "tk": 0,
+    "tk": 2,
     "faul": 1,
-    "pm": "10",
-    "vp": 16,
+    "pm": "8",
+    "vp": 15,
     "sahada": true
    },
    {
@@ -165,7 +165,7 @@
     "ad": "Yağız Cumalıoğlu",
     "no": "0",
     "ilk5": false,
-    "sure": "3:31",
+    "sure": "5:03",
     "sayi": 0,
     "iki": [
      0,
@@ -187,7 +187,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": 1,
     "sahada": true
    },
@@ -226,7 +226,7 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": false,
-    "sure": "7:42",
+    "sure": "9:14",
     "sayi": 9,
     "iki": [
      0,
@@ -248,7 +248,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "16",
+    "pm": "14",
     "vp": 12,
     "sahada": true
    },
@@ -317,7 +317,7 @@
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "6:02",
+    "sure": "7:34",
     "sayi": 3,
     "iki": [
      0,
@@ -332,15 +332,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "11",
-    "vp": 6,
+    "pm": "9",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -375,27 +375,28 @@
    }
   ],
   "ceyrekler": [
-   33
+   33,
+   0
   ]
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "22",
+  "skor": "24",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "10:00",
-    "sayi": 11,
+    "sure": "11:32",
+    "sayi": 13,
     "iki": [
-     3,
-     3
+     4,
+     4
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      2,
@@ -409,8 +410,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-11",
-    "vp": 13,
+    "pm": "-9",
+    "vp": 14,
     "sahada": true
    },
    {
@@ -508,7 +509,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "11:32",
     "sayi": 3,
     "iki": [
      0,
@@ -530,7 +531,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-11",
+    "pm": "-9",
     "vp": 1,
     "sahada": true
    },
@@ -569,11 +570,11 @@
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "2:18",
+    "sure": "3:50",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
@@ -591,8 +592,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-4",
-    "vp": 2,
+    "pm": "-2",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -600,7 +601,7 @@
     "ad": "İbrahim Pınarer",
     "no": "10",
     "ilk5": false,
-    "sure": "4:13",
+    "sure": "5:45",
     "sayi": 3,
     "iki": [
      0,
@@ -621,8 +622,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "-9",
+    "faul": 1,
+    "pm": "-7",
     "vp": 2,
     "sahada": true
    },
@@ -661,7 +662,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": false,
-    "sure": "2:18",
+    "sure": "3:50",
     "sayi": 0,
     "iki": [
      0,
@@ -683,7 +684,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -749,16 +750,17 @@
    }
   ],
   "ceyrekler": [
-   22
+   22,
+   2
   ]
  },
  "evSkor": "33",
- "depSkor": "22",
+ "depSkor": "24",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "10:00",
+  "saat": "08:28",
   "uzatma": false
  }
 }
