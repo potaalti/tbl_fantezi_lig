@@ -13,11 +13,11 @@
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "3:02",
+    "sure": "3:57",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -35,8 +35,8 @@
     "blk": 0,
     "tk": 4,
     "faul": 3,
-    "pm": "-5",
-    "vp": -4,
+    "pm": "-10",
+    "vp": -5,
     "sahada": true
    },
    {
@@ -44,7 +44,7 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "14:12",
+    "sure": "15:07",
     "sayi": 6,
     "iki": [
      0,
@@ -66,7 +66,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "8",
+    "pm": "3",
     "vp": 8,
     "sahada": true
    },
@@ -75,7 +75,7 @@
     "ad": "Ata Özbek",
     "no": "11",
     "ilk5": true,
-    "sure": "12:13",
+    "sure": "13:08",
     "sayi": 2,
     "iki": [
      1,
@@ -97,7 +97,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "-2",
     "vp": 4,
     "sahada": true
    },
@@ -106,7 +106,7 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "13:06",
+    "sure": "14:01",
     "sayi": 17,
     "iki": [
      7,
@@ -128,7 +128,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 1,
-    "pm": "10",
+    "pm": "5",
     "vp": 18,
     "sahada": true
    },
@@ -137,7 +137,7 @@
     "ad": "Hakan Gökçek",
     "no": "24",
     "ilk5": true,
-    "sure": "7:01",
+    "sure": "7:56",
     "sayi": 0,
     "iki": [
      0,
@@ -159,7 +159,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-9",
     "vp": 2,
     "sahada": true
    },
@@ -381,18 +381,18 @@
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "31",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "14:22",
-    "sayi": 13,
+    "sure": "15:17",
+    "sayi": 15,
     "iki": [
-     4,
-     4
+     5,
+     5
     ],
     "uc": [
      1,
@@ -410,8 +410,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-11",
-    "vp": 14,
+    "pm": "-6",
+    "vp": 16,
     "sahada": true
    },
    {
@@ -419,15 +419,15 @@
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "8:26",
-    "sayi": 0,
+    "sure": "9:21",
+    "sayi": 3,
     "iki": [
      0,
      2
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -436,13 +436,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-7",
-    "vp": 0,
+    "pm": "-2",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -450,7 +450,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "8:33",
+    "sure": "9:28",
     "sayi": 3,
     "iki": [
      1,
@@ -467,13 +467,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "3",
-    "vp": -1,
+    "pm": "8",
+    "vp": 0,
     "sahada": true
    },
    {
@@ -481,7 +481,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "10:28",
+    "sure": "11:23",
     "sayi": 2,
     "iki": [
      1,
@@ -503,7 +503,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-2",
+    "pm": "3",
     "vp": 4,
     "sahada": true
    },
@@ -512,7 +512,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "13:23",
+    "sure": "14:18",
     "sayi": 3,
     "iki": [
      0,
@@ -527,15 +527,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-11",
-    "vp": 1,
+    "pm": "-6",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -751,16 +751,16 @@
   ],
   "ceyrekler": [
    22,
-   9
+   14
   ]
  },
  "evSkor": "37",
- "depSkor": "31",
+ "depSkor": "36",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "04:16",
+  "saat": "03:20",
   "uzatma": false
  }
 }
