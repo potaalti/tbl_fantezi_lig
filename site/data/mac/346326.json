@@ -3,7 +3,7 @@
  "lig": "bsl",
  "hafta": 7,
  "tarih": "2026-11-08T15:30:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "ANADOLU EFES",
   "skor": "87",
@@ -96,8 +96,7 @@
     "tk": 3,
     "faul": 3,
     "pm": "1",
-    "vp": 18,
-    "sahada": true
+    "vp": 18
    },
    {
     "id": "281408",
@@ -127,8 +126,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "14",
-    "vp": 15,
-    "sahada": true
+    "vp": 15
    },
    {
     "id": "370740",
@@ -218,8 +216,7 @@
     "tk": 0,
     "faul": 3,
     "pm": "-8",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "778400",
@@ -249,8 +246,7 @@
     "tk": 1,
     "faul": 1,
     "pm": "-15",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "137459",
@@ -310,8 +306,7 @@
     "tk": 1,
     "faul": 3,
     "pm": "-8",
-    "vp": 10,
-    "sahada": true
+    "vp": 10
    },
    {
     "id": "782949",
@@ -387,7 +382,7 @@
   "oyuncular": [
    {
     "id": "485299",
-    "ad": "Terrell Carter Ii",
+    "ad": "Terrell Carter II",
     "no": "5",
     "ilk5": true,
     "sure": "27:44",
@@ -413,8 +408,7 @@
     "tk": 3,
     "faul": 4,
     "pm": "13",
-    "vp": 21,
-    "sahada": true
+    "vp": 21
    },
    {
     "id": "227173",
@@ -474,8 +468,7 @@
     "tk": 5,
     "faul": 3,
     "pm": "6",
-    "vp": 19,
-    "sahada": true
+    "vp": 19
    },
    {
     "id": "778399",
@@ -505,8 +498,7 @@
     "tk": 1,
     "faul": 3,
     "pm": "5",
-    "vp": 19,
-    "sahada": true
+    "vp": 19
    },
    {
     "id": "778398",
@@ -536,8 +528,7 @@
     "tk": 1,
     "faul": 1,
     "pm": "8",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "452216",
@@ -630,8 +621,8 @@
     "vp": 20
    },
    {
-    "id": "fiba-mantas-rubstavicius",
-    "ad": "Mantas Rubstavicius",
+    "id": "732657",
+    "ad": "MANTAS RUBSTAVICIUS",
     "no": "17",
     "ilk5": false,
     "sure": "14:27",
@@ -747,8 +738,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "8",
-    "vp": 3,
-    "sahada": true
+    "vp": 3
    }
   ],
   "ceyrekler": [
@@ -761,10 +751,5 @@
  "evSkor": "87",
  "depSkor": "93",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
- "yayin": "beINSports",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "beINSports"
 }
