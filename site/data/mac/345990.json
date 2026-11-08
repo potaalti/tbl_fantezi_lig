@@ -13,7 +13,7 @@
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "25:18",
+    "sure": "25:43",
     "sayi": 9,
     "iki": [
      3,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "33",
+    "pm": "30",
     "vp": 13,
     "sahada": true
    },
@@ -67,7 +67,8 @@
     "tk": 3,
     "faul": 1,
     "pm": "16",
-    "vp": 14
+    "vp": 14,
+    "sahada": true
    },
    {
     "id": "245190",
@@ -104,7 +105,7 @@
     "ad": "Önder Atun",
     "no": "17",
     "ilk5": true,
-    "sure": "7:04",
+    "sure": "7:29",
     "sayi": 2,
     "iki": [
      1,
@@ -126,7 +127,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "4",
+    "pm": "1",
     "vp": 2,
     "sahada": true
    },
@@ -165,7 +166,7 @@
     "ad": "Ahmet Kutay Güneş",
     "no": "1",
     "ilk5": false,
-    "sure": "13:18",
+    "sure": "13:43",
     "sayi": 7,
     "iki": [
      3,
@@ -187,9 +188,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "7",
-    "vp": 12,
-    "sahada": true
+    "pm": "4",
+    "vp": 12
    },
    {
     "id": "356958",
@@ -226,7 +226,7 @@
     "ad": "Harun Can Doğan",
     "no": "22",
     "ilk5": false,
-    "sure": "15:55",
+    "sure": "16:20",
     "sayi": 8,
     "iki": [
      1,
@@ -248,9 +248,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "25",
-    "vp": 10,
-    "sahada": true
+    "pm": "22",
+    "vp": 10
    },
    {
     "id": "293126",
@@ -287,7 +286,7 @@
     "ad": "Berat Berke Tunç",
     "no": "44",
     "ilk5": false,
-    "sure": "7:47",
+    "sure": "8:12",
     "sayi": 6,
     "iki": [
      2,
@@ -309,7 +308,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "6",
+    "pm": "3",
     "vp": 7,
     "sahada": true
    },
@@ -371,25 +370,27 @@
     "tk": 0,
     "faul": 0,
     "pm": "7",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    }
   ],
   "ceyrekler": [
    28,
    31,
-   23
+   23,
+   0
   ]
  },
  "dep": {
   "ad": "MERSİN SPOR",
-  "skor": "53",
+  "skor": "56",
   "oyuncular": [
    {
     "id": "777508",
     "ad": "Kruize Pinkins",
     "no": "12",
     "ilk5": true,
-    "sure": "26:56",
+    "sure": "27:21",
     "sayi": 17,
     "iki": [
      5,
@@ -411,7 +412,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-22",
+    "pm": "-19",
     "vp": 24,
     "sahada": true
    },
@@ -510,7 +511,7 @@
     "ad": "Kaan Sarıaslan",
     "no": "22",
     "ilk5": true,
-    "sure": "20:24",
+    "sure": "20:49",
     "sayi": 6,
     "iki": [
      3,
@@ -532,7 +533,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-17",
+    "pm": "-14",
     "vp": 4,
     "sahada": true
    },
@@ -541,7 +542,7 @@
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": false,
-    "sure": "6:43",
+    "sure": "7:08",
     "sayi": 0,
     "iki": [
      0,
@@ -563,7 +564,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-11",
+    "pm": "-8",
     "vp": 0,
     "sahada": true
    },
@@ -572,15 +573,15 @@
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": false,
-    "sure": "1:30",
-    "sayi": 0,
+    "sure": "1:55",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -594,8 +595,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
-    "vp": 1,
+    "pm": "-3",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -633,7 +634,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "13",
     "ilk5": false,
-    "sure": "16:49",
+    "sure": "17:14",
     "sayi": 6,
     "iki": [
      0,
@@ -650,13 +651,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 1,
+    "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-18",
-    "vp": 6,
+    "pm": "-15",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -723,16 +724,17 @@
   "ceyrekler": [
    19,
    23,
-   11
+   14,
+   0
   ]
  },
  "evSkor": "82",
- "depSkor": "53",
+ "depSkor": "56",
  "salon": "Şehit Turgut Solak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:24",
+  "periyot": 4,
+  "saat": "10:00",
   "uzatma": false
  }
 }
