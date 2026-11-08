@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "24",
+  "skor": "26",
   "oyuncular": [
    {
     "id": "609095",
@@ -163,7 +163,7 @@
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "3:01",
+    "sure": "4:28",
     "sayi": 2,
     "iki": [
      1,
@@ -223,7 +223,7 @@
     "ad": "Damien Inglis",
     "no": "7",
     "ilk5": false,
-    "sure": "3:40",
+    "sure": "5:07",
     "sayi": 0,
     "iki": [
      0,
@@ -241,10 +241,10 @@
     "sr": 0,
     "rib": 0,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
+    "tk": 1,
+    "faul": 2,
     "pm": "4",
     "vp": 0
    },
@@ -283,7 +283,7 @@
     "ad": "Furkan Haltalı",
     "no": "14",
     "ilk5": false,
-    "sure": "3:26",
+    "sure": "4:53",
     "sayi": 3,
     "iki": [
      1,
@@ -298,22 +298,22 @@
      2
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "4",
-    "vp": 3
+    "vp": 4
    },
    {
     "id": "776655",
     "ad": "David Dileo",
     "no": "51",
     "ilk5": false,
-    "sure": "1:32",
+    "sure": "2:59",
     "sayi": 3,
     "iki": [
      0,
@@ -321,7 +321,7 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      0,
@@ -336,18 +336,18 @@
     "tk": 0,
     "faul": 1,
     "pm": "4",
-    "vp": 3
+    "vp": 2
    },
    {
     "id": "131296",
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": false,
-    "sure": "3:40",
-    "sayi": 0,
+    "sure": "5:07",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -366,16 +366,17 @@
     "tk": 0,
     "faul": 0,
     "pm": "4",
-    "vp": 3
+    "vp": 5
    }
   ],
   "ceyrekler": [
-   24
+   24,
+   2
   ]
  },
  "dep": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "27",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "778996",
@@ -412,7 +413,7 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "11:27",
     "sayi": 4,
     "iki": [
      2,
@@ -442,7 +443,7 @@
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "11:27",
     "sayi": 5,
     "iki": [
      1,
@@ -502,11 +503,11 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "11:27",
     "sayi": 2,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      0,
@@ -519,13 +520,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "3",
-    "vp": 3
+    "vp": 2
    },
    {
     "id": "779011",
@@ -562,7 +563,7 @@
     "ad": "Mustafa Yılmaz",
     "no": "4",
     "ilk5": false,
-    "sure": "2:58",
+    "sure": "4:25",
     "sayi": 3,
     "iki": [
      0,
@@ -577,15 +578,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "-5",
-    "vp": 4
+    "vp": 6
    },
    {
     "id": "392627",
@@ -712,8 +713,8 @@
     "ad": "Mustapha Amzil",
     "no": "22",
     "ilk5": false,
-    "sure": "0:00",
-    "sayi": 0,
+    "sure": "1:27",
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -723,8 +724,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -735,20 +736,21 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 2
    }
   ],
   "ceyrekler": [
-   27
+   27,
+   2
   ]
  },
- "evSkor": "24",
- "depSkor": "27",
+ "evSkor": "26",
+ "depSkor": "29",
  "salon": "Sinan Erdem Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "10:00",
+  "saat": "08:33",
   "uzatma": false
  }
 }
