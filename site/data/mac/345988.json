@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "FİNALSPOR",
-  "skor": "26",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "753710",
@@ -43,7 +43,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "7:08",
+    "sure": "8:46",
     "sayi": 3,
     "iki": [
      0,
@@ -51,21 +51,21 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      0,
      0
     ],
     "hr": 1,
-    "sr": 1,
-    "rib": 2,
+    "sr": 2,
+    "rib": 3,
     "ast": 1,
     "tc": 2,
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "2",
+    "pm": "3",
     "vp": 5,
     "sahada": true
    },
@@ -104,15 +104,15 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": true,
-    "sure": "8:33",
-    "sayi": 3,
+    "sure": "10:11",
+    "sayi": 6,
     "iki": [
      1,
-     4
+     5
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      1,
@@ -126,8 +126,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-2",
-    "vp": 0,
+    "pm": "-1",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -165,7 +165,7 @@
     "ad": "Can Özcan",
     "no": "00",
     "ilk5": false,
-    "sure": "0:49",
+    "sure": "2:27",
     "sayi": 0,
     "iki": [
      0,
@@ -186,8 +186,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "6",
+    "faul": 1,
+    "pm": "7",
     "vp": 0,
     "sahada": true
    },
@@ -286,7 +286,7 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": false,
-    "sure": "5:08",
+    "sure": "6:46",
     "sayi": 6,
     "iki": [
      3,
@@ -308,7 +308,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
+    "pm": "5",
     "vp": 7,
     "sahada": true
    },
@@ -317,7 +317,7 @@
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "1:41",
+    "sure": "3:19",
     "sayi": 0,
     "iki": [
      0,
@@ -339,7 +339,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "6",
     "vp": 1,
     "sahada": true
    },
@@ -375,23 +375,24 @@
    }
   ],
   "ceyrekler": [
-   26
+   26,
+   3
   ]
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "27",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "7:44",
+    "sure": "9:22",
     "sayi": 7,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      0,
@@ -402,15 +403,16 @@
      3
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "8",
-    "vp": 10
+    "pm": "7",
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "56403",
@@ -500,15 +502,14 @@
     "tk": 1,
     "faul": 1,
     "pm": "1",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "473518",
     "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "9:55",
+    "sure": "11:33",
     "sayi": 5,
     "iki": [
      2,
@@ -525,13 +526,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 2,
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "4",
-    "vp": 2
+    "pm": "3",
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "511470",
@@ -598,7 +600,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "1:01",
+    "sure": "2:39",
     "sayi": 0,
     "iki": [
      0,
@@ -618,10 +620,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "-5",
-    "vp": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "-6",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -629,11 +631,11 @@
     "ad": "Yağız Aksu",
     "no": "10",
     "ilk5": false,
-    "sure": "2:16",
-    "sayi": 0,
+    "sure": "3:54",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -650,9 +652,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-7",
-    "vp": -1,
+    "faul": 2,
+    "pm": "-8",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -660,7 +662,7 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "0:05",
+    "sure": "1:43",
     "sayi": 0,
     "iki": [
      0,
@@ -681,8 +683,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "-3",
+    "faul": 1,
+    "pm": "-4",
     "vp": 0,
     "sahada": true
    },
@@ -714,8 +716,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "-7",
-    "vp": 1,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "35766",
@@ -749,16 +750,17 @@
    }
   ],
   "ceyrekler": [
-   27
+   27,
+   2
   ]
  },
- "evSkor": "26",
- "depSkor": "27",
+ "evSkor": "29",
+ "depSkor": "29",
  "salon": "Tofaş Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "10:00",
+  "saat": "08:22",
   "uzatma": false
  }
 }
