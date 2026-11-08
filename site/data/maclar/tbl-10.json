@@ -68,19 +68,6 @@
    "yayin": "HT SPOR"
   },
   {
-   "id": 345985,
-   "lig": "tbl",
-   "hafta": 10,
-   "tarih": "2026-11-08T16:00:00",
-   "durum": "bitti",
-   "ev": "FENERBAHÇE GELİŞİM",
-   "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": "82",
-   "depSkor": "78",
-   "salon": "Fenerbahçe Metro Enerji Spor Salonu",
-   "yayin": "Youtube / TBF TV"
-  },
-  {
    "id": 345990,
    "lig": "tbl",
    "hafta": 10,
@@ -94,22 +81,30 @@
    "yayin": "Youtube / TBF TV"
   },
   {
+   "id": 345985,
+   "lig": "tbl",
+   "hafta": 10,
+   "tarih": "2026-11-08T16:00:00",
+   "durum": "bitti",
+   "ev": "FENERBAHÇE GELİŞİM",
+   "dep": "MKE ANKARAGÜCÜ",
+   "evSkor": "82",
+   "depSkor": "78",
+   "salon": "Fenerbahçe Metro Enerji Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
    "id": 345987,
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-08T16:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "iLab BASKETBOL",
    "dep": "GÖZTEPE ISONEM",
    "evSkor": "85",
    "depSkor": "75",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "HT SPOR",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "HT SPOR"
   }
  ]
 }
