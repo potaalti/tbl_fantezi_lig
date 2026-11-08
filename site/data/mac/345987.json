@@ -1,0 +1,764 @@
+{
+ "id": 345987,
+ "lig": "tbl",
+ "hafta": 10,
+ "tarih": "2026-11-08T16:30:00",
+ "durum": "canli",
+ "ev": {
+  "ad": "iLab BASKETBOL",
+  "skor": "4",
+  "oyuncular": [
+   {
+    "id": "223836",
+    "ad": "Eray Akyüz",
+    "no": "1",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "4",
+    "vp": 0,
+    "sahada": true
+   },
+   {
+    "id": "231062",
+    "ad": "Can Kaan Turgut",
+    "no": "13",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 1,
+    "rib": 1,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 1,
+    "pm": "4",
+    "vp": 1,
+    "sahada": true
+   },
+   {
+    "id": "288806",
+    "ad": "Koralp Türk",
+    "no": "21",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 2,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     0,
+     1
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 1,
+    "sr": 0,
+    "rib": 1,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "4",
+    "vp": 2,
+    "sahada": true
+   },
+   {
+    "id": "776565",
+    "ad": "Jeremiah Lamonure Tilmon Jr",
+    "no": "23",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 2,
+    "iki": [
+     1,
+     1
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 1,
+    "pm": "4",
+    "vp": 2,
+    "sahada": true
+   },
+   {
+    "id": "386617",
+    "ad": "Stefan Tyler Moody",
+    "no": "42",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "4",
+    "vp": 0,
+    "sahada": true
+   },
+   {
+    "id": "287585",
+    "ad": "Meriç Kuntker",
+    "no": "0",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "419692",
+    "ad": "Yücel Çağın Başaran",
+    "no": "5",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "285246",
+    "ad": "Batuhan Acar",
+    "no": "7",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "454037",
+    "ad": "Emir Boran Deldağ",
+    "no": "10",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "257839",
+    "ad": "Cihat Dalgalı",
+    "no": "16",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "433761",
+    "ad": "Ünal Çardak",
+    "no": "17",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "446970",
+    "ad": "Alperen Duruksu",
+    "no": "18",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   }
+  ],
+  "ceyrekler": [
+   4
+  ]
+ },
+ "dep": {
+  "ad": "GÖZTEPE ISONEM",
+  "skor": "0",
+  "oyuncular": [
+   {
+    "id": "316467",
+    "ad": "Emir Arda Sivas",
+    "no": "4",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 0,
+    "sahada": true
+   },
+   {
+    "id": "39445",
+    "ad": "Fatih Cantitiz",
+    "no": "9",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 0,
+    "sahada": true
+   },
+   {
+    "id": "196982",
+    "ad": "Ahmet Can Duran",
+    "no": "10",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 0,
+    "sahada": true
+   },
+   {
+    "id": "623478",
+    "ad": "Jamari Traylor",
+    "no": "13",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     1
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": -1,
+    "sahada": true
+   },
+   {
+    "id": "287583",
+    "ad": "Eray Büyükcangaz",
+    "no": "35",
+    "ilk5": true,
+    "sure": "1:07",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "-4",
+    "vp": 0,
+    "sahada": true
+   },
+   {
+    "id": "163820",
+    "ad": "Berke Atar",
+    "no": "0",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "375553",
+    "ad": "Kerem Soyuçaylı",
+    "no": "1",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "442471",
+    "ad": "Ferhat Seniçeli",
+    "no": "6",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "223176",
+    "ad": "Murat Can Esen",
+    "no": "7",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "230701",
+    "ad": "Eray Aydoğan",
+    "no": "8",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "384273",
+    "ad": "Rijad Aydın",
+    "no": "14",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   },
+   {
+    "id": "399293",
+    "ad": "Deniz Savut",
+    "no": "22",
+    "ilk5": false,
+    "sure": "0:00",
+    "sayi": 0,
+    "iki": [
+     0,
+     0
+    ],
+    "uc": [
+     0,
+     0
+    ],
+    "sa": [
+     0,
+     0
+    ],
+    "hr": 0,
+    "sr": 0,
+    "rib": 0,
+    "ast": 0,
+    "tc": 0,
+    "blk": 0,
+    "tk": 0,
+    "faul": 0,
+    "pm": "0",
+    "vp": 0
+   }
+  ],
+  "ceyrekler": [
+   0
+  ]
+ },
+ "evSkor": "4",
+ "depSkor": "0",
+ "salon": "Beşiktaş Akatlar Spor Kompleksi",
+ "yayin": "HT SPOR",
+ "canliDurum": {
+  "periyot": 1,
+  "saat": "08:53",
+  "uzatma": false
+ }
+}

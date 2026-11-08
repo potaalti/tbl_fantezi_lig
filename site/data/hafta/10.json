@@ -75,12 +75,12 @@
    "ev": "FENERBAHÇE GELİŞİM",
    "dep": "MKE ANKARAGÜCÜ",
    "evSkor": "37",
-   "depSkor": "29",
+   "depSkor": "31",
    "salon": "Fenerbahçe Metro Enerji Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "05:47",
+    "saat": "05:07",
     "uzatma": false
    }
   },
@@ -92,13 +92,13 @@
    "durum": "canli",
    "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "dep": "MERSİN SPOR",
-   "evSkor": "34",
-   "depSkor": "24",
+   "evSkor": "38",
+   "depSkor": "27",
    "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "07:47",
+    "saat": "05:55",
     "uzatma": false
    }
   },
@@ -107,13 +107,18 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-08T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "GÖZTEPE ISONEM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "4",
+   "depSkor": "0",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:53",
+    "uzatma": false
+   }
   }
  ],
  "oyuncular": {
@@ -1192,7 +1197,7 @@
    "ad": "Demircan Demir",
    "takim": "FENERBAHÇE GELİŞİM",
    "vp": 8,
-   "saniye": 761,
+   "saniye": 800,
    "maclar": [
     345985
    ]
@@ -1200,8 +1205,8 @@
   "375276": {
    "ad": "Ata Özbek",
    "takim": "FENERBAHÇE GELİŞİM",
-   "vp": 5,
-   "saniye": 642,
+   "vp": 4,
+   "saniye": 681,
    "maclar": [
     345985
    ]
@@ -1219,7 +1224,7 @@
    "ad": "Hakan Gökçek",
    "takim": "FENERBAHÇE GELİŞİM",
    "vp": 2,
-   "saniye": 330,
+   "saniye": 369,
    "maclar": [
     345985
    ]
@@ -1245,8 +1250,8 @@
   "403578": {
    "ad": "Bartu Encü",
    "takim": "FENERBAHÇE GELİŞİM",
-   "vp": 12,
-   "saniye": 570,
+   "vp": 11,
+   "saniye": 609,
    "maclar": [
     345985
    ]
@@ -1282,7 +1287,7 @@
    "ad": "Yiğit Yancı",
    "takim": "FENERBAHÇE GELİŞİM",
    "vp": 0,
-   "saniye": 161,
+   "saniye": 200,
    "maclar": [
     345985
    ]
@@ -1309,7 +1314,7 @@
    "ad": "Tyler Harris",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 1,
-   "saniye": 422,
+   "saniye": 461,
    "maclar": [
     345985
    ]
@@ -1318,7 +1323,7 @@
    "ad": "Ramazan Tekin",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 4,
-   "saniye": 537,
+   "saniye": 576,
    "maclar": [
     345985
    ]
@@ -1345,7 +1350,7 @@
    "ad": "Erbey Kemal Paltacı",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 2,
-   "saniye": 332,
+   "saniye": 371,
    "maclar": [
     345985
    ]
@@ -1353,8 +1358,8 @@
   "201358": {
    "ad": "İbrahim Pınarer",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 1,
-   "saniye": 506,
+   "vp": 4,
+   "saniye": 545,
    "maclar": [
     345985
    ]
@@ -1372,7 +1377,7 @@
    "ad": "Atakan Akçam",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": -1,
-   "saniye": 391,
+   "saniye": 430,
    "maclar": [
     345985
    ]
@@ -1398,8 +1403,8 @@
   "392789": {
    "ad": "Cem Küçüközkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 10,
-   "saniye": 733,
+   "vp": 9,
+   "saniye": 802,
    "maclar": [
     345990
    ]
@@ -1408,7 +1413,7 @@
    "ad": "Tavian Dunn-Martin",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 7,
-   "saniye": 600,
+   "saniye": 643,
    "maclar": [
     345990
    ]
@@ -1434,8 +1439,8 @@
   "777505": {
    "ad": "Jaquan Elijah Scott",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 13,
-   "saniye": 713,
+   "vp": 14,
+   "saniye": 825,
    "maclar": [
     345990
    ]
@@ -1443,8 +1448,8 @@
   "317200": {
    "ad": "Ahmet Kutay Güneş",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 2,
-   "saniye": 133,
+   "vp": 7,
+   "saniye": 245,
    "maclar": [
     345990
    ]
@@ -1471,7 +1476,7 @@
    "ad": "Ufuk Tan Ertan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 0,
-   "saniye": 153,
+   "saniye": 264,
    "maclar": [
     345990
    ]
@@ -1480,7 +1485,7 @@
    "ad": "Berat Berke Tunç",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 8,
-   "saniye": 279,
+   "saniye": 391,
    "maclar": [
     345990
    ]
@@ -1506,8 +1511,8 @@
   "777508": {
    "ad": "Kruize Pinkins",
    "takim": "MERSİN SPOR",
-   "vp": 8,
-   "saniye": 588,
+   "vp": 7,
+   "saniye": 700,
    "maclar": [
     345990
    ]
@@ -1524,8 +1529,8 @@
   "225810": {
    "ad": "Troy Şav",
    "takim": "MERSİN SPOR",
-   "vp": 3,
-   "saniye": 380,
+   "vp": 4,
+   "saniye": 492,
    "maclar": [
     345990
    ]
@@ -1533,8 +1538,8 @@
   "632441": {
    "ad": "Mike Smith",
    "takim": "MERSİN SPOR",
-   "vp": -1,
-   "saniye": 606,
+   "vp": -2,
+   "saniye": 718,
    "maclar": [
     345990
    ]
@@ -1579,7 +1584,7 @@
    "ad": "Dorukhan Engindeniz",
    "takim": "MERSİN SPOR",
    "vp": 1,
-   "saniye": 312,
+   "saniye": 424,
    "maclar": [
     345990
    ]
@@ -1587,8 +1592,8 @@
   "130546": {
    "ad": "Arca Tülüoğlu",
    "takim": "MERSİN SPOR",
-   "vp": 3,
-   "saniye": 279,
+   "vp": 6,
+   "saniye": 391,
    "maclar": [
     345990
    ]
@@ -1600,6 +1605,222 @@
    "saniye": 264,
    "maclar": [
     345990
+   ]
+  },
+  "223836": {
+   "ad": "Eray Akyüz",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "231062": {
+   "ad": "Can Kaan Turgut",
+   "takim": "iLab BASKETBOL",
+   "vp": 1,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "288806": {
+   "ad": "Koralp Türk",
+   "takim": "iLab BASKETBOL",
+   "vp": 2,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "776565": {
+   "ad": "Jeremiah Lamonure Tilmon Jr",
+   "takim": "iLab BASKETBOL",
+   "vp": 2,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "386617": {
+   "ad": "Stefan Tyler Moody",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "287585": {
+   "ad": "Meriç Kuntker",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "419692": {
+   "ad": "Yücel Çağın Başaran",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "285246": {
+   "ad": "Batuhan Acar",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "454037": {
+   "ad": "Emir Boran Deldağ",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "257839": {
+   "ad": "Cihat Dalgalı",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "433761": {
+   "ad": "Ünal Çardak",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "446970": {
+   "ad": "Alperen Duruksu",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "316467": {
+   "ad": "Emir Arda Sivas",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "39445": {
+   "ad": "Fatih Cantitiz",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "196982": {
+   "ad": "Ahmet Can Duran",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "623478": {
+   "ad": "Jamari Traylor",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": -1,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "287583": {
+   "ad": "Eray Büyükcangaz",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 67,
+   "maclar": [
+    345987
+   ]
+  },
+  "163820": {
+   "ad": "Berke Atar",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "375553": {
+   "ad": "Kerem Soyuçaylı",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "442471": {
+   "ad": "Ferhat Seniçeli",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "223176": {
+   "ad": "Murat Can Esen",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "230701": {
+   "ad": "Eray Aydoğan",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "384273": {
+   "ad": "Rijad Aydın",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
+   ]
+  },
+  "399293": {
+   "ad": "Deniz Savut",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345987
    ]
   }
  }
