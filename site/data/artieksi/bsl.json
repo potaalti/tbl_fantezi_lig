@@ -9293,20 +9293,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "668012",
-    "ad": "Kris Bankston",
-    "takim": "TÜRK TELEKOM",
-    "pm": 5,
-    "fark": 12,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "333434",
     "ad": "Dario Saric",
     "takim": "ANADOLU EFES",
-    "pm": 4,
-    "fark": 4,
+    "pm": 5,
+    "fark": 5,
     "mac": 1,
     "ulke": "HIRVATİSTAN"
    },
@@ -9314,8 +9305,8 @@
     "id": "281408",
     "ad": "David Mutaf",
     "takim": "ANADOLU EFES",
-    "pm": 4,
-    "fark": 4,
+    "pm": 5,
+    "fark": 5,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9323,8 +9314,8 @@
     "id": "370740",
     "ad": "Ercan Osmani",
     "takim": "ANADOLU EFES",
-    "pm": 4,
-    "fark": 4,
+    "pm": 5,
+    "fark": 5,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9332,8 +9323,8 @@
     "id": "587569",
     "ad": "Fatts Russell",
     "takim": "ANADOLU EFES",
-    "pm": 4,
-    "fark": 4,
+    "pm": 5,
+    "fark": 5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9341,10 +9332,19 @@
     "id": "778403",
     "ad": "Santi Yusta",
     "takim": "ANADOLU EFES",
-    "pm": 4,
-    "fark": 4,
+    "pm": 5,
+    "fark": 5,
     "mac": 1,
     "ulke": "İSPANYA"
+   },
+   {
+    "id": "668012",
+    "ad": "Kris Bankston",
+    "takim": "TÜRK TELEKOM",
+    "pm": 5,
+    "fark": 12,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "778249",
@@ -9680,51 +9680,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "778401",
-    "ad": "Bryce Jones",
-    "takim": "TOFAŞ",
-    "pm": -4,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "778398",
-    "ad": "Gabe Brown",
-    "takim": "TOFAŞ",
-    "pm": -4,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "227173",
-    "ad": "Sadık Kabaca",
-    "takim": "TOFAŞ",
-    "pm": -4,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778399",
-    "ad": "Shavar Reynolds Jr.",
-    "takim": "TOFAŞ",
-    "pm": -4,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "485299",
-    "ad": "Terrell Carter Ii",
-    "takim": "TOFAŞ",
-    "pm": -4,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "778246",
     "ad": "Max Abmas",
     "takim": "ALİAĞA PETKİM SPOR",
@@ -9750,6 +9705,51 @@
     "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778401",
+    "ad": "Bryce Jones",
+    "takim": "TOFAŞ",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "778398",
+    "ad": "Gabe Brown",
+    "takim": "TOFAŞ",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "227173",
+    "ad": "Sadık Kabaca",
+    "takim": "TOFAŞ",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778399",
+    "ad": "Shavar Reynolds Jr.",
+    "takim": "TOFAŞ",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "485299",
+    "ad": "Terrell Carter Ii",
+    "takim": "TOFAŞ",
+    "pm": -5,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "272903",
@@ -10199,8 +10199,8 @@
    "id": "370740",
    "ad": "Ercan Osmani",
    "takim": "ANADOLU EFES",
-   "pm": 38,
-   "fark": 56,
+   "pm": 39,
+   "fark": 57,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
@@ -10241,6 +10241,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "333434",
+   "ad": "Dario Saric",
+   "takim": "ANADOLU EFES",
+   "pm": 34,
+   "fark": 57,
+   "mac": 7,
+   "ulke": "HIRVATİSTAN"
+  },
+  {
    "id": "310250",
    "ad": "Yiğit Onan",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -10257,15 +10266,6 @@
    "fark": 50,
    "mac": 6,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "333434",
-   "ad": "Dario Saric",
-   "takim": "ANADOLU EFES",
-   "pm": 33,
-   "fark": 56,
-   "mac": 7,
-   "ulke": "HIRVATİSTAN"
   },
   {
    "id": "778279",
@@ -10304,6 +10304,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "778403",
+   "ad": "Santi Yusta",
+   "takim": "ANADOLU EFES",
+   "pm": 26,
+   "fark": 32,
+   "mac": 4,
+   "ulke": "İSPANYA"
+  },
+  {
    "id": "606624",
    "ad": "Mike Davis Jr.",
    "takim": "ESENLER EROKSPOR",
@@ -10320,15 +10329,6 @@
    "fark": -2,
    "mac": 7,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "778403",
-   "ad": "Santi Yusta",
-   "takim": "ANADOLU EFES",
-   "pm": 25,
-   "fark": 31,
-   "mac": 4,
-   "ulke": "İSPANYA"
   },
   {
    "id": "777675",
@@ -10487,10 +10487,19 @@
    "id": "281408",
    "ad": "David Mutaf",
    "takim": "ANADOLU EFES",
-   "pm": 13,
-   "fark": 56,
+   "pm": 14,
+   "fark": 57,
    "mac": 7,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "587569",
+   "ad": "Fatts Russell",
+   "takim": "ANADOLU EFES",
+   "pm": 13,
+   "fark": 57,
+   "mac": 7,
+   "ulke": "ABD"
   },
   {
    "id": "106461",
@@ -10536,15 +10545,6 @@
    "fark": 55,
    "mac": 6,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "587569",
-   "ad": "Fatts Russell",
-   "takim": "ANADOLU EFES",
-   "pm": 12,
-   "fark": 56,
-   "mac": 7,
-   "ulke": "ABD"
   },
   {
    "id": "777676",
@@ -10637,15 +10637,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "485299",
-   "ad": "Terrell Carter Ii",
-   "takim": "TOFAŞ",
-   "pm": 7,
-   "fark": -36,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "778080",
    "ad": "Dallas Moore",
    "takim": "ESENLER EROKSPOR",
@@ -10680,6 +10671,15 @@
    "fark": -49,
    "mac": 7,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "485299",
+   "ad": "Terrell Carter Ii",
+   "takim": "TOFAŞ",
+   "pm": 6,
+   "fark": -37,
+   "mac": 7,
+   "ulke": "ABD"
   },
   {
    "id": "501381",
@@ -11114,15 +11114,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778401",
-   "ad": "Bryce Jones",
-   "takim": "TOFAŞ",
-   "pm": -5,
-   "fark": -36,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "609092",
    "ad": "Vrenz Bleijenbergh",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -11139,6 +11130,15 @@
    "fark": 12,
    "mac": 1,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778401",
+   "ad": "Bryce Jones",
+   "takim": "TOFAŞ",
+   "pm": -6,
+   "fark": -37,
+   "mac": 7,
+   "ulke": "ABD"
   },
   {
    "id": "392627",
@@ -11492,15 +11492,6 @@
    "ulke": ""
   },
   {
-   "id": "778398",
-   "ad": "Gabe Brown",
-   "takim": "TOFAŞ",
-   "pm": -17,
-   "fark": -25,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "779069",
    "ad": "Kendall Munson",
    "takim": "KARŞIYAKA",
@@ -11516,6 +11507,15 @@
    "pm": -17,
    "fark": -2,
    "mac": 7,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778398",
+   "ad": "Gabe Brown",
+   "takim": "TOFAŞ",
+   "pm": -18,
+   "fark": -26,
+   "mac": 6,
    "ulke": "ABD"
   },
   {
@@ -11573,15 +11573,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "227173",
-   "ad": "Sadık Kabaca",
-   "takim": "TOFAŞ",
-   "pm": -23,
-   "fark": -36,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "736069",
    "ad": "Tre'shawn Thurman",
    "takim": "TOFAŞ",
@@ -11607,6 +11598,15 @@
    "fark": -6,
    "mac": 3,
    "ulke": "FRANSA"
+  },
+  {
+   "id": "227173",
+   "ad": "Sadık Kabaca",
+   "takim": "TOFAŞ",
+   "pm": -24,
+   "fark": -37,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "777636",
@@ -11870,15 +11870,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778399",
-   "ad": "Shavar Reynolds Jr.",
-   "takim": "TOFAŞ",
-   "pm": -43,
-   "fark": -36,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "363061",
    "ad": "Scottie Wilbekin",
    "takim": "BEŞİKTAŞ",
@@ -11903,6 +11894,15 @@
    "pm": -44,
    "fark": -46,
    "mac": 5,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778399",
+   "ad": "Shavar Reynolds Jr.",
+   "takim": "TOFAŞ",
+   "pm": -44,
+   "fark": -37,
+   "mac": 7,
    "ulke": "ABD"
   },
   {
