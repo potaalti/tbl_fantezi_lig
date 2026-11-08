@@ -13,7 +13,7 @@
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": true,
-    "sure": "9:53",
+    "sure": "10:40",
     "sayi": 2,
     "iki": [
      0,
@@ -104,7 +104,7 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "23:55",
+    "sure": "24:42",
     "sayi": 15,
     "iki": [
      5,
@@ -119,15 +119,15 @@
      2
     ],
     "hr": 1,
-    "sr": 5,
-    "rib": 6,
+    "sr": 6,
+    "rib": 7,
     "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "5",
-    "vp": 23,
+    "vp": 24,
     "sahada": true
    },
    {
@@ -165,7 +165,7 @@
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "11:39",
+    "sure": "12:26",
     "sayi": 4,
     "iki": [
      2,
@@ -286,7 +286,7 @@
     "ad": "Buğrahan Tuncer",
     "no": "19",
     "ilk5": false,
-    "sure": "13:34",
+    "sure": "14:21",
     "sayi": 0,
     "iki": [
      0,
@@ -347,11 +347,11 @@
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "17:43",
+    "sure": "18:30",
     "sayi": 8,
     "iki": [
      3,
-     5
+     7
     ],
     "uc": [
      0,
@@ -370,14 +370,15 @@
     "tk": 2,
     "faul": 1,
     "pm": "-9",
-    "vp": 5,
+    "vp": 3,
     "sahada": true
    }
   ],
   "ceyrekler": [
    24,
    16,
-   19
+   19,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -408,7 +409,7 @@
     "ad": "Mike Davis Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "22:37",
+    "sure": "23:24",
     "sayi": 5,
     "iki": [
      2,
@@ -469,7 +470,7 @@
     "ad": "Amadou Sow",
     "no": "12",
     "ilk5": true,
-    "sure": "10:33",
+    "sure": "11:20",
     "sayi": 2,
     "iki": [
      0,
@@ -492,7 +493,8 @@
     "tk": 1,
     "faul": 0,
     "pm": "-2",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "778080",
@@ -522,15 +524,14 @@
     "tk": 2,
     "faul": 1,
     "pm": "-15",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "151935",
     "ad": "Muhsin Yaşar",
     "no": "77",
     "ilk5": true,
-    "sure": "9:35",
+    "sure": "10:22",
     "sayi": 2,
     "iki": [
      1,
@@ -561,11 +562,11 @@
     "ad": "Errick Mccollum",
     "no": "3",
     "ilk5": false,
-    "sure": "14:59",
+    "sure": "15:46",
     "sayi": 12,
     "iki": [
      3,
-     6
+     7
     ],
     "uc": [
      2,
@@ -584,7 +585,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "17",
-    "vp": 15
+    "vp": 14,
+    "sahada": true
    },
    {
     "id": "667498",
@@ -614,8 +616,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "8",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "776570",
@@ -682,7 +683,7 @@
     "ad": "Egehan Arna",
     "no": "18",
     "ilk5": false,
-    "sure": "24:43",
+    "sure": "25:30",
     "sayi": 16,
     "iki": [
      2,
@@ -702,10 +703,10 @@
     "ast": 3,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 2,
+    "tk": 1,
+    "faul": 3,
     "pm": "8",
-    "vp": 21,
+    "vp": 20,
     "sahada": true
    },
    {
@@ -772,12 +773,13 @@
   "ceyrekler": [
    13,
    26,
-   20
+   20,
+   0
   ],
   "takim": {
    "hr": 2,
-   "sr": 2,
-   "rib": 4,
+   "sr": 3,
+   "rib": 5,
    "tk": 0,
    "faul": 0
   },
@@ -800,12 +802,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "10:00",
+  "saat": "09:13",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1800,
+  "simdi": 1845,
   "d": [
    [
     0,
