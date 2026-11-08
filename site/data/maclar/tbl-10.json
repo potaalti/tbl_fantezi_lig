@@ -59,13 +59,18 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-08T14:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "FİNALSPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "4",
    "salon": "Tofaş Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:31",
+    "uzatma": false
+   }
   },
   {
    "id": 345990,

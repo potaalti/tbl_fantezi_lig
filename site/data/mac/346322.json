@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "51",
+  "skor": "57",
   "oyuncular": [
    {
     "id": "609095",
@@ -43,11 +43,11 @@
     "ad": "Malachi Flynn",
     "no": "22",
     "ilk5": true,
-    "sure": "12:57",
-    "sayi": 3,
+    "sure": "14:19",
+    "sayi": 5,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -65,8 +65,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-10",
-    "vp": 4,
+    "pm": "-4",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -74,11 +74,11 @@
     "ad": "Tyler Cavanaugh",
     "no": "34",
     "ilk5": true,
-    "sure": "14:28",
-    "sayi": 0,
+    "sure": "15:50",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -96,8 +96,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-3",
-    "vp": 2,
+    "pm": "3",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -105,7 +105,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "10:55",
+    "sure": "12:17",
     "sayi": 12,
     "iki": [
      5,
@@ -127,7 +127,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-9",
+    "pm": "-3",
     "vp": 11,
     "sahada": true
    },
@@ -136,7 +136,7 @@
     "ad": "Trevion Williams",
     "no": "50",
     "ilk5": true,
-    "sure": "13:30",
+    "sure": "14:52",
     "sayi": 10,
     "iki": [
      5,
@@ -151,15 +151,15 @@
      1
     ],
     "hr": 5,
-    "sr": 3,
-    "rib": 8,
-    "ast": 2,
+    "sr": 5,
+    "rib": 10,
+    "ast": 3,
     "tc": 0,
     "blk": 1,
     "tk": 1,
     "faul": 0,
-    "pm": "-4",
-    "vp": 16,
+    "pm": "2",
+    "vp": 19,
     "sahada": true
    },
    {
@@ -167,8 +167,8 @@
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "8:26",
-    "sayi": 8,
+    "sure": "9:48",
+    "sayi": 10,
     "iki": [
      3,
      3
@@ -178,8 +178,8 @@
      2
     ],
     "sa": [
-     2,
-     2
+     4,
+     4
     ],
     "hr": 0,
     "sr": 0,
@@ -189,8 +189,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "13",
-    "vp": 8
+    "pm": "19",
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "358272",
@@ -220,8 +221,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-4",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "776654",
@@ -376,7 +376,8 @@
   ],
   "ceyrekler": [
    24,
-   27
+   27,
+   6
   ]
  },
  "dep": {
@@ -388,11 +389,11 @@
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "15:00",
+    "sure": "16:22",
     "sayi": 12,
     "iki": [
      3,
-     4
+     5
     ],
     "uc": [
      2,
@@ -409,9 +410,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
-    "pm": "4",
-    "vp": 16,
+    "faul": 3,
+    "pm": "-2",
+    "vp": 15,
     "sahada": true
    },
    {
@@ -419,7 +420,7 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "14:50",
+    "sure": "16:12",
     "sayi": 6,
     "iki": [
      3,
@@ -441,15 +442,16 @@
     "blk": 1,
     "tk": 1,
     "faul": 0,
-    "pm": "-5",
-    "vp": 7
+    "pm": "-11",
+    "vp": 7,
+    "sahada": true
    },
    {
     "id": "779010",
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "15:29",
+    "sure": "16:51",
     "sayi": 11,
     "iki": [
      1,
@@ -471,7 +473,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "7",
+    "pm": "1",
     "vp": 10,
     "sahada": true
    },
@@ -480,11 +482,11 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "15:44",
+    "sure": "17:06",
     "sayi": 8,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      2,
@@ -502,8 +504,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "5",
-    "vp": 9,
+    "pm": "-1",
+    "vp": 8,
     "sahada": true
    },
    {
@@ -511,7 +513,7 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "17:02",
+    "sure": "18:24",
     "sayi": 2,
     "iki": [
      1,
@@ -533,7 +535,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "7",
+    "pm": "1",
     "vp": 5,
     "sahada": true
    },
@@ -685,8 +687,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "-4",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "497055",
@@ -751,16 +752,17 @@
   ],
   "ceyrekler": [
    27,
-   23
+   23,
+   0
   ]
  },
- "evSkor": "51",
+ "evSkor": "57",
  "depSkor": "50",
  "salon": "Sinan Erdem Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "10:00",
+  "saat": "08:39",
   "uzatma": false
  }
 }
