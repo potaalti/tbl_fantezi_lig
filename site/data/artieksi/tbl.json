@@ -13313,24 +13313,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "257839",
-    "ad": "Cihat Dalgalı",
-    "takim": "iLab BASKETBOL",
-    "pm": 9,
-    "fark": 14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "419692",
-    "ad": "Yücel Çağın Başaran",
-    "takim": "iLab BASKETBOL",
-    "pm": 9,
-    "fark": 14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "379651",
     "ad": "Sarp Coşkun",
     "takim": "GAZİANTEP BASKETBOL",
@@ -13356,15 +13338,6 @@
     "fark": 4,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "287585",
-    "ad": "Meriç Kuntker",
-    "takim": "iLab BASKETBOL",
-    "pm": 8,
-    "fark": 14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "224189",
@@ -13412,20 +13385,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "285246",
-    "ad": "Batuhan Acar",
-    "takim": "iLab BASKETBOL",
-    "pm": 7,
-    "fark": 14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "231062",
     "ad": "Can Kaan Turgut",
     "takim": "iLab BASKETBOL",
     "pm": 7,
-    "fark": 14,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13434,18 +13398,9 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "takim": "iLab BASKETBOL",
     "pm": 7,
-    "fark": 14,
+    "fark": 10,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "433761",
-    "ad": "Ünal Çardak",
-    "takim": "iLab BASKETBOL",
-    "pm": 7,
-    "fark": 14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "335737",
@@ -13515,7 +13470,7 @@
     "ad": "Eray Akyüz",
     "takim": "iLab BASKETBOL",
     "pm": 6,
-    "fark": 14,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13556,11 +13511,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "257839",
+    "ad": "Cihat Dalgalı",
+    "takim": "iLab BASKETBOL",
+    "pm": 5,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "288806",
     "ad": "Koralp Türk",
     "takim": "iLab BASKETBOL",
     "pm": 5,
-    "fark": 14,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13569,9 +13533,18 @@
     "ad": "Stefan Tyler Moody",
     "takim": "iLab BASKETBOL",
     "pm": 5,
-    "fark": 14,
+    "fark": 10,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "419692",
+    "ad": "Yücel Çağın Başaran",
+    "takim": "iLab BASKETBOL",
+    "pm": 5,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "415783",
@@ -13664,6 +13637,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "287585",
+    "ad": "Meriç Kuntker",
+    "takim": "iLab BASKETBOL",
+    "pm": 4,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "222762",
     "ad": "Can Özcan",
     "takim": "FİNALSPOR",
@@ -13725,6 +13707,24 @@
     "fark": 6,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "285246",
+    "ad": "Batuhan Acar",
+    "takim": "iLab BASKETBOL",
+    "pm": 3,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "433761",
+    "ad": "Ünal Çardak",
+    "takim": "iLab BASKETBOL",
+    "pm": 3,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "241322",
@@ -13893,7 +13893,7 @@
     "ad": "Berke Atar",
     "takim": "GÖZTEPE ISONEM",
     "pm": -2,
-    "fark": -14,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13984,6 +13984,33 @@
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": -3,
     "fark": -15,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "230701",
+    "ad": "Eray Aydoğan",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -3,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "287583",
+    "ad": "Eray Büyükcangaz",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -3,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "384273",
+    "ad": "Rijad Aydın",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -3,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14168,33 +14195,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "230701",
-    "ad": "Eray Aydoğan",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": -7,
-    "fark": -14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "287583",
-    "ad": "Eray Büyükcangaz",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": -7,
-    "fark": -14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "384273",
-    "ad": "Rijad Aydın",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": -7,
-    "fark": -14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "223180",
     "ad": "Gökhan Yazıcıoğlu",
     "takim": "TED ANKARA KOLEJLİLER",
@@ -14276,11 +14276,20 @@
     "ulke": "KAMERUN"
    },
    {
+    "id": "196982",
+    "ad": "Ahmet Can Duran",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -8,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "316467",
     "ad": "Emir Arda Sivas",
     "takim": "GÖZTEPE ISONEM",
     "pm": -8,
-    "fark": -14,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14317,6 +14326,15 @@
     "takim": "MERSİN SPOR",
     "pm": -9,
     "fark": -17,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "39445",
+    "ad": "Fatih Cantitiz",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -9,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14411,15 +14429,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "196982",
-    "ad": "Ahmet Can Duran",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": -12,
-    "fark": -14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "224801",
     "ad": "Ömercan Engin",
     "takim": "CEDİ OSMAN BASKETBOL",
@@ -14429,20 +14438,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "39445",
-    "ad": "Fatih Cantitiz",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": -13,
-    "fark": -14,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "623478",
     "ad": "Jamari Traylor",
     "takim": "GÖZTEPE ISONEM",
     "pm": -14,
-    "fark": -14,
+    "fark": -10,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -14661,7 +14661,7 @@
    "ad": "Emir Arda Sivas",
    "takim": "GÖZTEPE ISONEM",
    "pm": 65,
-   "fark": 55,
+   "fark": 59,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14680,6 +14680,15 @@
    "takim": "YALOVA HAREM SPOR",
    "pm": 58,
    "fark": 119,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "196982",
+   "ad": "Ahmet Can Duran",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 51,
+   "fark": 59,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14706,7 +14715,7 @@
    "ad": "Jamari Traylor",
    "takim": "GÖZTEPE ISONEM",
    "pm": 50,
-   "fark": 55,
+   "fark": 59,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14716,15 +14725,6 @@
    "takim": "OGM ORMANSPOR",
    "pm": 47,
    "fark": 4,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "196982",
-   "ad": "Ahmet Can Duran",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 47,
-   "fark": 55,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14810,20 +14810,29 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "384273",
+   "ad": "Rijad Aydın",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 34,
+   "fark": 59,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "287583",
+   "ad": "Eray Büyükcangaz",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 31,
+   "fark": 59,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "51504",
    "ad": "Samet Geyik",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 30,
    "fark": 35,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "384273",
-   "ad": "Rijad Aydın",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 30,
-   "fark": 55,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -14850,7 +14859,7 @@
    "ad": "Jeremiah Lamonure Tilmon Jr",
    "takim": "iLab BASKETBOL",
    "pm": 28,
-   "fark": 4,
+   "fark": 0,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14880,15 +14889,6 @@
    "fark": 22,
    "mac": 5,
    "ulke": "ABD"
-  },
-  {
-   "id": "287583",
-   "ad": "Eray Büyükcangaz",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 27,
-   "fark": 55,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "379651",
@@ -14924,15 +14924,6 @@
    "pm": 23,
    "fark": -29,
    "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "287585",
-   "ad": "Meriç Kuntker",
-   "takim": "iLab BASKETBOL",
-   "pm": 23,
-   "fark": 4,
-   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -14990,6 +14981,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "287585",
+   "ad": "Meriç Kuntker",
+   "takim": "iLab BASKETBOL",
+   "pm": 19,
+   "fark": 0,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "116084",
    "ad": "Mustafa Baştürk",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
@@ -15030,7 +15030,7 @@
    "ad": "Can Kaan Turgut",
    "takim": "iLab BASKETBOL",
    "pm": 14,
-   "fark": 0,
+   "fark": -4,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -15048,7 +15048,7 @@
    "ad": "Berke Atar",
    "takim": "GÖZTEPE ISONEM",
    "pm": 14,
-   "fark": 55,
+   "fark": 59,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -15089,21 +15089,21 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "39445",
+   "ad": "Fatih Cantitiz",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 12,
+   "fark": 46,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "393217",
    "ad": "Ali Yiğit Yılmaz",
    "takim": "FENERBAHÇE GELİŞİM",
    "pm": 11,
    "fark": -48,
    "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "257839",
-   "ad": "Cihat Dalgalı",
-   "takim": "iLab BASKETBOL",
-   "pm": 11,
-   "fark": 4,
-   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -15147,7 +15147,7 @@
    "ad": "Eray Akyüz",
    "takim": "iLab BASKETBOL",
    "pm": 10,
-   "fark": 28,
+   "fark": 24,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -15165,7 +15165,7 @@
    "ad": "Stefan Tyler Moody",
    "takim": "iLab BASKETBOL",
    "pm": 9,
-   "fark": 26,
+   "fark": 22,
    "mac": 5,
    "ulke": "ABD"
   },
@@ -15188,21 +15188,21 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "39445",
-   "ad": "Fatih Cantitiz",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 8,
-   "fark": 42,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "460265",
    "ad": "Efe Kemal Akayın",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "pm": 7,
    "fark": -26,
    "mac": 4,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "257839",
+   "ad": "Cihat Dalgalı",
+   "takim": "iLab BASKETBOL",
+   "pm": 7,
+   "fark": 0,
+   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -15431,15 +15431,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "433761",
-   "ad": "Ünal Çardak",
-   "takim": "iLab BASKETBOL",
-   "pm": 0,
-   "fark": 23,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "379811",
    "ad": "Işık Ali Akpınar",
    "takim": "MERSİN SPOR",
@@ -15656,6 +15647,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "433761",
+   "ad": "Ünal Çardak",
+   "takim": "iLab BASKETBOL",
+   "pm": -4,
+   "fark": 19,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "467246",
    "ad": "Ahmet Arda Aydın",
    "takim": "CEDİ OSMAN BASKETBOL",
@@ -15791,15 +15791,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "419692",
-   "ad": "Yücel Çağın Başaran",
-   "takim": "iLab BASKETBOL",
-   "pm": -8,
-   "fark": 5,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "219716",
    "ad": "Sedat Ali Karagülle",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -15926,6 +15917,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "419692",
+   "ad": "Yücel Çağın Başaran",
+   "takim": "iLab BASKETBOL",
+   "pm": -12,
+   "fark": 1,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "267856",
    "ad": "Mithat Can Özalp",
    "takim": "FİNALSPOR",
@@ -15948,7 +15948,7 @@
    "ad": "Koralp Türk",
    "takim": "iLab BASKETBOL",
    "pm": -13,
-   "fark": -20,
+   "fark": -24,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -16124,6 +16124,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "230701",
+   "ad": "Eray Aydoğan",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": -19,
+   "fark": 59,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "393345",
    "ad": "Eren İlyem",
    "takim": "DARÜŞŞAFAKA",
@@ -16175,15 +16184,6 @@
    "pm": -23,
    "fark": 25,
    "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "230701",
-   "ad": "Eray Aydoğan",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": -23,
-   "fark": 55,
-   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16331,15 +16331,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "285246",
-   "ad": "Batuhan Acar",
-   "takim": "iLab BASKETBOL",
-   "pm": -40,
-   "fark": 4,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "777504",
    "ad": "Christian Alexander Bradford",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
@@ -16365,6 +16356,15 @@
    "fark": -47,
    "mac": 7,
    "ulke": "KKTC"
+  },
+  {
+   "id": "285246",
+   "ad": "Batuhan Acar",
+   "takim": "iLab BASKETBOL",
+   "pm": -44,
+   "fark": 0,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "252757",
