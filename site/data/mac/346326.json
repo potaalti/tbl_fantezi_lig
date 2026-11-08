@@ -43,7 +43,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "7:30",
+    "sure": "7:47",
     "sayi": 2,
     "iki": [
      1,
@@ -74,7 +74,7 @@
     "ad": "Fatts Russell",
     "no": "11",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:17",
     "sayi": 4,
     "iki": [
      1,
@@ -97,7 +97,8 @@
     "tk": 1,
     "faul": 1,
     "pm": "0",
-    "vp": 5
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "281408",
@@ -134,7 +135,7 @@
     "ad": "Ercan Osmani",
     "no": "24",
     "ilk5": true,
-    "sure": "8:18",
+    "sure": "8:35",
     "sayi": 0,
     "iki": [
      0,
@@ -149,15 +150,15 @@
      0
     ],
     "hr": 2,
-    "sr": 0,
-    "rib": 2,
+    "sr": 1,
+    "rib": 3,
     "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 3,
     "faul": 1,
     "pm": "1",
-    "vp": 0,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -195,7 +196,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "2:06",
+    "sure": "2:23",
     "sayi": 0,
     "iki": [
      0,
@@ -226,7 +227,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": false,
-    "sure": "7:45",
+    "sure": "8:02",
     "sayi": 2,
     "iki": [
      1,
@@ -338,10 +339,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
+    "faul": 1,
     "pm": "-7",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "157002",
@@ -418,7 +418,7 @@
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": true,
-    "sure": "11:44",
+    "sure": "12:01",
     "sayi": 4,
     "iki": [
      2,
@@ -449,7 +449,7 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "8:49",
+    "sure": "9:06",
     "sayi": 7,
     "iki": [
      3,
@@ -570,11 +570,11 @@
     "ad": "Zach Nutall",
     "no": "10",
     "ilk5": false,
-    "sure": "8:44",
+    "sure": "9:01",
     "sayi": 2,
     "iki": [
      1,
-     3
+     4
     ],
     "uc": [
      0,
@@ -593,7 +593,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "12",
-    "vp": -1,
+    "vp": -2,
     "sahada": true
    },
    {
@@ -631,7 +631,7 @@
     "ad": "Mantas Rubstavicius",
     "no": "17",
     "ilk5": false,
-    "sure": "4:08",
+    "sure": "4:25",
     "sayi": 5,
     "iki": [
      1,
@@ -692,7 +692,7 @@
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "2:06",
+    "sure": "2:23",
     "sayi": 0,
     "iki": [
      0,
@@ -704,7 +704,7 @@
     ],
     "sa": [
      0,
-     0
+     2
     ],
     "hr": 1,
     "sr": 1,
@@ -715,7 +715,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "2",
-    "vp": 2,
+    "vp": 0,
     "sahada": true
    },
    {
@@ -760,7 +760,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "05:52",
+  "saat": "05:35",
   "uzatma": false
  }
 }
