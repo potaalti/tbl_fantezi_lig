@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "FİNALSPOR",
-  "skor": "37",
+  "skor": "39",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "11:20",
-    "sayi": 3,
+    "sure": "11:54",
+    "sayi": 5,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      1,
@@ -35,8 +35,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-6",
-    "vp": 4,
+    "pm": "-4",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -44,7 +44,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "12:57",
+    "sure": "13:31",
     "sayi": 3,
     "iki": [
      0,
@@ -52,7 +52,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      0,
@@ -66,8 +66,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "0",
-    "vp": 4,
+    "pm": "2",
+    "vp": 3,
     "sahada": true
    },
    {
@@ -75,7 +75,7 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "9:11",
+    "sure": "9:44",
     "sayi": 3,
     "iki": [
      0,
@@ -97,15 +97,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-7",
-    "vp": 5
+    "pm": "-5",
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "98663",
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": true,
-    "sure": "14:22",
+    "sure": "14:23",
     "sayi": 12,
     "iki": [
      2,
@@ -128,8 +129,7 @@
     "tk": 2,
     "faul": 1,
     "pm": "-4",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "275328",
@@ -166,7 +166,7 @@
     "ad": "Can Özcan",
     "no": "00",
     "ilk5": false,
-    "sure": "6:38",
+    "sure": "6:39",
     "sayi": 2,
     "iki": [
      0,
@@ -189,8 +189,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "4",
-    "vp": 1,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "345440",
@@ -257,7 +256,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": false,
-    "sure": "4:19",
+    "sure": "4:52",
     "sayi": 3,
     "iki": [
      0,
@@ -279,15 +278,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-2",
-    "vp": 3
+    "pm": "0",
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "fiba-eric-buckner",
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": false,
-    "sure": "10:57",
+    "sure": "11:31",
     "sayi": 6,
     "iki": [
      3,
@@ -309,7 +309,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "2",
+    "pm": "4",
     "vp": 7,
     "sahada": true
    },
@@ -376,7 +376,7 @@
   ],
   "ceyrekler": [
    26,
-   11
+   13
   ]
  },
  "dep": {
@@ -388,7 +388,7 @@
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "13:33",
+    "sure": "14:07",
     "sayi": 12,
     "iki": [
      4,
@@ -403,14 +403,14 @@
      4
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 5,
+    "rib": 5,
     "ast": 1,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "10",
+    "tk": 1,
+    "faul": 1,
+    "pm": "8",
     "vp": 14,
     "sahada": true
    },
@@ -419,7 +419,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "9:49",
+    "sure": "10:23",
     "sayi": 6,
     "iki": [
      2,
@@ -441,7 +441,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "4",
+    "pm": "2",
     "vp": 7,
     "sahada": true
    },
@@ -450,7 +450,7 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "11:40",
+    "sure": "12:14",
     "sayi": 1,
     "iki": [
      0,
@@ -472,7 +472,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "11",
+    "pm": "9",
     "vp": 6,
     "sahada": true
    },
@@ -481,7 +481,7 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": true,
-    "sure": "11:46",
+    "sure": "12:20",
     "sayi": 9,
     "iki": [
      1,
@@ -503,7 +503,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 9,
     "sahada": true
    },
@@ -602,7 +602,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": false,
-    "sure": "6:50",
+    "sure": "7:24",
     "sayi": 0,
     "iki": [
      0,
@@ -624,7 +624,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-3",
+    "pm": "-5",
     "vp": 0,
     "sahada": true
    },
@@ -754,13 +754,13 @@
    13
   ]
  },
- "evSkor": "37",
+ "evSkor": "39",
  "depSkor": "40",
  "salon": "Tofaş Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "04:11",
+  "saat": "03:37",
   "uzatma": false
  }
 }
