@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "88",
+  "skor": "91",
   "oyuncular": [
    {
     "id": "609095",
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": true,
-    "sure": "17:58",
+    "sure": "18:20",
     "sayi": 14,
     "iki": [
      5,
@@ -36,23 +36,22 @@
     "tk": 0,
     "faul": 1,
     "pm": "-12",
-    "vp": 18,
-    "sahada": true
+    "vp": 18
    },
    {
     "id": "734506",
     "ad": "Malachi Flynn",
     "no": "22",
     "ilk5": true,
-    "sure": "17:37",
-    "sayi": 9,
+    "sure": "18:00",
+    "sayi": 12,
     "iki": [
      3,
      3
     ],
     "uc": [
-     1,
-     6
+     2,
+     7
     ],
     "sa": [
      0,
@@ -66,8 +65,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
-    "vp": 9
+    "pm": "1",
+    "vp": 12,
+    "sahada": true
    },
    {
     "id": "608898",
@@ -104,7 +104,7 @@
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "19:37",
+    "sure": "20:22",
     "sayi": 15,
     "iki": [
      5,
@@ -125,8 +125,8 @@
     "tc": 2,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-1",
+    "faul": 2,
+    "pm": "0",
     "vp": 15,
     "sahada": true
    },
@@ -135,7 +135,7 @@
     "ad": "Trevion Williams",
     "no": "50",
     "ilk5": true,
-    "sure": "20:54",
+    "sure": "21:17",
     "sayi": 14,
     "iki": [
      7,
@@ -157,15 +157,16 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "11",
-    "vp": 28
+    "pm": "12",
+    "vp": 28,
+    "sahada": true
    },
    {
     "id": "776935",
     "ad": "Aleksa Avramovic",
     "no": "4",
     "ilk5": false,
-    "sure": "15:29",
+    "sure": "16:14",
     "sayi": 14,
     "iki": [
      4,
@@ -173,7 +174,7 @@
     ],
     "uc": [
      0,
-     3
+     4
     ],
     "sa": [
      6,
@@ -182,12 +183,12 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "21",
+    "pm": "22",
     "vp": 14,
     "sahada": true
    },
@@ -226,7 +227,7 @@
     "ad": "Damien Inglis",
     "no": "7",
     "ilk5": false,
-    "sure": "14:37",
+    "sure": "15:22",
     "sayi": 2,
     "iki": [
      1,
@@ -248,7 +249,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 4,
-    "pm": "1",
+    "pm": "2",
     "vp": 5,
     "sahada": true
    },
@@ -287,7 +288,7 @@
     "ad": "Furkan Haltalı",
     "no": "14",
     "ilk5": false,
-    "sure": "14:20",
+    "sure": "14:42",
     "sayi": 5,
     "iki": [
      2,
@@ -310,8 +311,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "-2",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "776655",
@@ -378,19 +378,19 @@
    24,
    27,
    28,
-   9
+   12
   ]
  },
  "dep": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "76",
+  "skor": "81",
   "oyuncular": [
    {
     "id": "778996",
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "29:02",
+    "sure": "29:47",
     "sayi": 16,
     "iki": [
      4,
@@ -407,13 +407,13 @@
     "hr": 0,
     "sr": 4,
     "rib": 4,
-    "ast": 9,
+    "ast": 11,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 4,
-    "pm": "-2",
-    "vp": 22,
+    "pm": "-3",
+    "vp": 24,
     "sahada": true
    },
    {
@@ -421,7 +421,7 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": true,
-    "sure": "23:26",
+    "sure": "24:11",
     "sayi": 6,
     "iki": [
      3,
@@ -443,7 +443,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-8",
+    "pm": "-9",
     "vp": 8,
     "sahada": true
    },
@@ -452,7 +452,7 @@
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "28:21",
+    "sure": "29:06",
     "sayi": 17,
     "iki": [
      3,
@@ -474,7 +474,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "1",
+    "pm": "0",
     "vp": 15,
     "sahada": true
    },
@@ -483,15 +483,15 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "28:36",
-    "sayi": 17,
+    "sure": "29:21",
+    "sayi": 22,
     "iki": [
-     3,
-     5
+     4,
+     6
     ],
     "uc": [
-     3,
-     4
+     4,
+     5
     ],
     "sa": [
      2,
@@ -505,8 +505,8 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-1",
-    "vp": 15,
+    "pm": "-2",
+    "vp": 20,
     "sahada": true
    },
    {
@@ -514,7 +514,7 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "28:28",
+    "sure": "29:13",
     "sayi": 2,
     "iki": [
      1,
@@ -536,7 +536,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "3",
+    "pm": "2",
     "vp": 8,
     "sahada": true
    },
@@ -755,16 +755,16 @@
    27,
    23,
    11,
-   18
+   20
   ]
  },
- "evSkor": "88",
- "depSkor": "76",
+ "evSkor": "91",
+ "depSkor": "81",
  "salon": "Sinan Erdem Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:42",
+  "saat": "03:48",
   "uzatma": false
  }
 }
