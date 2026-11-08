@@ -149,6 +149,7 @@ def fiba_istatistik(d, takimlar, rehber):
                 "totalRebounds": p.get("sReboundsTotal", 0), "assists": p.get("sAssists", 0),
                 "steals": p.get("sSteals", 0), "blocks": p.get("sBlocks", 0), "turnovers": p.get("sTurnovers", 0),
                 "fouls": p.get("sFoulsPersonal", 0), "plusMinus": str(p.get("sPlusMinusPoints", 0)),
+                "onCourt": bool(p.get("active")),  # şu an sahada (devre arasında son sahadaki 5)
             }
             (ilk5 if kayit["isStarter"] else yedek).append(kayit)
         stat[f"{taraf}TopFive"], stat[f"{taraf}BenchPlayers"] = ilk5, yedek
@@ -194,6 +195,8 @@ def kutu_skor(mac, stat, ozet):
                 "hr": o["offensiveRebounds"], "sr": o["defensiveRebounds"], "rib": o["totalRebounds"],
                 "ast": o["assists"], "tc": o["steals"], "blk": o["blocks"], "tk": o["turnovers"],
                 "faul": o["fouls"], "pm": o.get("plusMinus"), "vp": o["efficiency"],
+                # Sadece canlı (FIBA) veride: sahadaki 5 (Pota Altı App adın sonuna * koyar)
+                **({"sahada": True} if o.get("onCourt") else {}),
             })
         takimlar[taraf] = {
             "ad": mac[taraf], "skor": mac[f"{taraf}Skor"], "oyuncular": oyuncular,
