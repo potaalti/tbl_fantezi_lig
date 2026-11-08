@@ -13,7 +13,7 @@
     "ad": "Santi Yusta",
     "no": "4",
     "ilk5": true,
-    "sure": "13:56",
+    "sure": "15:03",
     "sayi": 13,
     "iki": [
      2,
@@ -97,8 +97,7 @@
     "tk": 1,
     "faul": 3,
     "pm": "4",
-    "vp": 16,
-    "sahada": true
+    "vp": 16
    },
    {
     "id": "281408",
@@ -158,8 +157,7 @@
     "tk": 3,
     "faul": 2,
     "pm": "6",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "508583",
@@ -196,7 +194,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "11:13",
+    "sure": "12:20",
     "sayi": 8,
     "iki": [
      1,
@@ -227,7 +225,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": false,
-    "sure": "16:15",
+    "sure": "17:22",
     "sayi": 2,
     "iki": [
      1,
@@ -247,10 +245,10 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
+    "tk": 1,
+    "faul": 1,
     "pm": "-7",
-    "vp": 3,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -288,7 +286,7 @@
     "ad": "Bruno Fernando",
     "no": "20",
     "ilk5": false,
-    "sure": "14:36",
+    "sure": "15:43",
     "sayi": 6,
     "iki": [
      0,
@@ -309,9 +307,10 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
+    "faul": 1,
     "pm": "0",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "782949",
@@ -348,7 +347,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "5:50",
+    "sure": "6:57",
     "sayi": 2,
     "iki": [
      0,
@@ -363,21 +362,23 @@
      2
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 2,
     "pm": "-8",
-    "vp": 2
+    "vp": 3,
+    "sahada": true
    }
   ],
   "ceyrekler": [
    21,
    17,
-   31
+   31,
+   0
   ]
  },
  "dep": {
@@ -389,7 +390,7 @@
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": true,
-    "sure": "17:44",
+    "sure": "18:51",
     "sayi": 12,
     "iki": [
      4,
@@ -407,12 +408,13 @@
     "sr": 2,
     "rib": 4,
     "ast": 2,
-    "tc": 1,
+    "tc": 2,
     "blk": 1,
     "tk": 3,
     "faul": 3,
     "pm": "5",
-    "vp": 17
+    "vp": 18,
+    "sahada": true
    },
    {
     "id": "227173",
@@ -449,11 +451,11 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "17:47",
+    "sure": "18:54",
     "sayi": 14,
     "iki": [
      4,
-     5
+     6
     ],
     "uc": [
      1,
@@ -472,7 +474,8 @@
     "tk": 4,
     "faul": 3,
     "pm": "-2",
-    "vp": 14
+    "vp": 13,
+    "sahada": true
    },
    {
     "id": "778399",
@@ -509,7 +512,7 @@
     "ad": "Gabe Brown",
     "no": "44",
     "ilk5": true,
-    "sure": "9:44",
+    "sure": "10:51",
     "sayi": 2,
     "iki": [
      1,
@@ -593,19 +596,18 @@
     "tk": 1,
     "faul": 1,
     "pm": "0",
-    "vp": -3,
-    "sahada": true
+    "vp": -3
    },
    {
     "id": "736069",
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": false,
-    "sure": "17:00",
+    "sure": "18:07",
     "sayi": 13,
     "iki": [
      4,
-     5
+     6
     ],
     "uc": [
      1,
@@ -624,7 +626,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 17,
+    "vp": 16,
     "sahada": true
    },
    {
@@ -655,15 +657,14 @@
     "tk": 1,
     "faul": 1,
     "pm": "-9",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "389934",
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": false,
-    "sure": "11:15",
+    "sure": "12:22",
     "sayi": 0,
     "iki": [
      0,
@@ -753,7 +754,8 @@
   "ceyrekler": [
    21,
    25,
-   21
+   21,
+   0
   ]
  },
  "evSkor": "69",
@@ -761,8 +763,8 @@
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:00",
+  "periyot": 4,
+  "saat": "08:53",
   "uzatma": false
  }
 }
