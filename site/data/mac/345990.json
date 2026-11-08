@@ -3,7 +3,7 @@
  "lig": "tbl",
  "hafta": 10,
  "tarih": "2026-11-08T16:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
   "skor": "98",
@@ -133,7 +133,7 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "31:44",
+    "sure": "31:45",
     "sayi": 31,
     "iki": [
      8,
@@ -186,8 +186,7 @@
     "tk": 2,
     "faul": 3,
     "pm": "6",
-    "vp": 14,
-    "sahada": true
+    "vp": 14
    },
    {
     "id": "356958",
@@ -217,15 +216,14 @@
     "tk": 1,
     "faul": 0,
     "pm": "2",
-    "vp": 1,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "153011",
     "ad": "Harun Can Doğan",
     "no": "22",
     "ilk5": false,
-    "sure": "19:55",
+    "sure": "19:54",
     "sayi": 11,
     "iki": [
      1,
@@ -255,7 +253,7 @@
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": false,
-    "sure": "8:08",
+    "sure": "8:09",
     "sayi": 0,
     "iki": [
      0,
@@ -278,8 +276,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "9",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "415783",
@@ -309,8 +306,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "-2",
-    "vp": 14,
-    "sahada": true
+    "vp": 14
    },
    {
     "id": "369470",
@@ -340,8 +336,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "2",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "335737",
@@ -480,7 +475,7 @@
     "ad": "Mike Smith",
     "no": "21",
     "ilk5": true,
-    "sure": "23:11",
+    "sure": "23:12",
     "sayi": 6,
     "iki": [
      2,
@@ -533,8 +528,7 @@
     "tk": 2,
     "faul": 1,
     "pm": "-10",
-    "vp": 11,
-    "sahada": true
+    "vp": 11
    },
    {
     "id": "320264",
@@ -564,8 +558,7 @@
     "tk": 3,
     "faul": 1,
     "pm": "-4",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "431495",
@@ -595,8 +588,7 @@
     "tk": 0,
     "faul": 4,
     "pm": "1",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "379811",
@@ -626,8 +618,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-2",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "61192",
@@ -657,8 +648,7 @@
     "tk": 2,
     "faul": 0,
     "pm": "-11",
-    "vp": 16,
-    "sahada": true
+    "vp": 16
    },
    {
     "id": "130546",
@@ -731,10 +721,5 @@
  "evSkor": "98",
  "depSkor": "76",
  "salon": "Şehit Turgut Solak Spor Salonu",
- "yayin": "Youtube / TBF TV",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "Youtube / TBF TV"
 }
