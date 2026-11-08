@@ -72,13 +72,18 @@
    "lig": "bsl",
    "hafta": 7,
    "tarih": "2026-11-08T15:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "ANADOLU EFES",
    "dep": "TOFAŞ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "6",
+   "depSkor": "2",
    "salon": "Turkcell Basketbol Gelişim Merkezi",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:35",
+    "uzatma": false
+   }
   },
   {
    "id": 346323,
