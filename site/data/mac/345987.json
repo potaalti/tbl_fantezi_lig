@@ -13,7 +13,7 @@
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "8:39",
+    "sure": "9:17",
     "sayi": 5,
     "iki": [
      0,
@@ -36,7 +36,8 @@
     "tk": 2,
     "faul": 0,
     "pm": "6",
-    "vp": 3
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "231062",
@@ -73,7 +74,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": true,
-    "sure": "7:20",
+    "sure": "7:58",
     "sayi": 5,
     "iki": [
      1,
@@ -96,7 +97,8 @@
     "tk": 1,
     "faul": 1,
     "pm": "5",
-    "vp": 6
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "776565",
@@ -133,7 +135,7 @@
     "ad": "Stefan Tyler Moody",
     "no": "42",
     "ilk5": true,
-    "sure": "7:20",
+    "sure": "7:58",
     "sayi": 2,
     "iki": [
      0,
@@ -156,14 +158,15 @@
     "tk": 0,
     "faul": 1,
     "pm": "5",
-    "vp": 3
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "287585",
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "4:42",
+    "sure": "5:18",
     "sayi": 2,
     "iki": [
      1,
@@ -185,16 +188,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
-    "vp": 3,
-    "sahada": true
+    "pm": "0",
+    "vp": 3
    },
    {
     "id": "419692",
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": false,
-    "sure": "6:01",
+    "sure": "6:37",
     "sayi": 7,
     "iki": [
      2,
@@ -214,18 +216,17 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
-    "pm": "5",
-    "vp": 5,
-    "sahada": true
+    "pm": "1",
+    "vp": 4
    },
    {
     "id": "285246",
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": false,
-    "sure": "5:11",
+    "sure": "6:25",
     "sayi": 0,
     "iki": [
      0,
@@ -240,15 +241,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
-    "vp": 1,
+    "pm": "-1",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -286,7 +287,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": false,
-    "sure": "6:01",
+    "sure": "7:15",
     "sayi": 0,
     "iki": [
      0,
@@ -306,10 +307,10 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
-    "pm": "5",
-    "vp": 0,
+    "tk": 1,
+    "faul": 1,
+    "pm": "1",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -317,7 +318,7 @@
     "ad": "Ünal Çardak",
     "no": "17",
     "ilk5": false,
-    "sure": "5:11",
+    "sure": "5:47",
     "sayi": 2,
     "iki": [
      1,
@@ -339,9 +340,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "3",
-    "vp": 3,
-    "sahada": true
+    "pm": "-1",
+    "vp": 3
    },
    {
     "id": "446970",
@@ -381,7 +381,7 @@
  },
  "dep": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "21",
+  "skor": "25",
   "oyuncular": [
    {
     "id": "316467",
@@ -418,7 +418,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "10:41",
+    "sure": "11:55",
     "sayi": 0,
     "iki": [
      0,
@@ -440,7 +440,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-9",
+    "pm": "-5",
     "vp": 0,
     "sahada": true
    },
@@ -449,11 +449,11 @@
     "ad": "Ahmet Can Duran",
     "no": "10",
     "ilk5": true,
-    "sure": "7:49",
-    "sayi": 2,
+    "sure": "9:03",
+    "sayi": 4,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      0,
@@ -471,8 +471,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-8",
-    "vp": 3,
+    "pm": "-4",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -510,11 +510,11 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": true,
-    "sure": "8:14",
-    "sayi": 0,
+    "sure": "9:28",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -528,12 +528,12 @@
     "sr": 1,
     "rib": 1,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-3",
-    "vp": 0,
+    "pm": "1",
+    "vp": 3,
     "sahada": true
    },
    {
@@ -661,7 +661,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "6:39",
+    "sure": "7:53",
     "sayi": 0,
     "iki": [
      0,
@@ -678,13 +678,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-3",
-    "vp": 1,
+    "pm": "1",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -692,11 +692,11 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "6:39",
+    "sure": "7:53",
     "sayi": 4,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      0,
@@ -709,12 +709,12 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-3",
+    "pm": "1",
     "vp": 2,
     "sahada": true
    },
@@ -751,16 +751,16 @@
   ],
   "ceyrekler": [
    17,
-   4
+   8
   ]
  },
  "evSkor": "31",
- "depSkor": "21",
+ "depSkor": "25",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "06:38",
+  "saat": "05:25",
   "uzatma": false
  }
 }

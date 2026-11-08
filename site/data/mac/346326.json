@@ -13,7 +13,7 @@
     "ad": "Santi Yusta",
     "no": "4",
     "ilk5": true,
-    "sure": "13:31",
+    "sure": "13:56",
     "sayi": 13,
     "iki": [
      2,
@@ -67,19 +67,18 @@
     "tk": 2,
     "faul": 1,
     "pm": "3",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "587569",
     "ad": "Fatts Russell",
     "no": "11",
     "ilk5": true,
-    "sure": "22:05",
+    "sure": "22:30",
     "sayi": 12,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      1,
@@ -98,7 +97,8 @@
     "tk": 1,
     "faul": 3,
     "pm": "4",
-    "vp": 17
+    "vp": 16,
+    "sahada": true
    },
    {
     "id": "281408",
@@ -135,7 +135,7 @@
     "ad": "Ercan Osmani",
     "no": "24",
     "ilk5": true,
-    "sure": "22:31",
+    "sure": "22:56",
     "sayi": 4,
     "iki": [
      2,
@@ -196,7 +196,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "10:48",
+    "sure": "11:13",
     "sayi": 8,
     "iki": [
      1,
@@ -227,7 +227,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": false,
-    "sure": "15:50",
+    "sure": "16:15",
     "sayi": 2,
     "iki": [
      1,
@@ -502,15 +502,14 @@
     "tk": 1,
     "faul": 2,
     "pm": "-1",
-    "vp": 11,
-    "sahada": true
+    "vp": 11
    },
    {
     "id": "778398",
     "ad": "Gabe Brown",
     "no": "44",
     "ilk5": true,
-    "sure": "9:19",
+    "sure": "9:44",
     "sayi": 2,
     "iki": [
      1,
@@ -533,7 +532,8 @@
     "tk": 0,
     "faul": 0,
     "pm": "-1",
-    "vp": 5
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "452216",
@@ -570,7 +570,7 @@
     "ad": "Zach Nutall",
     "no": "10",
     "ilk5": false,
-    "sure": "18:33",
+    "sure": "18:58",
     "sayi": 4,
     "iki": [
      2,
@@ -601,7 +601,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": false,
-    "sure": "16:35",
+    "sure": "17:00",
     "sayi": 13,
     "iki": [
      4,
@@ -616,15 +616,15 @@
      2
     ],
     "hr": 1,
-    "sr": 3,
-    "rib": 4,
+    "sr": 4,
+    "rib": 5,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 16,
+    "vp": 17,
     "sahada": true
    },
    {
@@ -632,7 +632,7 @@
     "ad": "Mantas Rubstavicius",
     "no": "17",
     "ilk5": false,
-    "sure": "12:00",
+    "sure": "12:24",
     "sayi": 9,
     "iki": [
      3,
@@ -655,14 +655,15 @@
     "tk": 1,
     "faul": 1,
     "pm": "-9",
-    "vp": 8
+    "vp": 8,
+    "sahada": true
    },
    {
     "id": "389934",
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": false,
-    "sure": "10:50",
+    "sure": "11:15",
     "sayi": 0,
     "iki": [
      0,
@@ -716,8 +717,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-7",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "197570",
@@ -762,7 +762,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "00:24",
+  "saat": "00:00",
   "uzatma": false
  }
 }
