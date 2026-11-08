@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE GELİŞİM",
-  "skor": "64",
+  "skor": "69",
   "oyuncular": [
    {
     "id": "777243",
@@ -73,7 +73,7 @@
     "ad": "Ata Özbek",
     "no": "11",
     "ilk5": true,
-    "sure": "19:36",
+    "sure": "20:54",
     "sayi": 5,
     "iki": [
      1,
@@ -95,7 +95,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-2",
+    "pm": "3",
     "vp": 3,
     "sahada": true
    },
@@ -164,7 +164,7 @@
     "ad": "Yağız Cumalıoğlu",
     "no": "0",
     "ilk5": false,
-    "sure": "10:07",
+    "sure": "11:25",
     "sayi": 0,
     "iki": [
      0,
@@ -186,7 +186,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "1",
+    "pm": "6",
     "vp": 0,
     "sahada": true
    },
@@ -225,11 +225,11 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": false,
-    "sure": "18:43",
-    "sayi": 15,
+    "sure": "20:01",
+    "sayi": 17,
     "iki": [
-     0,
-     2
+     1,
+     3
     ],
     "uc": [
      5,
@@ -243,12 +243,12 @@
     "sr": 3,
     "rib": 3,
     "ast": 2,
-    "tc": 2,
+    "tc": 3,
     "blk": 0,
     "tk": 1,
-    "faul": 2,
-    "pm": "12",
-    "vp": 16,
+    "faul": 3,
+    "pm": "17",
+    "vp": 19,
     "sahada": true
    },
    {
@@ -316,15 +316,15 @@
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "14:41",
-    "sayi": 6,
+    "sure": "15:59",
+    "sayi": 9,
     "iki": [
      0,
      1
     ],
     "uc": [
-     2,
-     2
+     3,
+     3
     ],
     "sa": [
      0,
@@ -338,8 +338,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "7",
-    "vp": 11,
+    "pm": "12",
+    "vp": 14,
     "sahada": true
    },
    {
@@ -347,7 +347,7 @@
     "ad": "Yiğit Yancı",
     "no": "77",
     "ilk5": false,
-    "sure": "5:00",
+    "sure": "6:18",
     "sayi": 0,
     "iki": [
      0,
@@ -364,12 +364,12 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "-5",
+    "pm": "0",
     "vp": 1,
     "sahada": true
    }
@@ -378,7 +378,7 @@
    33,
    12,
    19,
-   0
+   5
   ]
  },
  "dep": {
@@ -390,7 +390,7 @@
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "28:38",
+    "sure": "29:56",
     "sayi": 25,
     "iki": [
      5,
@@ -398,7 +398,7 @@
     ],
     "uc": [
      4,
-     6
+     7
     ],
     "sa": [
      3,
@@ -412,8 +412,8 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "pm": "-11",
-    "vp": 21,
+    "pm": "-16",
+    "vp": 20,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "21:00",
+    "sure": "22:18",
     "sayi": 13,
     "iki": [
      2,
@@ -471,10 +471,10 @@
     "ast": 2,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 0,
-    "pm": "4",
-    "vp": 6,
+    "pm": "-1",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -482,7 +482,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "22:03",
+    "sure": "23:21",
     "sayi": 4,
     "iki": [
      2,
@@ -504,9 +504,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-6",
-    "vp": 9,
-    "sahada": true
+    "pm": "-11",
+    "vp": 9
    },
    {
     "id": "284498",
@@ -536,7 +535,8 @@
     "tk": 0,
     "faul": 0,
     "pm": "-12",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "309057",
@@ -573,7 +573,7 @@
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "13:07",
+    "sure": "14:25",
     "sayi": 5,
     "iki": [
      1,
@@ -591,12 +591,12 @@
     "sr": 1,
     "rib": 1,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "5",
-    "vp": 3,
+    "pm": "0",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -664,7 +664,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": false,
-    "sure": "10:25",
+    "sure": "11:43",
     "sayi": 0,
     "iki": [
      0,
@@ -686,7 +686,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "4",
+    "pm": "-1",
     "vp": 0,
     "sahada": true
    },
@@ -758,13 +758,13 @@
    0
   ]
  },
- "evSkor": "64",
+ "evSkor": "69",
  "depSkor": "58",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "10:00",
+  "saat": "08:42",
   "uzatma": false
  }
 }
