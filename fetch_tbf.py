@@ -160,6 +160,7 @@ def fiba_istatistik(d, takimlar, rehber):
         stat[f"{taraf}Ileri"] = fiba_ileri(tm)
         ozet[f"{taraf}TeamScore"] = [{"score": tm[k], "quarter": int(k[1:-6])}
                                      for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
+    stat["farkAkisi"] = fiba_fark(d)
     skorlar = {"ev": str(d["tm"]["1"].get("score", 0)), "dep": str(d["tm"]["2"].get("score", 0))}
     return stat, ozet, skorlar
 
@@ -172,6 +173,33 @@ def fiba_ileri(tm):
             "ba": s("tot_sPointsInThePaint"), "benc": s("tot_sBenchPoints"), "fark": s("tot_sBiggestLead"),
             "seri": s("tot_sBiggestScoringRun"), "lider": int(round(float(tm.get("tot_sTimeLeading") or 0) * 60)),
             "degisim": s("tot_sLeadChanges"), "esitlik": s("tot_sTimesScoresLevel")}
+
+
+def fiba_fark(d):
+    """Pota Altı App'in skor farkı grafiği: maç başından geçen saniye ve skor farkı (ev - deplasman), sadece fark değişince.
+    sure: maçın toplam süresi (uzatmalar dahil), simdi: son olayın saniyesi (canlıda grafik buraya kadar çizilir).
+    Aynısı pota-alti-app veri/uret.py'de (fiba_fark) biten maçlar için var: ikisi aynı kalmalı."""
+    normal = int(d.get("periodLengthREGULAR") or 10) * 60
+    uzatma = int(d.get("periodLengthOVERTIME") or 5) * 60
+    noktalar, son, simdi, uzatmalar = [[0, 0]], 0, 0, set()
+    for e in reversed(d.get("pbp") or []):
+        try:
+            per = int(e.get("period") or 1)
+            dk, sn = (int(x) for x in str(e.get("clock") or "0:0").split(":")[:2])
+            fark = int(e.get("s1") or 0) - int(e.get("s2") or 0)
+        except ValueError:
+            continue
+        if e.get("periodType") == "OVERTIME":
+            n = per - 4 if per > 4 else per
+            uzatmalar.add(n)
+            t = 4 * normal + n * uzatma - (dk * 60 + sn)
+        else:
+            t = per * normal - (dk * 60 + sn)
+        simdi = max(simdi, t)
+        if fark != son:
+            noktalar.append([t, fark])
+            son = fark
+    return {"sure": 4 * normal + len(uzatmalar) * uzatma, "simdi": simdi, "d": noktalar}
 
 
 def fiba_basladi(d):
@@ -224,7 +252,8 @@ def kutu_skor(mac, stat, ozet):
                 ("hr", "offensiveRebounds"), ("sr", "defensiveRebounds"), ("rib", "totalRebounds"), ("tk", "turnovers"), ("faul", "fouls"))}
         if stat.get(f"{on}Ileri"):
             takimlar[taraf]["ileri"] = stat[f"{on}Ileri"]
-    return {**mac, **takimlar}
+    # Canlıda skor farkı grafiği (Pota Altı App maç sayfası)
+    return {**mac, **takimlar, **({"fark": stat["farkAkisi"]} if stat.get("farkAkisi") else {})}
 
 
 def hafta_mac_listesi(hafta, guncel, lig_id=LIG_ID, onek="hafta"):
