@@ -13,7 +13,7 @@
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "2:18",
+    "sure": "3:02",
     "sayi": 0,
     "iki": [
      0,
@@ -33,17 +33,18 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 3,
-    "faul": 2,
+    "tk": 4,
+    "faul": 3,
     "pm": "-5",
-    "vp": -3
+    "vp": -4,
+    "sahada": true
    },
    {
     "id": "318204",
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "13:20",
+    "sure": "14:12",
     "sayi": 6,
     "iki": [
      0,
@@ -74,7 +75,7 @@
     "ad": "Ata Özbek",
     "no": "11",
     "ilk5": true,
-    "sure": "11:21",
+    "sure": "12:13",
     "sayi": 2,
     "iki": [
      1,
@@ -105,11 +106,11 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "12:41",
+    "sure": "13:06",
     "sayi": 17,
     "iki": [
      7,
-     7
+     8
     ],
     "uc": [
      1,
@@ -128,14 +129,15 @@
     "tk": 2,
     "faul": 1,
     "pm": "10",
-    "vp": 19
+    "vp": 18,
+    "sahada": true
    },
    {
     "id": "356549",
     "ad": "Hakan Gökçek",
     "no": "24",
     "ilk5": true,
-    "sure": "6:09",
+    "sure": "7:01",
     "sayi": 0,
     "iki": [
      0,
@@ -226,7 +228,7 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": false,
-    "sure": "10:09",
+    "sure": "10:17",
     "sayi": 9,
     "iki": [
      0,
@@ -249,8 +251,7 @@
     "tk": 1,
     "faul": 0,
     "pm": "9",
-    "vp": 11,
-    "sahada": true
+    "vp": 11
    },
    {
     "id": "383785",
@@ -347,7 +348,7 @@
     "ad": "Yiğit Yancı",
     "no": "77",
     "ilk5": false,
-    "sure": "3:20",
+    "sure": "3:47",
     "sayi": 0,
     "iki": [
      0,
@@ -362,16 +363,15 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "pm": "-3",
-    "vp": 0,
-    "sahada": true
+    "vp": 1
    }
   ],
   "ceyrekler": [
@@ -388,7 +388,7 @@
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "13:57",
+    "sure": "14:22",
     "sayi": 13,
     "iki": [
      4,
@@ -411,14 +411,15 @@
     "tk": 1,
     "faul": 0,
     "pm": "-11",
-    "vp": 14
+    "vp": 14,
+    "sahada": true
    },
    {
     "id": "260898",
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "7:42",
+    "sure": "8:26",
     "sayi": 0,
     "iki": [
      0,
@@ -441,22 +442,23 @@
     "tk": 0,
     "faul": 1,
     "pm": "-7",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "779510",
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "7:41",
+    "sure": "8:33",
     "sayi": 3,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
      1,
@@ -471,7 +473,7 @@
     "tk": 1,
     "faul": 0,
     "pm": "3",
-    "vp": 1,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -479,7 +481,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "9:36",
+    "sure": "10:28",
     "sayi": 2,
     "iki": [
      1,
@@ -510,7 +512,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "12:58",
+    "sure": "13:23",
     "sayi": 3,
     "iki": [
      0,
@@ -533,7 +535,8 @@
     "tk": 0,
     "faul": 0,
     "pm": "-11",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "309057",
@@ -570,7 +573,7 @@
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "6:11",
+    "sure": "6:38",
     "sayi": 5,
     "iki": [
      1,
@@ -593,15 +596,14 @@
     "tk": 1,
     "faul": 1,
     "pm": "1",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "201358",
     "ad": "İbrahim Pınarer",
     "no": "10",
     "ilk5": false,
-    "sure": "9:05",
+    "sure": "9:32",
     "sayi": 5,
     "iki": [
      1,
@@ -622,10 +624,9 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "-4",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "304549",
@@ -662,7 +663,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": false,
-    "sure": "7:10",
+    "sure": "7:18",
     "sayi": 0,
     "iki": [
      0,
@@ -685,8 +686,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "1",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "570021",
@@ -760,7 +760,7 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "05:07",
+  "saat": "04:16",
   "uzatma": false
  }
 }
