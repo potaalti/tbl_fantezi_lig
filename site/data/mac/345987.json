@@ -6,26 +6,26 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "64",
+  "skor": "70",
   "oyuncular": [
    {
     "id": "223836",
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "24:45",
-    "sayi": 14,
+    "sure": "25:52",
+    "sayi": 18,
     "iki": [
-     0,
-     4
+     1,
+     5
     ],
     "uc": [
      2,
      3
     ],
     "sa": [
-     8,
-     9
+     10,
+     11
     ],
     "hr": 0,
     "sr": 4,
@@ -35,8 +35,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "1",
-    "vp": 12,
+    "pm": "7",
+    "vp": 16,
     "sahada": true
    },
    {
@@ -104,7 +104,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "22:26",
+    "sure": "23:33",
     "sayi": 10,
     "iki": [
      5,
@@ -126,7 +126,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "2",
+    "pm": "8",
     "vp": 9,
     "sahada": true
    },
@@ -135,7 +135,7 @@
     "ad": "Stefan Tyler Moody",
     "no": "42",
     "ilk5": true,
-    "sure": "21:23",
+    "sure": "22:30",
     "sayi": 5,
     "iki": [
      0,
@@ -150,15 +150,15 @@
      2
     ],
     "hr": 1,
-    "sr": 1,
-    "rib": 2,
+    "sr": 3,
+    "rib": 4,
     "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 4,
-    "pm": "-2",
-    "vp": 5,
+    "pm": "4",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -226,7 +226,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": false,
-    "sure": "20:43",
+    "sure": "21:50",
     "sayi": 2,
     "iki": [
      1,
@@ -248,7 +248,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-6",
+    "pm": "0",
     "vp": 3,
     "sahada": true
    },
@@ -287,7 +287,7 @@
     "ad": "Cihat Dalgalı",
     "no": "16",
     "ilk5": false,
-    "sure": "24:00",
+    "sure": "25:07",
     "sayi": 5,
     "iki": [
      1,
@@ -309,7 +309,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 4,
-    "pm": "-12",
+    "pm": "-6",
     "vp": 8,
     "sahada": true
    },
@@ -378,7 +378,7 @@
    23,
    18,
    19,
-   4
+   10
   ]
  },
  "dep": {
@@ -390,7 +390,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "20:27",
+    "sure": "21:34",
     "sayi": 13,
     "iki": [
      1,
@@ -398,7 +398,7 @@
     ],
     "uc": [
      3,
-     5
+     6
     ],
     "sa": [
      2,
@@ -412,8 +412,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "-6",
-    "vp": 17,
+    "pm": "-12",
+    "vp": 16,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Ahmet Can Duran",
     "no": "10",
     "ilk5": true,
-    "sure": "17:42",
+    "sure": "18:49",
     "sayi": 5,
     "iki": [
      2,
@@ -473,7 +473,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-11",
+    "pm": "-17",
     "vp": 4,
     "sahada": true
    },
@@ -512,7 +512,7 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": true,
-    "sure": "26:21",
+    "sure": "27:28",
     "sayi": 10,
     "iki": [
      4,
@@ -534,7 +534,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "13",
+    "pm": "7",
     "vp": 9,
     "sahada": true
    },
@@ -663,7 +663,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "24:34",
+    "sure": "25:41",
     "sayi": 5,
     "iki": [
      1,
@@ -685,7 +685,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "11",
+    "pm": "5",
     "vp": 8,
     "sahada": true
    },
@@ -694,7 +694,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "25:12",
+    "sure": "26:19",
     "sayi": 19,
     "iki": [
      3,
@@ -702,7 +702,7 @@
     ],
     "uc": [
      3,
-     5
+     6
     ],
     "sa": [
      4,
@@ -716,8 +716,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 4,
-    "pm": "8",
-    "vp": 21,
+    "pm": "2",
+    "vp": 20,
     "sahada": true
    },
    {
@@ -758,13 +758,13 @@
    12
   ]
  },
- "evSkor": "64",
+ "evSkor": "70",
  "depSkor": "65",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 4,
-  "saat": "05:07",
+  "saat": "04:00",
   "uzatma": false
  }
 }
