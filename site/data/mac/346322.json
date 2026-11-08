@@ -3,7 +3,7 @@
  "lig": "bsl",
  "hafta": 7,
  "tarih": "2026-11-08T13:00:00",
- "durum": "canli",
+ "durum": "bitti",
  "ev": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
   "skor": "97",
@@ -36,8 +36,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "-11",
-    "vp": 18,
-    "sahada": true
+    "vp": 18
    },
    {
     "id": "734506",
@@ -67,8 +66,7 @@
     "tk": 1,
     "faul": 1,
     "pm": "2",
-    "vp": 11,
-    "sahada": true
+    "vp": 11
    },
    {
     "id": "608898",
@@ -158,8 +156,7 @@
     "tk": 1,
     "faul": 1,
     "pm": "13",
-    "vp": 31,
-    "sahada": true
+    "vp": 31
    },
    {
     "id": "776935",
@@ -249,8 +246,7 @@
     "tk": 1,
     "faul": 4,
     "pm": "3",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "447092",
@@ -280,8 +276,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "283725",
@@ -315,7 +310,7 @@
    },
    {
     "id": "776655",
-    "ad": "David Dileo",
+    "ad": "David DiLeo",
     "no": "51",
     "ilk5": false,
     "sure": "13:43",
@@ -413,8 +408,7 @@
     "tk": 1,
     "faul": 4,
     "pm": "-4",
-    "vp": 23,
-    "sahada": true
+    "vp": 23
    },
    {
     "id": "373162",
@@ -444,8 +438,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "-10",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "779010",
@@ -475,8 +468,7 @@
     "tk": 2,
     "faul": 2,
     "pm": "-1",
-    "vp": 13,
-    "sahada": true
+    "vp": 13
    },
    {
     "id": "736366",
@@ -506,8 +498,7 @@
     "tk": 3,
     "faul": 1,
     "pm": "-3",
-    "vp": 23,
-    "sahada": true
+    "vp": 23
    },
    {
     "id": "470765",
@@ -537,8 +528,7 @@
     "tk": 1,
     "faul": 4,
     "pm": "1",
-    "vp": 11,
-    "sahada": true
+    "vp": 11
    },
    {
     "id": "779011",
@@ -761,10 +751,5 @@
  "evSkor": "97",
  "depSkor": "86",
  "salon": "Sinan Erdem Spor Salonu",
- "yayin": "beINSports",
- "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
- }
+ "yayin": "beINSports"
 }
