@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE GELİŞİM",
-  "skor": "74",
+  "skor": "76",
   "oyuncular": [
    {
     "id": "777243",
@@ -43,11 +43,11 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "32:09",
+    "sure": "33:39",
     "sayi": 13,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      3,
@@ -65,8 +65,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "pm": "4",
-    "vp": 14,
+    "pm": "2",
+    "vp": 13,
     "sahada": true
    },
    {
@@ -74,7 +74,7 @@
     "ad": "Ata Özbek",
     "no": "11",
     "ilk5": true,
-    "sure": "25:18",
+    "sure": "26:48",
     "sayi": 5,
     "iki": [
      1,
@@ -96,7 +96,7 @@
     "blk": 1,
     "tk": 2,
     "faul": 2,
-    "pm": "-3",
+    "pm": "-5",
     "vp": 4,
     "sahada": true
    },
@@ -105,7 +105,7 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "29:50",
+    "sure": "31:20",
     "sayi": 25,
     "iki": [
      10,
@@ -120,15 +120,15 @@
      2
     ],
     "hr": 1,
-    "sr": 9,
-    "rib": 10,
+    "sr": 10,
+    "rib": 11,
     "ast": 1,
     "tc": 1,
     "blk": 2,
     "tk": 3,
     "faul": 2,
-    "pm": "8",
-    "vp": 31,
+    "pm": "6",
+    "vp": 32,
     "sahada": true
    },
    {
@@ -226,8 +226,8 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": false,
-    "sure": "24:25",
-    "sayi": 17,
+    "sure": "25:55",
+    "sayi": 19,
     "iki": [
      1,
      4
@@ -237,8 +237,8 @@
      8
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 3,
@@ -248,8 +248,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "11",
-    "vp": 19,
+    "pm": "9",
+    "vp": 21,
     "sahada": true
    },
    {
@@ -317,7 +317,7 @@
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "20:23",
+    "sure": "21:53",
     "sayi": 10,
     "iki": [
      0,
@@ -339,7 +339,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "6",
+    "pm": "4",
     "vp": 15,
     "sahada": true
    },
@@ -378,19 +378,19 @@
    33,
    12,
    19,
-   10
+   12
   ]
  },
  "dep": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "69",
+  "skor": "73",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "34:20",
+    "sure": "35:50",
     "sayi": 32,
     "iki": [
      7,
@@ -412,7 +412,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-10",
+    "pm": "-8",
     "vp": 28,
     "sahada": true
    },
@@ -421,7 +421,7 @@
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "16:31",
+    "sure": "17:42",
     "sayi": 3,
     "iki": [
      0,
@@ -429,7 +429,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      0,
@@ -442,21 +442,20 @@
     "tc": 1,
     "blk": 0,
     "tk": 1,
-    "faul": 2,
-    "pm": "-12",
-    "vp": 2,
-    "sahada": true
+    "faul": 4,
+    "pm": "-10",
+    "vp": 1
    },
    {
     "id": "779510",
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "25:52",
-    "sayi": 17,
+    "sure": "27:22",
+    "sayi": 21,
     "iki": [
-     3,
-     5
+     5,
+     7
     ],
     "uc": [
      2,
@@ -474,8 +473,8 @@
     "blk": 0,
     "tk": 3,
     "faul": 0,
-    "pm": "4",
-    "vp": 6,
+    "pm": "6",
+    "vp": 10,
     "sahada": true
    },
    {
@@ -513,7 +512,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "30:50",
+    "sure": "32:20",
     "sayi": 3,
     "iki": [
      0,
@@ -528,15 +527,15 @@
      0
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
-    "ast": 0,
+    "sr": 5,
+    "rib": 5,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
-    "vp": 2,
+    "pm": "-4",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -574,7 +573,7 @@
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "18:49",
+    "sure": "19:08",
     "sayi": 5,
     "iki": [
      1,
@@ -597,7 +596,8 @@
     "tk": 1,
     "faul": 1,
     "pm": "6",
-    "vp": 5
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "201358",
@@ -664,7 +664,7 @@
     "ad": "Atakan Akçam",
     "no": "21",
     "ilk5": false,
-    "sure": "16:07",
+    "sure": "17:37",
     "sayi": 0,
     "iki": [
      0,
@@ -686,7 +686,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "5",
+    "pm": "7",
     "vp": 1,
     "sahada": true
    },
@@ -755,16 +755,16 @@
    22,
    19,
    17,
-   11
+   15
   ]
  },
- "evSkor": "74",
- "depSkor": "69",
+ "evSkor": "76",
+ "depSkor": "73",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:18",
+  "saat": "02:48",
   "uzatma": false
  }
 }
