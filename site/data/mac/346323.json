@@ -6,22 +6,22 @@
  "durum": "canli",
  "ev": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "59",
+  "skor": "66",
   "oyuncular": [
    {
     "id": "736340",
     "ad": "Jerome Robinson Jr.",
     "no": "1",
     "ilk5": true,
-    "sure": "10:40",
-    "sayi": 2,
+    "sure": "12:01",
+    "sayi": 5,
     "iki": [
      0,
      1
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      2,
@@ -30,13 +30,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "10",
-    "vp": 2,
+    "pm": "15",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -104,11 +104,11 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "24:42",
-    "sayi": 15,
+    "sure": "26:03",
+    "sayi": 17,
     "iki": [
-     5,
-     5
+     6,
+     6
     ],
     "uc": [
      1,
@@ -126,8 +126,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "5",
-    "vp": 24,
+    "pm": "10",
+    "vp": 26,
     "sahada": true
    },
    {
@@ -165,11 +165,11 @@
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "12:26",
-    "sayi": 4,
+    "sure": "13:47",
+    "sayi": 6,
     "iki": [
-     2,
-     3
+     3,
+     4
     ],
     "uc": [
      0,
@@ -187,8 +187,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-10",
-    "vp": 7,
+    "pm": "-5",
+    "vp": 9,
     "sahada": true
    },
    {
@@ -286,7 +286,7 @@
     "ad": "Buğrahan Tuncer",
     "no": "19",
     "ilk5": false,
-    "sure": "14:21",
+    "sure": "15:42",
     "sayi": 0,
     "iki": [
      0,
@@ -303,13 +303,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-9",
-    "vp": -3,
+    "pm": "-4",
+    "vp": -2,
     "sahada": true
    },
    {
@@ -347,7 +347,7 @@
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "18:30",
+    "sure": "19:51",
     "sayi": 8,
     "iki": [
      3,
@@ -364,13 +364,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 3,
-    "tc": 0,
+    "ast": 4,
+    "tc": 1,
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "-9",
-    "vp": 3,
+    "pm": "-4",
+    "vp": 5,
     "sahada": true
    }
   ],
@@ -378,38 +378,38 @@
    24,
    16,
    19,
-   0
+   7
   ],
   "takim": {
-   "hr": 1,
+   "hr": 2,
    "sr": 3,
-   "rib": 4,
+   "rib": 5,
    "tk": 1,
    "faul": 0
   },
   "ileri": {
-   "tks": 8,
-   "hh": 9,
-   "is": 5,
-   "ba": 26,
-   "benc": 24,
+   "tks": 10,
+   "hh": 11,
+   "is": 7,
+   "ba": 30,
+   "benc": 26,
    "fark": 13,
    "seri": 7,
-   "lider": 1624,
-   "degisim": 1,
-   "esitlik": 1
+   "lider": 1664,
+   "degisim": 2,
+   "esitlik": 3
   }
  },
  "dep": {
   "ad": "ESENLER EROKSPOR",
-  "skor": "59",
+  "skor": "61",
   "oyuncular": [
    {
     "id": "606624",
     "ad": "Mike Davis Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "23:24",
+    "sure": "24:45",
     "sayi": 5,
     "iki": [
      2,
@@ -428,11 +428,11 @@
     "rib": 2,
     "ast": 1,
     "tc": 3,
-    "blk": 0,
+    "blk": 1,
     "tk": 3,
-    "faul": 3,
-    "pm": "-6",
-    "vp": 0,
+    "faul": 4,
+    "pm": "-11",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -470,7 +470,7 @@
     "ad": "Amadou Sow",
     "no": "12",
     "ilk5": true,
-    "sure": "11:20",
+    "sure": "12:41",
     "sayi": 2,
     "iki": [
      0,
@@ -492,7 +492,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-7",
     "vp": -1,
     "sahada": true
    },
@@ -531,11 +531,11 @@
     "ad": "Muhsin Yaşar",
     "no": "77",
     "ilk5": true,
-    "sure": "10:22",
-    "sayi": 2,
+    "sure": "11:43",
+    "sayi": 4,
     "iki": [
-     1,
-     3
+     2,
+     4
     ],
     "uc": [
      0,
@@ -551,10 +551,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 0,
-    "pm": "-16",
-    "vp": 1,
+    "pm": "-21",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -562,7 +562,7 @@
     "ad": "Errick Mccollum",
     "no": "3",
     "ilk5": false,
-    "sure": "15:46",
+    "sure": "17:07",
     "sayi": 12,
     "iki": [
      3,
@@ -584,7 +584,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "17",
+    "pm": "12",
     "vp": 14,
     "sahada": true
    },
@@ -683,7 +683,7 @@
     "ad": "Egehan Arna",
     "no": "18",
     "ilk5": false,
-    "sure": "25:30",
+    "sure": "26:51",
     "sayi": 16,
     "iki": [
      2,
@@ -705,7 +705,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "8",
+    "pm": "3",
     "vp": 20,
     "sahada": true
    },
@@ -774,7 +774,7 @@
    13,
    26,
    20,
-   0
+   2
   ],
   "takim": {
    "hr": 2,
@@ -787,27 +787,27 @@
    "tks": 17,
    "hh": 8,
    "is": 7,
-   "ba": 24,
+   "ba": 26,
    "benc": 41,
    "fark": 4,
    "seri": 10,
    "lider": 81,
-   "degisim": 1,
-   "esitlik": 1
+   "degisim": 2,
+   "esitlik": 3
   }
  },
- "evSkor": "59",
- "depSkor": "59",
+ "evSkor": "66",
+ "depSkor": "61",
  "salon": "Sinan Erdem Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "09:13",
+  "saat": "07:54",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1845,
+  "simdi": 1926,
   "d": [
    [
     0,
@@ -1060,6 +1060,22 @@
    [
     1728,
     0
+   ],
+   [
+    1867,
+    2
+   ],
+   [
+    1889,
+    0
+   ],
+   [
+    1910,
+    3
+   ],
+   [
+    1926,
+    5
    ]
   ]
  }

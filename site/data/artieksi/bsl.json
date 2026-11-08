@@ -9059,15 +9059,6 @@
     "ulke": "DANİMARKA"
    },
    {
-    "id": "359434",
-    "ad": "Errick Mccollum",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 17,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "572386",
     "ad": "Olivier Hanlan",
     "takim": "ALİAĞA PETKİM SPOR",
@@ -9082,6 +9073,15 @@
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": 16,
     "fark": 17,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "736340",
+    "ad": "Jerome Robinson Jr.",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 15,
+    "fark": 5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -9185,6 +9185,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "359434",
+    "ad": "Errick Mccollum",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 12,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "778279",
     "ad": "Chris Horton",
     "takim": "ALİAĞA PETKİM SPOR",
@@ -9221,22 +9230,22 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "736340",
-    "ad": "Jerome Robinson Jr.",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 10,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "776570",
     "ad": "Kevin Yebo",
     "takim": "ESENLER EROKSPOR",
     "pm": 10,
-    "fark": 0,
+    "fark": -5,
     "mac": 1,
     "ulke": "ALMANYA"
+   },
+   {
+    "id": "779275",
+    "ad": "Chimezie Metu",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 10,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "310250",
@@ -9275,31 +9284,22 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "500054",
-    "ad": "Dyshawn Pierre",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 8,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "KANADA"
-   },
-   {
-    "id": "120437",
-    "ad": "Egehan Arna",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 8,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "667498",
     "ad": "James Webb Iii",
     "takim": "ESENLER EROKSPOR",
     "pm": 8,
-    "fark": 0,
+    "fark": -5,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "500054",
+    "ad": "Dyshawn Pierre",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 8,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "KANADA"
    },
    {
     "id": "778398",
@@ -9392,20 +9392,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "779275",
-    "ad": "Chimezie Metu",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 5,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "779274",
     "ad": "Oumar Ballo",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 5,
-    "fark": 0,
+    "fark": 5,
     "mac": 1,
     "ulke": "MALİ"
    },
@@ -9450,7 +9441,7 @@
     "ad": "Melih Tunca",
     "takim": "ESENLER EROKSPOR",
     "pm": 4,
-    "fark": 0,
+    "fark": -5,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9500,6 +9491,15 @@
     "ulke": "HIRVATİSTAN"
    },
    {
+    "id": "120437",
+    "ad": "Egehan Arna",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 3,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "776654",
     "ad": "Damien Inglis",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -9518,22 +9518,22 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "779278",
-    "ad": "Alen Smailagic",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 2,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
-   },
-   {
     "id": "57737",
     "ad": "Yunus Emre Sonsırma",
     "takim": "ESENLER EROKSPOR",
     "pm": 2,
-    "fark": 0,
+    "fark": -5,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "779278",
+    "ad": "Alen Smailagic",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 2,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
    },
    {
     "id": "470691",
@@ -9684,7 +9684,7 @@
     "ad": "Şehmus Hazer",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 0,
-    "fark": 0,
+    "fark": 5,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9774,18 +9774,9 @@
     "ad": "Aleksej Nikolic",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": -2,
-    "fark": 0,
+    "fark": 5,
     "mac": 1,
     "ulke": "SLOVENYA"
-   },
-   {
-    "id": "778079",
-    "ad": "Amadou Sow",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -2,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "MALİ"
    },
    {
     "id": "675128",
@@ -9896,6 +9887,24 @@
     "ulke": "ABD"
    },
    {
+    "id": "54128",
+    "ad": "Buğrahan Tuncer",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": -4,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "781548",
+    "ad": "Kj Simpson",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": -4,
+    "fark": 5,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "778246",
     "ad": "Max Abmas",
     "takim": "ALİAĞA PETKİM SPOR",
@@ -9919,6 +9928,15 @@
     "takim": "TRABZONSPOR",
     "pm": -5,
     "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "128768",
+    "ad": "Berkan Durmaz",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": -5,
+    "fark": 5,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -9968,15 +9986,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "606624",
-    "ad": "Mike Davis Jr.",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -6,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "778183",
     "ad": "Paulius Danusevicius",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -9993,6 +10002,15 @@
     "fark": -11,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778079",
+    "ad": "Amadou Sow",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -7,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "MALİ"
    },
    {
     "id": "434482",
@@ -10058,24 +10076,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "54128",
-    "ad": "Buğrahan Tuncer",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": -9,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "781548",
-    "ad": "Kj Simpson",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": -9,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "130898",
     "ad": "Okben Ulubay",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -10130,20 +10130,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "128768",
-    "ad": "Berkan Durmaz",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": -10,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "502518",
     "ad": "Jordan Usher",
     "takim": "ESENLER EROKSPOR",
     "pm": -10,
-    "fark": 0,
+    "fark": -5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -10153,6 +10144,15 @@
     "takim": "BURSASPOR BASKETBOL",
     "pm": -11,
     "fark": -19,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "606624",
+    "ad": "Mike Davis Jr.",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -11,
+    "fark": -5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -10251,7 +10251,7 @@
     "ad": "Dallas Moore",
     "takim": "ESENLER EROKSPOR",
     "pm": -15,
-    "fark": 0,
+    "fark": -5,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -10263,15 +10263,6 @@
     "fark": -10,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "151935",
-    "ad": "Muhsin Yaşar",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -16,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "247547",
@@ -10299,6 +10290,15 @@
     "fark": -17,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "151935",
+    "ad": "Muhsin Yaşar",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -21,
+    "fark": -5,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "778460",
@@ -10335,7 +10335,7 @@
    "ad": "Alen Smailagic",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 65,
-   "fark": 55,
+   "fark": 60,
    "mac": 7,
    "ulke": "SIRBİSTAN"
   },
@@ -10385,6 +10385,15 @@
    "ulke": "FRANSA"
   },
   {
+   "id": "781548",
+   "ad": "Kj Simpson",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 50,
+   "fark": 49,
+   "mac": 4,
+   "ulke": "ABD"
+  },
+  {
    "id": "54659",
    "ad": "Sertaç Şanlı",
    "takim": "FENERBAHÇE TARFİN",
@@ -10410,15 +10419,6 @@
    "fark": 66,
    "mac": 6,
    "ulke": "LİTVANYA"
-  },
-  {
-   "id": "781548",
-   "ad": "Kj Simpson",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 45,
-   "fark": 44,
-   "mac": 4,
-   "ulke": "ABD"
   },
   {
    "id": "778726",
@@ -10484,6 +10484,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "54128",
+   "ad": "Buğrahan Tuncer",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 35,
+   "fark": 37,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "370740",
    "ad": "Ercan Osmani",
    "takim": "ANADOLU EFES",
@@ -10511,6 +10520,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "779275",
+   "ad": "Chimezie Metu",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 34,
+   "fark": 60,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "310250",
    "ad": "Yiğit Onan",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -10527,6 +10545,15 @@
    "fark": 50,
    "mac": 6,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "736340",
+   "ad": "Jerome Robinson Jr.",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 33,
+   "fark": 65,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "333434",
@@ -10556,15 +10583,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "54128",
-   "ad": "Buğrahan Tuncer",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 30,
-   "fark": 32,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "157002",
    "ad": "Erkan Yılmaz",
    "takim": "ANADOLU EFES",
@@ -10579,24 +10597,6 @@
    "takim": "BEŞİKTAŞ",
    "pm": 29,
    "fark": -14,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "779275",
-   "ad": "Chimezie Metu",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 29,
-   "fark": 55,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
-   "id": "736340",
-   "ad": "Jerome Robinson Jr.",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 28,
-   "fark": 60,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -10650,7 +10650,7 @@
    "ad": "Şehmus Hazer",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 24,
-   "fark": 55,
+   "fark": 60,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
@@ -10686,7 +10686,7 @@
    "ad": "Aleksej Nikolic",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 23,
-   "fark": 55,
+   "fark": 60,
    "mac": 7,
    "ulke": "SLOVENYA"
   },
@@ -10718,6 +10718,15 @@
    "ulke": "İSPANYA"
   },
   {
+   "id": "128768",
+   "ad": "Berkan Durmaz",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 22,
+   "fark": 44,
+   "mac": 5,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "389934",
    "ad": "Efe Postel",
    "takim": "TOFAŞ",
@@ -10745,24 +10754,6 @@
    "ulke": "POLONYA"
   },
   {
-   "id": "606624",
-   "ad": "Mike Davis Jr.",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 19,
-   "fark": -4,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
-   "id": "120437",
-   "ad": "Egehan Arna",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 18,
-   "fark": -4,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "779277",
    "ad": "Nikola Ivanovic",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -10770,15 +10761,6 @@
    "fark": 45,
    "mac": 4,
    "ulke": "KARADAĞ"
-  },
-  {
-   "id": "128768",
-   "ad": "Berkan Durmaz",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 17,
-   "fark": 39,
-   "mac": 5,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "778728",
@@ -10806,6 +10788,24 @@
    "fark": 33,
    "mac": 3,
    "ulke": "KANADA"
+  },
+  {
+   "id": "606624",
+   "ad": "Mike Davis Jr.",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 14,
+   "fark": -9,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
+   "id": "120437",
+   "ad": "Egehan Arna",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 13,
+   "fark": -9,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "106461",
@@ -10848,7 +10848,7 @@
    "ad": "Kevin Yebo",
    "takim": "ESENLER EROKSPOR",
    "pm": 11,
-   "fark": -4,
+   "fark": -9,
    "mac": 7,
    "ulke": "ALMANYA"
   },
@@ -10947,16 +10947,7 @@
    "ad": "Oumar Ballo",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 8,
-   "fark": 55,
-   "mac": 7,
-   "ulke": "MALİ"
-  },
-  {
-   "id": "778079",
-   "ad": "Amadou Sow",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 7,
-   "fark": -4,
+   "fark": 60,
    "mac": 7,
    "ulke": "MALİ"
   },
@@ -11123,6 +11114,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "778079",
+   "ad": "Amadou Sow",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 2,
+   "fark": -9,
+   "mac": 7,
+   "ulke": "MALİ"
+  },
+  {
    "id": "735812",
    "ad": "Brandon Boston Jr.",
    "takim": "TRABZONSPOR",
@@ -11145,7 +11145,7 @@
    "ad": "Dyshawn Pierre",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 2,
-   "fark": 21,
+   "fark": 26,
    "mac": 6,
    "ulke": "KANADA"
   },
@@ -11334,7 +11334,7 @@
    "ad": "James Webb Iii",
    "takim": "ESENLER EROKSPOR",
    "pm": -3,
-   "fark": -4,
+   "fark": -9,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -11514,7 +11514,7 @@
    "ad": "Dallas Moore",
    "takim": "ESENLER EROKSPOR",
    "pm": -8,
-   "fark": -15,
+   "fark": -20,
    "mac": 3,
    "ulke": "ABD"
   },
@@ -11523,7 +11523,7 @@
    "ad": "Melih Tunca",
    "takim": "ESENLER EROKSPOR",
    "pm": -8,
-   "fark": -12,
+   "fark": -17,
    "mac": 6,
    "ulke": "TÜRKİYE"
   },
@@ -11717,15 +11717,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "359434",
-   "ad": "Errick Mccollum",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -15,
-   "fark": -4,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "227653",
    "ad": "Ömer Can İlyasoğlu",
    "takim": "BURSASPOR BASKETBOL",
@@ -11775,7 +11766,7 @@
    "ad": "Yunus Emre Sonsırma",
    "takim": "ESENLER EROKSPOR",
    "pm": -17,
-   "fark": -27,
+   "fark": -32,
    "mac": 3,
    "ulke": "TÜRKİYE"
   },
@@ -11870,6 +11861,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "359434",
+   "ad": "Errick Mccollum",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -20,
+   "fark": -9,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "779011",
    "ad": "Jhonathan Dunn",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -11946,18 +11946,9 @@
    "ad": "Jordan Usher",
    "takim": "ESENLER EROKSPOR",
    "pm": -25,
-   "fark": -7,
+   "fark": -12,
    "mac": 6,
    "ulke": "ABD"
-  },
-  {
-   "id": "151935",
-   "ad": "Muhsin Yaşar",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -25,
-   "fark": -4,
-   "mac": 5,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "666515",
@@ -12057,6 +12048,15 @@
    "fark": -9,
    "mac": 6,
    "ulke": "ABD"
+  },
+  {
+   "id": "151935",
+   "ad": "Muhsin Yaşar",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -30,
+   "fark": -9,
+   "mac": 5,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "779010",
