@@ -153,10 +153,25 @@ def fiba_istatistik(d, takimlar, rehber):
             }
             (ilk5 if kayit["isStarter"] else yedek).append(kayit)
         stat[f"{taraf}TopFive"], stat[f"{taraf}BenchPlayers"] = ilk5, yedek
+        # Takım ribaundu / top kaybı / faulü (oyuncuya yazılmayan): TBF'nin homeTeamStats biçiminde
+        stat[f"{taraf}TeamStats"] = {
+            "offensiveRebounds": tm.get("tot_sReboundsTeamOffensive", 0), "defensiveRebounds": tm.get("tot_sReboundsTeamDefensive", 0),
+            "totalRebounds": tm.get("tot_sReboundsTeam", 0), "turnovers": tm.get("tot_sTurnoversTeam", 0), "fouls": tm.get("tot_sFoulsTeam", 0)}
+        stat[f"{taraf}Ileri"] = fiba_ileri(tm)
         ozet[f"{taraf}TeamScore"] = [{"score": tm[k], "quarter": int(k[1:-6])}
                                      for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
     skorlar = {"ev": str(d["tm"]["1"].get("score", 0)), "dep": str(d["tm"]["2"].get("score", 0))}
     return stat, ozet, skorlar
+
+
+def fiba_ileri(tm):
+    """Pota Altı App'in maç sayfasındaki gelişmiş takım istatistikleri (FIBA takım toplamlarından).
+    Aynısı pota-alti-app veri/uret.py'de biten maçlar için de var: alanlar ikisinde aynı kalmalı."""
+    s = lambda k: int(round(float(tm.get(k) or 0)))  # noqa: E731
+    return {"tks": s("tot_sPointsFromTurnovers"), "hh": s("tot_sPointsFastBreak"), "is": s("tot_sPointsSecondChance"),
+            "ba": s("tot_sPointsInThePaint"), "benc": s("tot_sBenchPoints"), "fark": s("tot_sBiggestLead"),
+            "seri": s("tot_sBiggestScoringRun"), "lider": int(round(float(tm.get("tot_sTimeLeading") or 0) * 60)),
+            "degisim": s("tot_sLeadChanges"), "esitlik": s("tot_sTimesScoresLevel")}
 
 
 def fiba_basladi(d):
@@ -182,8 +197,8 @@ def mac_ozet(mac_id, bitti):
 def kutu_skor(mac, stat, ozet):
     """Maç sayfası için box score: iki takımın oyuncu istatistikleri ve çeyrek skorları."""
     takimlar = {}
-    for taraf, ilk5, bench, ceyrek in (("ev", "homeTopFive", "homeBenchPlayers", "homeTeamScore"),
-                                       ("dep", "awayTopFive", "awayBenchPlayers", "awayTeamScore")):
+    for taraf, ilk5, bench, ceyrek, on in (("ev", "homeTopFive", "homeBenchPlayers", "homeTeamScore", "home"),
+                                           ("dep", "awayTopFive", "awayBenchPlayers", "awayTeamScore", "away")):
         oyuncular = []
         for o in (stat.get(ilk5) or []) + (stat.get(bench) or []):
             oyuncular.append({
@@ -202,6 +217,13 @@ def kutu_skor(mac, stat, ozet):
             "ad": mac[taraf], "skor": mac[f"{taraf}Skor"], "oyuncular": oyuncular,
             "ceyrekler": [c["score"] for c in sorted((ozet or {}).get(ceyrek) or [], key=lambda c: c["quarter"])],
         }
+        # Pota Altı App kutu skordaki "Takım" satırı (takım ribaundu, top kaybı, faul) ve canlıda gelişmiş istatistikler
+        ts = stat.get(f"{on}TeamStats")
+        if ts:
+            takimlar[taraf]["takim"] = {k: int(ts.get(a) or 0) for k, a in (
+                ("hr", "offensiveRebounds"), ("sr", "defensiveRebounds"), ("rib", "totalRebounds"), ("tk", "turnovers"), ("faul", "fouls"))}
+        if stat.get(f"{on}Ileri"):
+            takimlar[taraf]["ileri"] = stat[f"{on}Ileri"]
     return {**mac, **takimlar}
 
 
