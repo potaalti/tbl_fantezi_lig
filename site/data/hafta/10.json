@@ -58,31 +58,13 @@
    "lig": "tbl",
    "hafta": 10,
    "tarih": "2026-11-08T14:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "FİNALSPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
    "evSkor": "88",
    "depSkor": "73",
    "salon": "Tofaş Spor Salonu",
-   "yayin": "HT SPOR",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
-  },
-  {
-   "id": 345990,
-   "lig": "tbl",
-   "hafta": 10,
-   "tarih": "2026-11-08T16:00:00",
-   "durum": "oynanmadi",
-   "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "dep": "MERSİN SPOR",
-   "evSkor": null,
-   "depSkor": null,
-   "salon": "Şehit Turgut Solak Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "HT SPOR"
   },
   {
    "id": 345985,
@@ -95,6 +77,19 @@
    "evSkor": null,
    "depSkor": null,
    "salon": "Fenerbahçe Metro Enerji Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345990,
+   "lig": "tbl",
+   "hafta": 10,
+   "tarih": "2026-11-08T16:00:00",
+   "durum": "oynanmadi",
+   "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "dep": "MERSİN SPOR",
+   "evSkor": null,
+   "depSkor": null,
+   "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
@@ -1039,7 +1034,7 @@
     345988
    ]
   },
-  "fiba-eric-buckner": {
+  "271660": {
    "ad": "Eric Buckner",
    "takim": "FİNALSPOR",
    "vp": 18,
@@ -1106,7 +1101,7 @@
    "ad": "Keshun Sherrill",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 4,
-   "saniye": 2080,
+   "saniye": 2079,
    "maclar": [
     345988
    ]
@@ -1151,7 +1146,7 @@
    "ad": "Demir Öztürk",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 6,
-   "saniye": 691,
+   "saniye": 692,
    "maclar": [
     345988
    ]

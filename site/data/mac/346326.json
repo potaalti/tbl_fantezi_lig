@@ -43,11 +43,11 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "5:24",
+    "sure": "6:28",
     "sayi": 2,
     "iki": [
      1,
-     4
+     5
     ],
     "uc": [
      0,
@@ -57,16 +57,17 @@
      0,
      0
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 0,
-    "rib": 1,
+    "rib": 2,
     "ast": 1,
     "tc": 2,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "5",
-    "vp": 3
+    "pm": "3",
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "587569",
@@ -163,7 +164,7 @@
     "ad": "Darius Karutasu",
     "no": "2",
     "ilk5": false,
-    "sure": "5:40",
+    "sure": "5:39",
     "sayi": 2,
     "iki": [
      1,
@@ -186,15 +187,14 @@
     "tk": 0,
     "faul": 1,
     "pm": "-6",
-    "vp": 1,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "736126",
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "1:04",
     "sayi": 0,
     "iki": [
      0,
@@ -208,23 +208,24 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "-2",
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "778400",
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": false,
-    "sure": "5:40",
+    "sure": "6:43",
     "sayi": 2,
     "iki": [
      1,
@@ -246,7 +247,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-8",
     "vp": 2,
     "sahada": true
    },
@@ -285,7 +286,7 @@
     "ad": "Bruno Fernando",
     "no": "20",
     "ilk5": false,
-    "sure": "6:39",
+    "sure": "6:38",
     "sayi": 2,
     "iki": [
      0,
@@ -308,15 +309,14 @@
     "tk": 1,
     "faul": 0,
     "pm": "-10",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "782949",
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": false,
-    "sure": "2:03",
+    "sure": "3:06",
     "sayi": 0,
     "iki": [
      0,
@@ -338,7 +338,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 0,
     "sahada": true
    },
@@ -347,7 +347,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "4:27",
+    "sure": "5:30",
     "sayi": 2,
     "iki": [
      0,
@@ -355,7 +355,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      2,
@@ -367,10 +367,10 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
-    "pm": "-6",
-    "vp": 4,
+    "tk": 1,
+    "faul": 2,
+    "pm": "-8",
+    "vp": 2,
     "sahada": true
    }
   ],
@@ -381,14 +381,14 @@
  },
  "dep": {
   "ad": "TOFAŞ",
-  "skor": "30",
+  "skor": "32",
   "oyuncular": [
    {
     "id": "485299",
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": true,
-    "sure": "9:51",
+    "sure": "9:50",
     "sayi": 6,
     "iki": [
      3,
@@ -411,19 +411,18 @@
     "tk": 2,
     "faul": 2,
     "pm": "1",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "227173",
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": true,
-    "sure": "9:39",
+    "sure": "10:42",
     "sayi": 4,
     "iki": [
      2,
-     2
+     3
     ],
     "uc": [
      0,
@@ -440,9 +439,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "4",
-    "vp": 7,
+    "faul": 1,
+    "pm": "6",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -480,7 +479,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": true,
-    "sure": "9:02",
+    "sure": "10:05",
     "sayi": 6,
     "iki": [
      3,
@@ -501,8 +500,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "2",
+    "faul": 2,
+    "pm": "4",
     "vp": 8,
     "sahada": true
    },
@@ -571,7 +570,7 @@
     "ad": "Zach Nutall",
     "no": "10",
     "ilk5": false,
-    "sure": "6:39",
+    "sure": "7:42",
     "sayi": 2,
     "iki": [
      1,
@@ -593,7 +592,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "10",
+    "pm": "12",
     "vp": -1,
     "sahada": true
    },
@@ -632,11 +631,11 @@
     "ad": "Mantas Rubstavicius",
     "no": "17",
     "ilk5": false,
-    "sure": "2:03",
-    "sayi": 3,
+    "sure": "3:06",
+    "sayi": 5,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -646,16 +645,16 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
-    "vp": 3,
+    "pm": "7",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -693,7 +692,7 @@
     "ad": "Emirhan Serbest",
     "no": "24",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "1:04",
     "sayi": 0,
     "iki": [
      0,
@@ -715,8 +714,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "2",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "197570",
@@ -751,16 +751,16 @@
   ],
   "ceyrekler": [
    21,
-   9
+   11
   ]
  },
  "evSkor": "25",
- "depSkor": "30",
+ "depSkor": "32",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "07:58",
+  "saat": "06:54",
   "uzatma": false
  }
 }
