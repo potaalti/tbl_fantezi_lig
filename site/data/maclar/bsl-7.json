@@ -85,13 +85,18 @@
    "lig": "bsl",
    "hafta": 7,
    "tarih": "2026-11-08T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "GALATASARAY MCT TECHNIC",
    "dep": "ESENLER EROKSPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Sinan Erdem Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:59",
+    "uzatma": false
+   }
   },
   {
    "id": 346328,
