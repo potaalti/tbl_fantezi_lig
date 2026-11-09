@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KARŞIYAKA",
-  "skor": "69",
+  "skor": "73",
   "oyuncular": [
    {
     "id": "573226",
     "ad": "Briante Weber",
     "no": "2",
     "ilk5": true,
-    "sure": "27:30",
+    "sure": "27:45",
     "sayi": 12,
     "iki": [
      5,
@@ -36,15 +36,14 @@
     "tk": 3,
     "faul": 3,
     "pm": "11",
-    "vp": 13,
-    "sahada": true
+    "vp": 13
    },
    {
     "id": "779071",
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "19:49",
+    "sure": "20:15",
     "sayi": 11,
     "iki": [
      1,
@@ -66,8 +65,9 @@
     "blk": 0,
     "tk": 4,
     "faul": 3,
-    "pm": "-8",
-    "vp": 5
+    "pm": "-10",
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "500079",
@@ -134,7 +134,7 @@
     "ad": "Steven Enoch",
     "no": "23",
     "ilk5": true,
-    "sure": "23:53",
+    "sure": "24:34",
     "sayi": 12,
     "iki": [
      5,
@@ -156,7 +156,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "12",
+    "pm": "10",
     "vp": 14,
     "sahada": true
    },
@@ -225,15 +225,15 @@
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "20:46",
-    "sayi": 10,
+    "sure": "21:27",
+    "sayi": 13,
     "iki": [
      1,
      3
     ],
     "uc": [
-     2,
-     4
+     3,
+     5
     ],
     "sa": [
      2,
@@ -245,10 +245,10 @@
     "ast": 3,
     "tc": 1,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
-    "pm": "3",
-    "vp": 10,
+    "pm": "1",
+    "vp": 12,
     "sahada": true
    },
    {
@@ -256,7 +256,7 @@
     "ad": "Hakan Sayılı",
     "no": "8",
     "ilk5": false,
-    "sure": "17:06",
+    "sure": "17:47",
     "sayi": 5,
     "iki": [
      1,
@@ -278,7 +278,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "0",
+    "pm": "-2",
     "vp": 9,
     "sahada": true
    },
@@ -347,8 +347,8 @@
     "ad": "Yakuba Ouattara",
     "no": "24",
     "ilk5": false,
-    "sure": "13:06",
-    "sayi": 2,
+    "sure": "13:47",
+    "sayi": 3,
     "iki": [
      1,
      1
@@ -358,19 +358,19 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "1",
-    "vp": 5,
+    "faul": 2,
+    "pm": "-1",
+    "vp": 6,
     "sahada": true
    }
   ],
@@ -378,7 +378,7 @@
    17,
    23,
    12,
-   20
+   21
   ],
   "takim": {
    "hr": 3,
@@ -392,24 +392,24 @@
    "hh": 5,
    "is": 7,
    "ba": 32,
-   "benc": 22,
+   "benc": 23,
    "fark": 4,
    "seri": 6,
-   "lider": 354,
-   "degisim": 10,
+   "lider": 376,
+   "degisim": 11,
    "esitlik": 4
   }
  },
  "dep": {
   "ad": "BEŞİKTAŞ",
-  "skor": "71",
+  "skor": "74",
   "oyuncular": [
    {
     "id": "735336",
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "22:26",
+    "sure": "22:52",
     "sayi": 12,
     "iki": [
      4,
@@ -431,27 +431,28 @@
     "blk": 0,
     "tk": 0,
     "faul": 4,
-    "pm": "12",
-    "vp": 13
+    "pm": "14",
+    "vp": 13,
+    "sahada": true
    },
    {
     "id": "782996",
     "ad": "Lonnie Walker Iv",
     "no": "4",
     "ilk5": true,
-    "sure": "21:33",
-    "sayi": 14,
+    "sure": "22:14",
+    "sayi": 17,
     "iki": [
-     1,
-     3
+     2,
+     4
     ],
     "uc": [
      4,
-     8
+     9
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 1,
@@ -461,8 +462,8 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-11",
-    "vp": 6,
+    "pm": "-9",
+    "vp": 8,
     "sahada": true
    },
    {
@@ -470,7 +471,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": true,
-    "sure": "16:19",
+    "sure": "17:00",
     "sayi": 0,
     "iki": [
      0,
@@ -488,12 +489,12 @@
     "sr": 3,
     "rib": 3,
     "ast": 1,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "8",
-    "vp": 3,
+    "pm": "10",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -501,7 +502,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": true,
-    "sure": "17:00",
+    "sure": "17:41",
     "sayi": 6,
     "iki": [
      0,
@@ -509,7 +510,7 @@
     ],
     "uc": [
      2,
-     4
+     5
     ],
     "sa": [
      0,
@@ -523,8 +524,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "1",
-    "vp": 6,
+    "pm": "3",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -652,7 +653,7 @@
     "ad": "Scottie Wilbekin",
     "no": "12",
     "ilk5": false,
-    "sure": "21:44",
+    "sure": "21:59",
     "sayi": 8,
     "iki": [
      2,
@@ -660,7 +661,7 @@
     ],
     "uc": [
      1,
-     6
+     7
     ],
     "sa": [
      1,
@@ -675,8 +676,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "-2",
-    "vp": 6,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "777636",
@@ -743,7 +743,7 @@
     "ad": "Wenyen Gabriel",
     "no": "32",
     "ilk5": false,
-    "sure": "18:45",
+    "sure": "19:26",
     "sayi": 4,
     "iki": [
      2,
@@ -757,16 +757,16 @@
      0,
      0
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 2,
-    "rib": 3,
+    "rib": 4,
     "ast": 1,
     "tc": 1,
     "blk": 1,
     "tk": 5,
-    "faul": 2,
-    "pm": "0",
-    "vp": 4,
+    "faul": 3,
+    "pm": "2",
+    "vp": 5,
     "sahada": true
    }
   ],
@@ -774,40 +774,40 @@
    22,
    16,
    21,
-   12
+   15
   ],
   "takim": {
-   "hr": 2,
+   "hr": 3,
    "sr": 4,
-   "rib": 6,
+   "rib": 7,
    "tk": 1,
    "faul": 0
   },
   "ileri": {
    "tks": 7,
    "hh": 17,
-   "is": 9,
-   "ba": 34,
+   "is": 12,
+   "ba": 36,
    "benc": 31,
    "fark": 10,
    "seri": 8,
-   "lider": 1590,
-   "degisim": 10,
+   "lider": 1609,
+   "degisim": 11,
    "esitlik": 4
   }
  },
- "evSkor": "69",
- "depSkor": "71",
+ "evSkor": "73",
+ "depSkor": "74",
  "salon": "Mustafa Kemal Atatürk Karşıyaka Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:22",
+  "saat": "03:12",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2138,
+  "simdi": 2208,
   "d": [
    [
     0,
@@ -1084,6 +1084,22 @@
    [
     2138,
     -2
+   ],
+   [
+    2167,
+    1
+   ],
+   [
+    2189,
+    -1
+   ],
+   [
+    2189,
+    -2
+   ],
+   [
+    2208,
+    -1
    ]
   ]
  }
