@@ -15,6 +15,11 @@ DEPO_URL="https://github.com/potaalti/tbl_fantezi_lig.git"
 LOG="$HOME/tbl-guncelle.log"
 GUNLUK_KAYIT="$HOME/.tbl-gunluk-guncellemeler"
 DONGU_PID="$HOME/.tbl-mac-dongusu.pid"
+# Maç döngüsünün nabzı: her adımda dokunulur. 10 dakikadır dokunulmadıysa döngü takılmıştır (2026-11-09: 12:12'den sonra
+# hiç veri gitmedi, Karşıyaka–Beşiktaş canlı güncellenmedi); sonraki tetikleme onu durdurup yeniden başlatır.
+# Pota Altı App'in telefon görevi de (pota-alti-app/telefon/guncelle.sh) aynı dosyaya bakıp takılan döngüyü durdurur.
+NABIZ="$HOME/.tbl-mac-dongusu.nabiz"
+NABIZ_SINIR_SN=600
 GUNLUK_SAATLER="12 23"
 MAC_ARALIK_SN=180
 
@@ -53,8 +58,21 @@ gunluk_guncelleme_zamani_mi() {
   return 1
 }
 
+nabiz() { touch "$NABIZ"; }
+
+# Döngü çalışıyor mu? Süreç yaşıyor ama nabız 10 dakikadan eskiyse takılmıştır: durdurulur, "çalışmıyor" sayılır
 dongu_calisiyor_mu() {
-  [ -f "$DONGU_PID" ] && kill -0 "$(cat "$DONGU_PID")" 2>/dev/null
+  [ -f "$DONGU_PID" ] || return 1
+  local pid yas
+  pid=$(cat "$DONGU_PID")
+  if ! kill -0 "$pid" 2>/dev/null; then rm -f "$DONGU_PID"; return 1; fi
+  yas=$(( $(date +%s) - $(stat -c %Y "$NABIZ" 2>/dev/null || stat -c %Y "$DONGU_PID") ))
+  [ "$yas" -le "$NABIZ_SINIR_SN" ] && return 0
+  echo "=== $(date '+%H:%M') maç döngüsü ${yas} sn'dir takılı: durduruldu, yeniden başlıyor ===" >> "$LOG"
+  pkill -P "$pid" 2>/dev/null
+  kill "$pid" 2>/dev/null
+  rm -f "$DONGU_PID"
+  return 1
 }
 
 guncelle() {
@@ -69,17 +87,21 @@ guncelle() {
   for deneme in 1 2 3; do
     # GitHub'daki son hali al. Telefondaki veriler her çalışmada TBF'den yeniden üretildiği için
     # yerel farklar güvenle atılabilir; böylece çakışmada takılıp kalmaz.
-    git fetch -q origin || return 1
+    # Her adımın süre sınırı var (timeout): takılan bir istek döngüyü kilitlemesin
+    nabiz
+    timeout 120 git fetch -q origin || return 1
     git reset -q --hard origin/main
+    nabiz
     if [ "$1" = "tam" ]; then
-      python fetch_tbf.py || return 1
+      timeout 900 python fetch_tbf.py || return 1
     else
-      python fetch_tbf.py --akilli || return 1
+      timeout 300 python fetch_tbf.py --akilli || return 1
     fi
+    nabiz
     git add -A
     git diff --cached --quiet && return 0
     git commit -q -m "Veriler güncellendi (telefon)"
-    if git push -q; then
+    if timeout 120 git push -q; then
       echo "GitHub'a gönderildi."
       return 0
     fi
@@ -95,16 +117,18 @@ kirp() {
 # Maç saatleri boyunca 3 dakikada bir güncelle; bu sırada telefon uyumasın
 mac_dongusu() {
   echo $$ > "$DONGU_PID"
+  nabiz
   termux-wake-lock
   echo "=== $(date '+%H:%M') maç saati: ${MAC_ARALIK_SN} sn'de bir güncellenecek ===" >> "$LOG"
   while mac_saatinde_mi; do
+    nabiz
     guncelle >> "$LOG" 2>&1
     kirp
     sleep "$MAC_ARALIK_SN"
   done
   echo "=== $(date '+%H:%M') maç saati bitti, normal düzene dönüldü ===" >> "$LOG"
   termux-wake-unlock
-  rm -f "$DONGU_PID"
+  rm -f "$DONGU_PID" "$NABIZ"
 }
 
 # Hepsi tek komut: git reset bu dosyayı çalışırken değiştirse bile bash dosyanın devamını okumaz.
