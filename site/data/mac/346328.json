@@ -43,7 +43,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "5:51",
+    "sure": "6:09",
     "sayi": 5,
     "iki": [
      1,
@@ -66,14 +66,15 @@
     "tk": 1,
     "faul": 1,
     "pm": "-1",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "500079",
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "9:50",
+    "sure": "10:08",
     "sayi": 4,
     "iki": [
      2,
@@ -96,7 +97,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "-2",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "254789",
@@ -186,8 +188,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-4",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "500121",
@@ -224,7 +225,7 @@
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "1:59",
+    "sure": "2:17",
     "sayi": 0,
     "iki": [
      0,
@@ -255,7 +256,7 @@
     "ad": "Hakan Sayılı",
     "no": "8",
     "ilk5": false,
-    "sure": "3:10",
+    "sure": "3:28",
     "sayi": 0,
     "iki": [
      0,
@@ -276,7 +277,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-6",
     "vp": 1,
     "sahada": true
@@ -339,15 +340,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "-3",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "781757",
     "ad": "Yakuba Ouattara",
     "no": "24",
     "ilk5": false,
-    "sure": "4:09",
+    "sure": "4:27",
     "sayi": 2,
     "iki": [
      1,
@@ -375,7 +375,8 @@
    }
   ],
   "ceyrekler": [
-   17
+   17,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -429,8 +430,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "4",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "782996",
@@ -557,7 +557,7 @@
     "ad": "Berk Uğurlu",
     "no": "6",
     "ilk5": false,
-    "sure": "4:09",
+    "sure": "4:27",
     "sayi": 0,
     "iki": [
      0,
@@ -577,10 +577,10 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
+    "tk": 1,
+    "faul": 1,
     "pm": "4",
-    "vp": 1,
+    "vp": 0,
     "sahada": true
    },
    {
@@ -588,7 +588,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "3:45",
+    "sure": "4:03",
     "sayi": 2,
     "iki": [
      1,
@@ -649,7 +649,7 @@
     "ad": "Scottie Wilbekin",
     "no": "12",
     "ilk5": false,
-    "sure": "5:28",
+    "sure": "5:46",
     "sayi": 3,
     "iki": [
      0,
@@ -710,7 +710,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": false,
-    "sure": "3:45",
+    "sure": "4:03",
     "sayi": 3,
     "iki": [
      0,
@@ -741,7 +741,7 @@
     "ad": "Wenyen Gabriel",
     "no": "32",
     "ilk5": false,
-    "sure": "3:35",
+    "sure": "3:53",
     "sayi": 2,
     "iki": [
      1,
@@ -764,11 +764,13 @@
     "tk": 1,
     "faul": 0,
     "pm": "1",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    }
   ],
   "ceyrekler": [
-   22
+   22,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -785,7 +787,7 @@
    "benc": 10,
    "fark": 5,
    "seri": 8,
-   "lider": 180,
+   "lider": 198,
    "degisim": 7,
    "esitlik": 2
   }
@@ -796,12 +798,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "10:00",
+  "saat": "09:42",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 600,
+  "simdi": 618,
   "d": [
    [
     0,
