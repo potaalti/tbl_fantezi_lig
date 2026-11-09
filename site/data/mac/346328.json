@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KARŞIYAKA",
-  "skor": "81",
+  "skor": "83",
   "oyuncular": [
    {
     "id": "573226",
     "ad": "Briante Weber",
     "no": "2",
     "ilk5": true,
-    "sure": "29:15",
+    "sure": "29:43",
     "sayi": 12,
     "iki": [
      5,
@@ -44,7 +44,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "22:38",
+    "sure": "23:06",
     "sayi": 15,
     "iki": [
      3,
@@ -75,7 +75,7 @@
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "32:35",
+    "sure": "33:03",
     "sayi": 13,
     "iki": [
      5,
@@ -106,11 +106,11 @@
     "ad": "Yavuz Gültekin",
     "no": "19",
     "ilk5": true,
-    "sure": "19:06",
-    "sayi": 6,
+    "sure": "19:34",
+    "sayi": 8,
     "iki": [
-     2,
-     4
+     3,
+     5
     ],
     "uc": [
      0,
@@ -118,7 +118,7 @@
     ],
     "sa": [
      2,
-     3
+     4
     ],
     "hr": 1,
     "sr": 0,
@@ -129,7 +129,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "4",
-    "vp": 4,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -137,7 +137,7 @@
     "ad": "Steven Enoch",
     "no": "23",
     "ilk5": true,
-    "sure": "26:57",
+    "sure": "27:25",
     "sayi": 12,
     "iki": [
      5,
@@ -158,7 +158,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 3,
+    "faul": 4,
     "pm": "13",
     "vp": 14,
     "sahada": true
@@ -378,7 +378,7 @@
    17,
    23,
    12,
-   29
+   31
   ],
   "takim": {
    "hr": 3,
@@ -391,25 +391,25 @@
    "tks": 18,
    "hh": 9,
    "is": 9,
-   "ba": 38,
+   "ba": 40,
    "benc": 23,
    "fark": 4,
    "seri": 6,
-   "lider": 435,
+   "lider": 450,
    "degisim": 14,
-   "esitlik": 6
+   "esitlik": 7
   }
  },
  "dep": {
   "ad": "BEŞİKTAŞ",
-  "skor": "79",
+  "skor": "81",
   "oyuncular": [
    {
     "id": "735336",
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "25:15",
+    "sure": "25:43",
     "sayi": 12,
     "iki": [
      4,
@@ -440,7 +440,7 @@
     "ad": "Lonnie Walker Iv",
     "no": "4",
     "ilk5": true,
-    "sure": "24:37",
+    "sure": "25:05",
     "sayi": 17,
     "iki": [
      2,
@@ -461,7 +461,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 3,
-    "faul": 3,
+    "faul": 4,
     "pm": "-12",
     "vp": 9,
     "sahada": true
@@ -471,7 +471,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": true,
-    "sure": "19:23",
+    "sure": "19:51",
     "sayi": 3,
     "iki": [
      0,
@@ -502,7 +502,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": true,
-    "sure": "20:04",
+    "sure": "20:32",
     "sayi": 6,
     "iki": [
      0,
@@ -517,15 +517,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "0",
-    "vp": 5,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -743,8 +743,8 @@
     "ad": "Wenyen Gabriel",
     "no": "32",
     "ilk5": false,
-    "sure": "21:49",
-    "sayi": 6,
+    "sure": "22:17",
+    "sayi": 8,
     "iki": [
      3,
      4
@@ -754,8 +754,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 2,
     "sr": 2,
@@ -766,7 +766,7 @@
     "tk": 5,
     "faul": 3,
     "pm": "-1",
-    "vp": 7,
+    "vp": 9,
     "sahada": true
    }
   ],
@@ -774,7 +774,7 @@
    22,
    16,
    21,
-   20
+   22
   ],
   "takim": {
    "hr": 3,
@@ -788,26 +788,26 @@
    "hh": 17,
    "is": 12,
    "ba": 38,
-   "benc": 33,
+   "benc": 35,
    "fark": 10,
    "seri": 8,
    "lider": 1653,
    "degisim": 14,
-   "esitlik": 6
+   "esitlik": 7
   }
  },
- "evSkor": "81",
- "depSkor": "79",
+ "evSkor": "83",
+ "depSkor": "81",
  "salon": "Mustafa Kemal Atatürk Karşıyaka Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "00:48",
+  "saat": "00:21",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2352,
+  "simdi": 2364,
   "d": [
    [
     0,
@@ -1127,6 +1127,18 @@
    ],
    [
     2344,
+    2
+   ],
+   [
+    2352,
+    1
+   ],
+   [
+    2352,
+    0
+   ],
+   [
+    2364,
     2
    ]
   ]
