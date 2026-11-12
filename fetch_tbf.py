@@ -158,6 +158,7 @@ def fiba_istatistik(d, takimlar, rehber):
             "offensiveRebounds": tm.get("tot_sReboundsTeamOffensive", 0), "defensiveRebounds": tm.get("tot_sReboundsTeamDefensive", 0),
             "totalRebounds": tm.get("tot_sReboundsTeam", 0), "turnovers": tm.get("tot_sTurnoversTeam", 0), "fouls": tm.get("tot_sFoulsTeam", 0)}
         stat[f"{taraf}Ileri"] = fiba_ileri(tm)
+        stat[f"{taraf}Koc"] = tm.get("coach") or None  # başantrenör (Pota Altı App kutu skorda takım adının yanında)
         ozet[f"{taraf}TeamScore"] = [{"score": tm[k], "quarter": int(k[1:-6])}
                                      for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
     stat["farkAkisi"] = fiba_fark(d)
@@ -252,6 +253,8 @@ def kutu_skor(mac, stat, ozet):
                 ("hr", "offensiveRebounds"), ("sr", "defensiveRebounds"), ("rib", "totalRebounds"), ("tk", "turnovers"), ("faul", "fouls"))}
         if stat.get(f"{on}Ileri"):
             takimlar[taraf]["ileri"] = stat[f"{on}Ileri"]
+        if stat.get(f"{on}Koc"):
+            takimlar[taraf]["koc"] = stat[f"{on}Koc"]
     # Canlıda skor farkı grafiği (Pota Altı App maç sayfası)
     return {**mac, **takimlar, **({"fark": stat["farkAkisi"]} if stat.get("farkAkisi") else {})}
 
