@@ -42,6 +42,8 @@ jobs:
   yayinla:
     needs: kadrolar
     runs-on: ubuntu-latest
+    # Pages yayını bazen takılıyor (2026-11-13 maç sırasında 10+ dk); takılan yayın arkadaki canlı skorları bekletmesin
+    timeout-minutes: 5
     permissions:
       pages: write
       id-token: write
@@ -61,3 +63,5 @@ jobs:
 
       - id: yayin
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 180000
