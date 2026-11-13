@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "59",
+  "skor": "63",
   "oyuncular": [
    {
     "id": "223836",
@@ -163,7 +163,7 @@
     "ad": "Meriç Kuntker",
     "no": "0",
     "ilk5": false,
-    "sure": "15:03",
+    "sure": "16:03",
     "sayi": 8,
     "iki": [
      1,
@@ -180,13 +180,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "2",
-    "vp": 4,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -194,19 +194,19 @@
     "ad": "Yücel Çağın Başaran",
     "no": "5",
     "ilk5": false,
-    "sure": "13:24",
-    "sayi": 8,
+    "sure": "14:24",
+    "sayi": 10,
     "iki": [
      1,
-     4
+     5
     ],
     "uc": [
      2,
      2
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -215,9 +215,9 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "2",
-    "vp": 8,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -255,7 +255,7 @@
     "ad": "Can Kaan Turgut",
     "no": "13",
     "ilk5": false,
-    "sure": "8:09",
+    "sure": "9:09",
     "sayi": 4,
     "iki": [
      2,
@@ -270,15 +270,15 @@
      0
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "6",
-    "vp": 5,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -286,7 +286,7 @@
     "ad": "Ünal Çardak",
     "no": "17",
     "ilk5": false,
-    "sure": "8:27",
+    "sure": "9:27",
     "sayi": 0,
     "iki": [
      0,
@@ -347,11 +347,11 @@
     "ad": "Aybars Varlı",
     "no": "22",
     "ilk5": false,
-    "sure": "8:03",
-    "sayi": 6,
+    "sure": "9:03",
+    "sayi": 8,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      2,
@@ -370,14 +370,14 @@
     "tk": 0,
     "faul": 1,
     "pm": "-2",
-    "vp": 7,
+    "vp": 9,
     "sahada": true
    }
   ],
   "ceyrekler": [
    21,
    23,
-   15
+   19
   ],
   "takim": {
    "hr": 0,
@@ -387,11 +387,11 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 10,
-   "hh": 7,
+   "tks": 12,
+   "hh": 9,
    "is": 10,
-   "ba": 22,
-   "benc": 26,
+   "ba": 24,
+   "benc": 30,
    "fark": 6,
    "seri": 9,
    "lider": 396,
@@ -402,7 +402,7 @@
  },
  "dep": {
   "ad": "GAZİANTEP BASKETBOL",
-  "skor": "71",
+  "skor": "75",
   "oyuncular": [
    {
     "id": "379651",
@@ -490,17 +490,16 @@
     "tc": 2,
     "blk": 0,
     "tk": 0,
-    "faul": 3,
-    "pm": "11",
-    "vp": 11,
-    "sahada": true
+    "faul": 4,
+    "pm": "9",
+    "vp": 11
    },
    {
     "id": "500064",
     "ad": "Jarmar Gulley",
     "no": "15",
     "ilk5": true,
-    "sure": "15:02",
+    "sure": "16:02",
     "sayi": 14,
     "iki": [
      3,
@@ -508,7 +507,7 @@
     ],
     "uc": [
      2,
-     2
+     3
     ],
     "sa": [
      2,
@@ -523,7 +522,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "9",
-    "vp": 17,
+    "vp": 16,
     "sahada": true
    },
    {
@@ -561,7 +560,7 @@
     "ad": "Erdem İlter",
     "no": "5",
     "ilk5": false,
-    "sure": "6:14",
+    "sure": "7:14",
     "sayi": 0,
     "iki": [
      0,
@@ -652,30 +651,30 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": false,
-    "sure": "15:50",
-    "sayi": 8,
+    "sure": "16:50",
+    "sayi": 12,
     "iki": [
-     2,
-     3
+     3,
+     4
     ],
     "uc": [
      1,
      2
     ],
     "sa": [
-     1,
-     2
+     3,
+     4
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 3,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 10,
+    "vp": 15,
     "sahada": true
    },
    {
@@ -683,7 +682,7 @@
     "ad": "Mehmet Fırat Alemdaroğlu",
     "no": "23",
     "ilk5": false,
-    "sure": "9:19",
+    "sure": "10:19",
     "sayi": 4,
     "iki": [
      2,
@@ -705,8 +704,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
-    "vp": 7
+    "pm": "3",
+    "vp": 7,
+    "sahada": true
    },
    {
     "id": "210255",
@@ -743,7 +743,7 @@
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": false,
-    "sure": "17:00",
+    "sure": "18:00",
     "sayi": 10,
     "iki": [
      2,
@@ -773,7 +773,7 @@
   "ceyrekler": [
    23,
    23,
-   25
+   29
   ],
   "takim": {
    "hr": 3,
@@ -786,27 +786,27 @@
    "tks": 13,
    "hh": 10,
    "is": 15,
-   "ba": 36,
-   "benc": 22,
+   "ba": 38,
+   "benc": 26,
    "fark": 14,
    "seri": 7,
-   "lider": 1152,
+   "lider": 1212,
    "degisim": 6,
    "esitlik": 5
   }
  },
- "evSkor": "59",
- "depSkor": "71",
+ "evSkor": "63",
+ "depSkor": "75",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "01:20",
+  "saat": "00:00",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1720,
+  "simdi": 1800,
   "d": [
    [
     0,
@@ -1102,6 +1102,30 @@
    ],
    [
     1701,
+    -12
+   ],
+   [
+    1740,
+    -11
+   ],
+   [
+    1740,
+    -10
+   ],
+   [
+    1776,
+    -11
+   ],
+   [
+    1776,
+    -12
+   ],
+   [
+    1788,
+    -10
+   ],
+   [
+    1800,
     -12
    ]
   ]
