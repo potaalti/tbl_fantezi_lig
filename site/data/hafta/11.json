@@ -6,13 +6,18 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-13T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "GAZİANTEP BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:34",
+    "uzatma": false
+   }
   },
   {
    "id": 345999,
@@ -106,5 +111,222 @@
    "yayin": "HT SPOR"
   }
  ],
- "oyuncular": {}
+ "oyuncular": {
+  "223836": {
+   "ad": "Eray Akyüz",
+   "takim": "iLab BASKETBOL",
+   "vp": -2,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "285246": {
+   "ad": "Batuhan Acar",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "288806": {
+   "ad": "Koralp Türk",
+   "takim": "iLab BASKETBOL",
+   "vp": 1,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "776565": {
+   "ad": "Jeremiah Lamonure Tilmon Jr",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "386617": {
+   "ad": "Stefan Tyler Moody",
+   "takim": "iLab BASKETBOL",
+   "vp": 1,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "287585": {
+   "ad": "Meriç Kuntker",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "419692": {
+   "ad": "Yücel Çağın Başaran",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "454037": {
+   "ad": "Emir Boran Deldağ",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "231062": {
+   "ad": "Can Kaan Turgut",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "433761": {
+   "ad": "Ünal Çardak",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "446970": {
+   "ad": "Alperen Duruksu",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "393623": {
+   "ad": "Aybars Varlı",
+   "takim": "iLab BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "379651": {
+   "ad": "Sarp Coşkun",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": -3,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "153295": {
+   "ad": "Ömer Utku Al",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 1,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "51504": {
+   "ad": "Samet Geyik",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "500064": {
+   "ad": "Jarmar Gulley",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 1,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "108865": {
+   "ad": "Mert Celep",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": -1,
+   "saniye": 85,
+   "maclar": [
+    345996
+   ]
+  },
+  "25674": {
+   "ad": "Erdem İlter",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "58437": {
+   "ad": "Utku Yücedağ",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "222469": {
+   "ad": "Yiğitcan Turna",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "736200": {
+   "ad": "Scoochie Smith",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "132328": {
+   "ad": "Mehmet Fırat Alemdaroğlu",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "210255": {
+   "ad": "Emre Tanışan",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  },
+  "fiba-alp-karahan": {
+   "ad": "Alp Karahan",
+   "takim": "GAZİANTEP BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345996
+   ]
+  }
+ }
 }
