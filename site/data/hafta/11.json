@@ -6,31 +6,13 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-13T18:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "iLab BASKETBOL",
    "dep": "GAZİANTEP BASKETBOL",
    "evSkor": "76",
    "depSkor": "85",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
-  },
-  {
-   "id": 345999,
-   "lig": "tbl",
-   "hafta": 11,
-   "tarih": "2026-11-14T16:00:00",
-   "durum": "oynanmadi",
-   "ev": "OGM ORMANSPOR",
-   "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": null,
-   "depSkor": null,
-   "salon": "M. Sait Zarifoğlu Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345992,
@@ -44,6 +26,19 @@
    "depSkor": null,
    "salon": "Altındağ Atatürk Spor Kompleksi",
    "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345999,
+   "lig": "tbl",
+   "hafta": 11,
+   "tarih": "2026-11-14T16:00:00",
+   "durum": "oynanmadi",
+   "ev": "OGM ORMANSPOR",
+   "dep": "TED ANKARA KOLEJLİLER",
+   "evSkor": null,
+   "depSkor": null,
+   "salon": "M. Sait Zarifoğlu Spor Salonu",
+   "yayin": "HT SPOR"
   },
   {
    "id": 345994,
@@ -319,7 +314,7 @@
     345996
    ]
   },
-  "fiba-alp-karahan": {
+  "123649": {
    "ad": "Alp Karahan",
    "takim": "GAZİANTEP BASKETBOL",
    "vp": 12,
