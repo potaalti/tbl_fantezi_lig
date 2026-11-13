@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "iLab BASKETBOL",
-  "skor": "44",
+  "skor": "47",
   "oyuncular": [
    {
     "id": "223836",
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "11:38",
-    "sayi": 4,
+    "sure": "13:22",
+    "sayi": 5,
     "iki": [
      0,
      1
@@ -24,19 +24,19 @@
      1
     ],
     "sa": [
-     4,
-     4
+     5,
+     5
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "-9",
-    "vp": 0,
+    "pm": "-8",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -44,7 +44,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "12:11",
+    "sure": "13:55",
     "sayi": 3,
     "iki": [
      1,
@@ -62,12 +62,12 @@
     "sr": 0,
     "rib": 1,
     "ast": 0,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
-    "pm": "-8",
-    "vp": 1,
+    "faul": 2,
+    "pm": "-7",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -75,7 +75,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": true,
-    "sure": "16:15",
+    "sure": "17:59",
     "sayi": 9,
     "iki": [
      1,
@@ -97,19 +97,20 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "4",
-    "vp": 11
+    "pm": "5",
+    "vp": 11,
+    "sahada": true
    },
    {
     "id": "776565",
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "12:41",
-    "sayi": 4,
+    "sure": "14:25",
+    "sayi": 6,
     "iki": [
-     2,
-     2
+     3,
+     3
     ],
     "uc": [
      0,
@@ -120,26 +121,27 @@
      0
     ],
     "hr": 1,
-    "sr": 2,
-    "rib": 3,
+    "sr": 3,
+    "rib": 4,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-5",
-    "vp": 7
+    "pm": "-4",
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "386617",
     "ad": "Stefan Tyler Moody",
     "no": "42",
     "ilk5": true,
-    "sure": "8:28",
+    "sure": "10:12",
     "sayi": 4,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      0,
@@ -154,10 +156,10 @@
     "rib": 2,
     "ast": 4,
     "tc": 1,
-    "blk": 0,
+    "blk": 1,
     "tk": 1,
     "faul": 2,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 9,
     "sahada": true
    },
@@ -309,8 +311,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "0",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "446970",
@@ -370,13 +371,13 @@
     "tk": 0,
     "faul": 1,
     "pm": "-3",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    }
   ],
   "ceyrekler": [
    21,
-   23
+   23,
+   3
   ],
   "takim": {
    "hr": 0,
@@ -386,33 +387,33 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 8,
-   "hh": 3,
+   "tks": 10,
+   "hh": 5,
    "is": 10,
-   "ba": 14,
+   "ba": 16,
    "benc": 20,
    "fark": 6,
    "seri": 9,
-   "lider": 364,
-   "degisim": 4,
+   "lider": 396,
+   "degisim": 6,
    "esitlik": 4
   },
   "koc": "MURAT HÜSEYİN YILMAZ"
  },
  "dep": {
   "ad": "GAZİANTEP BASKETBOL",
-  "skor": "46",
+  "skor": "48",
   "oyuncular": [
    {
     "id": "379651",
     "ad": "Sarp Coşkun",
     "no": "0",
     "ilk5": true,
-    "sure": "6:18",
+    "sure": "8:02",
     "sayi": 7,
     "iki": [
      1,
-     2
+     3
     ],
     "uc": [
      1,
@@ -430,15 +431,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
-    "vp": 5
+    "pm": "2",
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "153295",
     "ad": "Ömer Utku Al",
     "no": "3",
     "ilk5": true,
-    "sure": "14:06",
+    "sure": "15:50",
     "sayi": 3,
     "iki": [
      0,
@@ -453,15 +455,15 @@
      0
     ],
     "hr": 1,
-    "sr": 3,
-    "rib": 4,
+    "sr": 4,
+    "rib": 5,
     "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "8",
-    "vp": 9,
+    "pm": "7",
+    "vp": 10,
     "sahada": true
    },
    {
@@ -490,10 +492,9 @@
     "tc": 2,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "pm": "7",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "500064",
@@ -523,15 +524,14 @@
     "tk": 1,
     "faul": 2,
     "pm": "9",
-    "vp": 16,
-    "sahada": true
+    "vp": 16
    },
    {
     "id": "108865",
     "ad": "Mert Celep",
     "no": "35",
     "ilk5": true,
-    "sure": "15:33",
+    "sure": "17:17",
     "sayi": 7,
     "iki": [
      3,
@@ -550,10 +550,10 @@
     "rib": 2,
     "ast": 1,
     "tc": 1,
-    "blk": 1,
-    "tk": 4,
+    "blk": 2,
+    "tk": 5,
     "faul": 2,
-    "pm": "12",
+    "pm": "11",
     "vp": 5,
     "sahada": true
    },
@@ -652,11 +652,11 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": false,
-    "sure": "6:50",
-    "sayi": 3,
+    "sure": "8:34",
+    "sayi": 5,
     "iki": [
-     1,
-     2
+     2,
+     3
     ],
     "uc": [
      0,
@@ -674,15 +674,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
-    "vp": 2
+    "pm": "-10",
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "132328",
     "ad": "Mehmet Fırat Alemdaroğlu",
     "no": "23",
     "ilk5": false,
-    "sure": "4:49",
+    "sure": "6:33",
     "sayi": 2,
     "iki": [
      1,
@@ -704,8 +705,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
-    "vp": 5
+    "pm": "-6",
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "210255",
@@ -765,13 +767,13 @@
     "tk": 1,
     "faul": 1,
     "pm": "-1",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    }
   ],
   "ceyrekler": [
    23,
-   23
+   23,
+   2
   ],
   "takim": {
    "hr": 3,
@@ -784,27 +786,27 @@
    "tks": 11,
    "hh": 5,
    "is": 15,
-   "ba": 22,
-   "benc": 13,
+   "ba": 24,
+   "benc": 15,
    "fark": 6,
    "seri": 7,
-   "lider": 664,
-   "degisim": 4,
+   "lider": 736,
+   "degisim": 6,
    "esitlik": 4
   }
  },
- "evSkor": "44",
- "depSkor": "46",
+ "evSkor": "47",
+ "depSkor": "48",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 2,
-  "saat": "00:00",
+  "periyot": 3,
+  "saat": "08:39",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1200,
+  "simdi": 1280,
   "d": [
    [
     0,
@@ -1017,6 +1019,18 @@
    [
     1180,
     -2
+   ],
+   [
+    1200,
+    -1
+   ],
+   [
+    1248,
+    1
+   ],
+   [
+    1280,
+    -1
    ]
   ]
  }
