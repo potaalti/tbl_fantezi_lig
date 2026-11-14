@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "OGM ORMANSPOR",
-  "skor": "27",
+  "skor": "28",
   "oyuncular": [
    {
     "id": "109594",
     "ad": "Göktürk Gökalp Ural",
     "no": "4",
     "ilk5": true,
-    "sure": "8:04",
+    "sure": "8:23",
     "sayi": 2,
     "iki": [
      1,
@@ -35,15 +35,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 4
+    "pm": "3",
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "473677",
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "14:44",
+    "sure": "15:03",
     "sayi": 8,
     "iki": [
      1,
@@ -60,13 +61,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "0",
-    "vp": 9,
+    "pm": "1",
+    "vp": 10,
     "sahada": true
    },
    {
@@ -74,7 +75,7 @@
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "8:17",
+    "sure": "8:36",
     "sayi": 2,
     "iki": [
      0,
@@ -95,18 +96,17 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "3",
-    "vp": 2,
-    "sahada": true
+    "faul": 2,
+    "pm": "4",
+    "vp": 2
    },
    {
     "id": "60048",
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "6:41",
-    "sayi": 2,
+    "sure": "7:00",
+    "sayi": 3,
     "iki": [
      1,
      1
@@ -116,8 +116,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -127,7 +127,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "1",
+    "pm": "2",
     "vp": 3,
     "sahada": true
    },
@@ -136,7 +136,7 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "13:12",
+    "sure": "13:31",
     "sayi": 9,
     "iki": [
      3,
@@ -158,7 +158,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "2",
     "vp": 8,
     "sahada": true
    },
@@ -220,8 +220,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "0",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "354791",
@@ -341,7 +340,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "-2",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "352299",
@@ -376,7 +376,7 @@
   ],
   "ceyrekler": [
    23,
-   4
+   5
   ],
   "takim": {
    "hr": 0,
@@ -395,7 +395,7 @@
    "seri": 8,
    "lider": 719,
    "degisim": 6,
-   "esitlik": 4
+   "esitlik": 5
   },
   "koc": "Ceyhun Cabadak"
  },
@@ -431,15 +431,14 @@
     "tk": 0,
     "faul": 2,
     "pm": "6",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "271655",
     "ad": "Ekrem Sancaklı",
     "no": "8",
     "ilk5": true,
-    "sure": "12:28",
+    "sure": "12:47",
     "sayi": 0,
     "iki": [
      0,
@@ -451,7 +450,7 @@
     ],
     "sa": [
      0,
-     0
+     1
     ],
     "hr": 0,
     "sr": 0,
@@ -461,8 +460,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": -4,
+    "pm": "0",
+    "vp": -5,
     "sahada": true
    },
    {
@@ -470,7 +469,7 @@
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "14:30",
+    "sure": "14:49",
     "sayi": 2,
     "iki": [
      1,
@@ -492,7 +491,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 5,
     "sahada": true
    },
@@ -531,7 +530,7 @@
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": true,
-    "sure": "9:56",
+    "sure": "10:15",
     "sayi": 2,
     "iki": [
      0,
@@ -553,7 +552,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "1",
+    "pm": "0",
     "vp": 2,
     "sahada": true
    },
@@ -652,7 +651,7 @@
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "2:43",
+    "sure": "3:02",
     "sayi": 4,
     "iki": [
      2,
@@ -667,15 +666,16 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": 4
+    "pm": "-3",
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "248386",
@@ -712,7 +712,7 @@
     "ad": "Ricky Tarrant",
     "no": "22",
     "ilk5": false,
-    "sure": "10:23",
+    "sure": "10:42",
     "sayi": 4,
     "iki": [
      0,
@@ -734,7 +734,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "3",
     "vp": 3,
     "sahada": true
    },
@@ -790,22 +790,22 @@
    "seri": 5,
    "lider": 107,
    "degisim": 6,
-   "esitlik": 4
+   "esitlik": 5
   },
   "koc": "Hasan Karabulut"
  },
- "evSkor": "27",
+ "evSkor": "28",
  "depSkor": "28",
  "salon": "M. Sait Zarifoğlu Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:30",
+  "saat": "03:11",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 990,
+  "simdi": 1009,
   "d": [
    [
     0,
@@ -922,6 +922,10 @@
    [
     973,
     -1
+   ],
+   [
+    990,
+    0
    ]
   ]
  }
