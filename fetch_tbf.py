@@ -105,6 +105,19 @@ FIBA_URL = "https://fibalivestats.dcd.shared.geniussports.com/data/{}/data.json"
 TR_HARF = str.maketrans({"ç": "c", "ğ": "g", "ı": "i", "ö": "o", "ş": "s", "ü": "u", "â": "a", "î": "i", "û": "u"})
 
 
+# Elle transferler: TBF kadrosunda henüz eski takımında görünen oyuncunun yeni takımı ve hangi TBL haftasından geçerli
+# olduğu (TBF kadroyu güncelleyince de zararsız). Fantezi ligde oyuncunun takımı ve maçı buna göre görünür.
+TRANSFERLER = {
+    "623478": {"takim": "KEÇİÖREN BELEDİYESİ BAĞLUM", "hafta": 11},  # Jamari Traylor: Göztepe -> Keçiören (fantezi 5. hafta)
+}
+
+
+def transferleri_uygula(rehber, guncel):
+    for pid, t in TRANSFERLER.items():
+        if guncel >= t["hafta"] and pid in rehber:
+            rehber[pid]["takim"] = t["takim"]
+
+
 def ad_anahtari(ad):
     """'Ali Işık (K)' ve 'ALI ISIK' aynı anahtara iner."""
     s = (ad or "").replace("İ", "i").replace("I", "ı").lower().translate(TR_HARF)
@@ -129,15 +142,21 @@ def fiba_sure(sure):
 
 def fiba_istatistik(d, takimlar, rehber):
     """FIBA verisini TBF mac-istatistik / mac-ozet biçimine çevirir. Oyuncular TBF kimliğiyle
-    ad + takım üzerinden eşleştirilir (iki kaynak da TBF'nin oyuncu kayıtlarını kullanıyor)."""
+    ad + takım üzerinden eşleştirilir (iki kaynak da TBF'nin oyuncu kayıtlarını kullanıyor). Takımla bulunamazsa
+    (transfer olmuş, TBF kadrosu henüz eski takımında) ligde o adda tek oyuncu varsa yalnız adla eşleşir."""
     kimlik = {(ad_anahtari(v.get("ad")), v.get("takim")): pid for pid, v in rehber.items()}
+    adlar = {}
+    for pid, v in rehber.items():
+        adlar.setdefault(ad_anahtari(v.get("ad")), []).append(pid)
     stat, ozet = {}, {}
     for tno, taraf, kisa in (("1", "home", "ev"), ("2", "away", "dep")):
         tm = d["tm"][tno]
         ilk5, yedek = [], []
         for p in (tm.get("pl") or {}).values():
             ad = f"{p.get('firstName', '')} {p.get('familyName', '')}".strip()
-            pid = kimlik.get((ad_anahtari(ad), takimlar[kisa])) or "fiba-" + ad_anahtari(ad).replace(" ", "-")
+            ayni_ad = adlar.get(ad_anahtari(ad), [])
+            pid = (kimlik.get((ad_anahtari(ad), takimlar[kisa])) or (ayni_ad[0] if len(ayni_ad) == 1 else None)
+                   or "fiba-" + ad_anahtari(ad).replace(" ", "-"))
             kayit = {
                 "playerId": pid, "playerName": ad, "jerseyNumber": p.get("shirtNumber"),
                 "isStarter": bool(p.get("starter")), "minutesPlayed": fiba_sure(p.get("sMinutes")),
@@ -516,6 +535,7 @@ def main():
         return
 
     rehber = json.loads(rehber_yol.read_text(encoding="utf-8")) if rehber_yol.exists() else {}
+    transferleri_uygula(rehber, guncel)
     gecmis = {}  # oyuncu id -> sezon boyunca maç maç istatistikleri
     artieksi = {}  # hafta -> oyuncu id -> +/- (yönetici modundaki sıralama için)
     # Oyuncu geçmişi için 1. haftadan itibaren tüm maçlar işlenir; biten haftalar ve maçlar
@@ -614,6 +634,7 @@ def main():
                     "sureOrt": o.get("sure") or "00:00",
                 }
 
+    transferleri_uygula(rehber, guncel)  # kadro yenilemesi TBF'deki eski takımı yazmış olabilir
     json_yaz(rehber_yol, dict(sorted(rehber.items(), key=lambda kv: kv[1]["ad"])))
     json_yaz(index_yol, {
         "haftalar": list(range(baslangic, guncel + 1)), "guncelHafta": guncel,
