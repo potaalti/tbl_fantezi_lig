@@ -13,7 +13,7 @@
     "ad": "Khyri Thomas",
     "no": "0",
     "ilk5": true,
-    "sure": "18:34",
+    "sure": "18:36",
     "sayi": 10,
     "iki": [
      2,
@@ -44,7 +44,7 @@
     "ad": "Keandre Cook",
     "no": "1",
     "ilk5": true,
-    "sure": "17:34",
+    "sure": "17:36",
     "sayi": 5,
     "iki": [
      1,
@@ -67,15 +67,14 @@
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "310250",
     "ad": "Yiğit Onan",
     "no": "7",
     "ilk5": true,
-    "sure": "21:18",
+    "sure": "21:20",
     "sayi": 17,
     "iki": [
      3,
@@ -106,7 +105,7 @@
     "ad": "Anzejs Pasecniks",
     "no": "18",
     "ilk5": true,
-    "sure": "13:59",
+    "sure": "14:01",
     "sayi": 9,
     "iki": [
      4,
@@ -129,15 +128,14 @@
     "tk": 1,
     "faul": 3,
     "pm": "9",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "572386",
     "ad": "Olivier Hanlan",
     "no": "21",
     "ilk5": true,
-    "sure": "21:44",
+    "sure": "21:46",
     "sayi": 3,
     "iki": [
      1,
@@ -160,8 +158,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "7",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "778279",
@@ -191,7 +188,8 @@
     "tk": 1,
     "faul": 2,
     "pm": "-2",
-    "vp": 3
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "778246",
@@ -221,7 +219,8 @@
     "tk": 0,
     "faul": 0,
     "pm": "-2",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "269217",
@@ -311,7 +310,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "-4",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "475706",
@@ -394,7 +394,7 @@
    "benc": 8,
    "fark": 9,
    "seri": 8,
-   "lider": 1432,
+   "lider": 1434,
    "degisim": 2,
    "esitlik": 4
   },
@@ -439,7 +439,7 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "15:17",
+    "sure": "15:19",
     "sayi": 2,
     "iki": [
      0,
@@ -470,7 +470,7 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "21:34",
+    "sure": "21:36",
     "sayi": 11,
     "iki": [
      3,
@@ -501,7 +501,7 @@
     "ad": "Ismael Bako",
     "no": "28",
     "ilk5": true,
-    "sure": "15:53",
+    "sure": "15:55",
     "sayi": 6,
     "iki": [
      3,
@@ -524,8 +524,7 @@
     "tk": 1,
     "faul": 1,
     "pm": "-4",
-    "vp": 14,
-    "sahada": true
+    "vp": 14
    },
    {
     "id": "277894",
@@ -615,7 +614,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "3",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "112715",
@@ -682,7 +682,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "13:48",
+    "sure": "13:50",
     "sayi": 15,
     "iki": [
      7,
@@ -743,7 +743,7 @@
     "ad": "Shaquille Mckissic",
     "no": "77",
     "ilk5": false,
-    "sure": "13:40",
+    "sure": "13:42",
     "sayi": 4,
     "iki": [
      2,
@@ -764,7 +764,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
+    "faul": 1,
     "pm": "3",
     "vp": -3,
     "sahada": true
@@ -802,12 +802,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:42",
+  "saat": "04:40",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1518,
+  "simdi": 1520,
   "d": [
    [
     0,
