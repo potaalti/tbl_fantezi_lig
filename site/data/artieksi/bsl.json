@@ -10513,7 +10513,7 @@
     "id": "386159",
     "ad": "Shaquille Mckissic",
     "takim": "TÜRK TELEKOM",
-    "pm": 11,
+    "pm": 9,
     "fark": -4,
     "mac": 1,
     "ulke": "ABD"
@@ -10531,7 +10531,7 @@
     "id": "572386",
     "ad": "Olivier Hanlan",
     "takim": "ALİAĞA PETKİM SPOR",
-    "pm": 7,
+    "pm": 9,
     "fark": 4,
     "mac": 1,
     "ulke": "KANADA"
@@ -10540,7 +10540,7 @@
     "id": "310250",
     "ad": "Yiğit Onan",
     "takim": "ALİAĞA PETKİM SPOR",
-    "pm": 7,
+    "pm": 9,
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -10551,6 +10551,15 @@
     "takim": "TÜRK TELEKOM",
     "pm": 4,
     "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "516236",
+    "ad": "Khyri Thomas",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": 4,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -10573,15 +10582,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "516236",
-    "ad": "Khyri Thomas",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": 2,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "418533",
     "ad": "Uros Trifunovic",
     "takim": "TÜRK TELEKOM",
@@ -10591,10 +10591,19 @@
     "ulke": "SIRBİSTAN"
    },
    {
+    "id": "778246",
+    "ad": "Max Abmas",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": -1,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "fiba-ata-vatansever",
     "ad": "Ata Vatansever",
     "takim": "TÜRK TELEKOM",
-    "pm": 0,
+    "pm": -2,
     "fark": -4,
     "mac": 1,
     "ulke": ""
@@ -10609,17 +10618,8 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "778727",
-    "ad": "Ismael Bako",
-    "takim": "TÜRK TELEKOM",
-    "pm": -2,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "BELÇİKA"
-   },
-   {
-    "id": "778246",
-    "ad": "Max Abmas",
+    "id": "778279",
+    "ad": "Chris Horton",
     "takim": "ALİAĞA PETKİM SPOR",
     "pm": -3,
     "fark": 4,
@@ -10636,6 +10636,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "778727",
+    "ad": "Ismael Bako",
+    "takim": "TÜRK TELEKOM",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "BELÇİKA"
+   },
+   {
     "id": "129216",
     "ad": "Doğuş Özdemiroğlu",
     "takim": "TÜRK TELEKOM",
@@ -10643,24 +10652,6 @@
     "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "410568",
-    "ad": "Tony Taylor",
-    "takim": "TÜRK TELEKOM",
-    "pm": -5,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "778279",
-    "ad": "Chris Horton",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": -5,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "277894",
@@ -10672,10 +10663,19 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "410568",
+    "ad": "Tony Taylor",
+    "takim": "TÜRK TELEKOM",
+    "pm": -7,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "778728",
     "ad": "Jerrick Harding",
     "takim": "TÜRK TELEKOM",
-    "pm": -6,
+    "pm": -8,
     "fark": -4,
     "mac": 1,
     "ulke": "ABD"
@@ -10696,7 +10696,7 @@
    "id": "386159",
    "ad": "Shaquille Mckissic",
    "takim": "TÜRK TELEKOM",
-   "pm": 71,
+   "pm": 69,
    "fark": 73,
    "mac": 6,
    "ulke": "ABD"
@@ -10828,6 +10828,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "310250",
+   "ad": "Yiğit Onan",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": 42,
+   "fark": 5,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "777705",
    "ad": "Shavon Shields",
    "takim": "FENERBAHÇE TARFİN",
@@ -10852,15 +10861,6 @@
    "pm": 41,
    "fark": 58,
    "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "310250",
-   "ad": "Yiğit Onan",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": 40,
-   "fark": 5,
-   "mac": 8,
    "ulke": "TÜRKİYE"
   },
   {
@@ -10963,6 +10963,24 @@
    "ulke": "ABD"
   },
   {
+   "id": "778279",
+   "ad": "Chris Horton",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": 27,
+   "fark": 5,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
+   "id": "516236",
+   "ad": "Khyri Thomas",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": 27,
+   "fark": 5,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
    "id": "736126",
    "ad": "Jordan Loyd",
    "takim": "ANADOLU EFES",
@@ -10979,24 +10997,6 @@
    "fark": -2,
    "mac": 7,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "778279",
-   "ad": "Chris Horton",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": 25,
-   "fark": 5,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "516236",
-   "ad": "Khyri Thomas",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": 25,
-   "fark": 5,
-   "mac": 8,
-   "ulke": "ABD"
   },
   {
    "id": "777675",
@@ -11089,15 +11089,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "778727",
-   "ad": "Ismael Bako",
-   "takim": "TÜRK TELEKOM",
-   "pm": 21,
-   "fark": 69,
-   "mac": 8,
-   "ulke": "BELÇİKA"
-  },
-  {
    "id": "384595",
    "ad": "Mateusz Ponitka",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -11114,6 +11105,15 @@
    "fark": 48,
    "mac": 5,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778727",
+   "ad": "Ismael Bako",
+   "takim": "TÜRK TELEKOM",
+   "pm": 19,
+   "fark": 69,
+   "mac": 8,
+   "ulke": "BELÇİKA"
   },
   {
    "id": "779277",
@@ -11233,15 +11233,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778728",
-   "ad": "Jerrick Harding",
-   "takim": "TÜRK TELEKOM",
-   "pm": 10,
-   "fark": 48,
-   "mac": 7,
-   "ulke": "ABD"
-  },
-  {
    "id": "120437",
    "ad": "Egehan Arna",
    "takim": "ESENLER EROKSPOR",
@@ -11311,6 +11302,15 @@
    "pm": 8,
    "fark": 14,
    "mac": 4,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778728",
+   "ad": "Jerrick Harding",
+   "takim": "TÜRK TELEKOM",
+   "pm": 8,
+   "fark": 48,
+   "mac": 7,
    "ulke": "ABD"
   },
   {
@@ -11431,15 +11431,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "410568",
-   "ad": "Tony Taylor",
-   "takim": "TÜRK TELEKOM",
-   "pm": 5,
-   "fark": 38,
-   "mac": 5,
-   "ulke": "ABD"
-  },
-  {
    "id": "249031",
    "ad": "Metehan Akyel",
    "takim": "ESENLER EROKSPOR",
@@ -11474,6 +11465,15 @@
    "fark": 21,
    "mac": 5,
    "ulke": ""
+  },
+  {
+   "id": "410568",
+   "ad": "Tony Taylor",
+   "takim": "TÜRK TELEKOM",
+   "pm": 3,
+   "fark": 38,
+   "mac": 5,
+   "ulke": "ABD"
   },
   {
    "id": "502472",
@@ -11548,15 +11548,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "fiba-ata-vatansever",
-   "ad": "Ata Vatansever",
-   "takim": "TÜRK TELEKOM",
-   "pm": 0,
-   "fark": -4,
-   "mac": 1,
-   "ulke": ""
-  },
-  {
    "id": "447092",
    "ad": "Mustafa Yiğit Açar",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -11620,6 +11611,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "572386",
+   "ad": "Olivier Hanlan",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": -1,
+   "fark": 5,
+   "mac": 8,
+   "ulke": "KANADA"
+  },
+  {
    "id": "400519",
    "ad": "Yalın Yıldız",
    "takim": "KARŞIYAKA",
@@ -11654,6 +11654,15 @@
    "fark": -13,
    "mac": 7,
    "ulke": "MALİ"
+  },
+  {
+   "id": "fiba-ata-vatansever",
+   "ad": "Ata Vatansever",
+   "takim": "TÜRK TELEKOM",
+   "pm": -2,
+   "fark": -4,
+   "mac": 1,
+   "ulke": ""
   },
   {
    "id": "463878",
@@ -11719,15 +11728,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "572386",
-   "ad": "Olivier Hanlan",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": -3,
-   "fark": 5,
-   "mac": 8,
-   "ulke": "KANADA"
-  },
-  {
    "id": "221447",
    "ad": "Can Korkmaz",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -11762,6 +11762,15 @@
    "fark": -4,
    "mac": 5,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778246",
+   "ad": "Max Abmas",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": -4,
+   "fark": 5,
+   "mac": 8,
+   "ulke": "ABD"
   },
   {
    "id": "444058",
@@ -11834,15 +11843,6 @@
    "fark": -16,
    "mac": 3,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "778246",
-   "ad": "Max Abmas",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": -6,
-   "fark": 5,
-   "mac": 8,
-   "ulke": "ABD"
   },
   {
    "id": "269217",
