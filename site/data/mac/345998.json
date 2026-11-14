@@ -13,7 +13,7 @@
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "20:56",
+    "sure": "21:41",
     "sayi": 6,
     "iki": [
      0,
@@ -100,7 +100,8 @@
     "faul": 3,
     "af": 5,
     "pm": "-3",
-    "vp": 26
+    "vp": 26,
+    "sahada": true
    },
    {
     "id": "72610",
@@ -138,7 +139,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "16:36",
+    "sure": "17:21",
     "sayi": 2,
     "iki": [
      1,
@@ -170,7 +171,7 @@
     "ad": "Tolga Kay",
     "no": "1",
     "ilk5": false,
-    "sure": "2:34",
+    "sure": "3:19",
     "sayi": 0,
     "iki": [
      0,
@@ -178,31 +179,30 @@
     ],
     "uc": [
      0,
-     1
+     2
     ],
     "sa": [
      0,
      0
     ],
     "hr": 1,
-    "sr": 1,
-    "rib": 2,
+    "sr": 2,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
+    "tk": 1,
+    "faul": 2,
     "af": 0,
     "pm": "-4",
-    "vp": 0,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "343659",
     "ad": "Erbey Kemal Paltacı",
     "no": "7",
     "ilk5": false,
-    "sure": "6:01",
+    "sure": "6:46",
     "sayi": 4,
     "iki": [
      0,
@@ -234,7 +234,7 @@
     "ad": "Mevlüt Melih Doğan",
     "no": "9",
     "ilk5": false,
-    "sure": "11:55",
+    "sure": "12:40",
     "sayi": 4,
     "iki": [
      2,
@@ -421,7 +421,7 @@
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "19:08",
+    "sure": "19:53",
     "sayi": 12,
     "iki": [
      3,
@@ -439,11 +439,11 @@
     "sr": 1,
     "rib": 2,
     "ast": 6,
-    "tc": 1,
+    "tc": 2,
     "blk": 0,
-    "tk": 3,
+    "tk": 4,
     "faul": 2,
-    "af": 5,
+    "af": 7,
     "pm": "9",
     "vp": 13,
     "sahada": true
@@ -453,7 +453,7 @@
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "23:44",
+    "sure": "24:29",
     "sayi": 14,
     "iki": [
      4,
@@ -485,11 +485,11 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "18:35",
+    "sure": "19:20",
     "sayi": 9,
     "iki": [
      4,
-     8
+     9
     ],
     "uc": [
      0,
@@ -500,8 +500,8 @@
      2
     ],
     "hr": 2,
-    "sr": 7,
-    "rib": 9,
+    "sr": 8,
+    "rib": 10,
     "ast": 3,
     "tc": 1,
     "blk": 0,
@@ -517,7 +517,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "21:21",
+    "sure": "22:06",
     "sayi": 7,
     "iki": [
      2,
@@ -580,7 +580,7 @@
     "ad": "Arda Çelik",
     "no": "1",
     "ilk5": false,
-    "sure": "9:17",
+    "sure": "10:02",
     "sayi": 0,
     "iki": [
      0,
@@ -783,7 +783,7 @@
    "benc": 11,
    "fark": 4,
    "seri": 15,
-   "lider": 128,
+   "lider": 173,
    "degisim": 4,
    "esitlik": 2
   },
@@ -795,12 +795,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "06:16",
+  "saat": "05:31",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1424,
+  "simdi": 1469,
   "d": [
    [
     0,
