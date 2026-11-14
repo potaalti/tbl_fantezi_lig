@@ -13,11 +13,11 @@
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": true,
-    "sure": "12:05",
+    "sure": "12:35",
     "sayi": 2,
     "iki": [
      1,
-     9
+     10
     ],
     "uc": [
      0,
@@ -36,15 +36,14 @@
     "tk": 0,
     "faul": 0,
     "pm": "-7",
-    "vp": 3,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "736069",
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "9:14",
+    "sure": "9:44",
     "sayi": 4,
     "iki": [
      2,
@@ -128,14 +127,15 @@
     "tk": 1,
     "faul": 0,
     "pm": "-5",
-    "vp": -2
+    "vp": -2,
+    "sahada": true
    },
    {
     "id": "778398",
     "ad": "Gabe Brown",
     "no": "44",
     "ilk5": true,
-    "sure": "7:57",
+    "sure": "8:27",
     "sayi": 5,
     "iki": [
      1,
@@ -219,7 +219,8 @@
     "tk": 1,
     "faul": 0,
     "pm": "-2",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "508900",
@@ -316,7 +317,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "6:48",
+    "sure": "7:18",
     "sayi": 0,
     "iki": [
      0,
@@ -347,7 +348,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "5:26",
+    "sure": "5:56",
     "sayi": 0,
     "iki": [
      0,
@@ -370,8 +371,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-1",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    }
   ],
   "ceyrekler": [
@@ -408,7 +408,7 @@
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": true,
-    "sure": "14:45",
+    "sure": "15:15",
     "sayi": 3,
     "iki": [
      1,
@@ -439,7 +439,7 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": true,
-    "sure": "14:00",
+    "sure": "14:30",
     "sayi": 13,
     "iki": [
      3,
@@ -493,18 +493,19 @@
     "tk": 1,
     "faul": 0,
     "pm": "3",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "512899",
     "ad": "Akwasi Yeboah",
     "no": "15",
     "ilk5": true,
-    "sure": "8:32",
+    "sure": "9:02",
     "sayi": 5,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      1,
@@ -514,13 +515,13 @@
      0,
      0
     ],
-    "hr": 1,
-    "sr": 2,
-    "rib": 3,
+    "hr": 2,
+    "sr": 3,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "9",
     "vp": 9,
@@ -554,14 +555,15 @@
     "tk": 0,
     "faul": 0,
     "pm": "3",
-    "vp": 5
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "105532",
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": false,
-    "sure": "11:02",
+    "sure": "11:32",
     "sayi": 3,
     "iki": [
      0,
@@ -584,8 +586,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "7",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "368413",
@@ -682,7 +683,7 @@
     "ad": "Ege Arar",
     "no": "19",
     "ilk5": false,
-    "sure": "4:00",
+    "sure": "4:30",
     "sayi": 2,
     "iki": [
      1,
@@ -705,8 +706,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "5",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "590409",
@@ -788,7 +788,7 @@
    "benc": 12,
    "fark": 10,
    "seri": 7,
-   "lider": 804,
+   "lider": 834,
    "degisim": 4,
    "esitlik": 1
   },
@@ -800,12 +800,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:44",
+  "saat": "03:14",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 976,
+  "simdi": 1006,
   "d": [
    [
     0,
