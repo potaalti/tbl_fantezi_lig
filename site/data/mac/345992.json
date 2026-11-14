@@ -13,7 +13,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "10:06",
+    "sure": "10:36",
     "sayi": 6,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "14",
+    "pm": "12",
     "vp": 8,
     "sahada": true
    },
@@ -44,7 +44,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "11:00",
+    "sure": "11:30",
     "sayi": 6,
     "iki": [
      0,
@@ -66,7 +66,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "11",
+    "pm": "9",
     "vp": 4,
     "sahada": true
    },
@@ -135,7 +135,7 @@
     "ad": "Deniz Savut",
     "no": "22",
     "ilk5": true,
-    "sure": "6:43",
+    "sure": "7:13",
     "sayi": 0,
     "iki": [
      0,
@@ -157,7 +157,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 1,
     "sahada": true
    },
@@ -166,7 +166,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "4:58",
+    "sure": "5:28",
     "sayi": 2,
     "iki": [
      1,
@@ -188,7 +188,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "4",
+    "pm": "2",
     "vp": 5,
     "sahada": true
    },
@@ -340,15 +340,14 @@
     "tk": 2,
     "faul": 0,
     "pm": "12",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "287583",
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": false,
-    "sure": "2:41",
+    "sure": "3:11",
     "sayi": 2,
     "iki": [
      1,
@@ -370,8 +369,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
-    "vp": 4
+    "pm": "1",
+    "vp": 4,
+    "sahada": true
    }
   ],
   "ceyrekler": [
@@ -393,7 +393,7 @@
    "benc": 12,
    "fark": 14,
    "seri": 7,
-   "lider": 742,
+   "lider": 772,
    "degisim": 0,
    "esitlik": 2
   },
@@ -401,14 +401,14 @@
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "18",
+  "skor": "20",
   "oyuncular": [
    {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "10:05",
+    "sure": "10:35",
     "sayi": 6,
     "iki": [
      1,
@@ -430,7 +430,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 3,
     "sahada": true
    },
@@ -439,7 +439,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "9:57",
+    "sure": "10:27",
     "sayi": 2,
     "iki": [
      1,
@@ -460,8 +460,8 @@
     "tc": 1,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
-    "pm": "-11",
+    "faul": 2,
+    "pm": "-9",
     "vp": -2,
     "sahada": true
    },
@@ -470,11 +470,11 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "10:27",
-    "sayi": 5,
+    "sure": "10:57",
+    "sayi": 7,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      1,
@@ -492,8 +492,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-14",
-    "vp": 5,
+    "pm": "-12",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -501,7 +501,7 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "12:37",
+    "sure": "13:07",
     "sayi": 5,
     "iki": [
      2,
@@ -523,7 +523,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-11",
+    "pm": "-9",
     "vp": 2,
     "sahada": true
    },
@@ -532,7 +532,7 @@
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": true,
-    "sure": "9:10",
+    "sure": "9:40",
     "sayi": 0,
     "iki": [
      0,
@@ -554,7 +554,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
+    "pm": "-7",
     "vp": 3,
     "sahada": true
    },
@@ -741,7 +741,7 @@
   ],
   "ceyrekler": [
    13,
-   5
+   7
   ],
   "takim": {
    "hr": 0,
@@ -754,7 +754,7 @@
    "tks": 0,
    "hh": 3,
    "is": 6,
-   "ba": 8,
+   "ba": 10,
    "benc": 0,
    "fark": 0,
    "seri": 6,
@@ -765,17 +765,17 @@
   "koc": "Abdulkadir SERDAR"
  },
  "evSkor": "32",
- "depSkor": "18",
+ "depSkor": "20",
  "salon": "Altındağ Atatürk Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "06:19",
+  "saat": "05:49",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 821,
+  "simdi": 851,
   "d": [
    [
     0,
@@ -876,6 +876,10 @@
    [
     821,
     14
+   ],
+   [
+    839,
+    12
    ]
   ]
  }
