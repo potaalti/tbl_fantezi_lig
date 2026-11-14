@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "ALİAĞA PETKİM SPOR",
-  "skor": "83",
+  "skor": "85",
   "oyuncular": [
    {
     "id": "516236",
     "ad": "Khyri Thomas",
     "no": "0",
     "ilk5": true,
-    "sure": "31:52",
+    "sure": "32:19",
     "sayi": 21,
     "iki": [
      5,
@@ -44,11 +44,11 @@
     "ad": "Keandre Cook",
     "no": "1",
     "ilk5": true,
-    "sure": "21:41",
-    "sayi": 6,
+    "sure": "22:08",
+    "sayi": 8,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      1,
@@ -65,9 +65,9 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "pm": "3",
-    "vp": 9,
+    "vp": 11,
     "sahada": true
    },
    {
@@ -75,7 +75,7 @@
     "ad": "Yiğit Onan",
     "no": "7",
     "ilk5": true,
-    "sure": "31:30",
+    "sure": "31:57",
     "sayi": 19,
     "iki": [
      4,
@@ -90,15 +90,15 @@
      4
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 5,
+    "rib": 5,
     "ast": 4,
     "tc": 1,
     "blk": 0,
     "tk": 3,
     "faul": 3,
     "pm": "8",
-    "vp": 20,
+    "vp": 21,
     "sahada": true
    },
    {
@@ -136,7 +136,7 @@
     "ad": "Olivier Hanlan",
     "no": "21",
     "ilk5": true,
-    "sure": "31:13",
+    "sure": "31:39",
     "sayi": 5,
     "iki": [
      1,
@@ -167,7 +167,7 @@
     "ad": "Chris Horton",
     "no": "2",
     "ilk5": false,
-    "sure": "24:14",
+    "sure": "24:39",
     "sayi": 14,
     "iki": [
      6,
@@ -190,15 +190,14 @@
     "tk": 1,
     "faul": 4,
     "pm": "-3",
-    "vp": 17,
-    "sahada": true
+    "vp": 17
    },
    {
     "id": "778246",
     "ad": "Max Abmas",
     "no": "3",
     "ilk5": false,
-    "sure": "20:45",
+    "sure": "20:47",
     "sayi": 6,
     "iki": [
      0,
@@ -221,7 +220,8 @@
     "tk": 0,
     "faul": 2,
     "pm": "-2",
-    "vp": 3
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "269217",
@@ -378,7 +378,7 @@
    23,
    21,
    21,
-   18
+   20
   ],
   "takim": {
    "hr": 1,
@@ -395,7 +395,7 @@
    "benc": 23,
    "fark": 9,
    "seri": 8,
-   "lider": 2180,
+   "lider": 2206,
    "degisim": 4,
    "esitlik": 7
   },
@@ -403,7 +403,7 @@
  },
  "dep": {
   "ad": "TÜRK TELEKOM",
-  "skor": "79",
+  "skor": "81",
   "oyuncular": [
    {
     "id": "778728",
@@ -440,7 +440,7 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "25:04",
+    "sure": "25:30",
     "sayi": 8,
     "iki": [
      2,
@@ -471,8 +471,8 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "30:43",
-    "sayi": 15,
+    "sure": "31:09",
+    "sayi": 17,
     "iki": [
      4,
      6
@@ -482,8 +482,8 @@
      4
     ],
     "sa": [
-     4,
-     6
+     6,
+     9
     ],
     "hr": 2,
     "sr": 6,
@@ -492,9 +492,9 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 3,
+    "faul": 4,
     "pm": "-4",
-    "vp": 20,
+    "vp": 21,
     "sahada": true
    },
    {
@@ -652,7 +652,7 @@
     "ad": "Tony Taylor",
     "no": "21",
     "ilk5": false,
-    "sure": "11:25",
+    "sure": "11:52",
     "sayi": 0,
     "iki": [
      0,
@@ -683,7 +683,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "23:41",
+    "sure": "24:08",
     "sayi": 19,
     "iki": [
      8,
@@ -744,7 +744,7 @@
     "ad": "Shaquille Mckissic",
     "no": "77",
     "ilk5": false,
-    "sure": "25:09",
+    "sure": "25:35",
     "sayi": 9,
     "iki": [
      2,
@@ -775,7 +775,7 @@
    16,
    23,
    22,
-   18
+   20
   ],
   "takim": {
    "hr": 0,
@@ -798,18 +798,18 @@
   },
   "koc": "ERDEM CAN"
  },
- "evSkor": "83",
- "depSkor": "79",
+ "evSkor": "85",
+ "depSkor": "81",
  "salon": "Enka Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "00:42",
+  "saat": "00:15",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2358,
+  "simdi": 2385,
   "d": [
    [
     0,
@@ -1181,6 +1181,18 @@
    ],
    [
     2358,
+    4
+   ],
+   [
+    2378,
+    6
+   ],
+   [
+    2383,
+    5
+   ],
+   [
+    2383,
     4
    ]
   ]
