@@ -44,7 +44,7 @@
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": true,
-    "sure": "6:28",
+    "sure": "7:08",
     "sayi": 1,
     "iki": [
      0,
@@ -67,7 +67,7 @@
     "tk": 0,
     "faul": 0,
     "af": 2,
-    "pm": "-3",
+    "pm": "-5",
     "vp": 0,
     "sahada": true
    },
@@ -76,7 +76,7 @@
     "ad": "Boubacar Toure",
     "no": "21",
     "ilk5": true,
-    "sure": "6:02",
+    "sure": "6:42",
     "sayi": 5,
     "iki": [
      2,
@@ -99,7 +99,7 @@
     "tk": 0,
     "faul": 0,
     "af": 2,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 5,
     "sahada": true
    },
@@ -139,7 +139,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "7:15",
+    "sure": "7:33",
     "sayi": 9,
     "iki": [
      1,
@@ -147,7 +147,7 @@
     ],
     "uc": [
      1,
-     1
+     2
     ],
     "sa": [
      4,
@@ -162,19 +162,20 @@
     "tk": 1,
     "faul": 1,
     "af": 2,
-    "pm": "-2",
-    "vp": 11
+    "pm": "-4",
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "441857",
     "ad": "Alex Perez",
     "no": "2",
     "ilk5": false,
-    "sure": "4:04",
+    "sure": "4:44",
     "sayi": 3,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      1,
@@ -193,8 +194,8 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "6",
-    "vp": 5,
+    "pm": "4",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -202,7 +203,7 @@
     "ad": "Kadir Bayram",
     "no": "8",
     "ilk5": false,
-    "sure": "2:52",
+    "sure": "3:14",
     "sayi": 2,
     "iki": [
      1,
@@ -223,11 +224,10 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "4",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "109611",
@@ -296,7 +296,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": false,
-    "sure": "2:05",
+    "sure": "2:45",
     "sayi": 2,
     "iki": [
      1,
@@ -319,7 +319,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": 2,
     "sahada": true
    },
@@ -404,15 +404,15 @@
    "benc": 11,
    "fark": 2,
    "seri": 5,
-   "lider": 81,
-   "degisim": 4,
-   "esitlik": 4
+   "lider": 103,
+   "degisim": 5,
+   "esitlik": 5
   },
   "koc": "Tutku Açık"
  },
  "dep": {
   "ad": "KARŞIYAKA",
-  "skor": "25",
+  "skor": "27",
   "oyuncular": [
    {
     "id": "573226",
@@ -481,7 +481,7 @@
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "9:20",
+    "sure": "9:42",
     "sayi": 2,
     "iki": [
      1,
@@ -504,9 +504,8 @@
     "tk": 1,
     "faul": 1,
     "af": 1,
-    "pm": "-1",
-    "vp": 2,
-    "sahada": true
+    "pm": "0",
+    "vp": 2
    },
    {
     "id": "254789",
@@ -575,7 +574,7 @@
     "ad": "Muhaymin Mustafa",
     "no": "1",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:40",
     "sayi": 0,
     "iki": [
      0,
@@ -598,7 +597,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -607,8 +606,8 @@
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "3:00",
-    "sayi": 3,
+    "sure": "3:40",
+    "sayi": 5,
     "iki": [
      0,
      0
@@ -618,20 +617,20 @@
      1
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "af": 0,
-    "pm": "-4",
-    "vp": 2,
+    "af": 1,
+    "pm": "-2",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -639,7 +638,7 @@
     "ad": "Hakan Sayılı",
     "no": "8",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:18",
     "sayi": 0,
     "iki": [
      0,
@@ -662,8 +661,9 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "1",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "400519",
@@ -732,7 +732,7 @@
     "ad": "Yakuba Ouattara",
     "no": "24",
     "ilk5": false,
-    "sure": "2:05",
+    "sure": "2:45",
     "sayi": 0,
     "iki": [
      0,
@@ -755,7 +755,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-3",
+    "pm": "-1",
     "vp": 0,
     "sahada": true
    },
@@ -764,7 +764,7 @@
     "ad": "Cyrıl  Langevıne",
     "no": "55",
     "ilk5": false,
-    "sure": "3:18",
+    "sure": "3:58",
     "sayi": 2,
     "iki": [
      1,
@@ -787,13 +787,13 @@
     "tk": 2,
     "faul": 1,
     "af": 0,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    }
   ],
   "ceyrekler": [
-   25
+   27
   ],
   "takim": {
    "hr": 1,
@@ -804,30 +804,30 @@
   },
   "ileri": {
    "tks": 3,
-   "hh": 3,
+   "hh": 5,
    "is": 4,
    "ba": 8,
-   "benc": 5,
+   "benc": 7,
    "fark": 6,
    "seri": 5,
-   "lider": 394,
-   "degisim": 4,
-   "esitlik": 4
+   "lider": 411,
+   "degisim": 5,
+   "esitlik": 5
   },
   "koc": "Nenad Markovic Zoric"
  },
  "evSkor": "26",
- "depSkor": "25",
+ "depSkor": "27",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "00:40",
+  "saat": "00:00",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 560,
+  "simdi": 600,
   "d": [
    [
     0,
@@ -940,6 +940,14 @@
    [
     537,
     1
+   ],
+   [
+    583,
+    0
+   ],
+   [
+    583,
+    -1
    ]
   ]
  }
