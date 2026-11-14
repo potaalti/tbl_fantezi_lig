@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "ALİAĞA PETKİM SPOR",
-  "skor": "62",
+  "skor": "63",
   "oyuncular": [
    {
     "id": "516236",
@@ -43,8 +43,8 @@
     "ad": "Keandre Cook",
     "no": "1",
     "ilk5": true,
-    "sure": "17:36",
-    "sayi": 5,
+    "sure": "17:58",
+    "sayi": 6,
     "iki": [
      1,
      1
@@ -54,8 +54,8 @@
      2
     ],
     "sa": [
-     0,
-     0
+     1,
+     3
     ],
     "hr": 0,
     "sr": 2,
@@ -65,8 +65,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "1",
-    "vp": 9,
+    "pm": "2",
+    "vp": 8,
     "sahada": true
    },
    {
@@ -164,7 +164,7 @@
     "ad": "Chris Horton",
     "no": "2",
     "ilk5": false,
-    "sure": "14:15",
+    "sure": "14:37",
     "sayi": 5,
     "iki": [
      2,
@@ -186,7 +186,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 3,
-    "pm": "-4",
+    "pm": "-3",
     "vp": 6,
     "sahada": true
    },
@@ -195,7 +195,7 @@
     "ad": "Max Abmas",
     "no": "3",
     "ilk5": false,
-    "sure": "14:01",
+    "sure": "14:23",
     "sayi": 6,
     "iki": [
      0,
@@ -217,7 +217,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-4",
+    "pm": "-3",
     "vp": 4,
     "sahada": true
    },
@@ -226,7 +226,7 @@
     "ad": "Tibet Görener",
     "no": "5",
     "ilk5": false,
-    "sure": "6:13",
+    "sure": "6:35",
     "sayi": 0,
     "iki": [
      0,
@@ -248,7 +248,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-10",
+    "pm": "-9",
     "vp": -1,
     "sahada": true
    },
@@ -287,7 +287,7 @@
     "ad": "Thomas Akyazılı",
     "no": "11",
     "ilk5": false,
-    "sure": "7:24",
+    "sure": "7:46",
     "sayi": 0,
     "iki": [
      0,
@@ -309,7 +309,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-5",
     "vp": -1,
     "sahada": true
    },
@@ -377,7 +377,7 @@
   "ceyrekler": [
    23,
    21,
-   18
+   19
   ],
   "takim": {
    "hr": 1,
@@ -394,7 +394,7 @@
    "benc": 14,
    "fark": 9,
    "seri": 8,
-   "lider": 1591,
+   "lider": 1613,
    "degisim": 4,
    "esitlik": 6
   },
@@ -431,15 +431,16 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-7",
-    "vp": -1
+    "pm": "-8",
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "418533",
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "19:09",
+    "sure": "19:31",
     "sayi": 6,
     "iki": [
      1,
@@ -454,15 +455,15 @@
      6
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 5,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "4",
-    "vp": 6,
+    "pm": "3",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -470,7 +471,7 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "23:02",
+    "sure": "23:24",
     "sayi": 11,
     "iki": [
      3,
@@ -492,7 +493,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 16,
     "sahada": true
    },
@@ -531,7 +532,7 @@
     "ad": "Göktuğ Baş",
     "no": "57",
     "ilk5": true,
-    "sure": "13:26",
+    "sure": "13:48",
     "sayi": 0,
     "iki": [
      0,
@@ -554,8 +555,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "-4",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "408785",
@@ -592,7 +592,7 @@
     "ad": "Ata Vatansever",
     "no": "6",
     "ilk5": false,
-    "sure": "14:48",
+    "sure": "15:10",
     "sayi": 4,
     "iki": [
      2,
@@ -614,7 +614,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "5",
+    "pm": "4",
     "vp": 5,
     "sahada": true
    },
@@ -683,7 +683,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "17:40",
+    "sure": "18:02",
     "sayi": 19,
     "iki": [
      8,
@@ -704,8 +704,8 @@
     "tc": 1,
     "blk": 2,
     "tk": 0,
-    "faul": 2,
-    "pm": "9",
+    "faul": 3,
+    "pm": "8",
     "vp": 26,
     "sahada": true
    },
@@ -796,18 +796,18 @@
   },
   "koc": "ERDEM CAN"
  },
- "evSkor": "62",
+ "evSkor": "63",
  "depSkor": "61",
  "salon": "Enka Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "00:50",
+  "saat": "00:27",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1750,
+  "simdi": 1773,
   "d": [
    [
     0,
@@ -1088,6 +1088,10 @@
    [
     1750,
     1
+   ],
+   [
+    1773,
+    2
    ]
   ]
  }
