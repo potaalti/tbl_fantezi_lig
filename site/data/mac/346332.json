@@ -13,7 +13,7 @@
     "ad": "Khyri Thomas",
     "no": "0",
     "ilk5": true,
-    "sure": "29:49",
+    "sure": "30:36",
     "sayi": 19,
     "iki": [
      4,
@@ -44,7 +44,7 @@
     "ad": "Keandre Cook",
     "no": "1",
     "ilk5": true,
-    "sure": "19:37",
+    "sure": "20:24",
     "sayi": 6,
     "iki": [
      1,
@@ -98,8 +98,7 @@
     "tk": 3,
     "faul": 3,
     "pm": "9",
-    "vp": 20,
-    "sahada": true
+    "vp": 20
    },
    {
     "id": "675128",
@@ -136,7 +135,7 @@
     "ad": "Olivier Hanlan",
     "no": "21",
     "ilk5": true,
-    "sure": "29:09",
+    "sure": "29:56",
     "sayi": 3,
     "iki": [
      1,
@@ -167,7 +166,7 @@
     "ad": "Chris Horton",
     "no": "2",
     "ilk5": false,
-    "sure": "22:10",
+    "sure": "22:57",
     "sayi": 14,
     "iki": [
      6,
@@ -186,11 +185,11 @@
     "rib": 6,
     "ast": 2,
     "tc": 0,
-    "blk": 1,
+    "blk": 2,
     "tk": 1,
     "faul": 3,
     "pm": "-3",
-    "vp": 15,
+    "vp": 16,
     "sahada": true
    },
    {
@@ -288,7 +287,7 @@
     "ad": "Thomas Akyazılı",
     "no": "11",
     "ilk5": false,
-    "sure": "8:14",
+    "sure": "9:01",
     "sayi": 0,
     "iki": [
      0,
@@ -303,15 +302,16 @@
      2
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "pm": "-3",
-    "vp": -1
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "475706",
@@ -395,7 +395,7 @@
    "benc": 23,
    "fark": 9,
    "seri": 8,
-   "lider": 2056,
+   "lider": 2103,
    "degisim": 4,
    "esitlik": 7
   },
@@ -410,7 +410,7 @@
     "ad": "Jerrick Harding",
     "no": "7",
     "ilk5": true,
-    "sure": "22:28",
+    "sure": "23:15",
     "sayi": 14,
     "iki": [
      3,
@@ -441,7 +441,7 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": true,
-    "sure": "23:00",
+    "sure": "23:47",
     "sayi": 8,
     "iki": [
      2,
@@ -472,11 +472,11 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": true,
-    "sure": "29:39",
+    "sure": "30:26",
     "sayi": 14,
     "iki": [
      4,
-     5
+     6
     ],
     "uc": [
      1,
@@ -495,7 +495,7 @@
     "tk": 0,
     "faul": 3,
     "pm": "-5",
-    "vp": 19,
+    "vp": 18,
     "sahada": true
    },
    {
@@ -503,7 +503,7 @@
     "ad": "Ismael Bako",
     "no": "28",
     "ilk5": true,
-    "sure": "20:47",
+    "sure": "21:34",
     "sayi": 8,
     "iki": [
      4,
@@ -526,7 +526,8 @@
     "tk": 1,
     "faul": 2,
     "pm": "-2",
-    "vp": 18
+    "vp": 18,
+    "sahada": true
    },
    {
     "id": "277894",
@@ -683,7 +684,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "21:37",
+    "sure": "22:24",
     "sayi": 19,
     "iki": [
      8,
@@ -767,8 +768,7 @@
     "tk": 3,
     "faul": 3,
     "pm": "9",
-    "vp": -2,
-    "sahada": true
+    "vp": -2
    }
   ],
   "ceyrekler": [
@@ -804,12 +804,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "02:46",
+  "saat": "02:22",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2234,
+  "simdi": 2257,
   "d": [
    [
     0,
