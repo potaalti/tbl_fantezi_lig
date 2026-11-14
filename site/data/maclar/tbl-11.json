@@ -23,13 +23,13 @@
    "durum": "canli",
    "ev": "GÖZTEPE ISONEM",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": "26",
+   "evSkor": "29",
    "depSkor": "16",
    "salon": "Altındağ Atatürk Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "07:40",
+    "saat": "06:51",
     "uzatma": false
    }
   },
@@ -41,13 +41,13 @@
    "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "25",
+   "evSkor": "27",
    "depSkor": "26",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 2,
-    "saat": "06:10",
+    "saat": "04:48",
     "uzatma": false
    }
   },
@@ -56,13 +56,18 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:33",
+    "uzatma": false
+   }
   },
   {
    "id": 345993,

@@ -22,13 +22,13 @@
    "durum": "canli",
    "ev": "GÖZTEPE ISONEM",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": "26",
+   "evSkor": "29",
    "depSkor": "16",
    "salon": "Altındağ Atatürk Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 2,
-    "saat": "07:40",
+    "saat": "06:51",
     "uzatma": false
    }
   },
@@ -40,13 +40,13 @@
    "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "25",
+   "evSkor": "27",
    "depSkor": "26",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 2,
-    "saat": "06:10",
+    "saat": "04:48",
     "uzatma": false
    }
   },
@@ -55,13 +55,18 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:33",
+    "uzatma": false
+   }
   },
   {
    "id": 345993,
@@ -336,8 +341,8 @@
   "316467": {
    "ad": "Emir Arda Sivas",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 9,
-   "saniye": 525,
+   "vp": 8,
+   "saniye": 573,
    "maclar": [
     345992
    ]
@@ -346,7 +351,7 @@
    "ad": "Fatih Cantitiz",
    "takim": "GÖZTEPE ISONEM",
    "vp": 1,
-   "saniye": 579,
+   "saniye": 627,
    "maclar": [
     345992
    ]
@@ -355,7 +360,7 @@
    "ad": "Ahmet Can Duran",
    "takim": "GÖZTEPE ISONEM",
    "vp": 4,
-   "saniye": 461,
+   "saniye": 509,
    "maclar": [
     345992
    ]
@@ -390,8 +395,8 @@
   "786709": {
    "ad": "Deandre Pinckney",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 5,
-   "saniye": 356,
+   "vp": 6,
+   "saniye": 404,
    "maclar": [
     345992
    ]
@@ -426,8 +431,8 @@
   "fiba-kaan-sariaslan": {
    "ad": "Kaan Sarıaslan",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 3,
-   "saniye": 350,
+   "vp": 6,
+   "saniye": 398,
    "maclar": [
     345992
    ]
@@ -444,8 +449,8 @@
   "510615": {
    "ad": "Mbala Mendzana",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 3,
-   "saniye": 524,
+   "vp": 1,
+   "saniye": 572,
    "maclar": [
     345992
    ]
@@ -463,7 +468,7 @@
    "ad": "Ömer Sancaklı",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 5,
-   "saniye": 579,
+   "saniye": 594,
    "maclar": [
     345992
    ]
@@ -472,7 +477,7 @@
    "ad": "Umut Geçen",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 1,
-   "saniye": 676,
+   "saniye": 724,
    "maclar": [
     345992
    ]
@@ -481,7 +486,7 @@
    "ad": "Ali Işık",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 3,
-   "saniye": 469,
+   "saniye": 517,
    "maclar": [
     345992
    ]
@@ -516,8 +521,8 @@
   "471334": {
    "ad": "Demir Öztürk",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": -1,
-   "saniye": 161,
+   "vp": 0,
+   "saniye": 209,
    "maclar": [
     345992
    ]
@@ -526,7 +531,7 @@
    "ad": "Ata Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 2,
-   "saniye": 433,
+   "saniye": 466,
    "maclar": [
     345992
    ]
@@ -552,8 +557,8 @@
   "473677": {
    "ad": "Diante Watkins",
    "takim": "OGM ORMANSPOR",
-   "vp": 7,
-   "saniye": 739,
+   "vp": 9,
+   "saniye": 806,
    "maclar": [
     345999
    ]
@@ -562,7 +567,7 @@
    "ad": "Tolga Kaan Birer",
    "takim": "OGM ORMANSPOR",
    "vp": 1,
-   "saniye": 355,
+   "saniye": 419,
    "maclar": [
     345999
    ]
@@ -579,8 +584,8 @@
   "501170": {
    "ad": "Tobin Carberry",
    "takim": "OGM ORMANSPOR",
-   "vp": 7,
-   "saniye": 647,
+   "vp": 8,
+   "saniye": 714,
    "maclar": [
     345999
    ]
@@ -598,7 +603,7 @@
    "ad": "Yağız Baykurt",
    "takim": "OGM ORMANSPOR",
    "vp": 0,
-   "saniye": 0,
+   "saniye": 64,
    "maclar": [
     345999
    ]
@@ -606,8 +611,8 @@
   "354791": {
    "ad": "Kaan Tarla",
    "takim": "OGM ORMANSPOR",
-   "vp": 1,
-   "saniye": 351,
+   "vp": 0,
+   "saniye": 354,
    "maclar": [
     345999
    ]
@@ -616,7 +621,7 @@
    "ad": "Tuna Han Dikmen",
    "takim": "OGM ORMANSPOR",
    "vp": 4,
-   "saniye": 490,
+   "saniye": 493,
    "maclar": [
     345999
    ]
@@ -634,7 +639,7 @@
    "ad": "Mustafa Baki Görür",
    "takim": "OGM ORMANSPOR",
    "vp": 0,
-   "saniye": 490,
+   "saniye": 557,
    "maclar": [
     345999
    ]
@@ -652,7 +657,7 @@
    "ad": "Vitalis Chikoko",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 3,
-   "saniye": 600,
+   "saniye": 667,
    "maclar": [
     345999
    ]
@@ -660,8 +665,8 @@
   "271655": {
    "ad": "Ekrem Sancaklı",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": -1,
-   "saniye": 603,
+   "vp": -2,
+   "saniye": 670,
    "maclar": [
     345999
    ]
@@ -670,7 +675,7 @@
    "ad": "Tan Ayyıldız",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 4,
-   "saniye": 725,
+   "saniye": 792,
    "maclar": [
     345999
    ]
@@ -679,7 +684,7 @@
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 12,
-   "saniye": 652,
+   "saniye": 719,
    "maclar": [
     345999
    ]
@@ -687,8 +692,8 @@
   "223180": {
    "ad": "Gökhan Yazıcıoğlu",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 2,
-   "saniye": 451,
+   "vp": 3,
+   "saniye": 518,
    "maclar": [
     345999
    ]
@@ -754,6 +759,213 @@
    "saniye": 0,
    "maclar": [
     345999
+   ]
+  },
+  "320264": {
+   "ad": "Turan Altunbaş",
+   "takim": "MERSİN SPOR",
+   "vp": 3,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "431495": {
+   "ad": "Berat Ege Bulut",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "379811": {
+   "ad": "Işık Ali Akpınar",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "214924": {
+   "ad": "Yesukan Onar",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "225810": {
+   "ad": "Troy Şav",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "fiba-yigithan-ergenc": {
+   "ad": "Yiğithan Ergenç",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "fiba-hali-l-ibrahi-m-ates": {
+   "ad": "Hali̇l İbrahi̇m Ateş",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "fiba-ahmet-hakan-kara": {
+   "ad": "Ahmet Hakan Kara",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "fiba-omer-altan-soylu": {
+   "ad": "Ömer Altan Soylu",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "fiba-ferhat-seniceli": {
+   "ad": "Ferhat Seniçeli",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "253992": {
+   "ad": "Faik Can Kaşıkçı",
+   "takim": "MERSİN SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "257055": {
+   "ad": "Zahid İsaoğlu",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "500173": {
+   "ad": "Kahlil Dukes",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": -1,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "27582": {
+   "ad": "Hazer Avcı",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": -1,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "109425": {
+   "ad": "Oğuzhan Tosun",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "261226": {
+   "ad": "Efe Sert",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 26,
+   "maclar": [
+    345994
+   ]
+  },
+  "460265": {
+   "ad": "Efe Kemal Akayın",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "fiba-jamari-traylor": {
+   "ad": "Jamari Traylor",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "247538": {
+   "ad": "Ayberk Olmaz",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "207867": {
+   "ad": "Mert Konuk",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "380032": {
+   "ad": "Arda Birkeser",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "209010": {
+   "ad": "Oktay Güneş",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
+   ]
+  },
+  "401353": {
+   "ad": "Mert Can Yılmam",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345994
    ]
   }
  }
