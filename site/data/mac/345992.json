@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "GÖZTEPE ISONEM",
-  "skor": "39",
+  "skor": "40",
   "oyuncular": [
    {
     "id": "316467",
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "12:57",
+    "sure": "13:19",
     "sayi": 6,
     "iki": [
      0,
@@ -36,8 +36,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "17",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "39445",
@@ -104,7 +103,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": true,
-    "sure": "7:28",
+    "sure": "8:09",
     "sayi": 6,
     "iki": [
      3,
@@ -125,7 +124,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "3",
     "vp": 8,
     "sahada": true
@@ -135,8 +134,8 @@
     "ad": "Deniz Savut",
     "no": "22",
     "ilk5": true,
-    "sure": "12:02",
-    "sayi": 0,
+    "sure": "12:42",
+    "sayi": 1,
     "iki": [
      0,
      1
@@ -146,8 +145,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 1,
@@ -196,7 +195,7 @@
     "ad": "Deandre Pinckney",
     "no": "2",
     "ilk5": false,
-    "sure": "7:29",
+    "sure": "8:10",
     "sayi": 5,
     "iki": [
      1,
@@ -257,7 +256,7 @@
     "ad": "Eray Aydoğan",
     "no": "8",
     "ilk5": false,
-    "sure": "6:03",
+    "sure": "6:22",
     "sayi": 0,
     "iki": [
      0,
@@ -280,7 +279,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "-6",
-    "vp": -3
+    "vp": -3,
+    "sahada": true
    },
    {
     "id": "400882",
@@ -317,7 +317,7 @@
     "ad": "Kaan Sarıaslan",
     "no": "13",
     "ilk5": false,
-    "sure": "8:54",
+    "sure": "9:35",
     "sayi": 3,
     "iki": [
      0,
@@ -334,13 +334,13 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 3,
     "faul": 0,
     "pm": "14",
-    "vp": 4,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -376,7 +376,7 @@
   ],
   "ceyrekler": [
    23,
-   16
+   17
   ],
   "takim": {
    "hr": 1,
@@ -393,7 +393,7 @@
    "benc": 17,
    "fark": 14,
    "seri": 7,
-   "lider": 1061,
+   "lider": 1102,
    "degisim": 0,
    "esitlik": 2
   },
@@ -401,7 +401,7 @@
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "28",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "510615",
@@ -468,7 +468,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "15:46",
+    "sure": "16:27",
     "sayi": 7,
     "iki": [
      2,
@@ -499,7 +499,7 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "17:56",
+    "sure": "18:37",
     "sayi": 7,
     "iki": [
      3,
@@ -530,7 +530,7 @@
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": true,
-    "sure": "11:34",
+    "sure": "12:15",
     "sayi": 0,
     "iki": [
      0,
@@ -551,7 +551,7 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "pm": "-9",
     "vp": 3,
     "sahada": true
@@ -651,8 +651,8 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "7:09",
-    "sayi": 3,
+    "sure": "7:50",
+    "sayi": 4,
     "iki": [
      1,
      2
@@ -662,8 +662,8 @@
      1
     ],
     "sa": [
-     1,
-     2
+     2,
+     3
     ],
     "hr": 0,
     "sr": 1,
@@ -674,7 +674,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "0",
-    "vp": 1,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -682,7 +682,7 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": false,
-    "sure": "8:17",
+    "sure": "8:58",
     "sayi": 0,
     "iki": [
      0,
@@ -697,15 +697,15 @@
      0
     ],
     "hr": 1,
-    "sr": 2,
-    "rib": 3,
+    "sr": 3,
+    "rib": 4,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "pm": "-5",
-    "vp": 1,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -741,7 +741,7 @@
   ],
   "ceyrekler": [
    13,
-   15
+   16
   ],
   "takim": {
    "hr": 0,
@@ -755,7 +755,7 @@
    "hh": 3,
    "is": 6,
    "ba": 14,
-   "benc": 3,
+   "benc": 4,
    "fark": 0,
    "seri": 6,
    "lider": 0,
@@ -764,18 +764,18 @@
   },
   "koc": "Abdulkadir SERDAR"
  },
- "evSkor": "39",
- "depSkor": "28",
+ "evSkor": "40",
+ "depSkor": "29",
  "salon": "Altındağ Atatürk Spor Kompleksi",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:00",
+  "saat": "00:19",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1140,
+  "simdi": 1181,
   "d": [
    [
     0,
@@ -915,6 +915,14 @@
    ],
    [
     1109,
+    11
+   ],
+   [
+    1163,
+    12
+   ],
+   [
+    1181,
     11
    ]
   ]
