@@ -13,7 +13,7 @@
     "ad": "Göktürk Gökalp Ural",
     "no": "4",
     "ilk5": true,
-    "sure": "14:10",
+    "sure": "14:53",
     "sayi": 4,
     "iki": [
      1,
@@ -44,7 +44,7 @@
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "20:49",
+    "sure": "21:32",
     "sayi": 12,
     "iki": [
      3,
@@ -75,7 +75,7 @@
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "11:12",
+    "sure": "11:55",
     "sayi": 4,
     "iki": [
      1,
@@ -106,7 +106,7 @@
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "12:47",
+    "sure": "13:30",
     "sayi": 10,
     "iki": [
      3,
@@ -137,7 +137,7 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "19:18",
+    "sure": "20:01",
     "sayi": 13,
     "iki": [
      3,
@@ -145,7 +145,7 @@
     ],
     "uc": [
      2,
-     4
+     5
     ],
     "sa": [
      1,
@@ -160,7 +160,7 @@
     "tk": 1,
     "faul": 0,
     "pm": "11",
-    "vp": 10,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -380,9 +380,9 @@
    4
   ],
   "takim": {
-   "hr": 1,
+   "hr": 2,
    "sr": 1,
-   "rib": 2,
+   "rib": 3,
    "tk": 1,
    "faul": 0
   },
@@ -394,7 +394,7 @@
    "benc": 4,
    "fark": 11,
    "seri": 8,
-   "lider": 1021,
+   "lider": 1064,
    "degisim": 7,
    "esitlik": 6
   },
@@ -439,7 +439,7 @@
     "ad": "Ekrem Sancaklı",
     "no": "8",
     "ilk5": true,
-    "sure": "16:58",
+    "sure": "17:16",
     "sayi": 4,
     "iki": [
      0,
@@ -459,18 +459,17 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "pm": "-6",
-    "vp": -2,
-    "sahada": true
+    "vp": -3
    },
    {
     "id": "380030",
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "18:29",
+    "sure": "19:12",
     "sayi": 2,
     "iki": [
      1,
@@ -501,7 +500,7 @@
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "14:06",
+    "sure": "14:31",
     "sayi": 7,
     "iki": [
      2,
@@ -524,14 +523,15 @@
     "tk": 0,
     "faul": 1,
     "pm": "-4",
-    "vp": 11
+    "vp": 11,
+    "sahada": true
    },
    {
     "id": "223180",
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": true,
-    "sure": "16:02",
+    "sure": "16:45",
     "sayi": 2,
     "iki": [
      0,
@@ -652,7 +652,7 @@
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "4:07",
+    "sure": "4:50",
     "sayi": 4,
     "iki": [
      2,
@@ -713,7 +713,7 @@
     "ad": "Ricky Tarrant",
     "no": "22",
     "ilk5": false,
-    "sure": "16:29",
+    "sure": "17:12",
     "sayi": 8,
     "iki": [
      0,
@@ -802,12 +802,12 @@
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "07:24",
+  "saat": "06:41",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1356,
+  "simdi": 1399,
   "d": [
    [
     0,
