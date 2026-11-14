@@ -13,7 +13,7 @@
     "ad": "Khyri Thomas",
     "no": "0",
     "ilk5": true,
-    "sure": "25:21",
+    "sure": "25:33",
     "sayi": 16,
     "iki": [
      4,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "6",
+    "pm": "2",
     "vp": 19,
     "sahada": true
    },
@@ -74,7 +74,7 @@
     "ad": "Yiğit Onan",
     "no": "7",
     "ilk5": true,
-    "sure": "26:46",
+    "sure": "26:58",
     "sayi": 19,
     "iki": [
      4,
@@ -96,7 +96,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "11",
+    "pm": "7",
     "vp": 21,
     "sahada": true
    },
@@ -135,7 +135,7 @@
     "ad": "Olivier Hanlan",
     "no": "21",
     "ilk5": true,
-    "sure": "24:41",
+    "sure": "24:53",
     "sayi": 3,
     "iki": [
      1,
@@ -157,7 +157,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "11",
+    "pm": "7",
     "vp": 10,
     "sahada": true
    },
@@ -166,7 +166,7 @@
     "ad": "Chris Horton",
     "no": "2",
     "ilk5": false,
-    "sure": "17:42",
+    "sure": "17:54",
     "sayi": 10,
     "iki": [
      4,
@@ -188,7 +188,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 3,
-    "pm": "-1",
+    "pm": "-5",
     "vp": 10,
     "sahada": true
    },
@@ -197,7 +197,7 @@
     "ad": "Max Abmas",
     "no": "3",
     "ilk5": false,
-    "sure": "17:37",
+    "sure": "17:49",
     "sayi": 6,
     "iki": [
      0,
@@ -219,7 +219,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "1",
+    "pm": "-3",
     "vp": 5,
     "sahada": true
    },
@@ -395,7 +395,7 @@
    "benc": 19,
    "fark": 9,
    "seri": 8,
-   "lider": 1807,
+   "lider": 1819,
    "degisim": 4,
    "esitlik": 6
   },
@@ -403,15 +403,15 @@
  },
  "dep": {
   "ad": "TÜRK TELEKOM",
-  "skor": "66",
+  "skor": "68",
   "oyuncular": [
    {
     "id": "778728",
     "ad": "Jerrick Harding",
     "no": "7",
     "ilk5": true,
-    "sure": "18:00",
-    "sayi": 9,
+    "sure": "18:12",
+    "sayi": 11,
     "iki": [
      2,
      4
@@ -421,8 +421,8 @@
      4
     ],
     "sa": [
-     5,
-     5
+     7,
+     7
     ],
     "hr": 0,
     "sr": 1,
@@ -432,8 +432,8 @@
     "blk": 0,
     "tk": 4,
     "faul": 2,
-    "pm": "-10",
-    "vp": 0,
+    "pm": "-6",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -493,16 +493,15 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-7",
-    "vp": 18,
-    "sahada": true
+    "pm": "-5",
+    "vp": 18
    },
    {
     "id": "778727",
     "ad": "Ismael Bako",
     "no": "28",
     "ilk5": true,
-    "sure": "18:41",
+    "sure": "18:53",
     "sayi": 6,
     "iki": [
      3,
@@ -524,7 +523,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-2",
     "vp": 14,
     "sahada": true
    },
@@ -593,7 +592,7 @@
     "ad": "Ata Vatansever",
     "no": "6",
     "ilk5": false,
-    "sure": "16:32",
+    "sure": "16:44",
     "sayi": 4,
     "iki": [
      2,
@@ -615,8 +614,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-2",
-    "vp": 5
+    "pm": "0",
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "112715",
@@ -653,7 +653,7 @@
     "ad": "Tony Taylor",
     "no": "21",
     "ilk5": false,
-    "sure": "8:42",
+    "sure": "8:54",
     "sayi": 0,
     "iki": [
      0,
@@ -675,7 +675,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-9",
+    "pm": "-5",
     "vp": -1,
     "sahada": true
    },
@@ -744,7 +744,7 @@
     "ad": "Shaquille Mckissic",
     "no": "77",
     "ilk5": false,
-    "sure": "19:24",
+    "sure": "19:36",
     "sayi": 6,
     "iki": [
      2,
@@ -766,7 +766,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "7",
+    "pm": "11",
     "vp": -1,
     "sahada": true
    }
@@ -775,7 +775,7 @@
    16,
    23,
    22,
-   5
+   9
   ],
   "takim": {
    "hr": 0,
@@ -789,7 +789,7 @@
    "hh": 10,
    "is": 18,
    "ba": 44,
-   "benc": 31,
+   "benc": 33,
    "fark": 2,
    "seri": 9,
    "lider": 58,
@@ -799,7 +799,7 @@
   "koc": "ERDEM CAN"
  },
  "evSkor": "72",
- "depSkor": "66",
+ "depSkor": "68",
  "salon": "Enka Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
@@ -1126,6 +1126,14 @@
    [
     1950,
     6
+   ],
+   [
+    1966,
+    5
+   ],
+   [
+    1966,
+    4
    ]
   ]
  }
