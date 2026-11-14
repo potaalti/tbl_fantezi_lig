@@ -49,13 +49,13 @@
    "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": "86",
-   "depSkor": "116",
+   "evSkor": "89",
+   "depSkor": "118",
    "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "02:24",
+    "saat": "00:48",
     "uzatma": false
    }
   },
@@ -64,26 +64,36 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BÜYÜKÇEKMECE BASKETBOL",
    "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "2",
    "salon": "Gazanfer Bilge Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:49",
+    "uzatma": false
+   }
   },
   {
    "id": 345998,
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "MKE ANKARAGÜCÜ",
    "dep": "DARÜŞŞAFAKA",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:25",
+    "uzatma": false
+   }
   },
   {
    "id": 345997,
