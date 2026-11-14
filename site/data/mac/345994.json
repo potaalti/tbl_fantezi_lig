@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "MERSİN SPOR",
-  "skor": "60",
+  "skor": "63",
   "oyuncular": [
    {
     "id": "320264",
@@ -36,15 +36,14 @@
     "tk": 3,
     "faul": 2,
     "pm": "-22",
-    "vp": 17,
-    "sahada": true
+    "vp": 17
    },
    {
     "id": "431495",
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": true,
-    "sure": "18:52",
+    "sure": "19:08",
     "sayi": 12,
     "iki": [
      2,
@@ -66,7 +65,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-25",
+    "pm": "-22",
     "vp": 8,
     "sahada": true
    },
@@ -75,15 +74,15 @@
     "ad": "Işık Ali Akpınar",
     "no": "11",
     "ilk5": true,
-    "sure": "17:19",
-    "sayi": 5,
+    "sure": "17:35",
+    "sayi": 8,
     "iki": [
      1,
      2
     ],
     "uc": [
-     1,
-     2
+     2,
+     3
     ],
     "sa": [
      0,
@@ -97,15 +96,16 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "-17",
-    "vp": 6
+    "pm": "-14",
+    "vp": 9,
+    "sahada": true
    },
    {
     "id": "214924",
     "ad": "Yesukan Onar",
     "no": "14",
     "ilk5": true,
-    "sure": "15:11",
+    "sure": "15:27",
     "sayi": 6,
     "iki": [
      3,
@@ -127,7 +127,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-3",
     "vp": 1,
     "sahada": true
    },
@@ -159,8 +159,7 @@
     "tk": 0,
     "faul": 4,
     "pm": "-6",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "fiba-yigithan-ergenc",
@@ -287,7 +286,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": false,
-    "sure": "11:33",
+    "sure": "11:49",
     "sayi": 2,
     "iki": [
      1,
@@ -309,15 +308,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-15",
-    "vp": 6
+    "pm": "-12",
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "253992",
     "ad": "Faik Can Kaşıkçı",
     "no": "8",
     "ilk5": false,
-    "sure": "13:46",
+    "sure": "14:02",
     "sayi": 5,
     "iki": [
      1,
@@ -339,7 +339,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "-16",
+    "pm": "-13",
     "vp": 5,
     "sahada": true
    }
@@ -347,7 +347,7 @@
   "ceyrekler": [
    23,
    24,
-   13
+   16
   ],
   "takim": {
    "hr": 1,
@@ -379,7 +379,7 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": true,
-    "sure": "19:16",
+    "sure": "19:32",
     "sayi": 19,
     "iki": [
      3,
@@ -401,7 +401,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "24",
+    "pm": "21",
     "vp": 24,
     "sahada": true
    },
@@ -470,7 +470,7 @@
     "ad": "Oğuzhan Tosun",
     "no": "15",
     "ilk5": true,
-    "sure": "17:10",
+    "sure": "17:26",
     "sayi": 10,
     "iki": [
      4,
@@ -492,7 +492,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "12",
+    "pm": "9",
     "vp": 12,
     "sahada": true
    },
@@ -501,7 +501,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "14:59",
+    "sure": "15:15",
     "sayi": 5,
     "iki": [
      1,
@@ -523,7 +523,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "19",
+    "pm": "16",
     "vp": 10,
     "sahada": true
    },
@@ -562,7 +562,7 @@
     "ad": "Jamari Traylor",
     "no": "7",
     "ilk5": false,
-    "sure": "15:58",
+    "sure": "16:14",
     "sayi": 8,
     "iki": [
      4,
@@ -584,7 +584,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "22",
+    "pm": "19",
     "vp": 15,
     "sahada": true
    },
@@ -623,7 +623,7 @@
     "ad": "Mert Konuk",
     "no": "13",
     "ilk5": false,
-    "sure": "1:50",
+    "sure": "2:06",
     "sayi": 0,
     "iki": [
      0,
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
+    "pm": "-2",
     "vp": -1,
     "sahada": true
    },
@@ -760,24 +760,24 @@
    "benc": 23,
    "fark": 27,
    "seri": 13,
-   "lider": 1297,
+   "lider": 1313,
    "degisim": 3,
    "esitlik": 3
   },
   "koc": "Timuçin Meriç"
  },
- "evSkor": "60",
+ "evSkor": "63",
  "depSkor": "86",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:20",
+  "saat": "04:04",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1540,
+  "simdi": 1556,
   "d": [
    [
     0,
@@ -1082,6 +1082,10 @@
    [
     1540,
     -26
+   ],
+   [
+    1554,
+    -23
    ]
   ]
  }
