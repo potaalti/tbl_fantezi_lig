@@ -35,7 +35,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 3,
-    "pm": "3",
+    "pm": "2",
     "vp": 23,
     "sahada": true
    },
@@ -66,8 +66,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
-    "vp": 8
+    "pm": "1",
+    "vp": 8,
+    "sahada": true
    },
    {
     "id": "310250",
@@ -96,7 +97,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 3,
-    "pm": "8",
+    "pm": "7",
     "vp": 22,
     "sahada": true
    },
@@ -156,8 +157,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 3,
-    "pm": "8",
+    "faul": 4,
+    "pm": "7",
     "vp": 11,
     "sahada": true
    },
@@ -188,7 +189,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 3,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 12,
     "sahada": true
    },
@@ -220,8 +221,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "-2",
-    "vp": 3,
-    "sahada": true
+    "vp": 3
    },
    {
     "id": "269217",
@@ -403,7 +403,7 @@
  },
  "dep": {
   "ad": "TÜRK TELEKOM",
-  "skor": "74",
+  "skor": "75",
   "oyuncular": [
    {
     "id": "778728",
@@ -411,7 +411,7 @@
     "no": "7",
     "ilk5": true,
     "sure": "21:08",
-    "sayi": 13,
+    "sayi": 14,
     "iki": [
      3,
      6
@@ -421,8 +421,8 @@
      4
     ],
     "sa": [
-     7,
-     7
+     8,
+     9
     ],
     "hr": 0,
     "sr": 2,
@@ -432,7 +432,7 @@
     "blk": 0,
     "tk": 4,
     "faul": 2,
-    "pm": "-7",
+    "pm": "-6",
     "vp": 4,
     "sahada": true
    },
@@ -463,7 +463,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "2",
+    "pm": "3",
     "vp": 9,
     "sahada": true
    },
@@ -494,7 +494,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 3,
-    "pm": "-4",
+    "pm": "-3",
     "vp": 19,
     "sahada": true
    },
@@ -705,7 +705,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 3,
-    "pm": "3",
+    "pm": "4",
     "vp": 26,
     "sahada": true
    },
@@ -766,7 +766,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 3,
-    "pm": "10",
+    "pm": "11",
     "vp": -1,
     "sahada": true
    }
@@ -775,7 +775,7 @@
    16,
    23,
    22,
-   13
+   14
   ],
   "takim": {
    "hr": 0,
@@ -799,7 +799,7 @@
   "koc": "ERDEM CAN"
  },
  "evSkor": "77",
- "depSkor": "74",
+ "depSkor": "75",
  "salon": "Enka Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
@@ -1154,6 +1154,10 @@
    [
     2150,
     3
+   ],
+   [
+    2154,
+    2
    ]
   ]
  }
