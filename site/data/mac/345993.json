@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "20",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "8:29",
+    "sure": "9:10",
     "sayi": 3,
     "iki": [
      0,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-1",
+    "pm": "-2",
     "vp": 7,
     "sahada": true
    },
@@ -44,11 +44,11 @@
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "7:09",
-    "sayi": 5,
+    "sure": "7:50",
+    "sayi": 7,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -66,8 +66,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
-    "vp": 6,
+    "pm": "3",
+    "vp": 8,
     "sahada": true
    },
    {
@@ -195,7 +195,7 @@
     "ad": "Tevfik Akdamar",
     "no": "3",
     "ilk5": false,
-    "sure": "6:35",
+    "sure": "7:16",
     "sayi": 5,
     "iki": [
      1,
@@ -217,7 +217,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "2",
     "vp": 5,
     "sahada": true
    },
@@ -256,7 +256,7 @@
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "3:32",
+    "sure": "4:13",
     "sayi": 3,
     "iki": [
      1,
@@ -273,13 +273,13 @@
     "hr": 1,
     "sr": 0,
     "rib": 1,
-    "ast": 0,
-    "tc": 0,
+    "ast": 1,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": 3,
+    "pm": "1",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -317,7 +317,7 @@
     "ad": "Bora Can Işık",
     "no": "25",
     "ilk5": false,
-    "sure": "2:01",
+    "sure": "2:42",
     "sayi": 0,
     "iki": [
      0,
@@ -339,7 +339,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "3",
+    "pm": "2",
     "vp": 1,
     "sahada": true
    },
@@ -376,7 +376,7 @@
   ],
   "ceyrekler": [
    18,
-   2
+   4
   ],
   "takim": {
    "hr": 0,
@@ -386,22 +386,22 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 0,
-   "hh": 7,
+   "tks": 2,
+   "hh": 9,
    "is": 0,
    "ba": 6,
    "benc": 10,
-   "fark": 1,
-   "seri": 7,
-   "lider": 90,
-   "degisim": 4,
+   "fark": 2,
+   "seri": 9,
+   "lider": 108,
+   "degisim": 6,
    "esitlik": 2
   },
   "koc": "Volkan Ertetik"
  },
  "dep": {
   "ad": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-  "skor": "20",
+  "skor": "23",
   "oyuncular": [
    {
     "id": "317200",
@@ -438,7 +438,7 @@
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "6:39",
+    "sure": "7:20",
     "sayi": 4,
     "iki": [
      2,
@@ -460,7 +460,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-1",
+    "pm": "0",
     "vp": 6,
     "sahada": true
    },
@@ -469,7 +469,7 @@
     "ad": "Muhammet Engin Kalkan",
     "no": "12",
     "ilk5": true,
-    "sure": "7:23",
+    "sure": "7:40",
     "sayi": 0,
     "iki": [
      0,
@@ -491,8 +491,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
-    "vp": -1
+    "pm": "5",
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "153011",
@@ -529,15 +530,15 @@
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "10:15",
-    "sayi": 7,
+    "sure": "10:56",
+    "sayi": 10,
     "iki": [
      2,
      4
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      3,
@@ -551,8 +552,8 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 12,
+    "pm": "1",
+    "vp": 15,
     "sahada": true
    },
    {
@@ -560,7 +561,7 @@
     "ad": "Tavian Dunn-Martin",
     "no": "7",
     "ilk5": false,
-    "sure": "5:11",
+    "sure": "5:52",
     "sayi": 3,
     "iki": [
      0,
@@ -582,7 +583,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "-1",
+    "pm": "0",
     "vp": 0,
     "sahada": true
    },
@@ -591,7 +592,7 @@
     "ad": "Berkay Bayar",
     "no": "9",
     "ilk5": false,
-    "sure": "0:15",
+    "sure": "0:56",
     "sayi": 0,
     "iki": [
      0,
@@ -608,13 +609,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
-    "vp": 0,
+    "pm": "-1",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -712,7 +713,7 @@
     "ad": "Berat Berke Tunç",
     "no": "44",
     "ilk5": false,
-    "sure": "2:52",
+    "sure": "3:16",
     "sayi": 2,
     "iki": [
      0,
@@ -732,11 +733,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "-2",
-    "vp": 2,
-    "sahada": true
+    "pm": "-4",
+    "vp": 1
    },
    {
     "id": "369470",
@@ -771,7 +771,7 @@
   ],
   "ceyrekler": [
    20,
-   0
+   3
   ],
   "takim": {
    "hr": 2,
@@ -789,23 +789,23 @@
    "fark": 7,
    "seri": 8,
    "lider": 498,
-   "degisim": 4,
+   "degisim": 6,
    "esitlik": 2
   },
   "koc": "Semih Soğuksu"
  },
- "evSkor": "20",
- "depSkor": "20",
+ "evSkor": "22",
+ "depSkor": "23",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "09:45",
+  "saat": "09:04",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 615,
+  "simdi": 656,
   "d": [
    [
     0,
@@ -898,6 +898,14 @@
    [
     615,
     0
+   ],
+   [
+    638,
+    2
+   ],
+   [
+    656,
+    -1
    ]
   ]
  }
