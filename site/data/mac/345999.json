@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "OGM ORMANSPOR",
-  "skor": "28",
+  "skor": "32",
   "oyuncular": [
    {
     "id": "109594",
     "ad": "Göktürk Gökalp Ural",
     "no": "4",
     "ilk5": true,
-    "sure": "8:23",
+    "sure": "9:20",
     "sayi": 2,
     "iki": [
      1,
@@ -44,7 +44,7 @@
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "15:03",
+    "sure": "16:00",
     "sayi": 8,
     "iki": [
      1,
@@ -105,7 +105,7 @@
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "7:00",
+    "sure": "7:57",
     "sayi": 3,
     "iki": [
      1,
@@ -136,19 +136,19 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "13:31",
-    "sayi": 9,
+    "sure": "14:28",
+    "sayi": 13,
     "iki": [
      3,
      4
     ],
     "uc": [
-     1,
-     3
+     2,
+     4
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 1,
     "sr": 1,
@@ -159,7 +159,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "2",
-    "vp": 8,
+    "vp": 12,
     "sahada": true
    },
    {
@@ -317,7 +317,7 @@
     "ad": "Mustafa Baki Görür",
     "no": "21",
     "ilk5": false,
-    "sure": "9:49",
+    "sure": "10:46",
     "sayi": 0,
     "iki": [
      0,
@@ -376,7 +376,7 @@
   ],
   "ceyrekler": [
    23,
-   5
+   9
   ],
   "takim": {
    "hr": 0,
@@ -393,15 +393,15 @@
    "benc": 4,
    "fark": 6,
    "seri": 8,
-   "lider": 719,
-   "degisim": 6,
-   "esitlik": 5
+   "lider": 738,
+   "degisim": 7,
+   "esitlik": 6
   },
   "koc": "Ceyhun Cabadak"
  },
  "dep": {
   "ad": "TED ANKARA KOLEJLİLER",
-  "skor": "28",
+  "skor": "32",
   "oyuncular": [
    {
     "id": "776821",
@@ -438,19 +438,19 @@
     "ad": "Ekrem Sancaklı",
     "no": "8",
     "ilk5": true,
-    "sure": "12:47",
-    "sayi": 0,
+    "sure": "13:44",
+    "sayi": 4,
     "iki": [
      0,
      2
     ],
     "uc": [
-     0,
-     2
+     1,
+     3
     ],
     "sa": [
-     0,
-     1
+     1,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -461,7 +461,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": -5,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -469,7 +469,7 @@
     "ad": "Tan Ayyıldız",
     "no": "9",
     "ilk5": true,
-    "sure": "14:49",
+    "sure": "15:46",
     "sayi": 2,
     "iki": [
      1,
@@ -530,7 +530,7 @@
     "ad": "Gökhan Yazıcıoğlu",
     "no": "41",
     "ilk5": true,
-    "sure": "10:15",
+    "sure": "11:12",
     "sayi": 2,
     "iki": [
      0,
@@ -621,7 +621,7 @@
     "ad": "Caner Ercan",
     "no": "7",
     "ilk5": false,
-    "sure": "7:56",
+    "sure": "8:31",
     "sayi": 2,
     "iki": [
      1,
@@ -643,15 +643,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-3",
-    "vp": 2
+    "pm": "-1",
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "408965",
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "3:02",
+    "sure": "3:24",
     "sayi": 4,
     "iki": [
      2,
@@ -672,10 +673,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "-3",
-    "vp": 5,
-    "sahada": true
+    "faul": 2,
+    "pm": "-5",
+    "vp": 5
    },
    {
     "id": "248386",
@@ -712,7 +712,7 @@
     "ad": "Ricky Tarrant",
     "no": "22",
     "ilk5": false,
-    "sure": "10:42",
+    "sure": "11:39",
     "sayi": 4,
     "iki": [
      0,
@@ -771,7 +771,7 @@
   ],
   "ceyrekler": [
    19,
-   9
+   13
   ],
   "takim": {
    "hr": 0,
@@ -788,24 +788,24 @@
    "benc": 10,
    "fark": 2,
    "seri": 5,
-   "lider": 107,
-   "degisim": 6,
-   "esitlik": 5
+   "lider": 129,
+   "degisim": 7,
+   "esitlik": 6
   },
   "koc": "Hasan Karabulut"
  },
- "evSkor": "28",
- "depSkor": "28",
+ "evSkor": "32",
+ "depSkor": "32",
  "salon": "M. Sait Zarifoğlu Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:11",
+  "saat": "02:29",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1009,
+  "simdi": 1050,
   "d": [
    [
     0,
@@ -925,6 +925,22 @@
    ],
    [
     990,
+    0
+   ],
+   [
+    1009,
+    -1
+   ],
+   [
+    1031,
+    2
+   ],
+   [
+    1031,
+    3
+   ],
+   [
+    1050,
     0
    ]
   ]
