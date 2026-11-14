@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "OGM ORMANSPOR",
-  "skor": "52",
+  "skor": "53",
   "oyuncular": [
    {
     "id": "109594",
@@ -133,7 +133,7 @@
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "23:07",
+    "sure": "23:26",
     "sayi": 16,
     "iki": [
      3,
@@ -155,7 +155,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "10",
+    "pm": "11",
     "vp": 11,
     "sahada": true
    },
@@ -224,7 +224,7 @@
     "ad": "Kaan Tarla",
     "no": "7",
     "ilk5": false,
-    "sure": "6:20",
+    "sure": "6:39",
     "sayi": 0,
     "iki": [
      0,
@@ -246,7 +246,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 0,
     "sahada": true
    },
@@ -255,8 +255,8 @@
     "ad": "Tuna Han Dikmen",
     "no": "19",
     "ilk5": false,
-    "sure": "8:39",
-    "sayi": 0,
+    "sure": "8:58",
+    "sayi": 1,
     "iki": [
      0,
      0
@@ -266,8 +266,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 1,
     "sr": 4,
@@ -277,7 +277,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 2,
-    "pm": "-4",
+    "pm": "-3",
     "vp": 6,
     "sahada": true
    },
@@ -286,7 +286,7 @@
     "ad": "Arca Tülüoğlu",
     "no": "20",
     "ilk5": false,
-    "sure": "7:05",
+    "sure": "7:24",
     "sayi": 6,
     "iki": [
      3,
@@ -308,7 +308,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 1,
-    "pm": "4",
+    "pm": "5",
     "vp": 2,
     "sahada": true
    },
@@ -317,7 +317,7 @@
     "ad": "Mustafa Baki Görür",
     "no": "21",
     "ilk5": false,
-    "sure": "13:26",
+    "sure": "13:45",
     "sayi": 0,
     "iki": [
      0,
@@ -339,7 +339,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "5",
+    "pm": "6",
     "vp": 3,
     "sahada": true
    },
@@ -377,7 +377,7 @@
   "ceyrekler": [
    23,
    20,
-   9
+   10
   ],
   "takim": {
    "hr": 2,
@@ -389,12 +389,12 @@
   "ileri": {
    "tks": 5,
    "hh": 6,
-   "is": 9,
+   "is": 10,
    "ba": 24,
-   "benc": 6,
+   "benc": 7,
    "fark": 11,
    "seri": 8,
-   "lider": 1250,
+   "lider": 1269,
    "degisim": 7,
    "esitlik": 6
   },
@@ -439,7 +439,7 @@
     "ad": "Ekrem Sancaklı",
     "no": "8",
     "ilk5": true,
-    "sure": "19:06",
+    "sure": "19:25",
     "sayi": 6,
     "iki": [
      1,
@@ -461,7 +461,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-9",
+    "pm": "-10",
     "vp": -1,
     "sahada": true
    },
@@ -493,15 +493,14 @@
     "tk": 0,
     "faul": 2,
     "pm": "-4",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "222696",
     "ad": "Burak Erol",
     "no": "23",
     "ilk5": true,
-    "sure": "17:37",
+    "sure": "17:56",
     "sayi": 9,
     "iki": [
      3,
@@ -523,7 +522,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "pm": "-3",
+    "pm": "-4",
     "vp": 13,
     "sahada": true
    },
@@ -622,7 +621,7 @@
     "ad": "Caner Ercan",
     "no": "7",
     "ilk5": false,
-    "sure": "10:06",
+    "sure": "10:25",
     "sayi": 2,
     "iki": [
      1,
@@ -644,15 +643,16 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-8",
-    "vp": 2
+    "pm": "-9",
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "408965",
     "ad": "Eren Karakaya",
     "no": "14",
     "ilk5": false,
-    "sure": "7:56",
+    "sure": "8:15",
     "sayi": 4,
     "iki": [
      2,
@@ -674,7 +674,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-4",
+    "pm": "-5",
     "vp": 6,
     "sahada": true
    },
@@ -713,7 +713,7 @@
     "ad": "Ricky Tarrant",
     "no": "22",
     "ilk5": false,
-    "sure": "20:18",
+    "sure": "20:37",
     "sayi": 10,
     "iki": [
      1,
@@ -735,7 +735,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 5,
     "sahada": true
    },
@@ -796,7 +796,7 @@
   },
   "koc": "Hasan Karabulut"
  },
- "evSkor": "52",
+ "evSkor": "53",
  "depSkor": "44",
  "salon": "M. Sait Zarifoğlu Spor Salonu",
  "yayin": "HT SPOR",
@@ -1024,6 +1024,10 @@
    [
     1540,
     8
+   ],
+   [
+    1585,
+    9
    ]
   ]
  }
