@@ -46,13 +46,18 @@
    "lig": "bsl",
    "hafta": 8,
    "tarih": "2026-11-14T20:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "PİZZABULLS BORDO BANDIRMA",
    "dep": "KARŞIYAKA",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "5",
    "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:08",
+    "uzatma": false
+   }
   },
   {
    "id": 346330,
