@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-9",
+    "pm": "-10",
     "vp": 9,
     "sahada": true
    },
@@ -66,8 +66,9 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-12",
-    "vp": 4
+    "pm": "-13",
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "379811",
@@ -96,7 +97,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 4,
     "sahada": true
    },
@@ -186,10 +187,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "pm": "-5",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "fiba-hali-l-ibrahi-m-ates",
@@ -218,7 +218,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-8",
+    "pm": "-9",
     "vp": 5,
     "sahada": true
    },
@@ -279,8 +279,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "-1",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "fiba-ferhat-seniceli",
@@ -310,8 +311,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-15",
-    "vp": 3,
-    "sahada": true
+    "vp": 3
    },
    {
     "id": "253992",
@@ -371,7 +371,7 @@
  },
  "dep": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "48",
+  "skor": "49",
   "oyuncular": [
    {
     "id": "257055",
@@ -409,7 +409,7 @@
     "no": "5",
     "ilk5": true,
     "sure": "13:03",
-    "sayi": 5,
+    "sayi": 6,
     "iki": [
      1,
      3
@@ -419,8 +419,8 @@
      5
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 2,
@@ -430,8 +430,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "9",
-    "vp": 11,
+    "pm": "10",
+    "vp": 12,
     "sahada": true
    },
    {
@@ -461,7 +461,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "5",
+    "pm": "6",
     "vp": 10,
     "sahada": true
    },
@@ -552,7 +552,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 0,
     "sahada": true
    },
@@ -583,7 +583,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "9",
+    "pm": "10",
     "vp": 5,
     "sahada": true
    },
@@ -674,7 +674,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "9",
+    "pm": "10",
     "vp": 13,
     "sahada": true
    },
@@ -741,7 +741,7 @@
   ],
   "ceyrekler": [
    35,
-   13
+   14
   ],
   "takim": {
    "hr": 1,
@@ -765,7 +765,7 @@
   "koc": "Timuçin Meriç"
  },
  "evSkor": "35",
- "depSkor": "48",
+ "depSkor": "49",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
@@ -952,6 +952,10 @@
    [
     851,
     -13
+   ],
+   [
+    860,
+    -14
    ]
   ]
  }
