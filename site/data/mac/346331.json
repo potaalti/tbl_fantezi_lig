@@ -37,18 +37,19 @@
     "faul": 4,
     "af": 6,
     "pm": "9",
-    "vp": 22
+    "vp": 22,
+    "sahada": true
    },
    {
     "id": "778161",
     "ad": "Johnny Davis",
     "no": "1",
     "ilk5": true,
-    "sure": "26:23",
+    "sure": "27:05",
     "sayi": 18,
     "iki": [
      4,
-     5
+     6
     ],
     "uc": [
      2,
@@ -67,8 +68,8 @@
     "tk": 2,
     "faul": 3,
     "af": 4,
-    "pm": "9",
-    "vp": 21,
+    "pm": "7",
+    "vp": 20,
     "sahada": true
    },
    {
@@ -76,7 +77,7 @@
     "ad": "Berk Can Akın",
     "no": "10",
     "ilk5": true,
-    "sure": "22:14",
+    "sure": "22:56",
     "sayi": 3,
     "iki": [
      0,
@@ -99,7 +100,7 @@
     "tk": 1,
     "faul": 4,
     "af": 0,
-    "pm": "23",
+    "pm": "21",
     "vp": -1,
     "sahada": true
    },
@@ -108,7 +109,7 @@
     "ad": "Matt Mitchell",
     "no": "11",
     "ilk5": true,
-    "sure": "26:37",
+    "sure": "27:19",
     "sayi": 17,
     "iki": [
      4,
@@ -128,11 +129,11 @@
     "ast": 0,
     "tc": 3,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
     "af": 5,
-    "pm": "19",
-    "vp": 18,
+    "pm": "17",
+    "vp": 17,
     "sahada": true
    },
    {
@@ -140,7 +141,7 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": true,
-    "sure": "26:08",
+    "sure": "26:50",
     "sayi": 13,
     "iki": [
      3,
@@ -155,16 +156,16 @@
      2
     ],
     "hr": 0,
-    "sr": 5,
-    "rib": 5,
+    "sr": 6,
+    "rib": 6,
     "ast": 2,
     "tc": 1,
     "blk": 1,
     "tk": 2,
-    "faul": 2,
+    "faul": 3,
     "af": 2,
-    "pm": "18",
-    "vp": 16,
+    "pm": "16",
+    "vp": 17,
     "sahada": true
    },
    {
@@ -358,7 +359,7 @@
     "ad": "Filip Barna",
     "no": "88",
     "ilk5": false,
-    "sure": "13:41",
+    "sure": "14:23",
     "sayi": 4,
     "iki": [
      0,
@@ -381,9 +382,8 @@
     "tk": 2,
     "faul": 1,
     "af": 0,
-    "pm": "-4",
-    "vp": -1,
-    "sahada": true
+    "pm": "-6",
+    "vp": -1
    }
   ],
   "ceyrekler": [
@@ -407,7 +407,7 @@
    "benc": 4,
    "fark": 19,
    "seri": 12,
-   "lider": 1978,
+   "lider": 2020,
    "degisim": 0,
    "esitlik": 0
   },
@@ -415,7 +415,7 @@
  },
  "dep": {
   "ad": "GALATASARAY MCT TECHNIC",
-  "skor": "66",
+  "skor": "68",
   "oyuncular": [
    {
     "id": "736340",
@@ -446,14 +446,15 @@
     "faul": 3,
     "af": 1,
     "pm": "-12",
-    "vp": 9
+    "vp": 9,
+    "sahada": true
    },
    {
     "id": "250129",
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "21:33",
+    "sure": "22:15",
     "sayi": 6,
     "iki": [
      2,
@@ -476,7 +477,7 @@
     "tk": 1,
     "faul": 2,
     "af": 6,
-    "pm": "-17",
+    "pm": "-15",
     "vp": 3,
     "sahada": true
    },
@@ -485,8 +486,8 @@
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "24:57",
-    "sayi": 16,
+    "sure": "25:39",
+    "sayi": 18,
     "iki": [
      0,
      1
@@ -496,8 +497,8 @@
      8
     ],
     "sa": [
-     7,
-     7
+     9,
+     9
     ],
     "hr": 1,
     "sr": 1,
@@ -507,9 +508,9 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "af": 4,
-    "pm": "-3",
-    "vp": 13,
+    "af": 5,
+    "pm": "-1",
+    "vp": 15,
     "sahada": true
    },
    {
@@ -517,7 +518,7 @@
     "ad": "Chimezie Metu",
     "no": "10",
     "ilk5": true,
-    "sure": "24:12",
+    "sure": "24:54",
     "sayi": 5,
     "iki": [
      1,
@@ -540,7 +541,7 @@
     "tk": 2,
     "faul": 2,
     "af": 1,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 11,
     "sahada": true
    },
@@ -642,7 +643,7 @@
     "ad": "Alen Smailagic",
     "no": "9",
     "ilk5": false,
-    "sure": "14:04",
+    "sure": "14:46",
     "sayi": 4,
     "iki": [
      2,
@@ -660,13 +661,13 @@
     "sr": 3,
     "rib": 4,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 1,
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "4",
-    "vp": 6,
+    "pm": "6",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -767,11 +768,11 @@
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "21:03",
+    "sure": "21:45",
     "sayi": 6,
     "iki": [
      3,
-     6
+     7
     ],
     "uc": [
      0,
@@ -790,26 +791,25 @@
     "tk": 1,
     "faul": 2,
     "af": 1,
-    "pm": "-8",
-    "vp": 4,
-    "sahada": true
+    "pm": "-6",
+    "vp": 3
    }
   ],
   "ceyrekler": [
    14,
    23,
    23,
-   6
+   8
   ],
   "takim": {
    "hr": 1,
-   "sr": 3,
-   "rib": 4,
+   "sr": 4,
+   "rib": 5,
    "tk": 0,
    "faul": 1
   },
   "ileri": {
-   "tks": 10,
+   "tks": 12,
    "hh": 8,
    "is": 7,
    "ba": 28,
@@ -823,17 +823,17 @@
   "koc": "MANUCHAR MARKOISHVILI"
  },
  "evSkor": "76",
- "depSkor": "66",
+ "depSkor": "68",
  "salon": "Şehit Polis Recep Topaloğlu Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "06:45",
+  "saat": "06:03",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1988,
+  "simdi": 2037,
   "d": [
    [
     0,
@@ -1138,6 +1138,14 @@
    [
     1970,
     10
+   ],
+   [
+    1995,
+    9
+   ],
+   [
+    1995,
+    8
    ]
   ]
  }
