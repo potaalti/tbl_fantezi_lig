@@ -13,7 +13,7 @@
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": true,
-    "sure": "5:49",
+    "sure": "6:18",
     "sayi": 0,
     "iki": [
      0,
@@ -104,7 +104,7 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "6:45",
+    "sure": "7:14",
     "sayi": 0,
     "iki": [
      0,
@@ -195,7 +195,7 @@
     "ad": "Sadık Kabaca",
     "no": "6",
     "ilk5": false,
-    "sure": "4:46",
+    "sure": "5:15",
     "sayi": 2,
     "iki": [
      1,
@@ -256,7 +256,7 @@
     "ad": "Mantas Rubstavicius",
     "no": "17",
     "ilk5": false,
-    "sure": "3:30",
+    "sure": "3:59",
     "sayi": 3,
     "iki": [
      0,
@@ -340,15 +340,14 @@
     "tk": 1,
     "faul": 0,
     "pm": "-3",
-    "vp": -2,
-    "sahada": true
+    "vp": -2
    },
    {
     "id": "197570",
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:29",
     "sayi": 0,
     "iki": [
      0,
@@ -371,16 +370,18 @@
     "tk": 0,
     "faul": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    }
   ],
   "ceyrekler": [
-   16
+   16,
+   0
   ],
   "takim": {
    "hr": 1,
-   "sr": 1,
-   "rib": 2,
+   "sr": 2,
+   "rib": 3,
    "tk": 0,
    "faul": 0
   },
@@ -407,7 +408,7 @@
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": true,
-    "sure": "8:29",
+    "sure": "8:58",
     "sayi": 0,
     "iki": [
      0,
@@ -430,7 +431,8 @@
     "tk": 0,
     "faul": 1,
     "pm": "3",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "735812",
@@ -460,8 +462,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "6",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "133530",
@@ -558,7 +559,7 @@
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": false,
-    "sure": "4:46",
+    "sure": "5:15",
     "sayi": 0,
     "iki": [
      0,
@@ -649,7 +650,7 @@
     "ad": "Royce Hamm Jr.",
     "no": "17",
     "ilk5": false,
-    "sure": "3:30",
+    "sure": "3:59",
     "sayi": 0,
     "iki": [
      0,
@@ -657,7 +658,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -672,7 +673,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "3",
-    "vp": 2,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -710,7 +711,7 @@
     "ad": "Brady Manek",
     "no": "45",
     "ilk5": false,
-    "sure": "3:30",
+    "sure": "3:59",
     "sayi": 3,
     "iki": [
      0,
@@ -741,7 +742,7 @@
     "ad": "Rıdvan Öncel",
     "no": "99",
     "ilk5": false,
-    "sure": "1:31",
+    "sure": "2:00",
     "sayi": 0,
     "iki": [
      0,
@@ -769,7 +770,8 @@
    }
   ],
   "ceyrekler": [
-   22
+   22,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -786,7 +788,7 @@
    "benc": 3,
    "fark": 8,
    "seri": 7,
-   "lider": 428,
+   "lider": 457,
    "degisim": 4,
    "esitlik": 1
   },
@@ -797,13 +799,13 @@
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "09:31",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 600,
+  "simdi": 629,
   "d": [
    [
     0,
