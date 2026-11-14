@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "PİZZABULLS BORDO BANDIRMA",
-  "skor": "11",
+  "skor": "13",
   "oyuncular": [
    {
     "id": "666515",
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "5:16",
     "sayi": 0,
     "iki": [
      0,
@@ -37,15 +37,14 @@
     "faul": 1,
     "af": 0,
     "pm": "-5",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "130898",
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 1,
     "iki": [
      0,
@@ -77,7 +76,7 @@
     "ad": "Boubacar Toure",
     "no": "21",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 5,
     "iki": [
      2,
@@ -109,7 +108,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 0,
     "iki": [
      0,
@@ -141,11 +140,11 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "5:18",
-    "sayi": 5,
+    "sure": "6:02",
+    "sayi": 7,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -163,9 +162,9 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "af": 1,
+    "af": 2,
     "pm": "-5",
-    "vp": 7,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -173,7 +172,7 @@
     "ad": "Alex Perez",
     "no": "2",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:46",
     "sayi": 0,
     "iki": [
      0,
@@ -197,7 +196,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "106461",
@@ -387,7 +387,7 @@
    }
   ],
   "ceyrekler": [
-   11
+   13
   ],
   "takim": {
    "hr": 0,
@@ -399,8 +399,8 @@
   "ileri": {
    "tks": 1,
    "hh": 2,
-   "is": 0,
-   "ba": 4,
+   "is": 2,
+   "ba": 6,
    "benc": 0,
    "fark": 2,
    "seri": 3,
@@ -412,14 +412,14 @@
  },
  "dep": {
   "ad": "KARŞIYAKA",
-  "skor": "16",
+  "skor": "18",
   "oyuncular": [
    {
     "id": "573226",
     "ad": "Briante Weber",
     "no": "2",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 4,
     "iki": [
      2,
@@ -436,14 +436,14 @@
     "hr": 1,
     "sr": 1,
     "rib": 2,
-    "ast": 0,
+    "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 1,
     "pm": "5",
-    "vp": 5,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 10,
     "iki": [
      2,
@@ -483,7 +483,7 @@
     "ad": "Rashard Kelly",
     "no": "7",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 2,
     "iki": [
      1,
@@ -515,7 +515,7 @@
     "ad": "Yavuz Gültekin",
     "no": "19",
     "ilk5": true,
-    "sure": "5:18",
+    "sure": "6:02",
     "sayi": 0,
     "iki": [
      0,
@@ -547,11 +547,11 @@
     "ad": "Steven Enoch",
     "no": "23",
     "ilk5": true,
-    "sure": "5:18",
-    "sayi": 0,
+    "sure": "6:02",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -568,10 +568,10 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "af": 0,
     "pm": "5",
-    "vp": 2,
+    "vp": 4,
     "sahada": true
    },
    {
@@ -793,7 +793,7 @@
    }
   ],
   "ceyrekler": [
-   16
+   18
   ],
   "takim": {
    "hr": 1,
@@ -806,28 +806,28 @@
    "tks": 3,
    "hh": 3,
    "is": 4,
-   "ba": 4,
+   "ba": 6,
    "benc": 0,
    "fark": 6,
    "seri": 5,
-   "lider": 267,
+   "lider": 311,
    "degisim": 1,
    "esitlik": 1
   },
   "koc": "Nenad Markovic Zoric"
  },
- "evSkor": "11",
- "depSkor": "16",
+ "evSkor": "13",
+ "depSkor": "18",
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "04:44",
+  "saat": "03:58",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 316,
+  "simdi": 362,
   "d": [
    [
     0,
@@ -887,6 +887,14 @@
    ],
    [
     289,
+    -5
+   ],
+   [
+    325,
+    -3
+   ],
+   [
+    345,
     -5
    ]
   ]
