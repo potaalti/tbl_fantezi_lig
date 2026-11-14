@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BİOTEKNO KÖRFEZ BASKET",
-  "skor": "0",
+  "skor": "2",
   "oyuncular": [
    {
     "id": "778181",
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -45,7 +45,7 @@
     "no": "1",
     "ilk5": true,
     "sure": "0:17",
-    "sayi": 0,
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -55,8 +55,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -66,8 +66,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0,
+    "pm": "2",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -97,7 +97,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -128,7 +128,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -159,7 +159,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -375,7 +375,7 @@
    }
   ],
   "ceyrekler": [
-   0
+   2
   ],
   "takim": {
    "hr": 0,
@@ -385,13 +385,13 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 0,
+   "tks": 2,
    "hh": 0,
    "is": 0,
    "ba": 0,
    "benc": 0,
-   "fark": 0,
-   "seri": 0,
+   "fark": 2,
+   "seri": 2,
    "lider": 0,
    "degisim": 0,
    "esitlik": 0
@@ -429,7 +429,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -460,7 +460,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -491,7 +491,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -522,7 +522,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": -1,
     "sahada": true
    },
@@ -553,7 +553,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -792,7 +792,7 @@
   },
   "koc": "MANUCHAR MARKOISHVILI"
  },
- "evSkor": "0",
+ "evSkor": "2",
  "depSkor": "0",
  "salon": "Şehit Polis Recep Topaloğlu Spor Salonu",
  "yayin": "beINSports",
@@ -808,6 +808,14 @@
    [
     0,
     0
+   ],
+   [
+    17,
+    1
+   ],
+   [
+    17,
+    2
    ]
   ]
  }
