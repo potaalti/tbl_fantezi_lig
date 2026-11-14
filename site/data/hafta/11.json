@@ -32,18 +32,13 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T16:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "GÖZTEPE ISONEM",
    "dep": "CEDİ OSMAN BASKETBOL",
    "evSkor": "87",
    "depSkor": "56",
    "salon": "Altındağ Atatürk Spor Kompleksi",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345994,
@@ -53,28 +48,15 @@
    "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": "77",
-   "depSkor": "108",
+   "evSkor": "81",
+   "depSkor": "109",
    "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "06:06",
+    "saat": "05:03",
     "uzatma": false
    }
-  },
-  {
-   "id": 345998,
-   "lig": "tbl",
-   "hafta": 11,
-   "tarih": "2026-11-14T18:00:00",
-   "durum": "oynanmadi",
-   "ev": "MKE ANKARAGÜCÜ",
-   "dep": "DARÜŞŞAFAKA",
-   "evSkor": null,
-   "depSkor": null,
-   "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345993,
@@ -87,6 +69,19 @@
    "evSkor": null,
    "depSkor": null,
    "salon": "Gazanfer Bilge Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345998,
+   "lig": "tbl",
+   "hafta": 11,
+   "tarih": "2026-11-14T18:00:00",
+   "durum": "oynanmadi",
+   "ev": "MKE ANKARAGÜCÜ",
+   "dep": "DARÜŞŞAFAKA",
+   "evSkor": null,
+   "depSkor": null,
+   "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
@@ -604,7 +599,7 @@
    ]
   },
   "786709": {
-   "ad": "Deandre Pinckney",
+   "ad": "DeAndre Pinckney",
    "takim": "GÖZTEPE ISONEM",
    "vp": 5,
    "saniye": 955,
@@ -639,7 +634,7 @@
     345992
    ]
   },
-  "fiba-kaan-sariaslan": {
+  "132341": {
    "ad": "Kaan Sarıaslan",
    "takim": "GÖZTEPE ISONEM",
    "vp": 10,
@@ -759,8 +754,8 @@
   "320264": {
    "ad": "Turan Altunbaş",
    "takim": "MERSİN SPOR",
-   "vp": 21,
-   "saniye": 1766,
+   "vp": 23,
+   "saniye": 1829,
    "maclar": [
     345994
    ]
@@ -768,8 +763,8 @@
   "431495": {
    "ad": "Berat Ege Bulut",
    "takim": "MERSİN SPOR",
-   "vp": 9,
-   "saniye": 1576,
+   "vp": 11,
+   "saniye": 1639,
    "maclar": [
     345994
    ]
@@ -777,8 +772,8 @@
   "379811": {
    "ad": "Işık Ali Akpınar",
    "takim": "MERSİN SPOR",
-   "vp": 11,
-   "saniye": 1533,
+   "vp": 10,
+   "saniye": 1596,
    "maclar": [
     345994
    ]
@@ -787,7 +782,7 @@
    "ad": "Yesukan Onar",
    "takim": "MERSİN SPOR",
    "vp": 1,
-   "saniye": 1292,
+   "saniye": 1355,
    "maclar": [
     345994
    ]
@@ -795,8 +790,8 @@
   "225810": {
    "ad": "Troy Şav",
    "takim": "MERSİN SPOR",
-   "vp": 9,
-   "saniye": 1145,
+   "vp": 10,
+   "saniye": 1198,
    "maclar": [
     345994
    ]
@@ -840,8 +835,8 @@
   "fiba-ferhat-seniceli": {
    "ad": "Ferhat Seniçeli",
    "takim": "MERSİN SPOR",
-   "vp": 6,
-   "saniye": 953,
+   "vp": 7,
+   "saniye": 963,
    "maclar": [
     345994
    ]
@@ -886,7 +881,7 @@
    "ad": "Oğuzhan Tosun",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "vp": 16,
-   "saniye": 1524,
+   "saniye": 1587,
    "maclar": [
     345994
    ]
@@ -895,7 +890,7 @@
    "ad": "Efe Sert",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "vp": 11,
-   "saniye": 1202,
+   "saniye": 1265,
    "maclar": [
     345994
    ]
@@ -903,8 +898,8 @@
   "460265": {
    "ad": "Efe Kemal Akayın",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "vp": 2,
-   "saniye": 343,
+   "vp": 1,
+   "saniye": 406,
    "maclar": [
     345994
    ]
@@ -930,8 +925,8 @@
   "207867": {
    "ad": "Mert Konuk",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "vp": 4,
-   "saniye": 604,
+   "vp": 5,
+   "saniye": 667,
    "maclar": [
     345994
    ]
@@ -940,7 +935,7 @@
    "ad": "Arda Birkeser",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "vp": 19,
-   "saniye": 1189,
+   "saniye": 1252,
    "maclar": [
     345994
    ]

@@ -33,18 +33,13 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T16:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "GÖZTEPE ISONEM",
    "dep": "CEDİ OSMAN BASKETBOL",
    "evSkor": "87",
    "depSkor": "56",
    "salon": "Altındağ Atatürk Spor Kompleksi",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345994,
@@ -54,28 +49,15 @@
    "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": "77",
-   "depSkor": "108",
+   "evSkor": "81",
+   "depSkor": "109",
    "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "06:06",
+    "saat": "05:03",
     "uzatma": false
    }
-  },
-  {
-   "id": 345998,
-   "lig": "tbl",
-   "hafta": 11,
-   "tarih": "2026-11-14T18:00:00",
-   "durum": "oynanmadi",
-   "ev": "MKE ANKARAGÜCÜ",
-   "dep": "DARÜŞŞAFAKA",
-   "evSkor": null,
-   "depSkor": null,
-   "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345993,
@@ -88,6 +70,19 @@
    "evSkor": null,
    "depSkor": null,
    "salon": "Gazanfer Bilge Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345998,
+   "lig": "tbl",
+   "hafta": 11,
+   "tarih": "2026-11-14T18:00:00",
+   "durum": "oynanmadi",
+   "ev": "MKE ANKARAGÜCÜ",
+   "dep": "DARÜŞŞAFAKA",
+   "evSkor": null,
+   "depSkor": null,
+   "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
