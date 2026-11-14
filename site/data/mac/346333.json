@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "TOFAŞ",
-  "skor": "52",
+  "skor": "54",
   "oyuncular": [
    {
     "id": "485299",
@@ -43,7 +43,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "12:59",
+    "sure": "13:52",
     "sayi": 8,
     "iki": [
      4,
@@ -224,11 +224,11 @@
     "ad": "Jamuni Mcneace",
     "no": "8",
     "ilk5": false,
-    "sure": "10:10",
-    "sayi": 2,
+    "sure": "11:03",
+    "sayi": 4,
     "iki": [
-     1,
-     4
+     2,
+     5
     ],
     "uc": [
      0,
@@ -243,11 +243,11 @@
     "rib": 4,
     "ast": 1,
     "tc": 1,
-    "blk": 0,
+    "blk": 1,
     "tk": 0,
     "faul": 0,
     "pm": "8",
-    "vp": 5,
+    "vp": 8,
     "sahada": true
    },
    {
@@ -255,7 +255,7 @@
     "ad": "Mantas Rubstavicius",
     "no": "17",
     "ilk5": false,
-    "sure": "13:02",
+    "sure": "13:55",
     "sayi": 10,
     "iki": [
      2,
@@ -316,7 +316,7 @@
     "ad": "Shavar Reynolds Jr.",
     "no": "33",
     "ilk5": false,
-    "sure": "13:03",
+    "sure": "13:56",
     "sayi": 0,
     "iki": [
      0,
@@ -333,13 +333,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "pm": "-4",
-    "vp": -5,
+    "vp": -4,
     "sahada": true
    },
    {
@@ -347,7 +347,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "5:57",
+    "sure": "6:50",
     "sayi": 0,
     "iki": [
      0,
@@ -377,7 +377,7 @@
   "ceyrekler": [
    16,
    20,
-   16
+   18
   ],
   "takim": {
    "hr": 2,
@@ -390,11 +390,11 @@
    "tks": 11,
    "hh": 16,
    "is": 4,
-   "ba": 32,
-   "benc": 19,
+   "ba": 34,
+   "benc": 21,
    "fark": 8,
    "seri": 11,
-   "lider": 261,
+   "lider": 314,
    "degisim": 5,
    "esitlik": 1
   },
@@ -402,14 +402,14 @@
  },
  "dep": {
   "ad": "TRABZONSPOR",
-  "skor": "47",
+  "skor": "49",
   "oyuncular": [
    {
     "id": "779255",
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": true,
-    "sure": "25:36",
+    "sure": "26:29",
     "sayi": 3,
     "iki": [
      1,
@@ -426,13 +426,13 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 7,
+    "ast": 8,
     "tc": 2,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "pm": "-10",
-    "vp": 5,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -440,11 +440,11 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": true,
-    "sure": "25:32",
-    "sayi": 20,
+    "sure": "26:25",
+    "sayi": 22,
     "iki": [
-     4,
-     9
+     5,
+     10
     ],
     "uc": [
      3,
@@ -463,7 +463,7 @@
     "tk": 1,
     "faul": 2,
     "pm": "-4",
-    "vp": 11,
+    "vp": 13,
     "sahada": true
    },
    {
@@ -501,7 +501,7 @@
     "ad": "Akwasi Yeboah",
     "no": "15",
     "ilk5": true,
-    "sure": "17:36",
+    "sure": "18:29",
     "sayi": 5,
     "iki": [
      1,
@@ -562,7 +562,7 @@
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": false,
-    "sure": "14:59",
+    "sure": "15:52",
     "sayi": 3,
     "iki": [
      0,
@@ -653,11 +653,11 @@
     "ad": "Royce Hamm Jr.",
     "no": "17",
     "ilk5": false,
-    "sure": "7:53",
+    "sure": "8:46",
     "sayi": 0,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      0,
@@ -676,7 +676,7 @@
     "tk": 1,
     "faul": 0,
     "pm": "7",
-    "vp": 2,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -773,20 +773,20 @@
   "ceyrekler": [
    22,
    17,
-   8
+   10
   ],
   "takim": {
-   "hr": 0,
+   "hr": 1,
    "sr": 2,
-   "rib": 2,
+   "rib": 3,
    "tk": 0,
    "faul": 0
   },
   "ileri": {
    "tks": 12,
    "hh": 8,
-   "is": 3,
-   "ba": 22,
+   "is": 5,
+   "ba": 24,
    "benc": 12,
    "fark": 10,
    "seri": 7,
@@ -796,18 +796,18 @@
   },
   "koc": "Erhan Yetim"
  },
- "evSkor": "52",
- "depSkor": "47",
+ "evSkor": "54",
+ "depSkor": "49",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "02:13",
+  "saat": "01:38",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1667,
+  "simdi": 1702,
   "d": [
    [
     0,
@@ -999,6 +999,14 @@
    ],
    [
     1602,
+    5
+   ],
+   [
+    1681,
+    3
+   ],
+   [
+    1702,
     5
    ]
   ]
