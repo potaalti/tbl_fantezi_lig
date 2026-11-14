@@ -22,13 +22,13 @@
    "durum": "canli",
    "ev": "GÖZTEPE ISONEM",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": "4",
-   "depSkor": "2",
+   "evSkor": "7",
+   "depSkor": "4",
    "salon": "Altındağ Atatürk Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 1,
-    "saat": "06:56",
+    "saat": "05:20",
     "uzatma": false
    }
   },
@@ -40,13 +40,13 @@
    "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "6",
-   "depSkor": "6",
+   "evSkor": "11",
+   "depSkor": "8",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 1,
-    "saat": "06:49",
+    "saat": "05:35",
     "uzatma": false
    }
   },
@@ -336,8 +336,8 @@
   "316467": {
    "ad": "Emir Arda Sivas",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 1,
-   "saniye": 184,
+   "vp": 0,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -345,8 +345,8 @@
   "39445": {
    "ad": "Fatih Cantitiz",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 0,
-   "saniye": 184,
+   "vp": 3,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -354,8 +354,8 @@
   "196982": {
    "ad": "Ahmet Can Duran",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 0,
-   "saniye": 184,
+   "vp": 3,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -364,7 +364,7 @@
    "ad": "Rijad Aydın",
    "takim": "GÖZTEPE ISONEM",
    "vp": 4,
-   "saniye": 184,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -372,8 +372,8 @@
   "399293": {
    "ad": "Deniz Savut",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 2,
-   "saniye": 184,
+   "vp": 1,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -445,7 +445,7 @@
    "ad": "Mbala Mendzana",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 2,
-   "saniye": 184,
+   "saniye": 239,
    "maclar": [
     345992
    ]
@@ -453,8 +453,8 @@
   "224801": {
    "ad": "Ömercan Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": -1,
-   "saniye": 184,
+   "vp": -2,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -462,8 +462,8 @@
   "56403": {
    "ad": "Ömer Sancaklı",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 184,
+   "vp": 2,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -471,8 +471,8 @@
   "189840": {
    "ad": "Umut Geçen",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 184,
+   "vp": -1,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -480,8 +480,8 @@
   "35766": {
    "ad": "Ali Işık",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 184,
+   "vp": 3,
+   "saniye": 280,
    "maclar": [
     345992
    ]
@@ -534,8 +534,8 @@
   "467246": {
    "ad": "Ahmet Arda Aydın",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 0,
+   "vp": -1,
+   "saniye": 41,
    "maclar": [
     345992
    ]
@@ -543,8 +543,8 @@
   "109594": {
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
-   "vp": 0,
-   "saniye": 191,
+   "vp": 1,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -552,8 +552,8 @@
   "473677": {
    "ad": "Diante Watkins",
    "takim": "OGM ORMANSPOR",
-   "vp": 2,
-   "saniye": 191,
+   "vp": 5,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -562,7 +562,7 @@
    "ad": "Tolga Kaan Birer",
    "takim": "OGM ORMANSPOR",
    "vp": 1,
-   "saniye": 191,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -571,7 +571,7 @@
    "ad": "Koray Uzunhasan",
    "takim": "OGM ORMANSPOR",
    "vp": 2,
-   "saniye": 191,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -579,8 +579,8 @@
   "501170": {
    "ad": "Tobin Carberry",
    "takim": "OGM ORMANSPOR",
-   "vp": 2,
-   "saniye": 191,
+   "vp": 4,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -651,8 +651,8 @@
   "776821": {
    "ad": "Vitalis Chikoko",
    "takim": "TED ANKARA KOLEJLİLER",
-   "vp": 0,
-   "saniye": 191,
+   "vp": 1,
+   "saniye": 243,
    "maclar": [
     345999
    ]
@@ -661,7 +661,7 @@
    "ad": "Ekrem Sancaklı",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 0,
-   "saniye": 191,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -670,7 +670,7 @@
    "ad": "Tan Ayyıldız",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 3,
-   "saniye": 191,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -679,7 +679,7 @@
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 3,
-   "saniye": 191,
+   "saniye": 243,
    "maclar": [
     345999
    ]
@@ -688,7 +688,7 @@
    "ad": "Gökhan Yazıcıoğlu",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 1,
-   "saniye": 191,
+   "saniye": 283,
    "maclar": [
     345999
    ]
@@ -715,7 +715,7 @@
    "ad": "Caner Ercan",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 0,
-   "saniye": 0,
+   "saniye": 40,
    "maclar": [
     345999
    ]
@@ -742,7 +742,7 @@
    "ad": "Ricky Tarrant",
    "takim": "TED ANKARA KOLEJLİLER",
    "vp": 0,
-   "saniye": 0,
+   "saniye": 40,
    "maclar": [
     345999
    ]
