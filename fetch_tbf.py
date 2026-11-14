@@ -118,6 +118,16 @@ def transferleri_uygula(rehber, guncel):
             rehber[pid]["takim"] = t["takim"]
 
 
+def mac_sonra(mac_tarihi, zaman):
+    """Maç (TBF Türkiye saati) verilen UTC zamandan (kadro yenilemesi) sonra mı başladı? Zaman yoksa evet."""
+    if not zaman:
+        return True
+    try:
+        return datetime.fromisoformat(mac_tarihi).replace(tzinfo=TURKIYE) > datetime.fromisoformat(zaman)
+    except ValueError:
+        return True
+
+
 def ad_anahtari(ad):
     """'Ali Işık (K)' ve 'ALI ISIK' aynı anahtara iner."""
     s = (ad or "").replace("İ", "i").replace("I", "ı").lower().translate(TR_HARF)
@@ -561,7 +571,13 @@ def main():
                 for o in stat.get(liste) or []:
                     pid = str(o["playerId"])
                     if not pid.startswith("fiba-"):  # TBF'de eşleşmeyen canlı oyuncu rehbere girmez
-                        rehber.setdefault(pid, {}).update(ad=o["playerName"].strip(), takim=takimlar[taraf])
+                        r = rehber.setdefault(pid, {})
+                        r["ad"] = o["playerName"].strip()
+                        # Takım maçtan yalnızca son kadro yenilemesinden SONRA oynanan maçlardan alınır (ya da oyuncu
+                        # rehberde yoksa): eski maçlar transferi geri alıyordu (2026-11-14: kadroda Yalova'ya geçen
+                        # Sarıkaya ve Engindeniz, geçen hafta Mersin'de oynadıkları için 2 dakikada bir Mersin'e dönüyordu)
+                        if "takim" not in r or mac_sonra(m["matchDate"], rehber_zamani):
+                            r["takim"] = takimlar[taraf]
                     kayit = hafta_oyuncular.setdefault(pid, {
                         "ad": o["playerName"].strip(), "takim": takimlar[taraf], "vp": 0, "saniye": 0, "maclar": []})
                     kayit["vp"] += o["efficiency"] or 0
