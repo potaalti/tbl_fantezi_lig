@@ -13,7 +13,7 @@
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "8:01",
     "sayi": 7,
     "iki": [
      3,
@@ -33,10 +33,10 @@
     "ast": 3,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
-    "pm": "-4",
-    "vp": 10,
+    "pm": "-7",
+    "vp": 9,
     "sahada": true
    },
    {
@@ -44,7 +44,7 @@
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "8:01",
     "sayi": 5,
     "iki": [
      1,
@@ -66,7 +66,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-4",
+    "pm": "-7",
     "vp": 5,
     "sahada": true
    },
@@ -195,7 +195,7 @@
     "ad": "Hali̇l İbrahi̇m Ateş",
     "no": "1",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:47",
     "sayi": 0,
     "iki": [
      0,
@@ -216,8 +216,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "0",
+    "faul": 1,
+    "pm": "-3",
     "vp": 0,
     "sahada": true
    },
@@ -286,7 +286,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": false,
-    "sure": "1:59",
+    "sure": "2:46",
     "sayi": 0,
     "iki": [
      0,
@@ -308,7 +308,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-6",
+    "pm": "-9",
     "vp": 0,
     "sahada": true
    },
@@ -317,7 +317,7 @@
     "ad": "Faik Can Kaşıkçı",
     "no": "8",
     "ilk5": false,
-    "sure": "1:59",
+    "sure": "2:46",
     "sayi": 3,
     "iki": [
      0,
@@ -337,10 +337,10 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
-    "pm": "-6",
-    "vp": 3,
+    "pm": "-9",
+    "vp": 2,
     "sahada": true
    }
   ],
@@ -370,15 +370,15 @@
  },
  "dep": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "24",
+  "skor": "27",
   "oyuncular": [
    {
     "id": "257055",
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": true,
-    "sure": "7:14",
-    "sayi": 9,
+    "sure": "8:01",
+    "sayi": 10,
     "iki": [
      3,
      3
@@ -388,19 +388,19 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
-    "vp": 11,
+    "pm": "7",
+    "vp": 13,
     "sahada": true
    },
    {
@@ -408,11 +408,11 @@
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "7:14",
-    "sayi": 0,
+    "sure": "8:01",
+    "sayi": 2,
     "iki": [
-     0,
-     1
+     1,
+     2
     ],
     "uc": [
      0,
@@ -426,12 +426,12 @@
     "sr": 1,
     "rib": 1,
     "ast": 6,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
-    "vp": 4,
+    "pm": "7",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -499,7 +499,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "7:14",
+    "sure": "8:01",
     "sayi": 5,
     "iki": [
      1,
@@ -521,7 +521,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "4",
+    "pm": "7",
     "vp": 7,
     "sahada": true
    },
@@ -560,7 +560,7 @@
     "ad": "Jamari Traylor",
     "no": "7",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:47",
     "sayi": 0,
     "iki": [
      0,
@@ -582,7 +582,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "3",
     "vp": 0,
     "sahada": true
    },
@@ -651,7 +651,7 @@
     "ad": "Arda Birkeser",
     "no": "22",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:47",
     "sayi": 0,
     "iki": [
      0,
@@ -673,8 +673,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "3",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "209010",
@@ -738,7 +739,7 @@
    }
   ],
   "ceyrekler": [
-   24
+   27
   ],
   "takim": {
    "hr": 1,
@@ -748,31 +749,31 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 2,
-   "hh": 6,
+   "tks": 4,
+   "hh": 7,
    "is": 1,
    "ba": 14,
    "benc": 0,
-   "fark": 5,
-   "seri": 8,
-   "lider": 191,
+   "fark": 7,
+   "seri": 11,
+   "lider": 238,
    "degisim": 3,
    "esitlik": 3
   },
   "koc": "Timuçin Meriç"
  },
  "evSkor": "20",
- "depSkor": "24",
+ "depSkor": "27",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:46",
+  "saat": "01:59",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 434,
+  "simdi": 481,
   "d": [
    [
     0,
@@ -857,6 +858,14 @@
    [
     434,
     -4
+   ],
+   [
+    434,
+    -5
+   ],
+   [
+    463,
+    -7
    ]
   ]
  }
