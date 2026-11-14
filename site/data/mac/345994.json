@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "MERSİN SPOR",
-  "skor": "71",
+  "skor": "72",
   "oyuncular": [
    {
     "id": "320264",
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": true,
-    "sure": "25:13",
-    "sayi": 16,
+    "sure": "25:32",
+    "sayi": 17,
     "iki": [
      6,
      10
@@ -24,8 +24,8 @@
      5
     ],
     "sa": [
-     1,
-     1
+     2,
+     3
     ],
     "hr": 2,
     "sr": 4,
@@ -35,7 +35,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "pm": "-22",
+    "pm": "-21",
     "vp": 19,
     "sahada": true
    },
@@ -74,7 +74,7 @@
     "ad": "Işık Ali Akpınar",
     "no": "11",
     "ilk5": true,
-    "sure": "21:20",
+    "sure": "21:39",
     "sayi": 8,
     "iki": [
      1,
@@ -96,7 +96,7 @@
     "blk": 1,
     "tk": 1,
     "faul": 1,
-    "pm": "-17",
+    "pm": "-16",
     "vp": 11,
     "sahada": true
    },
@@ -195,7 +195,7 @@
     "ad": "Hali̇l İbrahi̇m Ateş",
     "no": "1",
     "ilk5": false,
-    "sure": "5:35",
+    "sure": "5:54",
     "sayi": 5,
     "iki": [
      1,
@@ -214,11 +214,11 @@
     "rib": 0,
     "ast": 0,
     "tc": 0,
-    "blk": 0,
+    "blk": 1,
     "tk": 0,
     "faul": 1,
-    "pm": "-15",
-    "vp": 5,
+    "pm": "-14",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -226,7 +226,7 @@
     "ad": "Ahmet Hakan Kara",
     "no": "4",
     "ilk5": false,
-    "sure": "1:34",
+    "sure": "1:53",
     "sayi": 0,
     "iki": [
      0,
@@ -248,7 +248,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 0,
     "sahada": true
    },
@@ -287,7 +287,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": false,
-    "sure": "15:34",
+    "sure": "15:53",
     "sayi": 2,
     "iki": [
      1,
@@ -309,7 +309,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-15",
+    "pm": "-14",
     "vp": 6,
     "sahada": true
    },
@@ -347,7 +347,7 @@
   "ceyrekler": [
    23,
    24,
-   24
+   25
   ],
   "takim": {
    "hr": 1,
@@ -439,7 +439,7 @@
     "ad": "Hazer Avcı",
     "no": "11",
     "ilk5": true,
-    "sure": "15:37",
+    "sure": "15:56",
     "sayi": 13,
     "iki": [
      4,
@@ -460,8 +460,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "pm": "8",
+    "faul": 2,
+    "pm": "7",
     "vp": 13,
     "sahada": true
    },
@@ -470,11 +470,11 @@
     "ad": "Oğuzhan Tosun",
     "no": "15",
     "ilk5": true,
-    "sure": "21:11",
+    "sure": "21:30",
     "sayi": 14,
     "iki": [
      5,
-     8
+     9
     ],
     "uc": [
      0,
@@ -492,8 +492,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "pm": "12",
-    "vp": 15,
+    "pm": "11",
+    "vp": 14,
     "sahada": true
    },
    {
@@ -501,7 +501,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "19:00",
+    "sure": "19:19",
     "sayi": 5,
     "iki": [
      1,
@@ -523,7 +523,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "19",
+    "pm": "18",
     "vp": 10,
     "sahada": true
    },
@@ -532,7 +532,7 @@
     "ad": "Efe Kemal Akayın",
     "no": "1",
     "ilk5": false,
-    "sure": "4:41",
+    "sure": "5:00",
     "sayi": 0,
     "iki": [
      0,
@@ -554,7 +554,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "7",
+    "pm": "6",
     "vp": -1,
     "sahada": true
    },
@@ -623,7 +623,7 @@
     "ad": "Mert Konuk",
     "no": "13",
     "ilk5": false,
-    "sure": "5:51",
+    "sure": "6:10",
     "sayi": 2,
     "iki": [
      0,
@@ -645,7 +645,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "1",
+    "pm": "0",
     "vp": 2,
     "sahada": true
    },
@@ -760,24 +760,24 @@
    "benc": 27,
    "fark": 27,
    "seri": 13,
-   "lider": 1538,
+   "lider": 1557,
    "degisim": 3,
    "esitlik": 3
   },
   "koc": "Timuçin Meriç"
  },
- "evSkor": "71",
+ "evSkor": "72",
  "depSkor": "97",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "00:19",
+  "saat": "00:00",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1781,
+  "simdi": 1800,
   "d": [
    [
     0,
@@ -1138,6 +1138,10 @@
    [
     1781,
     -26
+   ],
+   [
+    1797,
+    -25
    ]
   ]
  }
