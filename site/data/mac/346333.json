@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "TOFAŞ",
-  "skor": "20",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "485299",
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": true,
-    "sure": "8:37",
+    "sure": "9:06",
     "sayi": 2,
     "iki": [
      1,
@@ -44,11 +44,11 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": true,
-    "sure": "5:46",
-    "sayi": 0,
+    "sure": "6:15",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -67,7 +67,7 @@
     "tk": 0,
     "faul": 0,
     "pm": "-3",
-    "vp": 0,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -105,7 +105,7 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "9:33",
+    "sure": "10:02",
     "sayi": 0,
     "iki": [
      0,
@@ -256,7 +256,7 @@
     "ad": "Mantas Rubstavicius",
     "no": "17",
     "ilk5": false,
-    "sure": "6:18",
+    "sure": "6:47",
     "sayi": 5,
     "iki": [
      1,
@@ -347,7 +347,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "2:48",
+    "sure": "3:17",
     "sayi": 0,
     "iki": [
      0,
@@ -376,7 +376,7 @@
   ],
   "ceyrekler": [
    16,
-   4
+   6
   ],
   "takim": {
    "hr": 1,
@@ -389,7 +389,7 @@
    "tks": 3,
    "hh": 7,
    "is": 0,
-   "ba": 8,
+   "ba": 10,
    "benc": 7,
    "fark": 2,
    "seri": 5,
@@ -401,14 +401,14 @@
  },
  "dep": {
   "ad": "TRABZONSPOR",
-  "skor": "25",
+  "skor": "27",
   "oyuncular": [
    {
     "id": "779255",
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": true,
-    "sure": "11:17",
+    "sure": "11:46",
     "sayi": 1,
     "iki": [
      0,
@@ -425,13 +425,13 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 3,
+    "ast": 4,
     "tc": 2,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "2",
-    "vp": 2,
+    "vp": 3,
     "sahada": true
    },
    {
@@ -439,7 +439,7 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": true,
-    "sure": "10:32",
+    "sure": "11:01",
     "sayi": 10,
     "iki": [
      3,
@@ -560,7 +560,7 @@
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": false,
-    "sure": "7:34",
+    "sure": "8:03",
     "sayi": 0,
     "iki": [
      0,
@@ -681,7 +681,7 @@
     "ad": "Ege Arar",
     "no": "19",
     "ilk5": false,
-    "sure": "0:32",
+    "sure": "1:01",
     "sayi": 0,
     "iki": [
      0,
@@ -712,11 +712,11 @@
     "ad": "Brady Manek",
     "no": "45",
     "ilk5": false,
-    "sure": "6:18",
-    "sayi": 3,
+    "sure": "6:47",
+    "sayi": 5,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -735,7 +735,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "2",
-    "vp": 3,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -771,7 +771,7 @@
   ],
   "ceyrekler": [
    22,
-   3
+   5
   ],
   "takim": {
    "hr": 0,
@@ -781,31 +781,31 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 5,
+   "tks": 7,
    "hh": 6,
    "is": 0,
-   "ba": 14,
-   "benc": 5,
+   "ba": 16,
+   "benc": 7,
    "fark": 8,
    "seri": 7,
-   "lider": 596,
+   "lider": 625,
    "degisim": 4,
    "esitlik": 1
   },
   "koc": "Erhan Yetim"
  },
- "evSkor": "20",
- "depSkor": "25",
+ "evSkor": "22",
+ "depSkor": "27",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "07:12",
+  "saat": "06:41",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 760,
+  "simdi": 797,
   "d": [
    [
     0,
@@ -889,6 +889,14 @@
    ],
    [
     698,
+    -5
+   ],
+   [
+    776,
+    -7
+   ],
+   [
+    797,
     -5
    ]
   ]
