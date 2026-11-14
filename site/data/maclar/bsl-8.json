@@ -7,13 +7,18 @@
    "lig": "bsl",
    "hafta": 8,
    "tarih": "2026-11-14T13:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "ALİAĞA PETKİM SPOR",
    "dep": "TÜRK TELEKOM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "Enka Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:41",
+    "uzatma": false
+   }
   },
   {
    "id": 346333,
