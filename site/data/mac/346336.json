@@ -100,8 +100,7 @@
     "faul": 0,
     "af": 2,
     "pm": "-7",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "473261",
@@ -383,11 +382,13 @@
     "faul": 1,
     "af": 0,
     "pm": "6",
-    "vp": 7
+    "vp": 7,
+    "sahada": true
    }
   ],
   "ceyrekler": [
-   26
+   26,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -793,7 +794,8 @@
    }
   ],
   "ceyrekler": [
-   27
+   27,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -821,8 +823,8 @@
  "salon": "Bandırma 17 Eylül Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
