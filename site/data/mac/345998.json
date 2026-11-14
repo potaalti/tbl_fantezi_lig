@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "MKE ANKARAGÜCÜ",
-  "skor": "81",
+  "skor": "85",
   "oyuncular": [
    {
     "id": "430940",
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "36:00",
+    "sure": "36:56",
     "sayi": 11,
     "iki": [
      0,
@@ -36,7 +36,7 @@
     "tk": 1,
     "faul": 1,
     "af": 1,
-    "pm": "-12",
+    "pm": "-13",
     "vp": 14,
     "sahada": true
    },
@@ -45,7 +45,7 @@
     "ad": "Bora Satır",
     "no": "4",
     "ilk5": true,
-    "sure": "18:44",
+    "sure": "19:40",
     "sayi": 4,
     "iki": [
      2,
@@ -66,9 +66,9 @@
     "tc": 2,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
+    "faul": 2,
     "af": 3,
-    "pm": "-12",
+    "pm": "-13",
     "vp": 2,
     "sahada": true
    },
@@ -77,19 +77,19 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "29:32",
-    "sayi": 31,
+    "sure": "30:28",
+    "sayi": 33,
     "iki": [
-     5,
-     6
+     6,
+     7
     ],
     "uc": [
      5,
-     10
+     11
     ],
     "sa": [
      6,
-     6
+     7
     ],
     "hr": 1,
     "sr": 3,
@@ -99,8 +99,8 @@
     "blk": 0,
     "tk": 2,
     "faul": 4,
-    "af": 6,
-    "pm": "-4",
+    "af": 7,
+    "pm": "-5",
     "vp": 30,
     "sahada": true
    },
@@ -109,7 +109,7 @@
     "ad": "Ramazan Tekin",
     "no": "14",
     "ilk5": true,
-    "sure": "17:13",
+    "sure": "18:09",
     "sayi": 4,
     "iki": [
      2,
@@ -132,7 +132,7 @@
     "tk": 2,
     "faul": 4,
     "af": 1,
-    "pm": "-6",
+    "pm": "-7",
     "vp": 6,
     "sahada": true
    },
@@ -141,11 +141,11 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "31:40",
-    "sayi": 12,
+    "sure": "32:36",
+    "sayi": 14,
     "iki": [
-     3,
-     3
+     4,
+     4
     ],
     "uc": [
      2,
@@ -155,17 +155,17 @@
      0,
      0
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 6,
-    "rib": 7,
+    "rib": 8,
     "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "af": 0,
-    "pm": "-5",
-    "vp": 16,
+    "pm": "-6",
+    "vp": 19,
     "sahada": true
    },
    {
@@ -390,7 +390,7 @@
    31,
    18,
    21,
-   11
+   15
   ],
   "takim": {
    "hr": 0,
@@ -400,10 +400,10 @@
    "faul": 1
   },
   "ileri": {
-   "tks": 16,
+   "tks": 18,
    "hh": 15,
-   "is": 7,
-   "ba": 30,
+   "is": 9,
+   "ba": 34,
    "benc": 19,
    "fark": 19,
    "seri": 11,
@@ -415,15 +415,15 @@
  },
  "dep": {
   "ad": "DARÜŞŞAFAKA",
-  "skor": "87",
+  "skor": "92",
   "oyuncular": [
    {
     "id": "606144",
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "27:08",
-    "sayi": 16,
+    "sure": "28:04",
+    "sayi": 18,
     "iki": [
      3,
      6
@@ -433,8 +433,8 @@
      2
     ],
     "sa": [
-     4,
-     8
+     6,
+     10
     ],
     "hr": 1,
     "sr": 2,
@@ -444,9 +444,9 @@
     "blk": 0,
     "tk": 5,
     "faul": 3,
-    "af": 9,
-    "pm": "10",
-    "vp": 17,
+    "af": 10,
+    "pm": "11",
+    "vp": 19,
     "sahada": true
    },
    {
@@ -454,7 +454,7 @@
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "38:48",
+    "sure": "39:44",
     "sayi": 17,
     "iki": [
      5,
@@ -477,7 +477,7 @@
     "tk": 1,
     "faul": 2,
     "af": 1,
-    "pm": "6",
+    "pm": "7",
     "vp": 20,
     "sahada": true
    },
@@ -486,7 +486,7 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "29:20",
+    "sure": "30:16",
     "sayi": 16,
     "iki": [
      6,
@@ -509,7 +509,7 @@
     "tk": 2,
     "faul": 0,
     "af": 6,
-    "pm": "5",
+    "pm": "6",
     "vp": 20,
     "sahada": true
    },
@@ -518,31 +518,31 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "33:08",
-    "sayi": 7,
+    "sure": "34:04",
+    "sayi": 10,
     "iki": [
      2,
      5
     ],
     "uc": [
-     1,
-     2
+     2,
+     3
     ],
     "sa": [
      0,
      0
     ],
     "hr": 1,
-    "sr": 7,
-    "rib": 8,
+    "sr": 8,
+    "rib": 9,
     "ast": 1,
     "tc": 1,
     "blk": 0,
     "tk": 2,
     "faul": 2,
     "af": 1,
-    "pm": "2",
-    "vp": 11,
+    "pm": "3",
+    "vp": 15,
     "sahada": true
    },
    {
@@ -612,7 +612,7 @@
     "ad": "Ege Eskinazi",
     "no": "7",
     "ilk5": false,
-    "sure": "16:30",
+    "sure": "17:26",
     "sayi": 10,
     "iki": [
      1,
@@ -629,14 +629,14 @@
     "hr": 1,
     "sr": 1,
     "rib": 2,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 0,
+    "faul": 1,
     "af": 2,
-    "pm": "-2",
-    "vp": 8,
+    "pm": "-1",
+    "vp": 9,
     "sahada": true
    },
    {
@@ -768,7 +768,7 @@
    15,
    29,
    24,
-   19
+   24
   ],
   "takim": {
    "hr": 2,
@@ -783,26 +783,26 @@
    "is": 13,
    "ba": 40,
    "benc": 31,
-   "fark": 6,
+   "fark": 7,
    "seri": 15,
-   "lider": 782,
+   "lider": 838,
    "degisim": 14,
    "esitlik": 4
   },
   "koc": "Hüsnü  Eser"
  },
- "evSkor": "81",
- "depSkor": "87",
+ "evSkor": "85",
+ "depSkor": "92",
  "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 4,
-  "saat": "01:12",
+  "saat": "00:15",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2328,
+  "simdi": 2385,
   "d": [
    [
     0,
@@ -1143,6 +1143,26 @@
    [
     2303,
     -6
+   ],
+   [
+    2329,
+    -4
+   ],
+   [
+    2353,
+    -7
+   ],
+   [
+    2370,
+    -5
+   ],
+   [
+    2385,
+    -6
+   ],
+   [
+    2385,
+    -7
    ]
   ]
  }
