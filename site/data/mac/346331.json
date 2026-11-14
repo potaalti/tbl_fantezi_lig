@@ -37,15 +37,14 @@
     "faul": 4,
     "af": 6,
     "pm": "9",
-    "vp": 22,
-    "sahada": true
+    "vp": 22
    },
    {
     "id": "778161",
     "ad": "Johnny Davis",
     "no": "1",
     "ilk5": true,
-    "sure": "24:28",
+    "sure": "25:01",
     "sayi": 18,
     "iki": [
      4,
@@ -67,7 +66,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "af": 3,
+    "af": 4,
     "pm": "6",
     "vp": 20,
     "sahada": true
@@ -77,7 +76,7 @@
     "ad": "Berk Can Akın",
     "no": "10",
     "ilk5": true,
-    "sure": "20:19",
+    "sure": "20:52",
     "sayi": 3,
     "iki": [
      0,
@@ -109,7 +108,7 @@
     "ad": "Matt Mitchell",
     "no": "11",
     "ilk5": true,
-    "sure": "24:42",
+    "sure": "25:15",
     "sayi": 13,
     "iki": [
      2,
@@ -141,7 +140,7 @@
     "ad": "Alex Reese",
     "no": "65",
     "ilk5": true,
-    "sure": "24:13",
+    "sure": "24:46",
     "sayi": 13,
     "iki": [
      3,
@@ -149,7 +148,7 @@
     ],
     "uc": [
      2,
-     4
+     5
     ],
     "sa": [
      1,
@@ -165,7 +164,7 @@
     "faul": 2,
     "af": 2,
     "pm": "15",
-    "vp": 17,
+    "vp": 16,
     "sahada": true
    },
    {
@@ -359,7 +358,7 @@
     "ad": "Filip Barna",
     "no": "88",
     "ilk5": false,
-    "sure": "11:46",
+    "sure": "12:19",
     "sayi": 4,
     "iki": [
      0,
@@ -383,7 +382,8 @@
     "faul": 1,
     "af": 0,
     "pm": "-7",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    }
   ],
   "ceyrekler": [
@@ -407,7 +407,7 @@
    "benc": 4,
    "fark": 19,
    "seri": 12,
-   "lider": 1863,
+   "lider": 1896,
    "degisim": 0,
    "esitlik": 0
   },
@@ -453,7 +453,7 @@
     "ad": "Şehmus Hazer",
     "no": "2",
     "ilk5": true,
-    "sure": "19:38",
+    "sure": "20:11",
     "sayi": 5,
     "iki": [
      2,
@@ -485,8 +485,8 @@
     "ad": "Aleksej Nikolic",
     "no": "5",
     "ilk5": true,
-    "sure": "23:02",
-    "sayi": 15,
+    "sure": "23:35",
+    "sayi": 16,
     "iki": [
      0,
      1
@@ -496,8 +496,8 @@
      8
     ],
     "sa": [
-     6,
-     6
+     7,
+     7
     ],
     "hr": 1,
     "sr": 1,
@@ -509,7 +509,7 @@
     "faul": 1,
     "af": 3,
     "pm": "0",
-    "vp": 12,
+    "vp": 13,
     "sahada": true
    },
    {
@@ -579,8 +579,8 @@
     "ad": "Berkan Durmaz",
     "no": "3",
     "ilk5": false,
-    "sure": "13:28",
-    "sayi": 11,
+    "sure": "14:01",
+    "sayi": 10,
     "iki": [
      3,
      4
@@ -590,8 +590,8 @@
      1
     ],
     "sa": [
-     2,
-     6
+     1,
+     5
     ],
     "hr": 3,
     "sr": 2,
@@ -600,10 +600,10 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "af": 4,
     "pm": "6",
-    "vp": 11,
+    "vp": 10,
     "sahada": true
    },
    {
@@ -642,7 +642,7 @@
     "ad": "Alen Smailagic",
     "no": "9",
     "ilk5": false,
-    "sure": "12:09",
+    "sure": "12:42",
     "sayi": 4,
     "iki": [
      2,
@@ -767,7 +767,7 @@
     "ad": "Kj Simpson",
     "no": "25",
     "ilk5": false,
-    "sure": "19:08",
+    "sure": "19:41",
     "sayi": 6,
     "iki": [
      3,
@@ -782,8 +782,8 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 0,
     "blk": 0,
@@ -791,7 +791,7 @@
     "faul": 2,
     "af": 1,
     "pm": "-5",
-    "vp": 3,
+    "vp": 4,
     "sahada": true
    }
   ],
@@ -813,7 +813,7 @@
    "hh": 8,
    "is": 7,
    "ba": 28,
-   "benc": 25,
+   "benc": 24,
    "fark": 0,
    "seri": 11,
    "lider": 0,
@@ -828,12 +828,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "08:40",
+  "saat": "08:19",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1880,
+  "simdi": 1900,
   "d": [
    [
     0,

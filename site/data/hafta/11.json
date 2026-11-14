@@ -15,19 +15,6 @@
    "yayin": "Youtube / TBF TV"
   },
   {
-   "id": 345999,
-   "lig": "tbl",
-   "hafta": 11,
-   "tarih": "2026-11-14T16:00:00",
-   "durum": "bitti",
-   "ev": "OGM ORMANSPOR",
-   "dep": "TED ANKARA KOLEJLİLER",
-   "evSkor": "79",
-   "depSkor": "59",
-   "salon": "M. Sait Zarifoğlu Spor Salonu",
-   "yayin": "HT SPOR"
-  },
-  {
    "id": 345992,
    "lig": "tbl",
    "hafta": 11,
@@ -39,6 +26,19 @@
    "depSkor": "56",
    "salon": "Altındağ Atatürk Spor Kompleksi",
    "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 345999,
+   "lig": "tbl",
+   "hafta": 11,
+   "tarih": "2026-11-14T16:00:00",
+   "durum": "bitti",
+   "ev": "OGM ORMANSPOR",
+   "dep": "TED ANKARA KOLEJLİLER",
+   "evSkor": "79",
+   "depSkor": "59",
+   "salon": "M. Sait Zarifoğlu Spor Salonu",
+   "yayin": "HT SPOR"
   },
   {
    "id": 345994,
@@ -58,18 +58,13 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-14T18:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "MKE ANKARAGÜCÜ",
    "dep": "DARÜŞŞAFAKA",
    "evSkor": "88",
    "depSkor": "94",
    "salon": "Mamak Belediyesi Hidayet Türkoğlu Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 345993,
@@ -79,13 +74,13 @@
    "durum": "canli",
    "ev": "BÜYÜKÇEKMECE BASKETBOL",
    "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "evSkor": "83",
-   "depSkor": "69",
+   "evSkor": "84",
+   "depSkor": "73",
    "salon": "Gazanfer Bilge Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "03:49",
+    "saat": "02:59",
     "uzatma": false
    }
   },
@@ -333,6 +328,213 @@
     345996
    ]
   },
+  "316467": {
+   "ad": "Emir Arda Sivas",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 13,
+   "saniye": 1368,
+   "maclar": [
+    345992
+   ]
+  },
+  "39445": {
+   "ad": "Fatih Cantitiz",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 13,
+   "saniye": 1406,
+   "maclar": [
+    345992
+   ]
+  },
+  "196982": {
+   "ad": "Ahmet Can Duran",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 10,
+   "saniye": 986,
+   "maclar": [
+    345992
+   ]
+  },
+  "384273": {
+   "ad": "Rijad Aydın",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 16,
+   "saniye": 1096,
+   "maclar": [
+    345992
+   ]
+  },
+  "399293": {
+   "ad": "Deniz Savut",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 12,
+   "saniye": 1262,
+   "maclar": [
+    345992
+   ]
+  },
+  "163820": {
+   "ad": "Berke Atar",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 17,
+   "saniye": 1340,
+   "maclar": [
+    345992
+   ]
+  },
+  "786709": {
+   "ad": "DeAndre Pinckney",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 5,
+   "saniye": 955,
+   "maclar": [
+    345992
+   ]
+  },
+  "223176": {
+   "ad": "Murat Can Esen",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 7,
+   "saniye": 525,
+   "maclar": [
+    345992
+   ]
+  },
+  "230701": {
+   "ad": "Eray Aydoğan",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 8,
+   "saniye": 891,
+   "maclar": [
+    345992
+   ]
+  },
+  "400882": {
+   "ad": "Kaan Beşok",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": -1,
+   "saniye": 141,
+   "maclar": [
+    345992
+   ]
+  },
+  "132341": {
+   "ad": "Kaan Sarıaslan",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 10,
+   "saniye": 1036,
+   "maclar": [
+    345992
+   ]
+  },
+  "287583": {
+   "ad": "Eray Büyükcangaz",
+   "takim": "GÖZTEPE ISONEM",
+   "vp": 7,
+   "saniye": 993,
+   "maclar": [
+    345992
+   ]
+  },
+  "510615": {
+   "ad": "Mbala Mendzana",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 5,
+   "saniye": 1280,
+   "maclar": [
+    345992
+   ]
+  },
+  "224801": {
+   "ad": "Ömercan Engin",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 10,
+   "saniye": 1858,
+   "maclar": [
+    345992
+   ]
+  },
+  "56403": {
+   "ad": "Ömer Sancaklı",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 12,
+   "saniye": 1957,
+   "maclar": [
+    345992
+   ]
+  },
+  "189840": {
+   "ad": "Umut Geçen",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 7,
+   "saniye": 1633,
+   "maclar": [
+    345992
+   ]
+  },
+  "35766": {
+   "ad": "Ali Işık",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 11,
+   "saniye": 1452,
+   "maclar": [
+    345992
+   ]
+  },
+  "511470": {
+   "ad": "Cüneyt Gümüş",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 0,
+   "saniye": 38,
+   "maclar": [
+    345992
+   ]
+  },
+  "360298": {
+   "ad": "Berk Güner",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": -1,
+   "saniye": 109,
+   "maclar": [
+    345992
+   ]
+  },
+  "381972": {
+   "ad": "Yağız Aksu",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 1,
+   "saniye": 64,
+   "maclar": [
+    345992
+   ]
+  },
+  "471334": {
+   "ad": "Demir Öztürk",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": -2,
+   "saniye": 1346,
+   "maclar": [
+    345992
+   ]
+  },
+  "340042": {
+   "ad": "Ata Engin",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 0,
+   "saniye": 1311,
+   "maclar": [
+    345992
+   ]
+  },
+  "467246": {
+   "ad": "Ahmet Arda Aydın",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "vp": 1,
+   "saniye": 952,
+   "maclar": [
+    345992
+   ]
+  },
   "109594": {
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
@@ -547,213 +749,6 @@
    "saniye": 0,
    "maclar": [
     345999
-   ]
-  },
-  "316467": {
-   "ad": "Emir Arda Sivas",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 13,
-   "saniye": 1368,
-   "maclar": [
-    345992
-   ]
-  },
-  "39445": {
-   "ad": "Fatih Cantitiz",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 13,
-   "saniye": 1406,
-   "maclar": [
-    345992
-   ]
-  },
-  "196982": {
-   "ad": "Ahmet Can Duran",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 10,
-   "saniye": 986,
-   "maclar": [
-    345992
-   ]
-  },
-  "384273": {
-   "ad": "Rijad Aydın",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 16,
-   "saniye": 1096,
-   "maclar": [
-    345992
-   ]
-  },
-  "399293": {
-   "ad": "Deniz Savut",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 12,
-   "saniye": 1262,
-   "maclar": [
-    345992
-   ]
-  },
-  "163820": {
-   "ad": "Berke Atar",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 17,
-   "saniye": 1340,
-   "maclar": [
-    345992
-   ]
-  },
-  "786709": {
-   "ad": "DeAndre Pinckney",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 5,
-   "saniye": 955,
-   "maclar": [
-    345992
-   ]
-  },
-  "223176": {
-   "ad": "Murat Can Esen",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 7,
-   "saniye": 525,
-   "maclar": [
-    345992
-   ]
-  },
-  "230701": {
-   "ad": "Eray Aydoğan",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 8,
-   "saniye": 891,
-   "maclar": [
-    345992
-   ]
-  },
-  "400882": {
-   "ad": "Kaan Beşok",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": -1,
-   "saniye": 141,
-   "maclar": [
-    345992
-   ]
-  },
-  "132341": {
-   "ad": "Kaan Sarıaslan",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 10,
-   "saniye": 1036,
-   "maclar": [
-    345992
-   ]
-  },
-  "287583": {
-   "ad": "Eray Büyükcangaz",
-   "takim": "GÖZTEPE ISONEM",
-   "vp": 7,
-   "saniye": 993,
-   "maclar": [
-    345992
-   ]
-  },
-  "510615": {
-   "ad": "Mbala Mendzana",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 5,
-   "saniye": 1280,
-   "maclar": [
-    345992
-   ]
-  },
-  "224801": {
-   "ad": "Ömercan Engin",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 10,
-   "saniye": 1858,
-   "maclar": [
-    345992
-   ]
-  },
-  "56403": {
-   "ad": "Ömer Sancaklı",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 12,
-   "saniye": 1957,
-   "maclar": [
-    345992
-   ]
-  },
-  "189840": {
-   "ad": "Umut Geçen",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 7,
-   "saniye": 1633,
-   "maclar": [
-    345992
-   ]
-  },
-  "35766": {
-   "ad": "Ali Işık",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 11,
-   "saniye": 1452,
-   "maclar": [
-    345992
-   ]
-  },
-  "511470": {
-   "ad": "Cüneyt Gümüş",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 38,
-   "maclar": [
-    345992
-   ]
-  },
-  "360298": {
-   "ad": "Berk Güner",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": -1,
-   "saniye": 109,
-   "maclar": [
-    345992
-   ]
-  },
-  "381972": {
-   "ad": "Yağız Aksu",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 1,
-   "saniye": 64,
-   "maclar": [
-    345992
-   ]
-  },
-  "471334": {
-   "ad": "Demir Öztürk",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": -2,
-   "saniye": 1346,
-   "maclar": [
-    345992
-   ]
-  },
-  "340042": {
-   "ad": "Ata Engin",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 1311,
-   "maclar": [
-    345992
-   ]
-  },
-  "467246": {
-   "ad": "Ahmet Arda Aydın",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 1,
-   "saniye": 952,
-   "maclar": [
-    345992
    ]
   },
   "320264": {
@@ -1174,7 +1169,7 @@
    "ad": "Jordan Barnes",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
    "vp": 28,
-   "saniye": 1737,
+   "saniye": 1787,
    "maclar": [
     345993
    ]
@@ -1182,8 +1177,8 @@
   "139924": {
    "ad": "Kerem Aydan Özel",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
-   "vp": 12,
-   "saniye": 1277,
+   "vp": 11,
+   "saniye": 1327,
    "maclar": [
     345993
    ]
@@ -1228,7 +1223,7 @@
    "ad": "Tevfik Akdamar",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
    "vp": 12,
-   "saniye": 1736,
+   "saniye": 1786,
    "maclar": [
     345993
    ]
@@ -1246,7 +1241,7 @@
    "ad": "Oğulcan Baykan",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
    "vp": 9,
-   "saniye": 1213,
+   "saniye": 1263,
    "maclar": [
     345993
    ]
@@ -1273,7 +1268,7 @@
    "ad": "Can Uğur Öğüt",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
    "vp": 21,
-   "saniye": 1304,
+   "saniye": 1354,
    "maclar": [
     345993
    ]
@@ -1290,8 +1285,8 @@
   "392789": {
    "ad": "Cem Küçüközkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 13,
-   "saniye": 1584,
+   "vp": 15,
+   "saniye": 1634,
    "maclar": [
     345993
    ]
@@ -1299,8 +1294,8 @@
   "245190": {
    "ad": "Muhammet Engin Kalkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 5,
-   "saniye": 1340,
+   "vp": 4,
+   "saniye": 1390,
    "maclar": [
     345993
    ]
@@ -1309,7 +1304,7 @@
    "ad": "Harun Can Doğan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 1,
-   "saniye": 1231,
+   "saniye": 1281,
    "maclar": [
     345993
    ]
@@ -1317,8 +1312,8 @@
   "777505": {
    "ad": "Jaquan Elijah Scott",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 39,
-   "saniye": 2171,
+   "vp": 45,
+   "saniye": 2221,
    "maclar": [
     345993
    ]
@@ -1327,7 +1322,7 @@
    "ad": "Tavian Dunn-Martin",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 3,
-   "saniye": 1450,
+   "saniye": 1500,
    "maclar": [
     345993
    ]
