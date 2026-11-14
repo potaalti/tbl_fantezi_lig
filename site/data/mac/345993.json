@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BÜYÜKÇEKMECE BASKETBOL",
-  "skor": "18",
+  "skor": "20",
   "oyuncular": [
    {
     "id": "665900",
     "ad": "Jordan Barnes",
     "no": "2",
     "ilk5": true,
-    "sure": "8:14",
+    "sure": "8:29",
     "sayi": 3,
     "iki": [
      0,
@@ -30,13 +30,13 @@
     "hr": 0,
     "sr": 3,
     "rib": 3,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-3",
-    "vp": 6,
+    "pm": "-1",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -44,7 +44,7 @@
     "ad": "Kerem Aydan Özel",
     "no": "4",
     "ilk5": true,
-    "sure": "6:54",
+    "sure": "7:09",
     "sayi": 5,
     "iki": [
      0,
@@ -66,7 +66,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "4",
     "vp": 6,
     "sahada": true
    },
@@ -195,11 +195,11 @@
     "ad": "Tevfik Akdamar",
     "no": "3",
     "ilk5": false,
-    "sure": "6:20",
-    "sayi": 3,
+    "sure": "6:35",
+    "sayi": 5,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -217,8 +217,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 3,
+    "pm": "3",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -256,7 +256,7 @@
     "ad": "Oğulcan Baykan",
     "no": "9",
     "ilk5": false,
-    "sure": "3:17",
+    "sure": "3:32",
     "sayi": 3,
     "iki": [
      1,
@@ -278,7 +278,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 3,
     "sahada": true
    },
@@ -317,7 +317,7 @@
     "ad": "Bora Can Işık",
     "no": "25",
     "ilk5": false,
-    "sure": "1:46",
+    "sure": "2:01",
     "sayi": 0,
     "iki": [
      0,
@@ -339,8 +339,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 1
+    "pm": "3",
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "55533",
@@ -370,12 +371,12 @@
     "tk": 1,
     "faul": 2,
     "pm": "-2",
-    "vp": 3,
-    "sahada": true
+    "vp": 3
    }
   ],
   "ceyrekler": [
-   18
+   18,
+   2
   ],
   "takim": {
    "hr": 0,
@@ -388,13 +389,13 @@
    "tks": 0,
    "hh": 7,
    "is": 0,
-   "ba": 4,
-   "benc": 8,
+   "ba": 6,
+   "benc": 10,
    "fark": 1,
-   "seri": 5,
+   "seri": 7,
    "lider": 90,
    "degisim": 4,
-   "esitlik": 1
+   "esitlik": 2
   },
   "koc": "Volkan Ertetik"
  },
@@ -437,7 +438,7 @@
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "6:24",
+    "sure": "6:39",
     "sayi": 4,
     "iki": [
      2,
@@ -459,8 +460,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "1",
-    "vp": 6
+    "pm": "-1",
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "245190",
@@ -520,15 +522,14 @@
     "tk": 0,
     "faul": 1,
     "pm": "1",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "777505",
     "ad": "Jaquan Elijah Scott",
     "no": "55",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:15",
     "sayi": 7,
     "iki": [
      2,
@@ -550,7 +551,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 12,
     "sahada": true
    },
@@ -559,7 +560,7 @@
     "ad": "Tavian Dunn-Martin",
     "no": "7",
     "ilk5": false,
-    "sure": "4:56",
+    "sure": "5:11",
     "sayi": 3,
     "iki": [
      0,
@@ -581,7 +582,7 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "pm": "1",
+    "pm": "-1",
     "vp": 0,
     "sahada": true
    },
@@ -590,7 +591,7 @@
     "ad": "Berkay Bayar",
     "no": "9",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:15",
     "sayi": 0,
     "iki": [
      0,
@@ -612,8 +613,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "-2",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "356958",
@@ -673,8 +675,7 @@
     "tk": 0,
     "faul": 2,
     "pm": "1",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "293126",
@@ -711,7 +712,7 @@
     "ad": "Berat Berke Tunç",
     "no": "44",
     "ilk5": false,
-    "sure": "2:37",
+    "sure": "2:52",
     "sayi": 2,
     "iki": [
      0,
@@ -733,7 +734,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 2,
     "sahada": true
    },
@@ -769,7 +770,8 @@
    }
   ],
   "ceyrekler": [
-   20
+   20,
+   0
   ],
   "takim": {
    "hr": 2,
@@ -786,24 +788,24 @@
    "benc": 5,
    "fark": 7,
    "seri": 8,
-   "lider": 483,
+   "lider": 498,
    "degisim": 4,
-   "esitlik": 1
+   "esitlik": 2
   },
   "koc": "Semih Soğuksu"
  },
- "evSkor": "18",
+ "evSkor": "20",
  "depSkor": "20",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "09:45",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 600,
+  "simdi": 615,
   "d": [
    [
     0,
@@ -892,6 +894,10 @@
    [
     597,
     -2
+   ],
+   [
+    615,
+    0
    ]
   ]
  }
