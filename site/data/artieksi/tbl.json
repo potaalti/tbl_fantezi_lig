@@ -14584,6 +14584,24 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "316467",
+    "ad": "Emir Arda Sivas",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 10,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "786709",
+    "ad": "Deandre Pinckney",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 9,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "500064",
     "ad": "Jarmar Gulley",
     "takim": "GAZİANTEP BASKETBOL",
@@ -14602,11 +14620,29 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "316467",
-    "ad": "Emir Arda Sivas",
+    "id": "fiba-kaan-sariaslan",
+    "ad": "Kaan Sarıaslan",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 8,
+    "fark": 10,
+    "mac": 1,
+    "ulke": ""
+   },
+   {
+    "id": "196982",
+    "ad": "Ahmet Can Duran",
     "takim": "GÖZTEPE ISONEM",
     "pm": 7,
-    "fark": 7,
+    "fark": 10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "39445",
+    "ad": "Fatih Cantitiz",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 7,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14620,13 +14656,13 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "786709",
-    "ad": "Deandre Pinckney",
-    "takim": "GÖZTEPE ISONEM",
+    "id": "776821",
+    "ad": "Vitalis Chikoko",
+    "takim": "TED ANKARA KOLEJLİLER",
     "pm": 6,
-    "fark": 7,
+    "fark": 1,
     "mac": 1,
-    "ulke": "ABD"
+    "ulke": "ZİMBABVE"
    },
    {
     "id": "231062",
@@ -14638,56 +14674,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "473677",
-    "ad": "Diante Watkins",
-    "takim": "OGM ORMANSPOR",
+    "id": "222696",
+    "ad": "Burak Erol",
+    "takim": "TED ANKARA KOLEJLİLER",
     "pm": 5,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "fiba-kaan-sariaslan",
-    "ad": "Kaan Sarıaslan",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 5,
-    "fark": 7,
-    "mac": 1,
-    "ulke": ""
-   },
-   {
-    "id": "501170",
-    "ad": "Tobin Carberry",
-    "takim": "OGM ORMANSPOR",
-    "pm": 4,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "196982",
-    "ad": "Ahmet Can Duran",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 4,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "39445",
-    "ad": "Fatih Cantitiz",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 4,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "471334",
-    "ad": "Demir Öztürk",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": 3,
-    "fark": -7,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14696,7 +14687,7 @@
     "ad": "Koray Uzunhasan",
     "takim": "OGM ORMANSPOR",
     "pm": 3,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14705,7 +14696,7 @@
     "ad": "Tolga Kaan Birer",
     "takim": "OGM ORMANSPOR",
     "pm": 3,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14714,7 +14705,7 @@
     "ad": "Berke Atar",
     "takim": "GÖZTEPE ISONEM",
     "pm": 3,
-    "fark": 7,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14723,70 +14714,61 @@
     "ad": "Eray Büyükcangaz",
     "takim": "GÖZTEPE ISONEM",
     "pm": 3,
-    "fark": 7,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "fiba-arca-tuluoglu",
-    "ad": "Arca Tülüoğlu",
-    "takim": "OGM ORMANSPOR",
-    "pm": 2,
-    "fark": 4,
-    "mac": 1,
-    "ulke": ""
    },
    {
     "id": "109594",
     "ad": "Göktürk Gökalp Ural",
     "takim": "OGM ORMANSPOR",
     "pm": 2,
-    "fark": 4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "442487",
+    "ad": "Ricky Tarrant",
+    "takim": "TED ANKARA KOLEJLİLER",
+    "pm": 2,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "384273",
     "ad": "Rijad Aydın",
     "takim": "GÖZTEPE ISONEM",
     "pm": 2,
-    "fark": 7,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "776821",
-    "ad": "Vitalis Chikoko",
+    "id": "501170",
+    "ad": "Tobin Carberry",
+    "takim": "OGM ORMANSPOR",
+    "pm": 1,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "271655",
+    "ad": "Ekrem Sancaklı",
     "takim": "TED ANKARA KOLEJLİLER",
     "pm": 1,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ZİMBABVE"
-   },
-   {
-    "id": "23926",
-    "ad": "Mustafa Baki Görür",
-    "takim": "OGM ORMANSPOR",
-    "pm": 1,
-    "fark": 4,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "194798",
-    "ad": "Tuna Han Dikmen",
-    "takim": "OGM ORMANSPOR",
+    "id": "223180",
+    "ad": "Gökhan Yazıcıoğlu",
+    "takim": "TED ANKARA KOLEJLİLER",
     "pm": 1,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "399293",
-    "ad": "Deniz Savut",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 1,
-    "fark": 7,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14800,20 +14782,38 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "222696",
-    "ad": "Burak Erol",
-    "takim": "TED ANKARA KOLEJLİLER",
-    "pm": 0,
-    "fark": -4,
+    "id": "399293",
+    "ad": "Deniz Savut",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 1,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "442487",
-    "ad": "Ricky Tarrant",
-    "takim": "TED ANKARA KOLEJLİLER",
+    "id": "471334",
+    "ad": "Demir Öztürk",
+    "takim": "CEDİ OSMAN BASKETBOL",
     "pm": 0,
-    "fark": -4,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "fiba-arca-tuluoglu",
+    "ad": "Arca Tülüoğlu",
+    "takim": "OGM ORMANSPOR",
+    "pm": 0,
+    "fark": -1,
+    "mac": 1,
+    "ulke": ""
+   },
+   {
+    "id": "473677",
+    "ad": "Diante Watkins",
+    "takim": "OGM ORMANSPOR",
+    "pm": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -14822,52 +14822,7 @@
     "ad": "Eray Aydoğan",
     "takim": "GÖZTEPE ISONEM",
     "pm": 0,
-    "fark": 7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "510615",
-    "ad": "Mbala Mendzana",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": -1,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "KAMERUN"
-   },
-   {
-    "id": "354791",
-    "ad": "Kaan Tarla",
-    "takim": "OGM ORMANSPOR",
-    "pm": -1,
-    "fark": 4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "35766",
-    "ad": "Ali Işık",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": -2,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "340042",
-    "ad": "Ata Engin",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": -2,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "271655",
-    "ad": "Ekrem Sancaklı",
-    "takim": "TED ANKARA KOLEJLİLER",
-    "pm": -2,
-    "fark": -4,
+    "fark": 10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14876,7 +14831,16 @@
     "ad": "Eren Karakaya",
     "takim": "TED ANKARA KOLEJLİLER",
     "pm": -2,
-    "fark": -4,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "380030",
+    "ad": "Tan Ayyıldız",
+    "takim": "TED ANKARA KOLEJLİLER",
+    "pm": -2,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14890,6 +14854,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "381972",
+    "ad": "Yağız Aksu",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -3,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "419692",
     "ad": "Yücel Çağın Başaran",
     "takim": "iLab BASKETBOL",
@@ -14899,20 +14872,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "381972",
-    "ad": "Yağız Aksu",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": -3,
-    "fark": -7,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "316543",
     "ad": "Can Sayın",
     "takim": "TED ANKARA KOLEJLİLER",
     "pm": -3,
-    "fark": -4,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14921,9 +14885,18 @@
     "ad": "Caner Ercan",
     "takim": "TED ANKARA KOLEJLİLER",
     "pm": -3,
-    "fark": -4,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "510615",
+    "ad": "Mbala Mendzana",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -4,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "KAMERUN"
    },
    {
     "id": "433761",
@@ -14935,20 +14908,20 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "189840",
-    "ad": "Umut Geçen",
-    "takim": "CEDİ OSMAN BASKETBOL",
+    "id": "23926",
+    "ad": "Mustafa Baki Görür",
+    "takim": "OGM ORMANSPOR",
     "pm": -4,
-    "fark": -7,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "223180",
-    "ad": "Gökhan Yazıcıoğlu",
-    "takim": "TED ANKARA KOLEJLİLER",
+    "id": "194798",
+    "ad": "Tuna Han Dikmen",
+    "takim": "OGM ORMANSPOR",
     "pm": -4,
-    "fark": -4,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14958,6 +14931,24 @@
     "takim": "GAZİANTEP BASKETBOL",
     "pm": -4,
     "fark": 9,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "35766",
+    "ad": "Ali Işık",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -5,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "340042",
+    "ad": "Ata Engin",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -5,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -14980,6 +14971,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "467246",
+    "ad": "Ahmet Arda Aydın",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -6,
+    "fark": -10,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "393623",
     "ad": "Aybars Varlı",
     "takim": "iLab BASKETBOL",
@@ -14998,11 +14998,20 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "467246",
-    "ad": "Ahmet Arda Aydın",
-    "takim": "CEDİ OSMAN BASKETBOL",
+    "id": "354791",
+    "ad": "Kaan Tarla",
+    "takim": "OGM ORMANSPOR",
     "pm": -6,
-    "fark": -7,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "189840",
+    "ad": "Umut Geçen",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -7,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -15016,15 +15025,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "380030",
-    "ad": "Tan Ayyıldız",
-    "takim": "TED ANKARA KOLEJLİLER",
-    "pm": -7,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "776565",
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "takim": "iLab BASKETBOL",
@@ -15034,20 +15034,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "386617",
-    "ad": "Stefan Tyler Moody",
-    "takim": "iLab BASKETBOL",
-    "pm": -10,
-    "fark": -9,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "56403",
     "ad": "Ömer Sancaklı",
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": -10,
-    "fark": -7,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -15056,9 +15047,18 @@
     "ad": "Ömercan Engin",
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": -10,
-    "fark": -7,
+    "fark": -10,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "386617",
+    "ad": "Stefan Tyler Moody",
+    "takim": "iLab BASKETBOL",
+    "pm": -10,
+    "fark": -9,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "285246",
@@ -15172,6 +15172,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "316467",
+   "ad": "Emir Arda Sivas",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 69,
+   "fark": 69,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "214552",
    "ad": "Burak Gözeneli",
    "takim": "KİPAŞ K.B.B.",
@@ -15187,15 +15196,6 @@
    "pm": 67,
    "fark": 137,
    "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "316467",
-   "ad": "Emir Arda Sivas",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 66,
-   "fark": 66,
-   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
@@ -15266,7 +15266,16 @@
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
    "pm": 49,
-   "fark": 8,
+   "fark": 3,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "196982",
+   "ad": "Ahmet Can Duran",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 49,
+   "fark": 69,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15278,15 +15287,6 @@
    "fark": 59,
    "mac": 9,
    "ulke": "ABD"
-  },
-  {
-   "id": "196982",
-   "ad": "Ahmet Can Duran",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 46,
-   "fark": 66,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "204846",
@@ -15356,7 +15356,7 @@
    "ad": "Eray Büyükcangaz",
    "takim": "GÖZTEPE ISONEM",
    "pm": 39,
-   "fark": 66,
+   "fark": 69,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15374,7 +15374,7 @@
    "ad": "Rijad Aydın",
    "takim": "GÖZTEPE ISONEM",
    "pm": 36,
-   "fark": 66,
+   "fark": 69,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15500,7 +15500,7 @@
    "ad": "Berke Atar",
    "takim": "GÖZTEPE ISONEM",
    "pm": 24,
-   "fark": 66,
+   "fark": 69,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15613,6 +15613,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "39445",
+   "ad": "Fatih Cantitiz",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 16,
+   "fark": 56,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "190730",
    "ad": "Dusan Cantekin",
    "takim": "YALOVA HAREM SPOR",
@@ -15640,20 +15649,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "39445",
-   "ad": "Fatih Cantitiz",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 13,
-   "fark": 53,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "251001",
    "ad": "Tolga Kaan Birer",
    "takim": "OGM ORMANSPOR",
    "pm": 12,
-   "fark": 8,
+   "fark": 3,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15712,6 +15712,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "786709",
+   "ad": "Deandre Pinckney",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 9,
+   "fark": 10,
+   "mac": 1,
+   "ulke": "ABD"
+  },
+  {
    "id": "223836",
    "ad": "Eray Akyüz",
    "takim": "iLab BASKETBOL",
@@ -15739,6 +15748,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "fiba-kaan-sariaslan",
+   "ad": "Kaan Sarıaslan",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 8,
+   "fark": 10,
+   "mac": 1,
+   "ulke": ""
+  },
+  {
    "id": "460265",
    "ad": "Efe Kemal Akayın",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
@@ -15752,7 +15770,7 @@
    "ad": "Koray Uzunhasan",
    "takim": "OGM ORMANSPOR",
    "pm": 7,
-   "fark": 8,
+   "fark": 3,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -15773,15 +15791,6 @@
    "fark": -21,
    "mac": 2,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "786709",
-   "ad": "Deandre Pinckney",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 6,
-   "fark": 7,
-   "mac": 1,
-   "ulke": "ABD"
   },
   {
    "id": "404462",
@@ -15809,15 +15818,6 @@
    "fark": 6,
    "mac": 4,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "fiba-kaan-sariaslan",
-   "ad": "Kaan Sarıaslan",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 5,
-   "fark": 7,
-   "mac": 1,
-   "ulke": ""
   },
   {
    "id": "108865",
@@ -15874,15 +15874,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "473677",
-   "ad": "Diante Watkins",
-   "takim": "OGM ORMANSPOR",
-   "pm": 3,
-   "fark": 8,
-   "mac": 10,
-   "ulke": "ABD"
-  },
-  {
    "id": "386617",
    "ad": "Stefan Tyler Moody",
    "takim": "iLab BASKETBOL",
@@ -15919,22 +15910,13 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "510615",
-   "ad": "Mbala Mendzana",
-   "takim": "CEDİ OSMAN BASKETBOL",
+   "id": "442487",
+   "ad": "Ricky Tarrant",
+   "takim": "TED ANKARA KOLEJLİLER",
    "pm": 2,
-   "fark": -19,
-   "mac": 3,
-   "ulke": "KAMERUN"
-  },
-  {
-   "id": "fiba-arca-tuluoglu",
-   "ad": "Arca Tülüoğlu",
-   "takim": "OGM ORMANSPOR",
-   "pm": 2,
-   "fark": 4,
+   "fark": 1,
    "mac": 1,
-   "ulke": ""
+   "ulke": "ABD"
   },
   {
    "id": "487707",
@@ -15946,6 +15928,15 @@
    "ulke": ""
   },
   {
+   "id": "271655",
+   "ad": "Ekrem Sancaklı",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "pm": 1,
+   "fark": -22,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "274052",
    "ad": "Kutluhan Celayir",
    "takim": "BÜYÜKÇEKMECE BASKETBOL",
@@ -15953,15 +15944,6 @@
    "fark": 0,
    "mac": 4,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "501170",
-   "ad": "Tobin Carberry",
-   "takim": "OGM ORMANSPOR",
-   "pm": 1,
-   "fark": 8,
-   "mac": 10,
-   "ulke": "ABD"
   },
   {
    "id": "400882",
@@ -16013,17 +15995,8 @@
    "ad": "Can Sayın",
    "takim": "TED ANKARA KOLEJLİLER",
    "pm": 0,
-   "fark": -78,
+   "fark": -73,
    "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "471334",
-   "ad": "Demir Öztürk",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": 0,
-   "fark": -63,
-   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16036,13 +16009,13 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "442487",
-   "ad": "Ricky Tarrant",
-   "takim": "TED ANKARA KOLEJLİLER",
+   "id": "fiba-arca-tuluoglu",
+   "ad": "Arca Tülüoğlu",
+   "takim": "OGM ORMANSPOR",
    "pm": 0,
-   "fark": -4,
+   "fark": -1,
    "mac": 1,
-   "ulke": "ABD"
+   "ulke": ""
   },
   {
    "id": "14106",
@@ -16072,6 +16045,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "776821",
+   "ad": "Vitalis Chikoko",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "pm": -1,
+   "fark": -33,
+   "mac": 10,
+   "ulke": "ZİMBABVE"
+  },
+  {
    "id": "777505",
    "ad": "Jaquan Elijah Scott",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
@@ -16079,6 +16061,15 @@
    "fark": -24,
    "mac": 10,
    "ulke": "ABD"
+  },
+  {
+   "id": "510615",
+   "ad": "Mbala Mendzana",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": -1,
+   "fark": -22,
+   "mac": 3,
+   "ulke": "KAMERUN"
   },
   {
    "id": "384873",
@@ -16117,15 +16108,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "271655",
-   "ad": "Ekrem Sancaklı",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "pm": -2,
-   "fark": -27,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "430940",
    "ad": "Jacob Pullen",
    "takim": "MKE ANKARAGÜCÜ",
@@ -16151,6 +16133,24 @@
    "fark": 0,
    "mac": 5,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "473677",
+   "ad": "Diante Watkins",
+   "takim": "OGM ORMANSPOR",
+   "pm": -2,
+   "fark": 3,
+   "mac": 10,
+   "ulke": "ABD"
+  },
+  {
+   "id": "501170",
+   "ad": "Tobin Carberry",
+   "takim": "OGM ORMANSPOR",
+   "pm": -2,
+   "fark": 3,
+   "mac": 10,
+   "ulke": "ABD"
   },
   {
    "id": "395623",
@@ -16195,6 +16195,15 @@
    "pm": -2,
    "fark": 74,
    "mac": 2,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "471334",
+   "ad": "Demir Öztürk",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": -3,
+   "fark": -66,
+   "mac": 9,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16297,15 +16306,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "23926",
-   "ad": "Mustafa Baki Görür",
-   "takim": "OGM ORMANSPOR",
-   "pm": -5,
-   "fark": 8,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "223176",
    "ad": "Murat Can Esen",
    "takim": "GÖZTEPE ISONEM",
@@ -16313,15 +16313,6 @@
    "fark": 53,
    "mac": 4,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "776821",
-   "ad": "Vitalis Chikoko",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "pm": -6,
-   "fark": -38,
-   "mac": 10,
-   "ulke": "ZİMBABVE"
   },
   {
    "id": "284219",
@@ -16337,7 +16328,7 @@
    "ad": "Deniz Savut",
    "takim": "GÖZTEPE ISONEM",
    "pm": -6,
-   "fark": 63,
+   "fark": 66,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -16441,6 +16432,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "23926",
+   "ad": "Mustafa Baki Görür",
+   "takim": "OGM ORMANSPOR",
+   "pm": -10,
+   "fark": 3,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "433761",
    "ad": "Ünal Çardak",
    "takim": "iLab BASKETBOL",
@@ -16454,7 +16454,7 @@
    "ad": "Ahmet Arda Aydın",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -11,
-   "fark": -88,
+   "fark": -91,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -16607,7 +16607,7 @@
    "ad": "Eray Aydoğan",
    "takim": "GÖZTEPE ISONEM",
    "pm": -14,
-   "fark": 66,
+   "fark": 69,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -16627,15 +16627,6 @@
    "pm": -15,
    "fark": -40,
    "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "194798",
-   "ad": "Tuna Han Dikmen",
-   "takim": "OGM ORMANSPOR",
-   "pm": -15,
-   "fark": 8,
-   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16675,20 +16666,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "35766",
-   "ad": "Ali Işık",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -17,
-   "fark": -88,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "381972",
    "ad": "Yağız Aksu",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -18,
-   "fark": -40,
+   "fark": -43,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -16720,6 +16702,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "35766",
+   "ad": "Ali Işık",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": -20,
+   "fark": -91,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "393345",
    "ad": "Eren İlyem",
    "takim": "DARÜŞŞAFAKA",
@@ -16738,6 +16729,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "194798",
+   "ad": "Tuna Han Dikmen",
+   "takim": "OGM ORMANSPOR",
+   "pm": -20,
+   "fark": 3,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "332037",
    "ad": "Emir Apaydın",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
@@ -16751,7 +16751,7 @@
    "ad": "Caner Ercan",
    "takim": "TED ANKARA KOLEJLİLER",
    "pm": -22,
-   "fark": -59,
+   "fark": -54,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -16763,6 +16763,15 @@
    "fark": -48,
    "mac": 8,
    "ulke": "ABD"
+  },
+  {
+   "id": "380030",
+   "ad": "Tan Ayyıldız",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "pm": -23,
+   "fark": -54,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "290538",
@@ -16783,30 +16792,21 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "189840",
-   "ad": "Umut Geçen",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -25,
-   "fark": -77,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "408965",
    "ad": "Eren Karakaya",
    "takim": "TED ANKARA KOLEJLİLER",
    "pm": -26,
-   "fark": -54,
+   "fark": -49,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "380030",
-   "ad": "Tan Ayyıldız",
-   "takim": "TED ANKARA KOLEJLİLER",
+   "id": "189840",
+   "ad": "Umut Geçen",
+   "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -28,
-   "fark": -59,
-   "mac": 11,
+   "fark": -80,
+   "mac": 8,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16855,15 +16855,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "340042",
-   "ad": "Ata Engin",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -35,
-   "fark": -88,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "777242",
    "ad": "Jalen Terrell Ray",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -16900,12 +16891,12 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "354791",
-   "ad": "Kaan Tarla",
-   "takim": "OGM ORMANSPOR",
+   "id": "340042",
+   "ad": "Ata Engin",
+   "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -38,
-   "fark": 8,
-   "mac": 10,
+   "fark": -91,
+   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16943,6 +16934,15 @@
    "fark": -42,
    "mac": 8,
    "ulke": "ABD"
+  },
+  {
+   "id": "354791",
+   "ad": "Kaan Tarla",
+   "takim": "OGM ORMANSPOR",
+   "pm": -43,
+   "fark": 3,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "640045",
@@ -17008,6 +17008,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "222696",
+   "ad": "Burak Erol",
+   "takim": "TED ANKARA KOLEJLİLER",
+   "pm": -54,
+   "fark": -54,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "285246",
    "ad": "Batuhan Acar",
    "takim": "iLab BASKETBOL",
@@ -17035,11 +17044,11 @@
    "ulke": "ABD"
   },
   {
-   "id": "222696",
-   "ad": "Burak Erol",
+   "id": "223180",
+   "ad": "Gökhan Yazıcıoğlu",
    "takim": "TED ANKARA KOLEJLİLER",
-   "pm": -59,
-   "fark": -59,
+   "pm": -60,
+   "fark": -54,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17068,15 +17077,6 @@
    "pm": -62,
    "fark": -24,
    "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "223180",
-   "ad": "Gökhan Yazıcıoğlu",
-   "takim": "TED ANKARA KOLEJLİLER",
-   "pm": -65,
-   "fark": -59,
-   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17147,7 +17147,7 @@
    "ad": "Ömer Sancaklı",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -86,
-   "fark": -88,
+   "fark": -91,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17156,7 +17156,7 @@
    "ad": "Ömercan Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -94,
-   "fark": -88,
+   "fark": -91,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
