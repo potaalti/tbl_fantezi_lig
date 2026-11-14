@@ -43,7 +43,7 @@
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": true,
-    "sure": "9:52",
+    "sure": "10:00",
     "sayi": 5,
     "iki": [
      1,
@@ -65,7 +65,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "pm": "-10",
+    "pm": "-12",
     "vp": 4,
     "sahada": true
    },
@@ -164,7 +164,7 @@
     "ad": "Yiğithan Ergenç",
     "no": "0",
     "ilk5": false,
-    "sure": "0:50",
+    "sure": "0:58",
     "sayi": 0,
     "iki": [
      0,
@@ -186,7 +186,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 0,
     "sahada": true
    },
@@ -195,7 +195,7 @@
     "ad": "Hali̇l İbrahi̇m Ateş",
     "no": "1",
     "ilk5": false,
-    "sure": "2:38",
+    "sure": "2:46",
     "sayi": 3,
     "iki": [
      0,
@@ -217,7 +217,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "-6",
+    "pm": "-8",
     "vp": 3,
     "sahada": true
    },
@@ -286,7 +286,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": false,
-    "sure": "4:37",
+    "sure": "4:45",
     "sayi": 0,
     "iki": [
      0,
@@ -308,7 +308,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "-12",
+    "pm": "-14",
     "vp": 0,
     "sahada": true
    },
@@ -317,7 +317,7 @@
     "ad": "Faik Can Kaşıkçı",
     "no": "8",
     "ilk5": false,
-    "sure": "4:37",
+    "sure": "4:45",
     "sayi": 3,
     "iki": [
      0,
@@ -325,7 +325,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      0,
@@ -339,8 +339,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "pm": "-12",
-    "vp": 1,
+    "pm": "-14",
+    "vp": 0,
     "sahada": true
    }
   ],
@@ -370,15 +370,15 @@
  },
  "dep": {
   "ad": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-  "skor": "33",
+  "skor": "35",
   "oyuncular": [
    {
     "id": "257055",
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": true,
-    "sure": "9:52",
-    "sayi": 12,
+    "sure": "10:00",
+    "sayi": 14,
     "iki": [
      3,
      3
@@ -388,8 +388,8 @@
      2
     ],
     "sa": [
-     3,
-     3
+     5,
+     5
     ],
     "hr": 0,
     "sr": 2,
@@ -398,9 +398,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
-    "pm": "10",
-    "vp": 16,
+    "faul": 1,
+    "pm": "12",
+    "vp": 18,
     "sahada": true
    },
    {
@@ -498,7 +498,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "9:52",
+    "sure": "10:00",
     "sayi": 5,
     "iki": [
      1,
@@ -520,7 +520,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "pm": "10",
+    "pm": "12",
     "vp": 7,
     "sahada": true
    },
@@ -559,7 +559,7 @@
     "ad": "Jamari Traylor",
     "no": "7",
     "ilk5": false,
-    "sure": "2:38",
+    "sure": "2:46",
     "sayi": 0,
     "iki": [
      0,
@@ -581,7 +581,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
+    "pm": "8",
     "vp": 1,
     "sahada": true
    },
@@ -650,7 +650,7 @@
     "ad": "Arda Birkeser",
     "no": "22",
     "ilk5": false,
-    "sure": "2:38",
+    "sure": "2:46",
     "sayi": 4,
     "iki": [
      1,
@@ -672,7 +672,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "6",
+    "pm": "8",
     "vp": 5,
     "sahada": true
    },
@@ -681,7 +681,7 @@
     "ad": "Oktay Güneş",
     "no": "25",
     "ilk5": false,
-    "sure": "1:09",
+    "sure": "1:17",
     "sayi": 0,
     "iki": [
      0,
@@ -703,7 +703,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "pm": "2",
+    "pm": "4",
     "vp": 0,
     "sahada": true
    },
@@ -739,7 +739,7 @@
    }
   ],
   "ceyrekler": [
-   33
+   35
   ],
   "takim": {
    "hr": 1,
@@ -754,26 +754,26 @@
    "is": 3,
    "ba": 16,
    "benc": 4,
-   "fark": 10,
+   "fark": 12,
    "seri": 13,
-   "lider": 349,
+   "lider": 357,
    "degisim": 3,
    "esitlik": 3
   },
   "koc": "Timuçin Meriç"
  },
  "evSkor": "23",
- "depSkor": "33",
+ "depSkor": "35",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:07",
+  "periyot": 2,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 593,
+  "simdi": 600,
   "d": [
    [
     0,
@@ -890,6 +890,22 @@
    [
     567,
     -10
+   ],
+   [
+    593,
+    -11
+   ],
+   [
+    593,
+    -12
+   ],
+   [
+    592,
+    -10
+   ],
+   [
+    599,
+    -12
    ]
   ]
  }
