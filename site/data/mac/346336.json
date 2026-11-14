@@ -13,7 +13,7 @@
     "ad": "Ty Gordon",
     "no": "0",
     "ilk5": true,
-    "sure": "5:16",
+    "sure": "5:31",
     "sayi": 0,
     "iki": [
      0,
@@ -37,18 +37,19 @@
     "faul": 1,
     "af": 0,
     "pm": "-5",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "130898",
     "ad": "Okben Ulubay",
     "no": "4",
     "ilk5": true,
-    "sure": "7:29",
+    "sure": "8:35",
     "sayi": 1,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -68,7 +69,7 @@
     "faul": 0,
     "af": 2,
     "pm": "-4",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -138,7 +139,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "7:54",
+    "sure": "9:00",
     "sayi": 10,
     "iki": [
      1,
@@ -146,7 +147,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      5,
@@ -160,9 +161,9 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "af": 3,
+    "af": 4,
     "pm": "-3",
-    "vp": 10,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -170,7 +171,7 @@
     "ad": "Alex Perez",
     "no": "2",
     "ilk5": false,
-    "sure": "5:05",
+    "sure": "6:11",
     "sayi": 3,
     "iki": [
      0,
@@ -191,8 +192,8 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
-    "af": 0,
+    "faul": 2,
+    "af": 1,
     "pm": "5",
     "vp": 4,
     "sahada": true
@@ -295,7 +296,7 @@
     "ad": "Damien Jefferson",
     "no": "23",
     "ilk5": false,
-    "sure": "3:06",
+    "sure": "3:57",
     "sayi": 2,
     "iki": [
      1,
@@ -319,8 +320,7 @@
     "faul": 0,
     "af": 0,
     "pm": "2",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "307500",
@@ -358,7 +358,7 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": false,
-    "sure": "3:39",
+    "sure": "4:45",
     "sayi": 4,
     "iki": [
      2,
@@ -420,7 +420,7 @@
     "ad": "Briante Weber",
     "no": "2",
     "ilk5": true,
-    "sure": "6:20",
+    "sure": "6:35",
     "sayi": 4,
     "iki": [
      2,
@@ -444,14 +444,15 @@
     "faul": 0,
     "af": 1,
     "pm": "3",
-    "vp": 6
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "779071",
     "ad": "Ishmael El-Amin",
     "no": "5",
     "ilk5": true,
-    "sure": "7:15",
+    "sure": "7:30",
     "sayi": 10,
     "iki": [
      2,
@@ -475,7 +476,8 @@
     "faul": 1,
     "af": 1,
     "pm": "2",
-    "vp": 10
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "500079",
@@ -575,7 +577,7 @@
     "ad": "Muhaymin Mustafa",
     "no": "1",
     "ilk5": false,
-    "sure": "1:01",
+    "sure": "2:07",
     "sayi": 0,
     "iki": [
      0,
@@ -590,16 +592,16 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "af": 0,
+    "af": 1,
     "pm": "1",
-    "vp": -1,
+    "vp": 0,
     "sahada": true
    },
    {
@@ -607,7 +609,7 @@
     "ad": "Markel Starks",
     "no": "4",
     "ilk5": false,
-    "sure": "4:01",
+    "sure": "4:52",
     "sayi": 5,
     "iki": [
      0,
@@ -631,15 +633,14 @@
     "faul": 0,
     "af": 1,
     "pm": "-3",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "218536",
     "ad": "Hakan Sayılı",
     "no": "8",
     "ilk5": false,
-    "sure": "0:39",
+    "sure": "1:45",
     "sayi": 0,
     "iki": [
      0,
@@ -733,7 +734,7 @@
     "ad": "Yakuba Ouattara",
     "no": "24",
     "ilk5": false,
-    "sure": "3:06",
+    "sure": "3:57",
     "sayi": 0,
     "iki": [
      0,
@@ -753,19 +754,18 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
+    "tk": 1,
+    "faul": 1,
     "af": 0,
     "pm": "-2",
-    "vp": 0,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "fiba-cyril-langevine",
     "ad": "Cyrıl  Langevıne",
     "no": "55",
     "ilk5": false,
-    "sure": "4:19",
+    "sure": "5:25",
     "sayi": 2,
     "iki": [
      1,
@@ -785,11 +785,11 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
-    "faul": 1,
+    "tk": 3,
+    "faul": 2,
     "af": 0,
     "pm": "-3",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    }
   ],
@@ -799,8 +799,8 @@
   ],
   "takim": {
    "hr": 1,
-   "sr": 0,
-   "rib": 1,
+   "sr": 1,
+   "rib": 2,
    "tk": 0,
    "faul": 0
   },
@@ -824,12 +824,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "09:39",
+  "saat": "08:33",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 621,
+  "simdi": 687,
   "d": [
    [
     0,
