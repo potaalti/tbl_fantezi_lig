@@ -13,7 +13,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "16:15",
+    "sure": "16:49",
     "sayi": 6,
     "iki": [
      0,
@@ -44,7 +44,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "17:32",
+    "sure": "18:06",
     "sayi": 8,
     "iki": [
      1,
@@ -165,7 +165,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "12:59",
+    "sure": "13:33",
     "sayi": 10,
     "iki": [
      3,
@@ -196,7 +196,7 @@
     "ad": "Deandre Pinckney",
     "no": "2",
     "ilk5": false,
-    "sure": "11:25",
+    "sure": "11:59",
     "sayi": 5,
     "iki": [
      1,
@@ -208,7 +208,7 @@
     ],
     "sa": [
      0,
-     0
+     2
     ],
     "hr": 0,
     "sr": 3,
@@ -219,7 +219,7 @@
     "tk": 0,
     "faul": 1,
     "pm": "12",
-    "vp": 6,
+    "vp": 4,
     "sahada": true
    },
    {
@@ -347,7 +347,7 @@
     "ad": "Eray Büyükcangaz",
     "no": "35",
     "ilk5": false,
-    "sure": "9:58",
+    "sure": "10:32",
     "sayi": 2,
     "iki": [
      1,
@@ -394,7 +394,7 @@
    "benc": 23,
    "fark": 14,
    "seri": 7,
-   "lider": 1297,
+   "lider": 1331,
    "degisim": 0,
    "esitlik": 2
   },
@@ -432,15 +432,14 @@
     "tk": 2,
     "faul": 4,
     "pm": "-7",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "224801",
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "15:03",
+    "sure": "15:37",
     "sayi": 4,
     "iki": [
      2,
@@ -471,7 +470,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "19:25",
+    "sure": "19:59",
     "sayi": 7,
     "iki": [
      2,
@@ -486,15 +485,15 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 2,
     "tc": 1,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "-8",
-    "vp": 9,
+    "vp": 10,
     "sahada": true
    },
    {
@@ -502,11 +501,11 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "21:52",
+    "sure": "22:26",
     "sayi": 9,
     "iki": [
      4,
-     6
+     7
     ],
     "uc": [
      0,
@@ -525,7 +524,7 @@
     "tk": 1,
     "faul": 1,
     "pm": "-8",
-    "vp": 7,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -533,7 +532,7 @@
     "ad": "Ali Işık",
     "no": "44",
     "ilk5": true,
-    "sure": "15:13",
+    "sure": "15:47",
     "sayi": 2,
     "iki": [
      0,
@@ -554,7 +553,7 @@
     "tc": 2,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "pm": "-6",
     "vp": 7,
     "sahada": true
@@ -714,7 +713,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": false,
-    "sure": "6:31",
+    "sure": "7:05",
     "sayi": 0,
     "iki": [
      0,
@@ -728,16 +727,17 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "pm": "-3",
-    "vp": -2
+    "vp": -1,
+    "sahada": true
    }
   ],
   "ceyrekler": [
@@ -772,12 +772,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "07:04",
+  "saat": "06:33",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1376,
+  "simdi": 1407,
   "d": [
    [
     0,
