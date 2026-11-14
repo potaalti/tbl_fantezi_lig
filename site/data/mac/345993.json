@@ -540,7 +540,8 @@
     "faul": 1,
     "af": 0,
     "pm": "-3",
-    "vp": -2
+    "vp": -2,
+    "sahada": true
    },
    {
     "id": "777505",
@@ -603,8 +604,7 @@
     "faul": 2,
     "af": 2,
     "pm": "-6",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "210913",
@@ -825,8 +825,8 @@
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:00",
+  "periyot": 4,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
