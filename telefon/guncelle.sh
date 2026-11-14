@@ -92,16 +92,20 @@ guncelle() {
     timeout 120 git fetch -q origin || return 1
     git reset -q --hard origin/main
     nabiz
-    # Bilgisayar açıkken asıl kaynak o (pota-alti-app/veri/pc_dongu.py, maç saatinde 2 dakikada bir '(pc)' gönderir):
-    # son 5 dakikada bilgisayardan gönderim varsa telefon bu turu atlar, bilgisayar kapanınca kendiliğinden devralır
+    # Bilgisayar açıkken asıl kaynak o (pota-alti-app/veri/pc_dongu.py, maç saatinde 2 dakikada bir, günde 4 kez de
+    # kadrolarla tam '(pc)' gönderir): canlı turda son 5 dakikada, günlük tam güncellemede son 30 dakikada bilgisayardan
+    # gönderim varsa telefon atlar (2026-11-14 12:12'de telefonun çektiği eski TBF kadroları transferleri geri almıştı).
+    # Elle "tam" her zaman çalışır. Bilgisayar kapanınca telefon kendiliğinden devralır.
     if [ "$1" != "tam" ]; then
       son_pc=$(git log -1 --format=%ct --grep='(pc)$' origin/main)
-      if [ -n "$son_pc" ] && [ $(( $(date +%s) - son_pc )) -lt 300 ]; then
+      sinir=300
+      [ "$1" = "gunluk" ] && sinir=1800
+      if [ -n "$son_pc" ] && [ $(( $(date +%s) - son_pc )) -lt $sinir ]; then
         echo "Bilgisayar çekiyor; telefon bu turu atladı."
         return 0
       fi
     fi
-    if [ "$1" = "tam" ]; then
+    if [ "$1" = "tam" ] || [ "$1" = "gunluk" ]; then
       timeout 900 python fetch_tbf.py || return 1
     else
       timeout 300 python fetch_tbf.py --akilli || return 1
@@ -149,5 +153,5 @@ elif dongu_calisiyor_mu; then
 elif mac_saatinde_mi; then
   mac_dongusu
 elif gunluk_guncelleme_zamani_mi; then
-  guncelle tam >> "$LOG" 2>&1; kirp
+  guncelle gunluk >> "$LOG" 2>&1; kirp
 fi; exit 0

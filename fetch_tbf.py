@@ -619,20 +619,29 @@ def main():
         rehber_zamani = datetime.now(timezone.utc).isoformat(timespec="seconds")
         for v in rehber.values():
             v["aktif"] = False
+        # Transfer sırasında TBF oyuncuyu bir süre iki takımın kadrosunda birden gösterebiliyor; hangisi sona gelirse
+        # o yazılınca takım her yenilemede gidip geliyordu (2026-11-14: Traylor, Tülüoğlu, Sarıaslan…). İki kadroda
+        # görünen oyuncunun takımı: en son oynadığı maçın takımı ya da önceki takımı o kadrolardan biriyse o kalır.
+        onceki_takim = {pid: v.get("takim") for pid, v in rehber.items()}  # maç döngüsü son maçın takımını yazdı
+        adaylar = {}
         for t in api(f"/Team/get-teams-by-leauge?leaugeId={LIG_ID}"):
             kadro = api(f"/Team/get-team-active-player-list-by-season-and-league?LeagueId={LIG_ID}"
                         f"&SeasonId={SEZON_ID}&TeamProcessId={t['teamProcessId']}&prefix=tbl") or []
             for o in kadro:
                 pid = str(o["personId"])
                 ad = rehber.get(pid, {}).get("ad") or f"{o['firstName']} {o['lastName']}".strip()
-                rehber[pid] = {
+                adaylar.setdefault(pid, []).append({
                     "ad": ad, "takim": t["teamName"], "aktif": True,
                     "ulke": o.get("country") or "",  # haftalık eşitlikte Türk oyuncuların VP'si için
                     "mac": o.get("macSayisi") or 0,
                     "vpOrt": round(o.get("verimlilikPuani") or 0, 1),
                     "sayiOrt": round(o.get("sayi") or 0, 1),
                     "sureOrt": o.get("sure") or "00:00",
-                }
+                })
+        for pid, liste in adaylar.items():
+            rehber[pid] = next((x for x in liste if x["takim"] == onceki_takim.get(pid)), liste[-1])
+            if len(liste) > 1:
+                print(f"  {rehber[pid]['ad']} TBF'de {len(liste)} kadroda: {', '.join(x['takim'] for x in liste)} -> {rehber[pid]['takim']}")
 
     transferleri_uygula(rehber, guncel)  # kadro yenilemesi TBF'deki eski takımı yazmış olabilir
     json_yaz(rehber_yol, dict(sorted(rehber.items(), key=lambda kv: kv[1]["ad"])))
