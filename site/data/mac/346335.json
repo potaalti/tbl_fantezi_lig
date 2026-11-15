@@ -13,7 +13,7 @@
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "9:16",
+    "sure": "9:17",
     "sayi": 7,
     "iki": [
      2,
@@ -36,7 +36,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-1",
+    "pm": "-2",
     "vp": 6,
     "sahada": true
    },
@@ -76,7 +76,7 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "7:47",
+    "sure": "7:48",
     "sayi": 6,
     "iki": [
      1,
@@ -91,16 +91,16 @@
      1
     ],
     "hr": 1,
-    "sr": 0,
-    "rib": 1,
+    "sr": 1,
+    "rib": 2,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 3,
     "faul": 1,
     "af": 2,
-    "pm": "0",
-    "vp": 4,
+    "pm": "-1",
+    "vp": 5,
     "sahada": true
    },
    {
@@ -232,7 +232,7 @@
     "ad": "Marko Pecarski",
     "no": "5",
     "ilk5": false,
-    "sure": "1:17",
+    "sure": "1:18",
     "sayi": 3,
     "iki": [
      0,
@@ -255,7 +255,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "-1",
+    "pm": "-2",
     "vp": 3,
     "sahada": true
    },
@@ -295,7 +295,7 @@
     "ad": "Tyron Deshun Brewer",
     "no": "8",
     "ilk5": false,
-    "sure": "1:30",
+    "sure": "1:31",
     "sayi": 0,
     "iki": [
      0,
@@ -318,7 +318,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-1",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -358,7 +358,7 @@
     "ad": "Egemen Güven",
     "no": "15",
     "ilk5": false,
-    "sure": "2:59",
+    "sure": "3:00",
     "sayi": 0,
     "iki": [
      0,
@@ -381,7 +381,7 @@
     "tk": 0,
     "faul": 2,
     "af": 1,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 0,
     "sahada": true
    }
@@ -413,7 +413,7 @@
  },
  "dep": {
   "ad": "GLİNT ÇAYIROVA BELEDİYESİ",
-  "skor": "28",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "501134",
@@ -451,7 +451,7 @@
     "ad": "Fabian White Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "10:05",
+    "sure": "10:06",
     "sayi": 4,
     "iki": [
      1,
@@ -474,7 +474,7 @@
     "tk": 1,
     "faul": 1,
     "af": 1,
-    "pm": "2",
+    "pm": "3",
     "vp": 7,
     "sahada": true
    },
@@ -514,7 +514,7 @@
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": true,
-    "sure": "8:53",
+    "sure": "8:54",
     "sayi": 2,
     "iki": [
      1,
@@ -537,8 +537,9 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "1",
-    "vp": 1
+    "pm": "2",
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "502472",
@@ -600,15 +601,14 @@
     "faul": 1,
     "af": 2,
     "pm": "1",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "107520",
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "2:41",
+    "sure": "2:42",
     "sayi": 0,
     "iki": [
      0,
@@ -631,7 +631,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "2",
+    "pm": "3",
     "vp": 2,
     "sahada": true
    },
@@ -671,8 +671,8 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "4:53",
-    "sayi": 5,
+    "sure": "4:54",
+    "sayi": 6,
     "iki": [
      1,
      1
@@ -682,8 +682,8 @@
      2
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -694,7 +694,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "0",
+    "pm": "1",
     "vp": 4,
     "sahada": true
    },
@@ -703,7 +703,7 @@
     "ad": "Canberk Kuş",
     "no": "12",
     "ilk5": false,
-    "sure": "4:53",
+    "sure": "4:54",
     "sayi": 3,
     "iki": [
      0,
@@ -726,7 +726,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "1",
     "vp": 3,
     "sahada": true
    },
@@ -795,7 +795,7 @@
   ],
   "ceyrekler": [
    28,
-   0
+   1
   ],
   "takim": {
    "hr": 2,
@@ -805,31 +805,31 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 7,
+   "tks": 8,
    "hh": 9,
    "is": 2,
    "ba": 8,
-   "benc": 8,
+   "benc": 9,
    "fark": 5,
    "seri": 5,
-   "lider": 468,
+   "lider": 469,
    "degisim": 2,
    "esitlik": 4
   },
   "koc": "Ender Arslan"
  },
  "evSkor": "26",
- "depSkor": "28",
+ "depSkor": "29",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "09:37",
+  "saat": "09:35",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 623,
+  "simdi": 624,
   "d": [
    [
     0,
@@ -942,6 +942,10 @@
    [
     583,
     -2
+   ],
+   [
+    623,
+    -3
    ]
   ]
  }
