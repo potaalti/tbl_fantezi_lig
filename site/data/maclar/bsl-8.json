@@ -72,13 +72,18 @@
    "lig": "bsl",
    "hafta": 8,
    "tarih": "2026-11-15T15:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "YUKATEL DENİZLİ BASKET",
    "dep": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Pamukkale Üniversitesi Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:43",
+    "uzatma": false
+   }
   },
   {
    "id": 346337,
