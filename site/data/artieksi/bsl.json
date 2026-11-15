@@ -10690,15 +10690,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "778079",
-    "ad": "Amadou Sow",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 5,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "MALİ"
-   },
-   {
     "id": "778399",
     "ad": "Shavar Reynolds Jr.",
     "takim": "TOFAŞ",
@@ -10706,6 +10697,15 @@
     "fark": 14,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "778079",
+    "ad": "Amadou Sow",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 4,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "MALİ"
    },
    {
     "id": "128768",
@@ -10717,20 +10717,20 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "776570",
-    "ad": "Kevin Yebo",
-    "takim": "ESENLER EROKSPOR",
+    "id": "734505",
+    "ad": "Trevion Williams",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 4,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
-    "ulke": "ALMANYA"
+    "ulke": "ABD"
    },
    {
     "id": "608898",
     "ad": "Tyler Cavanaugh",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 4,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -10753,31 +10753,31 @@
     "ulke": "ABD"
    },
    {
+    "id": "776570",
+    "ad": "Kevin Yebo",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 3,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ALMANYA"
+   },
+   {
     "id": "776935",
     "ad": "Aleksa Avramovic",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 3,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "SIRBİSTAN"
    },
    {
-    "id": "502518",
-    "ad": "Jordan Usher",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 3,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "734505",
-    "ad": "Trevion Williams",
+    "id": "734506",
+    "ad": "Malachi Flynn",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 3,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
-    "ulke": "ABD"
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "778249",
@@ -10816,13 +10816,13 @@
     "ulke": "ABD"
    },
    {
-    "id": "734506",
-    "ad": "Malachi Flynn",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "id": "502518",
+    "ad": "Jordan Usher",
+    "takim": "ESENLER EROKSPOR",
     "pm": 2,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": "ABD"
    },
    {
     "id": "778181",
@@ -10897,31 +10897,13 @@
     "ulke": "ABD"
    },
    {
-    "id": "359434",
-    "ad": "Errick Mccollum",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 1,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "384595",
     "ad": "Mateusz Ponitka",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 1,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "POLONYA"
-   },
-   {
-    "id": "57737",
-    "ad": "Yunus Emre Sonsırma",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 1,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "666515",
@@ -10938,6 +10920,24 @@
     "takim": "TOFAŞ",
     "pm": 1,
     "fark": 14,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "359434",
+    "ad": "Errick Mccollum",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 0,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "57737",
+    "ad": "Yunus Emre Sonsırma",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -10960,6 +10960,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "358272",
+    "ad": "İsmet Akpınar",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": 0,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "106461",
     "ad": "Kadir Bayram",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -10978,20 +10987,11 @@
     "ulke": ""
    },
    {
-    "id": "131296",
-    "ad": "Kenan Sipahi",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": -1,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "470574",
     "ad": "Keye Van Der Vuurst",
     "takim": "ESENLER EROKSPOR",
     "pm": -1,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "HOLLANDA"
    },
@@ -11000,16 +11000,16 @@
     "ad": "Mike Davis Jr.",
     "takim": "ESENLER EROKSPOR",
     "pm": -1,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
    {
-    "id": "358272",
-    "ad": "İsmet Akpınar",
+    "id": "131296",
+    "ad": "Kenan Sipahi",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -1,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -11072,18 +11072,36 @@
     "ad": "Egehan Arna",
     "takim": "ESENLER EROKSPOR",
     "pm": -3,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "776654",
+    "ad": "Damien Inglis",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": -3,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "FRANSA"
    },
    {
     "id": "780954",
     "ad": "Luka Mitrovic",
     "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": -3,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "SIRBİSTAN"
+   },
+   {
+    "id": "609095",
+    "ad": "Marcquise Reed",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": -3,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "778279",
@@ -11122,29 +11140,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "776654",
-    "ad": "Damien Inglis",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": -4,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "FRANSA"
-   },
-   {
-    "id": "609095",
-    "ad": "Marcquise Reed",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": -4,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "249031",
     "ad": "Metehan Akyel",
     "takim": "ESENLER EROKSPOR",
     "pm": -4,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -11158,20 +11158,20 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "736340",
-    "ad": "Jerome Robinson Jr.",
-    "takim": "GALATASARAY MCT TECHNIC",
+    "id": "667498",
+    "ad": "James Webb Iii",
+    "takim": "ESENLER EROKSPOR",
     "pm": -5,
     "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
    {
-    "id": "667498",
-    "ad": "James Webb Iii",
-    "takim": "ESENLER EROKSPOR",
+    "id": "736340",
+    "ad": "Jerome Robinson Jr.",
+    "takim": "GALATASARAY MCT TECHNIC",
     "pm": -5,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -11431,6 +11431,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "734505",
+   "ad": "Trevion Williams",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 57,
+   "fark": 44,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
    "id": "735850",
    "ad": "Kai Jones",
    "takim": "ANADOLU EFES",
@@ -11438,15 +11447,6 @@
    "fark": 38,
    "mac": 5,
    "ulke": "BAHAMALAR"
-  },
-  {
-   "id": "734505",
-   "ad": "Trevion Williams",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 56,
-   "fark": 43,
-   "mac": 8,
-   "ulke": "ABD"
   },
   {
    "id": "133112",
@@ -11476,6 +11476,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "776654",
+   "ad": "Damien Inglis",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 49,
+   "fark": 59,
+   "mac": 7,
+   "ulke": "FRANSA"
+  },
+  {
    "id": "735811",
    "ad": "Talen Horton-Tucker",
    "takim": "FENERBAHÇE TARFİN",
@@ -11492,15 +11501,6 @@
    "fark": 52,
    "mac": 5,
    "ulke": "ABD"
-  },
-  {
-   "id": "776654",
-   "ad": "Damien Inglis",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 48,
-   "fark": 58,
-   "mac": 7,
-   "ulke": "FRANSA"
   },
   {
    "id": "346709",
@@ -11551,8 +11551,8 @@
    "id": "734506",
    "ad": "Malachi Flynn",
    "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 43,
-   "fark": 58,
+   "pm": 44,
+   "fark": 59,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
@@ -11579,7 +11579,7 @@
    "ad": "Kenan Sipahi",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 40,
-   "fark": 43,
+   "fark": 44,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -11723,7 +11723,7 @@
    "ad": "Aleksa Avramovic",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 27,
-   "fark": 35,
+   "fark": 36,
    "mac": 7,
    "ulke": "SIRBİSTAN"
   },
@@ -11768,7 +11768,7 @@
    "ad": "Keye Van Der Vuurst",
    "takim": "ESENLER EROKSPOR",
    "pm": 21,
-   "fark": 14,
+   "fark": 13,
    "mac": 6,
    "ulke": "HOLLANDA"
   },
@@ -11777,7 +11777,7 @@
    "ad": "Mateusz Ponitka",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 21,
-   "fark": 43,
+   "fark": 44,
    "mac": 8,
    "ulke": "POLONYA"
   },
@@ -11885,7 +11885,7 @@
    "ad": "Mike Davis Jr.",
    "takim": "ESENLER EROKSPOR",
    "pm": 12,
-   "fark": -13,
+   "fark": -14,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -11908,15 +11908,6 @@
    "ulke": "KANADA"
   },
   {
-   "id": "776570",
-   "ad": "Kevin Yebo",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 11,
-   "fark": -13,
-   "mac": 8,
-   "ulke": "ALMANYA"
-  },
-  {
    "id": "777676",
    "ad": "Marcus Bingham Jr.",
    "takim": "FENERBAHÇE TARFİN",
@@ -11935,11 +11926,20 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "776570",
+   "ad": "Kevin Yebo",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 10,
+   "fark": -14,
+   "mac": 8,
+   "ulke": "ALMANYA"
+  },
+  {
    "id": "608898",
    "ad": "Tyler Cavanaugh",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 10,
-   "fark": 43,
+   "fark": 44,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -12083,7 +12083,7 @@
    "ad": "Egehan Arna",
    "takim": "ESENLER EROKSPOR",
    "pm": 6,
-   "fark": -13,
+   "fark": -14,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -12151,15 +12151,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "778079",
-   "ad": "Amadou Sow",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 3,
-   "fark": -13,
-   "mac": 8,
-   "ulke": "MALİ"
-  },
-  {
    "id": "786430",
    "ad": "Cyril Langevine",
    "takim": "KARŞIYAKA",
@@ -12194,6 +12185,15 @@
    "fark": -31,
    "mac": 4,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778079",
+   "ad": "Amadou Sow",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 2,
+   "fark": -14,
+   "mac": 8,
+   "ulke": "MALİ"
   },
   {
    "id": "367110",
@@ -12236,7 +12236,7 @@
    "ad": "Metehan Akyel",
    "takim": "ESENLER EROKSPOR",
    "pm": 0,
-   "fark": -18,
+   "fark": -19,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -12542,7 +12542,7 @@
    "ad": "Luka Mitrovic",
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": -6,
-   "fark": -1,
+   "fark": 0,
    "mac": 4,
    "ulke": "SIRBİSTAN"
   },
@@ -12610,6 +12610,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "609095",
+   "ad": "Marcquise Reed",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": -7,
+   "fark": 44,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
    "id": "778080",
    "ad": "Dallas Moore",
    "takim": "ESENLER EROKSPOR",
@@ -12632,16 +12641,7 @@
    "ad": "James Webb Iii",
    "takim": "ESENLER EROKSPOR",
    "pm": -8,
-   "fark": -13,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "609095",
-   "ad": "Marcquise Reed",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": -8,
-   "fark": 43,
+   "fark": -14,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -12673,21 +12673,21 @@
    "ulke": "ABD"
   },
   {
+   "id": "358272",
+   "ad": "İsmet Akpınar",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": -9,
+   "fark": 29,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "112715",
    "ad": "Emircan Koşut",
    "takim": "TÜRK TELEKOM",
    "pm": -9,
    "fark": 48,
    "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "358272",
-   "ad": "İsmet Akpınar",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": -10,
-   "fark": 28,
-   "mac": 7,
    "ulke": "TÜRKİYE"
   },
   {
@@ -12790,15 +12790,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "57737",
-   "ad": "Yunus Emre Sonsırma",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -16,
-   "fark": -36,
-   "mac": 4,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "410874",
    "ad": "Markel Starks",
    "takim": "KARŞIYAKA",
@@ -12833,6 +12824,15 @@
    "fark": -39,
    "mac": 2,
    "ulke": ""
+  },
+  {
+   "id": "57737",
+   "ad": "Yunus Emre Sonsırma",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -17,
+   "fark": -37,
+   "mac": 4,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "590409",
@@ -12991,8 +12991,8 @@
    "id": "359434",
    "ad": "Errick Mccollum",
    "takim": "ESENLER EROKSPOR",
-   "pm": -23,
-   "fark": -13,
+   "pm": -24,
+   "fark": -14,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -13045,8 +13045,8 @@
    "id": "502518",
    "ad": "Jordan Usher",
    "takim": "ESENLER EROKSPOR",
-   "pm": -25,
-   "fark": -16,
+   "pm": -26,
+   "fark": -17,
    "mac": 7,
    "ulke": "ABD"
   },
