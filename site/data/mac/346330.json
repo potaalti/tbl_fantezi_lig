@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "ESENLER EROKSPOR",
-  "skor": "42",
+  "skor": "44",
   "oyuncular": [
    {
     "id": "470574",
     "ad": "Keye Van Der Vuurst",
     "no": "1",
     "ilk5": true,
-    "sure": "16:29",
-    "sayi": 0,
+    "sure": "17:37",
+    "sayi": 2,
     "iki": [
-     0,
-     2
+     1,
+     3
     ],
     "uc": [
      0,
@@ -33,11 +33,11 @@
     "ast": 2,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
-    "faul": 2,
-    "af": 0,
-    "pm": "-15",
-    "vp": -2,
+    "tk": 2,
+    "faul": 3,
+    "af": 1,
+    "pm": "-13",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -45,7 +45,7 @@
     "ad": "Mike Davis Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "20:03",
+    "sure": "21:11",
     "sayi": 6,
     "iki": [
      3,
@@ -68,7 +68,7 @@
     "tk": 2,
     "faul": 1,
     "af": 2,
-    "pm": "-16",
+    "pm": "-14",
     "vp": 3,
     "sahada": true
    },
@@ -77,7 +77,7 @@
     "ad": "James Webb Iii",
     "no": "9",
     "ilk5": true,
-    "sure": "19:08",
+    "sure": "20:16",
     "sayi": 12,
     "iki": [
      1,
@@ -98,9 +98,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
+    "faul": 2,
     "af": 2,
-    "pm": "-25",
+    "pm": "-23",
     "vp": 8,
     "sahada": true
    },
@@ -202,7 +202,7 @@
     "ad": "Jordan Usher",
     "no": "8",
     "ilk5": false,
-    "sure": "13:09",
+    "sure": "14:17",
     "sayi": 5,
     "iki": [
      1,
@@ -225,7 +225,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-15",
+    "pm": "-13",
     "vp": 7,
     "sahada": true
    },
@@ -358,7 +358,7 @@
     "ad": "Muhsin Yaşar",
     "no": "77",
     "ilk5": false,
-    "sure": "2:01",
+    "sure": "3:09",
     "sayi": 0,
     "iki": [
      0,
@@ -381,7 +381,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-1",
+    "pm": "1",
     "vp": 0,
     "sahada": true
    }
@@ -390,7 +390,7 @@
    19,
    12,
    5,
-   6
+   8
   ],
   "takim": {
    "hr": 1,
@@ -400,7 +400,7 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 12,
+   "tks": 14,
    "hh": 8,
    "is": 4,
    "ba": 20,
@@ -577,7 +577,7 @@
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": false,
-    "sure": "15:46",
+    "sure": "16:54",
     "sayi": 4,
     "iki": [
      1,
@@ -599,8 +599,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 2,
-    "af": 2,
-    "pm": "12",
+    "af": 3,
+    "pm": "10",
     "vp": 4,
     "sahada": true
    },
@@ -609,7 +609,7 @@
     "ad": "İsmet Akpınar",
     "no": "5",
     "ilk5": false,
-    "sure": "10:51",
+    "sure": "11:59",
     "sayi": 3,
     "iki": [
      0,
@@ -629,11 +629,11 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 1,
+    "tk": 1,
+    "faul": 2,
     "af": 1,
-    "pm": "10",
-    "vp": 0,
+    "pm": "8",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -641,7 +641,7 @@
     "ad": "Damien Inglis",
     "no": "7",
     "ilk5": false,
-    "sure": "19:16",
+    "sure": "20:24",
     "sayi": 11,
     "iki": [
      2,
@@ -663,8 +663,8 @@
     "blk": 0,
     "tk": 1,
     "faul": 3,
-    "af": 1,
-    "pm": "8",
+    "af": 2,
+    "pm": "6",
     "vp": 14,
     "sahada": true
    },
@@ -735,7 +735,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": false,
-    "sure": "9:35",
+    "sure": "10:43",
     "sayi": 8,
     "iki": [
      1,
@@ -758,7 +758,7 @@
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "12",
+    "pm": "10",
     "vp": 9,
     "sahada": true
    },
@@ -767,7 +767,7 @@
     "ad": "Luka Mitrovic",
     "no": "99",
     "ilk5": false,
-    "sure": "9:52",
+    "sure": "11:00",
     "sayi": 4,
     "iki": [
      1,
@@ -790,7 +790,7 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "7",
+    "pm": "5",
     "vp": 7,
     "sahada": true
    }
@@ -816,24 +816,24 @@
    "benc": 33,
    "fark": 31,
    "seri": 14,
-   "lider": 1703,
+   "lider": 1771,
    "degisim": 2,
    "esitlik": 4
   },
   "koc": "Aleksandar Djordjevic"
  },
- "evSkor": "42",
+ "evSkor": "44",
  "depSkor": "72",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "07:59",
+  "saat": "06:51",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1921,
+  "simdi": 1989,
   "d": [
    [
     0,
@@ -1062,6 +1062,10 @@
    [
     1921,
     -30
+   ],
+   [
+    1964,
+    -28
    ]
   ]
  }
