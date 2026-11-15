@@ -44,7 +44,7 @@
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "16:49",
+    "sure": "17:10",
     "sayi": 9,
     "iki": [
      4,
@@ -68,15 +68,14 @@
     "faul": 0,
     "af": 2,
     "pm": "18",
-    "vp": 14,
-    "sahada": true
+    "vp": 14
    },
    {
     "id": "777675",
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "12:54",
+    "sure": "13:15",
     "sayi": 6,
     "iki": [
      3,
@@ -108,7 +107,7 @@
     "ad": "Dwight Harlan Powell",
     "no": "16",
     "ilk5": true,
-    "sure": "17:30",
+    "sure": "17:51",
     "sayi": 8,
     "iki": [
      2,
@@ -129,18 +128,17 @@
     "tc": 0,
     "blk": 1,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "af": 5,
     "pm": "16",
-    "vp": 14,
-    "sahada": true
+    "vp": 14
    },
    {
     "id": "777705",
     "ad": "Shavon Shields",
     "no": "31",
     "ilk5": true,
-    "sure": "20:08",
+    "sure": "20:29",
     "sayi": 8,
     "iki": [
      1,
@@ -196,7 +194,8 @@
     "faul": 0,
     "af": 0,
     "pm": "-11",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "54659",
@@ -296,7 +295,7 @@
     "ad": "Onuralp Bitim",
     "no": "17",
     "ilk5": false,
-    "sure": "8:20",
+    "sure": "8:41",
     "sayi": 5,
     "iki": [
      1,
@@ -352,7 +351,8 @@
     "faul": 0,
     "af": 3,
     "pm": "-3",
-    "vp": 7
+    "vp": 7,
+    "sahada": true
    },
    {
     "id": "fiba-doruk-alp-yanci",
@@ -406,7 +406,7 @@
    "benc": 13,
    "fark": 7,
    "seri": 14,
-   "lider": 205,
+   "lider": 226,
    "degisim": 2,
    "esitlik": 5
   },
@@ -421,7 +421,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "19:41",
+    "sure": "20:02",
     "sayi": 7,
     "iki": [
      2,
@@ -484,7 +484,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": true,
-    "sure": "18:00",
+    "sure": "18:21",
     "sayi": 13,
     "iki": [
      4,
@@ -506,7 +506,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 1,
+    "af": 2,
     "pm": "1",
     "vp": 14,
     "sahada": true
@@ -516,7 +516,7 @@
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "19:14",
+    "sure": "19:35",
     "sayi": 8,
     "iki": [
      4,
@@ -540,15 +540,14 @@
     "faul": 2,
     "af": 0,
     "pm": "-9",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "370740",
     "ad": "Ercan Osmani",
     "no": "24",
     "ilk5": true,
-    "sure": "15:17",
+    "sure": "15:38",
     "sayi": 6,
     "iki": [
      3,
@@ -611,7 +610,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "14:11",
+    "sure": "14:32",
     "sayi": 5,
     "iki": [
      1,
@@ -667,7 +666,8 @@
     "faul": 1,
     "af": 1,
     "pm": "2",
-    "vp": -4
+    "vp": -4,
+    "sahada": true
    },
    {
     "id": "137459",
@@ -826,12 +826,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "03:48",
+  "saat": "03:27",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1572,
+  "simdi": 1593,
   "d": [
    [
     0,
