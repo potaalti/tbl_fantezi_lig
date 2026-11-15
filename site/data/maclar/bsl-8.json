@@ -85,13 +85,18 @@
    "lig": "bsl",
    "hafta": 8,
    "tarih": "2026-11-15T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BEŞİKTAŞ",
    "dep": "BURSASPOR BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Turkcell Basketbol Gelişim Merkezi",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:39",
+    "uzatma": false
+   }
   },
   {
    "id": 346334,
