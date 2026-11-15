@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "45",
+  "skor": "51",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "19:38",
+    "sure": "21:03",
     "sayi": 18,
     "iki": [
      4,
@@ -36,7 +36,7 @@
     "tk": 0,
     "faul": 1,
     "af": 4,
-    "pm": "-5",
+    "pm": "1",
     "vp": 14,
     "sahada": true
    },
@@ -45,15 +45,15 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "14:39",
-    "sayi": 6,
+    "sure": "16:04",
+    "sayi": 12,
     "iki": [
      0,
      0
     ],
     "uc": [
-     2,
-     3
+     4,
+     5
     ],
     "sa": [
      0,
@@ -63,13 +63,13 @@
     "sr": 2,
     "rib": 2,
     "ast": 6,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
-    "tk": 2,
-    "faul": 0,
+    "tk": 3,
+    "faul": 2,
     "af": 0,
-    "pm": "-5",
-    "vp": 11,
+    "pm": "1",
+    "vp": 17,
     "sahada": true
    },
    {
@@ -108,7 +108,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "13:29",
+    "sure": "14:54",
     "sayi": 5,
     "iki": [
      1,
@@ -131,7 +131,7 @@
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "0",
+    "pm": "6",
     "vp": 7,
     "sahada": true
    },
@@ -140,7 +140,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "8:32",
+    "sure": "9:57",
     "sayi": 1,
     "iki": [
      0,
@@ -155,16 +155,16 @@
      2
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 3,
     "af": 2,
-    "pm": "0",
-    "vp": 1,
+    "pm": "6",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -358,7 +358,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": false,
-    "sure": "13:43",
+    "sure": "15:08",
     "sayi": 7,
     "iki": [
      3,
@@ -381,7 +381,7 @@
     "tk": 0,
     "faul": 1,
     "af": 2,
-    "pm": "1",
+    "pm": "7",
     "vp": 5,
     "sahada": true
    }
@@ -389,7 +389,7 @@
   "ceyrekler": [
    25,
    18,
-   2
+   8
   ],
   "takim": {
    "hr": 3,
@@ -399,13 +399,13 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 4,
-   "hh": 6,
+   "tks": 7,
+   "hh": 9,
    "is": 2,
    "ba": 12,
    "benc": 7,
    "fark": 1,
-   "seri": 6,
+   "seri": 12,
    "lider": 89,
    "degisim": 6,
    "esitlik": 3
@@ -421,7 +421,7 @@
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "19:53",
+    "sure": "21:18",
     "sayi": 11,
     "iki": [
      3,
@@ -429,7 +429,7 @@
     ],
     "uc": [
      1,
-     5
+     6
     ],
     "sa": [
      2,
@@ -441,11 +441,11 @@
     "ast": 5,
     "tc": 1,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 0,
-    "af": 4,
-    "pm": "3",
-    "vp": 14,
+    "af": 6,
+    "pm": "-3",
+    "vp": 12,
     "sahada": true
    },
    {
@@ -453,7 +453,7 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "16:22",
+    "sure": "17:47",
     "sayi": 10,
     "iki": [
      3,
@@ -467,17 +467,17 @@
      1,
      1
     ],
-    "hr": 2,
+    "hr": 3,
     "sr": 1,
-    "rib": 3,
+    "rib": 4,
     "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "af": 0,
-    "pm": "1",
-    "vp": 9,
+    "pm": "-5",
+    "vp": 10,
     "sahada": true
    },
    {
@@ -485,7 +485,7 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": true,
-    "sure": "14:17",
+    "sure": "15:42",
     "sayi": 8,
     "iki": [
      1,
@@ -493,7 +493,7 @@
     ],
     "uc": [
      2,
-     3
+     4
     ],
     "sa": [
      0,
@@ -508,8 +508,8 @@
     "tk": 0,
     "faul": 3,
     "af": 0,
-    "pm": "18",
-    "vp": 13,
+    "pm": "12",
+    "vp": 12,
     "sahada": true
    },
    {
@@ -517,7 +517,7 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "13:50",
+    "sure": "15:15",
     "sayi": 6,
     "iki": [
      3,
@@ -535,13 +535,13 @@
     "sr": 1,
     "rib": 2,
     "ast": 2,
-    "tc": 0,
+    "tc": 1,
     "blk": 1,
     "tk": 1,
     "faul": 2,
     "af": 1,
-    "pm": "10",
-    "vp": 6,
+    "pm": "4",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -549,7 +549,7 @@
     "ad": "Hakan Gökçek",
     "no": "24",
     "ilk5": true,
-    "sure": "5:34",
+    "sure": "6:59",
     "sayi": 0,
     "iki": [
      0,
@@ -572,7 +572,7 @@
     "tk": 0,
     "faul": 3,
     "af": 1,
-    "pm": "2",
+    "pm": "-4",
     "vp": 1,
     "sahada": true
    },
@@ -814,24 +814,24 @@
    "benc": 18,
    "fark": 18,
    "seri": 10,
-   "lider": 1078,
+   "lider": 1164,
    "degisim": 6,
    "esitlik": 3
   },
   "koc": "Ömer Uğurata"
  },
- "evSkor": "45",
+ "evSkor": "51",
  "depSkor": "53",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "09:21",
+  "saat": "07:56",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1239,
+  "simdi": 1324,
   "d": [
    [
     0,
@@ -1044,6 +1044,14 @@
    [
     1211,
     -8
+   ],
+   [
+    1254,
+    -5
+   ],
+   [
+    1313,
+    -2
    ]
   ]
  }
