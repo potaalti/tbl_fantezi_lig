@@ -98,13 +98,18 @@
    "lig": "bsl",
    "hafta": 8,
    "tarih": "2026-11-15T20:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "FENERBAHÇE TARFİN",
    "dep": "ANADOLU EFES",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "Ülker Spor ve Etkinlik Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:36",
+    "uzatma": false
+   }
   }
  ]
 }
