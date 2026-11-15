@@ -13,11 +13,11 @@
     "ad": "Shane Larkin",
     "no": "0",
     "ilk5": true,
-    "sure": "17:28",
+    "sure": "17:52",
     "sayi": 10,
     "iki": [
      2,
-     3
+     4
     ],
     "uc": [
      2,
@@ -37,15 +37,14 @@
     "faul": 0,
     "af": 0,
     "pm": "7",
-    "vp": 7,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "777704",
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "14:50",
+    "sure": "15:14",
     "sayi": 7,
     "iki": [
      3,
@@ -77,7 +76,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "10:55",
+    "sure": "11:19",
     "sayi": 6,
     "iki": [
      3,
@@ -109,7 +108,7 @@
     "ad": "Dwight Harlan Powell",
     "no": "16",
     "ilk5": true,
-    "sure": "15:31",
+    "sure": "15:55",
     "sayi": 8,
     "iki": [
      2,
@@ -141,7 +140,7 @@
     "ad": "Shavon Shields",
     "no": "31",
     "ilk5": true,
-    "sure": "18:09",
+    "sure": "18:33",
     "sayi": 5,
     "iki": [
      1,
@@ -321,7 +320,8 @@
     "faul": 0,
     "af": 0,
     "pm": "-6",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "386832",
@@ -406,7 +406,7 @@
    "benc": 10,
    "fark": 2,
    "seri": 11,
-   "lider": 86,
+   "lider": 110,
    "degisim": 2,
    "esitlik": 5
   },
@@ -421,7 +421,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "17:42",
+    "sure": "18:06",
     "sayi": 7,
     "iki": [
      2,
@@ -484,7 +484,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": true,
-    "sure": "16:01",
+    "sure": "16:25",
     "sayi": 13,
     "iki": [
      4,
@@ -516,7 +516,7 @@
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "17:15",
+    "sure": "17:39",
     "sayi": 8,
     "iki": [
      4,
@@ -548,7 +548,7 @@
     "ad": "Ercan Osmani",
     "no": "24",
     "ilk5": true,
-    "sure": "13:18",
+    "sure": "13:42",
     "sayi": 6,
     "iki": [
      3,
@@ -563,8 +563,8 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 1,
     "tc": 0,
     "blk": 0,
@@ -572,7 +572,7 @@
     "faul": 2,
     "af": 0,
     "pm": "4",
-    "vp": 8,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -611,7 +611,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "12:12",
+    "sure": "12:36",
     "sayi": 3,
     "iki": [
      0,
@@ -826,12 +826,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "05:47",
+  "saat": "05:23",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1453,
+  "simdi": 1470,
   "d": [
    [
     0,
