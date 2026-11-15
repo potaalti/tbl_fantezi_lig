@@ -36,7 +36,7 @@
     "tk": 2,
     "faul": 0,
     "af": 1,
-    "pm": "7",
+    "pm": "5",
     "vp": 4,
     "sahada": true
    },
@@ -130,7 +130,7 @@
     "tk": 0,
     "faul": 3,
     "af": 5,
-    "pm": "13",
+    "pm": "11",
     "vp": 19,
     "sahada": true
    },
@@ -162,7 +162,7 @@
     "tk": 2,
     "faul": 1,
     "af": 0,
-    "pm": "12",
+    "pm": "10",
     "vp": 8,
     "sahada": true
    },
@@ -194,7 +194,7 @@
     "tk": 2,
     "faul": 3,
     "af": 1,
-    "pm": "-12",
+    "pm": "-14",
     "vp": 8,
     "sahada": true
    },
@@ -350,7 +350,7 @@
     "tk": 0,
     "faul": 2,
     "af": 4,
-    "pm": "-1",
+    "pm": "-3",
     "vp": 16,
     "sahada": true
    },
@@ -415,7 +415,7 @@
  },
  "dep": {
   "ad": "ANADOLU EFES",
-  "skor": "69",
+  "skor": "71",
   "oyuncular": [
    {
     "id": "333434",
@@ -445,7 +445,7 @@
     "tk": 3,
     "faul": 2,
     "af": 5,
-    "pm": "-2",
+    "pm": "0",
     "vp": 13,
     "sahada": true
    },
@@ -508,7 +508,7 @@
     "tk": 0,
     "faul": 0,
     "af": 4,
-    "pm": "5",
+    "pm": "7",
     "vp": 18,
     "sahada": true
    },
@@ -549,7 +549,7 @@
     "no": "24",
     "ilk5": true,
     "sure": "26:00",
-    "sayi": 16,
+    "sayi": 18,
     "iki": [
      5,
      5
@@ -559,8 +559,8 @@
      3
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 4,
@@ -571,8 +571,8 @@
     "tk": 0,
     "faul": 3,
     "af": 1,
-    "pm": "5",
-    "vp": 21,
+    "pm": "7",
+    "vp": 23,
     "sahada": true
    },
    {
@@ -634,7 +634,7 @@
     "tk": 0,
     "faul": 3,
     "af": 1,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 7,
     "sahada": true
    },
@@ -660,14 +660,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 3,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 1,
     "af": 3,
-    "pm": "3",
-    "vp": -5,
+    "pm": "5",
+    "vp": -4,
     "sahada": true
    },
    {
@@ -799,7 +799,7 @@
    32,
    11,
    11,
-   15
+   17
   ],
   "takim": {
    "hr": 1,
@@ -823,7 +823,7 @@
   "koc": "PABLO  LASO"
  },
  "evSkor": "75",
- "depSkor": "69",
+ "depSkor": "71",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
@@ -1118,6 +1118,14 @@
    [
     2224,
     6
+   ],
+   [
+    2328,
+    5
+   ],
+   [
+    2328,
+    4
    ]
   ]
  }
