@@ -6,18 +6,18 @@
  "durum": "canli",
  "ev": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "36",
+  "skor": "38",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "17:40",
-    "sayi": 15,
+    "sure": "18:07",
+    "sayi": 17,
     "iki": [
-     3,
-     5
+     4,
+     6
     ],
     "uc": [
      3,
@@ -35,9 +35,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "af": 2,
-    "pm": "-12",
-    "vp": 11,
+    "af": 3,
+    "pm": "-10",
+    "vp": 13,
     "sahada": true
    },
    {
@@ -45,7 +45,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "12:41",
+    "sure": "13:08",
     "sayi": 3,
     "iki": [
      0,
@@ -68,7 +68,7 @@
     "tk": 2,
     "faul": 0,
     "af": 0,
-    "pm": "-12",
+    "pm": "-10",
     "vp": 7,
     "sahada": true
    },
@@ -108,7 +108,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": true,
-    "sure": "11:31",
+    "sure": "11:58",
     "sayi": 5,
     "iki": [
      1,
@@ -131,7 +131,7 @@
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "-7",
+    "pm": "-5",
     "vp": 7,
     "sahada": true
    },
@@ -140,7 +140,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "6:34",
+    "sure": "7:01",
     "sayi": 0,
     "iki": [
      0,
@@ -163,7 +163,7 @@
     "tk": 1,
     "faul": 3,
     "af": 1,
-    "pm": "-7",
+    "pm": "-5",
     "vp": 0,
     "sahada": true
    },
@@ -358,7 +358,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": false,
-    "sure": "11:45",
+    "sure": "12:12",
     "sayi": 5,
     "iki": [
      2,
@@ -381,14 +381,14 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "-6",
+    "pm": "-4",
     "vp": 2,
     "sahada": true
    }
   ],
   "ceyrekler": [
    25,
-   11
+   13
   ],
   "takim": {
    "hr": 3,
@@ -398,10 +398,10 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 1,
+   "tks": 3,
    "hh": 5,
    "is": 2,
-   "ba": 8,
+   "ba": 10,
    "benc": 5,
    "fark": 1,
    "seri": 5,
@@ -420,7 +420,7 @@
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "17:55",
+    "sure": "18:22",
     "sayi": 11,
     "iki": [
      3,
@@ -443,7 +443,7 @@
     "tk": 1,
     "faul": 0,
     "af": 4,
-    "pm": "10",
+    "pm": "8",
     "vp": 14,
     "sahada": true
    },
@@ -452,7 +452,7 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "14:24",
+    "sure": "14:51",
     "sayi": 8,
     "iki": [
      2,
@@ -472,11 +472,11 @@
     "ast": 3,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
     "af": 0,
-    "pm": "8",
-    "vp": 10,
+    "pm": "6",
+    "vp": 9,
     "sahada": true
    },
    {
@@ -515,7 +515,7 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "12:30",
+    "sure": "12:57",
     "sayi": 6,
     "iki": [
      3,
@@ -538,7 +538,7 @@
     "tk": 1,
     "faul": 2,
     "af": 1,
-    "pm": "13",
+    "pm": "11",
     "vp": 6,
     "sahada": true
    },
@@ -671,7 +671,7 @@
     "ad": "Ata Özbek",
     "no": "11",
     "ilk5": false,
-    "sure": "10:40",
+    "sure": "11:07",
     "sayi": 2,
     "iki": [
      1,
@@ -692,9 +692,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
-    "pm": "6",
+    "pm": "4",
     "vp": 1,
     "sahada": true
    },
@@ -734,7 +734,7 @@
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "9:45",
+    "sure": "10:12",
     "sayi": 8,
     "iki": [
      1,
@@ -757,7 +757,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": 10,
     "sahada": true
    },
@@ -812,24 +812,24 @@
    "benc": 18,
    "fark": 18,
    "seri": 10,
-   "lider": 960,
+   "lider": 987,
    "degisim": 6,
    "esitlik": 3
   },
   "koc": "Ömer Uğurata"
  },
- "evSkor": "36",
+ "evSkor": "38",
  "depSkor": "51",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:19",
+  "saat": "00:52",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1121,
+  "simdi": 1148,
   "d": [
    [
     0,
@@ -1018,6 +1018,10 @@
    [
     1117,
     -15
+   ],
+   [
+    1148,
+    -13
    ]
   ]
  }
