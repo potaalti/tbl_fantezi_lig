@@ -6,15 +6,15 @@
  "durum": "canli",
  "ev": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "75",
+  "skor": "76",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "31:16",
-    "sayi": 33,
+    "sure": "31:56",
+    "sayi": 34,
     "iki": [
      7,
      9
@@ -24,8 +24,8 @@
      8
     ],
     "sa": [
-     4,
-     4
+     5,
+     6
     ],
     "hr": 0,
     "sr": 3,
@@ -36,16 +36,15 @@
     "tk": 1,
     "faul": 2,
     "af": 7,
-    "pm": "0",
-    "vp": 30,
-    "sahada": true
+    "pm": "-2",
+    "vp": 30
    },
    {
     "id": "218578",
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "26:17",
+    "sure": "26:29",
     "sayi": 13,
     "iki": [
      0,
@@ -68,15 +67,16 @@
     "tk": 3,
     "faul": 3,
     "af": 2,
-    "pm": "0",
-    "vp": 19
+    "pm": "-2",
+    "vp": 19,
+    "sahada": true
    },
    {
     "id": "779069",
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": true,
-    "sure": "20:54",
+    "sure": "21:46",
     "sayi": 8,
     "iki": [
      1,
@@ -99,7 +99,7 @@
     "tk": 2,
     "faul": 0,
     "af": 5,
-    "pm": "-20",
+    "pm": "-24",
     "vp": 4,
     "sahada": true
    },
@@ -170,7 +170,7 @@
     "ad": "Sedat Ali Karagülle",
     "no": "0",
     "ilk5": false,
-    "sure": "13:35",
+    "sure": "14:27",
     "sayi": 3,
     "iki": [
      0,
@@ -184,16 +184,16 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 3,
     "af": 0,
-    "pm": "-7",
+    "pm": "-11",
     "vp": 2,
     "sahada": true
    },
@@ -264,7 +264,7 @@
     "ad": "Enes Bayraktar",
     "no": "20",
     "ilk5": false,
-    "sure": "10:39",
+    "sure": "11:31",
     "sayi": 0,
     "iki": [
      0,
@@ -287,7 +287,7 @@
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "-6",
+    "pm": "-10",
     "vp": 2,
     "sahada": true
    },
@@ -358,7 +358,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": false,
-    "sure": "21:17",
+    "sure": "22:09",
     "sayi": 10,
     "iki": [
      3,
@@ -366,7 +366,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      1,
@@ -381,8 +381,8 @@
     "tk": 2,
     "faul": 3,
     "af": 2,
-    "pm": "10",
-    "vp": 7,
+    "pm": "6",
+    "vp": 6,
     "sahada": true
    }
   ],
@@ -390,7 +390,7 @@
    25,
    18,
    27,
-   5
+   6
   ],
   "takim": {
    "hr": 3,
@@ -401,7 +401,7 @@
   },
   "ileri": {
    "tks": 13,
-   "hh": 14,
+   "hh": 15,
    "is": 2,
    "ba": 20,
    "benc": 13,
@@ -415,18 +415,18 @@
  },
  "dep": {
   "ad": "FENERBAHÇE GELİŞİM",
-  "skor": "78",
+  "skor": "83",
   "oyuncular": [
    {
     "id": "777243",
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "31:31",
-    "sayi": 16,
+    "sure": "32:23",
+    "sayi": 18,
     "iki": [
-     5,
-     8
+     6,
+     9
     ],
     "uc": [
      1,
@@ -445,8 +445,8 @@
     "tk": 4,
     "faul": 2,
     "af": 7,
-    "pm": "-2",
-    "vp": 14,
+    "pm": "2",
+    "vp": 16,
     "sahada": true
    },
    {
@@ -454,7 +454,7 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "25:59",
+    "sure": "26:51",
     "sayi": 18,
     "iki": [
      5,
@@ -477,7 +477,7 @@
     "tk": 2,
     "faul": 2,
     "af": 2,
-    "pm": "-1",
+    "pm": "3",
     "vp": 17,
     "sahada": true
    },
@@ -486,7 +486,7 @@
     "ad": "Bartu Encü",
     "no": "8",
     "ilk5": true,
-    "sure": "18:32",
+    "sure": "19:24",
     "sayi": 8,
     "iki": [
      1,
@@ -503,14 +503,15 @@
     "hr": 0,
     "sr": 1,
     "rib": 1,
-    "ast": 5,
+    "ast": 6,
     "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 3,
     "af": 1,
-    "pm": "6",
-    "vp": 13
+    "pm": "10",
+    "vp": 14,
+    "sahada": true
    },
    {
     "id": "777244",
@@ -696,8 +697,7 @@
     "faul": 2,
     "af": 1,
     "pm": "5",
-    "vp": 16,
-    "sahada": true
+    "vp": 16
    },
    {
     "id": "487707",
@@ -735,15 +735,15 @@
     "ad": "Eren Deniz",
     "no": "20",
     "ilk5": false,
-    "sure": "20:10",
-    "sayi": 8,
+    "sure": "21:02",
+    "sayi": 11,
     "iki": [
      1,
      1
     ],
     "uc": [
-     2,
-     3
+     3,
+     4
     ],
     "sa": [
      0,
@@ -758,8 +758,8 @@
     "tk": 0,
     "faul": 3,
     "af": 0,
-    "pm": "5",
-    "vp": 11,
+    "pm": "9",
+    "vp": 14,
     "sahada": true
    },
    {
@@ -767,7 +767,7 @@
     "ad": "Yiğit Yancı",
     "no": "77",
     "ilk5": false,
-    "sure": "14:32",
+    "sure": "15:24",
     "sayi": 8,
     "iki": [
      1,
@@ -790,7 +790,7 @@
     "tk": 0,
     "faul": 1,
     "af": 3,
-    "pm": "8",
+    "pm": "12",
     "vp": 12,
     "sahada": true
    }
@@ -799,7 +799,7 @@
    25,
    28,
    19,
-   6
+   11
   ],
   "takim": {
    "hr": 1,
@@ -809,31 +809,31 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 18,
+   "tks": 20,
    "hh": 11,
    "is": 9,
    "ba": 34,
-   "benc": 30,
+   "benc": 33,
    "fark": 18,
    "seri": 12,
-   "lider": 1584,
+   "lider": 1636,
    "degisim": 8,
    "esitlik": 4
   },
   "koc": "Ömer Uğurata"
  },
- "evSkor": "75",
- "depSkor": "78",
+ "evSkor": "76",
+ "depSkor": "83",
  "salon": "Selçuklu Belediyesi Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 4,
-  "saat": "07:43",
+  "saat": "06:50",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1937,
+  "simdi": 1989,
   "d": [
    [
     0,
@@ -1154,6 +1154,18 @@
    [
     1908,
     -3
+   ],
+   [
+    1937,
+    -2
+   ],
+   [
+    1953,
+    -5
+   ],
+   [
+    1989,
+    -7
    ]
   ]
  }
