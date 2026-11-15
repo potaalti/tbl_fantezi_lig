@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "44",
+  "skor": "45",
   "oyuncular": [
    {
     "id": "220370",
@@ -67,7 +67,7 @@
     "tk": 4,
     "faul": 2,
     "af": 3,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 17,
     "sahada": true
    },
@@ -192,7 +192,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "2",
+    "pm": "3",
     "vp": 12,
     "sahada": true
    },
@@ -280,14 +280,14 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "-6",
-    "vp": 2,
+    "pm": "-5",
+    "vp": 3,
     "sahada": true
    },
    {
@@ -327,7 +327,7 @@
     "no": "32",
     "ilk5": false,
     "sure": "9:46",
-    "sayi": 2,
+    "sayi": 3,
     "iki": [
      1,
      3
@@ -337,8 +337,8 @@
      0
     ],
     "sa": [
-     0,
-     2
+     1,
+     3
     ],
     "hr": 0,
     "sr": 2,
@@ -349,8 +349,8 @@
     "tk": 0,
     "faul": 1,
     "af": 2,
-    "pm": "3",
-    "vp": 0,
+    "pm": "4",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -381,7 +381,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "3",
+    "pm": "4",
     "vp": 2,
     "sahada": true
    }
@@ -389,7 +389,7 @@
   "ceyrekler": [
    18,
    17,
-   9
+   10
   ],
   "takim": {
    "hr": 0,
@@ -403,7 +403,7 @@
    "hh": 11,
    "is": 4,
    "ba": 20,
-   "benc": 11,
+   "benc": 12,
    "fark": 4,
    "seri": 5,
    "lider": 230,
@@ -444,7 +444,7 @@
     "tk": 0,
     "faul": 3,
     "af": 2,
-    "pm": "5",
+    "pm": "4",
     "vp": 16,
     "sahada": true
    },
@@ -476,7 +476,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "5",
+    "pm": "4",
     "vp": 1,
     "sahada": true
    },
@@ -539,7 +539,7 @@
     "tk": 0,
     "faul": 2,
     "af": 1,
-    "pm": "3",
+    "pm": "2",
     "vp": 17,
     "sahada": true
    },
@@ -571,7 +571,7 @@
     "tk": 2,
     "faul": 2,
     "af": 1,
-    "pm": "5",
+    "pm": "4",
     "vp": 6,
     "sahada": true
    },
@@ -603,7 +603,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-1",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -820,7 +820,7 @@
   },
   "koc": "BERAT GÖK"
  },
- "evSkor": "44",
+ "evSkor": "45",
  "depSkor": "51",
  "salon": "90. Yıl Spor Salonu",
  "yayin": "HT SPOR",
@@ -1056,6 +1056,10 @@
    [
     1477,
     -7
+   ],
+   [
+    1545,
+    -6
    ]
   ]
  }
