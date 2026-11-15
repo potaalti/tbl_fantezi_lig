@@ -99,8 +99,7 @@
     "faul": 0,
     "af": 2,
     "pm": "6",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "163489",
@@ -138,7 +137,7 @@
     "ad": "Ante Zizic",
     "no": "41",
     "ilk5": true,
-    "sure": "11:19",
+    "sure": "11:33",
     "sayi": 4,
     "iki": [
      1,
@@ -162,14 +161,15 @@
     "faul": 1,
     "af": 3,
     "pm": "7",
-    "vp": 8
+    "vp": 8,
+    "sahada": true
    },
    {
     "id": "697020",
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": false,
-    "sure": "9:22",
+    "sure": "9:36",
     "sayi": 3,
     "iki": [
      0,
@@ -201,7 +201,7 @@
     "ad": "Berk Uğurlu",
     "no": "6",
     "ilk5": false,
-    "sure": "10:47",
+    "sure": "11:01",
     "sayi": 0,
     "iki": [
      0,
@@ -295,7 +295,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": false,
-    "sure": "11:12",
+    "sure": "11:26",
     "sayi": 10,
     "iki": [
      3,
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "14:09",
+    "sure": "14:23",
     "sayi": 6,
     "iki": [
      0,
@@ -388,7 +388,8 @@
   ],
   "ceyrekler": [
    24,
-   21
+   21,
+   0
   ],
   "takim": {
    "hr": 2,
@@ -405,7 +406,7 @@
    "benc": 24,
    "fark": 19,
    "seri": 8,
-   "lider": 1105,
+   "lider": 1119,
    "degisim": 2,
    "esitlik": 0
   },
@@ -451,7 +452,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "6:51",
+    "sure": "7:05",
     "sayi": 0,
     "iki": [
      0,
@@ -475,14 +476,15 @@
     "faul": 3,
     "af": 2,
     "pm": "-3",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "778460",
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "17:58",
+    "sure": "18:12",
     "sayi": 11,
     "iki": [
      1,
@@ -538,15 +540,14 @@
     "faul": 1,
     "af": 1,
     "pm": "-13",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "502519",
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "11:57",
+    "sure": "12:11",
     "sayi": 2,
     "iki": [
      0,
@@ -578,7 +579,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "13:30",
+    "sure": "13:44",
     "sayi": 0,
     "iki": [
      0,
@@ -641,7 +642,7 @@
     "ad": "Nate Watson",
     "no": "7",
     "ilk5": false,
-    "sure": "8:20",
+    "sure": "8:34",
     "sayi": 7,
     "iki": [
      3,
@@ -665,7 +666,8 @@
     "faul": 1,
     "af": 1,
     "pm": "-5",
-    "vp": 6
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "443749",
@@ -727,8 +729,7 @@
     "faul": 1,
     "af": 1,
     "pm": "-5",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "227653",
@@ -795,7 +796,8 @@
   ],
   "ceyrekler": [
    15,
-   12
+   12,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -824,7 +826,7 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "10:00",
+  "saat": "09:46",
   "uzatma": false
  },
  "fark": {
