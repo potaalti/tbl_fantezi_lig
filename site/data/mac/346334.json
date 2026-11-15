@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "14",
+  "skor": "16",
   "oyuncular": [
    {
     "id": "442131",
     "ad": "Shane Larkin",
     "no": "0",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:40",
     "sayi": 0,
     "iki": [
      0,
@@ -37,8 +37,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-8",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "777704",
@@ -107,7 +106,7 @@
     "ad": "Dwight Harlan Powell",
     "no": "16",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:40",
     "sayi": 6,
     "iki": [
      2,
@@ -131,15 +130,14 @@
     "faul": 1,
     "af": 1,
     "pm": "-8",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "777705",
     "ad": "Shavon Shields",
     "no": "31",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:40",
     "sayi": 0,
     "iki": [
      0,
@@ -163,15 +161,14 @@
     "faul": 1,
     "af": 0,
     "pm": "-8",
-    "vp": 1,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "667814",
     "ad": "Wade Baldwin Iv",
     "no": "2",
     "ilk5": false,
-    "sure": "1:18",
+    "sure": "1:29",
     "sayi": 0,
     "iki": [
      0,
@@ -194,7 +191,7 @@
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "-4",
+    "pm": "-2",
     "vp": -1,
     "sahada": true
    },
@@ -203,7 +200,7 @@
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:12",
     "sayi": 0,
     "iki": [
      0,
@@ -226,15 +223,16 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "2",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "735811",
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:12",
     "sayi": 0,
     "iki": [
      0,
@@ -251,14 +249,15 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "2",
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "27541",
@@ -296,7 +295,7 @@
     "ad": "Onuralp Bitim",
     "no": "17",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:12",
     "sayi": 0,
     "iki": [
      0,
@@ -319,19 +318,20 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "2",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "386832",
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "1:18",
-    "sayi": 0,
+    "sure": "1:29",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -350,8 +350,8 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-4",
-    "vp": 1,
+    "pm": "-2",
+    "vp": 3,
     "sahada": true
    },
    {
@@ -387,7 +387,7 @@
    }
   ],
   "ceyrekler": [
-   14
+   16
   ],
   "takim": {
    "hr": 0,
@@ -400,8 +400,8 @@
    "tks": 0,
    "hh": 4,
    "is": 0,
-   "ba": 12,
-   "benc": 0,
+   "ba": 14,
+   "benc": 2,
    "fark": 2,
    "seri": 2,
    "lider": 49,
@@ -419,7 +419,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:52",
     "sayi": 2,
     "iki": [
      1,
@@ -442,7 +442,7 @@
     "tk": 1,
     "faul": 0,
     "af": 2,
-    "pm": "8",
+    "pm": "6",
     "vp": 7,
     "sahada": true
    },
@@ -451,7 +451,7 @@
     "ad": "Pj Dozier",
     "no": "15",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:52",
     "sayi": 6,
     "iki": [
      0,
@@ -474,7 +474,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "8",
+    "pm": "6",
     "vp": 6,
     "sahada": true
    },
@@ -483,7 +483,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:52",
     "sayi": 6,
     "iki": [
      3,
@@ -506,7 +506,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "8",
+    "pm": "6",
     "vp": 7,
     "sahada": true
    },
@@ -515,7 +515,7 @@
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:52",
     "sayi": 4,
     "iki": [
      2,
@@ -538,7 +538,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "8",
+    "pm": "6",
     "vp": 4,
     "sahada": true
    },
@@ -547,7 +547,7 @@
     "ad": "Ercan Osmani",
     "no": "24",
     "ilk5": true,
-    "sure": "6:41",
+    "sure": "6:52",
     "sayi": 4,
     "iki": [
      2,
@@ -570,7 +570,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "8",
+    "pm": "6",
     "vp": 6,
     "sahada": true
    },
@@ -810,24 +810,24 @@
    "benc": 0,
    "fark": 8,
    "seri": 6,
-   "lider": 214,
+   "lider": 225,
    "degisim": 1,
    "esitlik": 5
   },
   "koc": "PABLO  LASO"
  },
- "evSkor": "14",
+ "evSkor": "16",
  "depSkor": "22",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "03:20",
+  "saat": "03:08",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 400,
+  "simdi": 412,
   "d": [
    [
     0,
@@ -904,6 +904,10 @@
    [
     400,
     -8
+   ],
+   [
+    412,
+    -6
    ]
   ]
  }
