@@ -85,13 +85,18 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-15T14:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "FENERBAHÇE GELİŞİM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "2",
    "salon": "Selçuklu Belediyesi Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:18",
+    "uzatma": false
+   }
   },
   {
    "id": 345995,
