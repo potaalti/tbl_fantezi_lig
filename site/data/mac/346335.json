@@ -69,7 +69,8 @@
     "faul": 1,
     "af": 0,
     "pm": "6",
-    "vp": 19
+    "vp": 19,
+    "sahada": true
    },
    {
     "id": "736366",
@@ -382,8 +383,7 @@
     "faul": 4,
     "af": 1,
     "pm": "-4",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    }
   ],
   "ceyrekler": [
@@ -827,9 +827,9 @@
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
+  "periyot": 1,
+  "saat": "05:00",
+  "uzatma": true
  },
  "fark": {
   "sure": 2400,
