@@ -106,7 +106,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "21:49",
+    "sure": "22:19",
     "sayi": 7,
     "iki": [
      1,
@@ -114,7 +114,7 @@
     ],
     "uc": [
      0,
-     4
+     5
     ],
     "sa": [
      5,
@@ -130,7 +130,7 @@
     "faul": 1,
     "af": 5,
     "pm": "-1",
-    "vp": 6,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -138,7 +138,7 @@
     "ad": "Ante Zizic",
     "no": "41",
     "ilk5": true,
-    "sure": "22:45",
+    "sure": "23:15",
     "sayi": 12,
     "iki": [
      3,
@@ -160,7 +160,7 @@
     "blk": 3,
     "tk": 2,
     "faul": 2,
-    "af": 8,
+    "af": 9,
     "pm": "7",
     "vp": 19,
     "sahada": true
@@ -170,7 +170,7 @@
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": false,
-    "sure": "21:26",
+    "sure": "21:56",
     "sayi": 6,
     "iki": [
      0,
@@ -295,11 +295,11 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": false,
-    "sure": "18:22",
+    "sure": "18:52",
     "sayi": 11,
     "iki": [
      3,
-     4
+     5
     ],
     "uc": [
      1,
@@ -319,7 +319,7 @@
     "faul": 2,
     "af": 5,
     "pm": "1",
-    "vp": 13,
+    "vp": 12,
     "sahada": true
    },
    {
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "25:30",
+    "sure": "26:00",
     "sayi": 10,
     "iki": [
      0,
@@ -390,12 +390,12 @@
    24,
    21,
    10,
-   11
+   13
   ],
   "takim": {
-   "hr": 4,
+   "hr": 5,
    "sr": 1,
-   "rib": 5,
+   "rib": 6,
    "tk": 1,
    "faul": 0
   },
@@ -404,10 +404,10 @@
    "hh": 17,
    "is": 13,
    "ba": 18,
-   "benc": 32,
+   "benc": 34,
    "fark": 21,
    "seri": 8,
-   "lider": 2008,
+   "lider": 2038,
    "degisim": 2,
    "esitlik": 0
   },
@@ -415,7 +415,7 @@
  },
  "dep": {
   "ad": "BURSASPOR BASKETBOL",
-  "skor": "59",
+  "skor": "61",
   "oyuncular": [
    {
     "id": "510723",
@@ -453,7 +453,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "21:01",
+    "sure": "21:31",
     "sayi": 4,
     "iki": [
      2,
@@ -485,7 +485,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "32:43",
+    "sure": "33:13",
     "sayi": 19,
     "iki": [
      5,
@@ -500,16 +500,16 @@
      0
     ],
     "hr": 0,
-    "sr": 5,
-    "rib": 5,
-    "ast": 7,
+    "sr": 6,
+    "rib": 6,
+    "ast": 8,
     "tc": 5,
     "blk": 0,
     "tk": 1,
     "faul": 2,
     "af": 6,
     "pm": "-4",
-    "vp": 27,
+    "vp": 29,
     "sahada": true
    },
    {
@@ -517,11 +517,11 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "24:10",
-    "sayi": 8,
+    "sure": "24:40",
+    "sayi": 10,
     "iki": [
-     3,
-     8
+     4,
+     9
     ],
     "uc": [
      0,
@@ -538,10 +538,10 @@
     "tc": 1,
     "blk": 2,
     "tk": 2,
-    "faul": 3,
+    "faul": 4,
     "af": 3,
     "pm": "-2",
-    "vp": 11,
+    "vp": 13,
     "sahada": true
    },
    {
@@ -549,7 +549,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "27:00",
+    "sure": "27:30",
     "sayi": 8,
     "iki": [
      0,
@@ -581,7 +581,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "28:33",
+    "sure": "29:03",
     "sayi": 8,
     "iki": [
      1,
@@ -799,7 +799,7 @@
    15,
    12,
    23,
-   9
+   11
   ],
   "takim": {
    "hr": 1,
@@ -810,9 +810,9 @@
   },
   "ileri": {
    "tks": 19,
-   "hh": 17,
+   "hh": 19,
    "is": 9,
-   "ba": 28,
+   "ba": 30,
    "benc": 16,
    "fark": 1,
    "seri": 7,
@@ -823,17 +823,17 @@
   "koc": "Roger Grimau Gragera"
  },
  "evSkor": "66",
- "depSkor": "59",
+ "depSkor": "61",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:58",
+  "saat": "04:43",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2102,
+  "simdi": 2117,
   "d": [
    [
     0,
@@ -1114,6 +1114,10 @@
    [
     2080,
     7
+   ],
+   [
+    2117,
+    5
    ]
   ]
  }
