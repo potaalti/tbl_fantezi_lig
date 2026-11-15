@@ -168,7 +168,7 @@
     "ad": "Wade Baldwin Iv",
     "no": "2",
     "ilk5": false,
-    "sure": "3:42",
+    "sure": "3:52",
     "sayi": 0,
     "iki": [
      0,
@@ -200,7 +200,7 @@
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": false,
-    "sure": "2:25",
+    "sure": "2:35",
     "sayi": 0,
     "iki": [
      0,
@@ -232,7 +232,7 @@
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "2:25",
+    "sure": "2:35",
     "sayi": 0,
     "iki": [
      0,
@@ -295,7 +295,7 @@
     "ad": "Onuralp Bitim",
     "no": "17",
     "ilk5": false,
-    "sure": "2:25",
+    "sure": "2:35",
     "sayi": 0,
     "iki": [
      0,
@@ -327,7 +327,7 @@
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "3:42",
+    "sure": "3:52",
     "sayi": 2,
     "iki": [
      1,
@@ -419,7 +419,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "9:05",
+    "sure": "9:15",
     "sayi": 2,
     "iki": [
      1,
@@ -482,7 +482,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": true,
-    "sure": "9:05",
+    "sure": "9:15",
     "sayi": 9,
     "iki": [
      3,
@@ -538,8 +538,7 @@
     "faul": 0,
     "af": 0,
     "pm": "13",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "370740",
@@ -570,8 +569,7 @@
     "faul": 1,
     "af": 0,
     "pm": "13",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    },
    {
     "id": "508583",
@@ -609,7 +607,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "1:02",
+    "sure": "1:12",
     "sayi": 0,
     "iki": [
      0,
@@ -641,7 +639,7 @@
     "ad": "Fatts Russell",
     "no": "11",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:10",
     "sayi": 0,
     "iki": [
      0,
@@ -665,7 +663,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "137459",
@@ -734,7 +733,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:10",
     "sayi": 0,
     "iki": [
      0,
@@ -758,7 +757,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "735850",
@@ -810,7 +810,7 @@
    "benc": 0,
    "fark": 13,
    "seri": 7,
-   "lider": 358,
+   "lider": 368,
    "degisim": 1,
    "esitlik": 5
   },
@@ -822,12 +822,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "00:55",
+  "saat": "00:45",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 545,
+  "simdi": 555,
   "d": [
    [
     0,
