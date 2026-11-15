@@ -36,7 +36,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-3",
+    "pm": "-4",
     "vp": 4,
     "sahada": true
    },
@@ -68,7 +68,7 @@
     "tk": 2,
     "faul": 3,
     "af": 0,
-    "pm": "0",
+    "pm": "-1",
     "vp": 7,
     "sahada": true
    },
@@ -98,9 +98,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 3,
-    "faul": 1,
+    "faul": 2,
     "af": 3,
-    "pm": "5",
+    "pm": "4",
     "vp": 1,
     "sahada": true
    },
@@ -132,7 +132,7 @@
     "tk": 2,
     "faul": 0,
     "af": 4,
-    "pm": "2",
+    "pm": "1",
     "vp": 5,
     "sahada": true
    },
@@ -288,7 +288,7 @@
     "tk": 0,
     "faul": 2,
     "af": 1,
-    "pm": "6",
+    "pm": "5",
     "vp": 4,
     "sahada": true
    },
@@ -414,7 +414,7 @@
  },
  "dep": {
   "ad": "BURSASPOR BASKETBOL",
-  "skor": "41",
+  "skor": "42",
   "oyuncular": [
    {
     "id": "510723",
@@ -475,7 +475,7 @@
     "tk": 0,
     "faul": 4,
     "af": 3,
-    "pm": "5",
+    "pm": "6",
     "vp": 6,
     "sahada": true
    },
@@ -501,14 +501,14 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 4,
+    "ast": 5,
     "tc": 3,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "af": 4,
-    "pm": "-7",
-    "vp": 16,
+    "pm": "-6",
+    "vp": 17,
     "sahada": true
    },
    {
@@ -517,7 +517,7 @@
     "no": "22",
     "ilk5": true,
     "sure": "16:04",
-    "sayi": 4,
+    "sayi": 5,
     "iki": [
      2,
      6
@@ -527,8 +527,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     2
     ],
     "hr": 3,
     "sr": 3,
@@ -538,8 +538,8 @@
     "blk": 1,
     "tk": 1,
     "faul": 2,
-    "af": 1,
-    "pm": "-5",
+    "af": 2,
+    "pm": "-4",
     "vp": 7,
     "sahada": true
    },
@@ -571,7 +571,7 @@
     "tk": 1,
     "faul": 2,
     "af": 4,
-    "pm": "-4",
+    "pm": "-3",
     "vp": -1,
     "sahada": true
    },
@@ -603,7 +603,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-6",
+    "pm": "-5",
     "vp": 5,
     "sahada": true
    },
@@ -797,7 +797,7 @@
   "ceyrekler": [
    15,
    12,
-   14
+   15
   ],
   "takim": {
    "hr": 1,
@@ -807,7 +807,7 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 11,
+   "tks": 12,
    "hh": 8,
    "is": 9,
    "ba": 20,
@@ -821,17 +821,17 @@
   "koc": "Roger Grimau Gragera"
  },
  "evSkor": "51",
- "depSkor": "41",
+ "depSkor": "42",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "03:09",
+  "saat": "03:04",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1607,
+  "simdi": 1616,
   "d": [
    [
     0,
@@ -1040,6 +1040,10 @@
    [
     1565,
     10
+   ],
+   [
+    1616,
+    9
    ]
   ]
  }
