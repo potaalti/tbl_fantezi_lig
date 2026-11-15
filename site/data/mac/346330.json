@@ -13,7 +13,7 @@
     "ad": "Keye Van Der Vuurst",
     "no": "1",
     "ilk5": true,
-    "sure": "19:44",
+    "sure": "20:15",
     "sayi": 2,
     "iki": [
      1,
@@ -45,7 +45,7 @@
     "ad": "Mike Davis Jr.",
     "no": "4",
     "ilk5": true,
-    "sure": "23:18",
+    "sure": "23:49",
     "sayi": 9,
     "iki": [
      3,
@@ -66,8 +66,8 @@
     "tc": 2,
     "blk": 0,
     "tk": 2,
-    "faul": 1,
-    "af": 2,
+    "faul": 2,
+    "af": 3,
     "pm": "-17",
     "vp": 6,
     "sahada": true
@@ -101,8 +101,7 @@
     "faul": 3,
     "af": 2,
     "pm": "-26",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "120437",
@@ -202,7 +201,7 @@
     "ad": "Jordan Usher",
     "no": "8",
     "ilk5": false,
-    "sure": "16:24",
+    "sure": "16:55",
     "sayi": 5,
     "iki": [
      1,
@@ -210,7 +209,7 @@
     ],
     "uc": [
      1,
-     2
+     3
     ],
     "sa": [
      0,
@@ -226,7 +225,7 @@
     "faul": 1,
     "af": 1,
     "pm": "-16",
-    "vp": 7,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -296,7 +295,7 @@
     "ad": "Melih Tunca",
     "no": "17",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:31",
     "sayi": 0,
     "iki": [
      0,
@@ -320,7 +319,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "57737",
@@ -358,7 +358,7 @@
     "ad": "Muhsin Yaşar",
     "no": "77",
     "ilk5": false,
-    "sure": "5:16",
+    "sure": "5:47",
     "sayi": 0,
     "iki": [
      0,
@@ -380,7 +380,7 @@
     "blk": 1,
     "tk": 0,
     "faul": 0,
-    "af": 0,
+    "af": 1,
     "pm": "-2",
     "vp": 1,
     "sahada": true
@@ -508,7 +508,8 @@
     "faul": 2,
     "af": 2,
     "pm": "22",
-    "vp": 11
+    "vp": 11,
+    "sahada": true
    },
    {
     "id": "384595",
@@ -577,7 +578,7 @@
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": false,
-    "sure": "19:01",
+    "sure": "19:32",
     "sayi": 6,
     "iki": [
      2,
@@ -598,7 +599,7 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "af": 4,
     "pm": "13",
     "vp": 6,
@@ -609,7 +610,7 @@
     "ad": "İsmet Akpınar",
     "no": "5",
     "ilk5": false,
-    "sure": "14:06",
+    "sure": "14:37",
     "sayi": 3,
     "iki": [
      0,
@@ -631,7 +632,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "af": 1,
+    "af": 2,
     "pm": "11",
     "vp": 0,
     "sahada": true
@@ -641,7 +642,7 @@
     "ad": "Damien Inglis",
     "no": "7",
     "ilk5": false,
-    "sure": "22:31",
+    "sure": "23:02",
     "sayi": 13,
     "iki": [
      3,
@@ -656,24 +657,23 @@
      1
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 5,
+    "rib": 5,
     "ast": 5,
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 3,
+    "faul": 4,
     "af": 3,
     "pm": "9",
-    "vp": 18,
-    "sahada": true
+    "vp": 19
    },
    {
     "id": "283725",
     "ad": "Furkan Haltalı",
     "no": "14",
     "ilk5": false,
-    "sure": "7:52",
+    "sure": "8:23",
     "sayi": 3,
     "iki": [
      0,
@@ -736,7 +736,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": false,
-    "sure": "12:50",
+    "sure": "13:21",
     "sayi": 10,
     "iki": [
      2,
@@ -816,7 +816,7 @@
    "benc": 39,
    "fark": 32,
    "seri": 14,
-   "lider": 1898,
+   "lider": 1929,
    "degisim": 2,
    "esitlik": 4
   },
@@ -828,12 +828,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 4,
-  "saat": "04:44",
+  "saat": "04:13",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2116,
+  "simdi": 2147,
   "d": [
    [
     0,
