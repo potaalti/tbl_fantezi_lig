@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "FENERBAHÇE TARFİN",
-  "skor": "70",
+  "skor": "72",
   "oyuncular": [
    {
     "id": "442131",
@@ -129,7 +129,7 @@
     "tk": 0,
     "faul": 2,
     "af": 5,
-    "pm": "13",
+    "pm": "15",
     "vp": 17,
     "sahada": true
    },
@@ -161,7 +161,7 @@
     "tk": 2,
     "faul": 1,
     "af": 0,
-    "pm": "12",
+    "pm": "14",
     "vp": 7,
     "sahada": true
    },
@@ -171,10 +171,10 @@
     "no": "2",
     "ilk5": false,
     "sure": "19:29",
-    "sayi": 8,
+    "sayi": 10,
     "iki": [
-     4,
-     5
+     5,
+     6
     ],
     "uc": [
      0,
@@ -193,8 +193,8 @@
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "-12",
-    "vp": 7,
+    "pm": "-10",
+    "vp": 9,
     "sahada": true
    },
    {
@@ -256,7 +256,7 @@
     "tk": 2,
     "faul": 2,
     "af": 1,
-    "pm": "-9",
+    "pm": "-7",
     "vp": -1,
     "sahada": true
    },
@@ -319,7 +319,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-2",
+    "pm": "0",
     "vp": 5,
     "sahada": true
    },
@@ -390,7 +390,7 @@
    18,
    17,
    25,
-   10
+   12
   ],
   "takim": {
    "hr": 2,
@@ -403,8 +403,8 @@
    "tks": 11,
    "hh": 17,
    "is": 6,
-   "ba": 34,
-   "benc": 25,
+   "ba": 36,
+   "benc": 27,
    "fark": 12,
    "seri": 14,
    "lider": 755,
@@ -445,7 +445,7 @@
     "tk": 2,
     "faul": 1,
     "af": 4,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 14,
     "sahada": true
    },
@@ -508,7 +508,7 @@
     "tk": 0,
     "faul": 0,
     "af": 4,
-    "pm": "5",
+    "pm": "3",
     "vp": 16,
     "sahada": true
    },
@@ -571,7 +571,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "5",
+    "pm": "3",
     "vp": 18,
     "sahada": true
    },
@@ -634,7 +634,7 @@
     "tk": 0,
     "faul": 3,
     "af": 1,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 7,
     "sahada": true
    },
@@ -666,7 +666,7 @@
     "tk": 2,
     "faul": 1,
     "af": 3,
-    "pm": "3",
+    "pm": "1",
     "vp": -6,
     "sahada": true
    },
@@ -822,7 +822,7 @@
   },
   "koc": "PABLO  LASO"
  },
- "evSkor": "70",
+ "evSkor": "72",
  "depSkor": "64",
  "salon": "Ülker Spor ve Etkinlik Salonu",
  "yayin": "beINSports",
@@ -833,7 +833,7 @@
  },
  "fark": {
   "sure": 2400,
-  "simdi": 2101,
+  "simdi": 2122,
   "d": [
    [
     0,
@@ -1102,6 +1102,10 @@
    [
     2101,
     6
+   ],
+   [
+    2122,
+    8
    ]
   ]
  }
