@@ -75,7 +75,7 @@
     "ad": "Braxton Key",
     "no": "12",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "5:31",
     "sayi": 4,
     "iki": [
      2,
@@ -96,10 +96,11 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "-4",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "785063",
@@ -168,7 +169,7 @@
     "ad": "Wade Baldwin Iv",
     "no": "2",
     "ilk5": false,
-    "sure": "4:37",
+    "sure": "4:45",
     "sayi": 0,
     "iki": [
      0,
@@ -224,15 +225,14 @@
     "faul": 0,
     "af": 0,
     "pm": "-6",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "735811",
     "ad": "Talen Horton-Tucker",
     "no": "8",
     "ilk5": false,
-    "sure": "3:20",
+    "sure": "3:28",
     "sayi": 0,
     "iki": [
      0,
@@ -295,7 +295,7 @@
     "ad": "Onuralp Bitim",
     "no": "17",
     "ilk5": false,
-    "sure": "3:20",
+    "sure": "3:28",
     "sayi": 2,
     "iki": [
      1,
@@ -327,7 +327,7 @@
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "4:37",
+    "sure": "4:45",
     "sayi": 2,
     "iki": [
      1,
@@ -387,7 +387,8 @@
    }
   ],
   "ceyrekler": [
-   18
+   18,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -419,7 +420,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:08",
     "sayi": 5,
     "iki": [
      1,
@@ -441,7 +442,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "af": 2,
+    "af": 3,
     "pm": "14",
     "vp": 10,
     "sahada": true
@@ -482,7 +483,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": true,
-    "sure": "10:00",
+    "sure": "10:08",
     "sayi": 9,
     "iki": [
      3,
@@ -607,7 +608,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "1:57",
+    "sure": "2:05",
     "sayi": 0,
     "iki": [
      0,
@@ -639,7 +640,7 @@
     "ad": "Fatts Russell",
     "no": "11",
     "ilk5": false,
-    "sure": "0:55",
+    "sure": "1:03",
     "sayi": 0,
     "iki": [
      0,
@@ -733,7 +734,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "0:55",
+    "sure": "1:03",
     "sayi": 0,
     "iki": [
      0,
@@ -793,7 +794,8 @@
    }
   ],
   "ceyrekler": [
-   32
+   32,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -810,7 +812,7 @@
    "benc": 0,
    "fark": 14,
    "seri": 7,
-   "lider": 413,
+   "lider": 421,
    "degisim": 1,
    "esitlik": 5
   },
@@ -822,12 +824,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "10:00",
+  "saat": "09:52",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 600,
+  "simdi": 608,
   "d": [
    [
     0,
