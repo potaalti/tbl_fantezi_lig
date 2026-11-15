@@ -15025,20 +15025,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "251001",
-    "ad": "Tolga Kaan Birer",
-    "takim": "OGM ORMANSPOR",
-    "pm": 3,
-    "fark": 20,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "403578",
     "ad": "Bartu Encü",
     "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 2,
-    "fark": 2,
+    "pm": 3,
+    "fark": 3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -15046,8 +15037,8 @@
     "id": "318204",
     "ad": "Demircan Demir",
     "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 2,
-    "fark": 2,
+    "pm": 3,
+    "fark": 3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -15055,8 +15046,8 @@
     "id": "777243",
     "ad": "Erik Jamal Pratt",
     "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 2,
-    "fark": 2,
+    "pm": 3,
+    "fark": 3,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -15064,8 +15055,8 @@
     "id": "356549",
     "ad": "Hakan Gökçek",
     "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 2,
-    "fark": 2,
+    "pm": 3,
+    "fark": 3,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -15073,10 +15064,19 @@
     "id": "777244",
     "ad": "Justyn Alonzo Hamilton",
     "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 2,
-    "fark": 2,
+    "pm": 3,
+    "fark": 3,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "251001",
+    "ad": "Tolga Kaan Birer",
+    "takim": "OGM ORMANSPOR",
+    "pm": 3,
+    "fark": 20,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "205923",
@@ -15104,6 +15104,15 @@
     "fark": -31,
     "mac": 1,
     "ulke": ""
+   },
+   {
+    "id": "317314",
+    "ad": "Enes Bayraktar",
+    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+    "pm": 1,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "51504",
@@ -15178,51 +15187,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "211415",
-    "ad": "Cengizhan İvedi",
-    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "779069",
-    "ad": "Kendall Munson",
-    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "782891",
-    "ad": "Robert Smith",
-    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "488870",
-    "ad": "Yiğit Çoban",
-    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "218578",
-    "ad": "Ömer Yasir Küçük",
-    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "286635",
     "ad": "Ege Eskinazi",
     "takim": "DARÜŞŞAFAKA",
@@ -15268,6 +15232,42 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "779069",
+    "ad": "Kendall Munson",
+    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+    "pm": -3,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "782891",
+    "ad": "Robert Smith",
+    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+    "pm": -3,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "488870",
+    "ad": "Yiğit Çoban",
+    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+    "pm": -3,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "218578",
+    "ad": "Ömer Yasir Küçük",
+    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+    "pm": -3,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "433761",
     "ad": "Ünal Çardak",
     "takim": "iLab BASKETBOL",
@@ -15284,6 +15284,15 @@
     "fark": -6,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "211415",
+    "ad": "Cengizhan İvedi",
+    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+    "pm": -4,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "58437",
@@ -16144,21 +16153,21 @@
    "ulke": "ABD"
   },
   {
-   "id": "218578",
-   "ad": "Ömer Yasir Küçük",
-   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "pm": 26,
-   "fark": 7,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "153295",
    "ad": "Ömer Utku Al",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 26,
    "fark": 37,
    "mac": 3,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "218578",
+   "ad": "Ömer Yasir Küçük",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "pm": 25,
+   "fark": 6,
+   "mac": 6,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16225,15 +16234,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "782891",
-   "ad": "Robert Smith",
-   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "pm": 20,
-   "fark": 1,
-   "mac": 4,
-   "ulke": "ABD"
-  },
-  {
    "id": "222929",
    "ad": "Orhan Hacıyeva",
    "takim": "MERSİN SPOR",
@@ -16250,6 +16250,15 @@
    "fark": -9,
    "mac": 10,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "782891",
+   "ad": "Robert Smith",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "pm": 19,
+   "fark": 0,
+   "mac": 4,
+   "ulke": "ABD"
   },
   {
    "id": "231062",
@@ -16801,6 +16810,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "403578",
+   "ad": "Bartu Encü",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -2,
+   "fark": -40,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "360298",
    "ad": "Berk Güner",
    "takim": "CEDİ OSMAN BASKETBOL",
@@ -16882,15 +16900,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "403578",
-   "ad": "Bartu Encü",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -3,
-   "fark": -41,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "356958",
    "ad": "Taylan George Warren",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
@@ -16906,15 +16915,6 @@
    "pm": -4,
    "fark": -48,
    "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "488870",
-   "ad": "Yiğit Çoban",
-   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "pm": -4,
-   "fark": -44,
-   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16951,6 +16951,15 @@
    "pm": -5,
    "fark": -81,
    "mac": 2,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "488870",
+   "ad": "Yiğit Çoban",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "pm": -5,
+   "fark": -45,
+   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17197,15 +17206,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "779069",
-   "ad": "Kendall Munson",
-   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "pm": -13,
-   "fark": -21,
-   "mac": 2,
-   "ulke": "ABD"
-  },
-  {
    "id": "281545",
    "ad": "Can Kurt",
    "takim": "CEDİ OSMAN BASKETBOL",
@@ -17230,6 +17230,15 @@
    "pm": -14,
    "fark": -45,
    "mac": 6,
+   "ulke": "ABD"
+  },
+  {
+   "id": "779069",
+   "ad": "Kendall Munson",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "pm": -14,
+   "fark": -22,
+   "mac": 2,
    "ulke": "ABD"
   },
   {
@@ -17269,6 +17278,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "777244",
+   "ad": "Justyn Alonzo Hamilton",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -15,
+   "fark": -11,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "233847",
    "ad": "Atakan Erdek",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -17276,15 +17294,6 @@
    "fark": -30,
    "mac": 7,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "777244",
-   "ad": "Justyn Alonzo Hamilton",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -16,
-   "fark": -12,
-   "mac": 7,
-   "ulke": "ABD"
   },
   {
    "id": "363941",
@@ -17584,15 +17593,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "211415",
-   "ad": "Cengizhan İvedi",
-   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "pm": -33,
-   "fark": -44,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "284498",
    "ad": "İnanç Mert Hotamış",
    "takim": "MKE ANKARAGÜCÜ",
@@ -17608,6 +17608,15 @@
    "pm": -35,
    "fark": -101,
    "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "211415",
+   "ad": "Cengizhan İvedi",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
+   "pm": -35,
+   "fark": -45,
+   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17632,8 +17641,8 @@
    "id": "318204",
    "ad": "Demircan Demir",
    "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -37,
-   "fark": -41,
+   "pm": -36,
+   "fark": -40,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -17695,8 +17704,8 @@
    "id": "356549",
    "ad": "Hakan Gökçek",
    "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -45,
-   "fark": -41,
+   "pm": -44,
+   "fark": -40,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -17764,6 +17773,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "777243",
+   "ad": "Erik Jamal Pratt",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -58,
+   "fark": -40,
+   "mac": 10,
+   "ulke": "ABD"
+  },
+  {
    "id": "340042",
    "ad": "Ata Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
@@ -17782,13 +17800,13 @@
    "ulke": "ABD"
   },
   {
-   "id": "777243",
-   "ad": "Erik Jamal Pratt",
-   "takim": "FENERBAHÇE GELİŞİM",
+   "id": "317314",
+   "ad": "Enes Bayraktar",
+   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "pm": -59,
-   "fark": -41,
-   "mac": 10,
-   "ulke": "ABD"
+   "fark": -40,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "309057",
@@ -17796,15 +17814,6 @@
    "takim": "MKE ANKARAGÜCÜ",
    "pm": -60,
    "fark": -104,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "317314",
-   "ad": "Enes Bayraktar",
-   "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-   "pm": -60,
-   "fark": -37,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
