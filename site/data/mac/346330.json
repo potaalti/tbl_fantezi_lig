@@ -75,7 +75,7 @@
     "ad": "James Webb Iii",
     "no": "9",
     "ilk5": true,
-    "sure": "14:42",
+    "sure": "14:55",
     "sayi": 6,
     "iki": [
      1,
@@ -98,8 +98,9 @@
     "tk": 1,
     "faul": 1,
     "af": 2,
-    "pm": "-15",
-    "vp": 2
+    "pm": "-17",
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "120437",
@@ -168,7 +169,7 @@
     "ad": "Errick Mccollum",
     "no": "3",
     "ilk5": false,
-    "sure": "11:25",
+    "sure": "12:04",
     "sayi": 3,
     "iki": [
      1,
@@ -191,7 +192,7 @@
     "tk": 2,
     "faul": 0,
     "af": 2,
-    "pm": "-7",
+    "pm": "-9",
     "vp": -1,
     "sahada": true
    },
@@ -200,7 +201,7 @@
     "ad": "Jordan Usher",
     "no": "8",
     "ilk5": false,
-    "sure": "8:17",
+    "sure": "8:56",
     "sayi": 5,
     "iki": [
      1,
@@ -223,7 +224,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 7,
     "sahada": true
    },
@@ -232,7 +233,7 @@
     "ad": "Kevin Yebo",
     "no": "10",
     "ilk5": false,
-    "sure": "15:31",
+    "sure": "15:57",
     "sayi": 4,
     "iki": [
      2,
@@ -240,7 +241,7 @@
     ],
     "uc": [
      0,
-     2
+     3
     ],
     "sa": [
      0,
@@ -256,15 +257,14 @@
     "faul": 3,
     "af": 2,
     "pm": "-12",
-    "vp": 4,
-    "sahada": true
+    "vp": 3
    },
    {
     "id": "778079",
     "ad": "Amadou Sow",
     "no": "12",
     "ilk5": false,
-    "sure": "15:29",
+    "sure": "16:08",
     "sayi": 5,
     "iki": [
      1,
@@ -285,9 +285,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
+    "faul": 2,
     "af": 1,
-    "pm": "-7",
+    "pm": "-9",
     "vp": 4,
     "sahada": true
    },
@@ -327,7 +327,7 @@
     "ad": "Yunus Emre Sonsırma",
     "no": "19",
     "ilk5": false,
-    "sure": "10:44",
+    "sure": "11:23",
     "sayi": 0,
     "iki": [
      0,
@@ -350,7 +350,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "-6",
+    "pm": "-8",
     "vp": 3,
     "sahada": true
    },
@@ -414,7 +414,7 @@
  },
  "dep": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "56",
+  "skor": "58",
   "oyuncular": [
    {
     "id": "776935",
@@ -483,8 +483,8 @@
     "ad": "Tyler Cavanaugh",
     "no": "34",
     "ilk5": true,
-    "sure": "12:19",
-    "sayi": 7,
+    "sure": "12:45",
+    "sayi": 9,
     "iki": [
      2,
      3
@@ -494,28 +494,27 @@
      2
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 1,
-    "sr": 3,
-    "rib": 4,
+    "sr": 4,
+    "rib": 5,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 2,
     "faul": 2,
-    "af": 1,
-    "pm": "20",
-    "vp": 8,
-    "sahada": true
+    "af": 2,
+    "pm": "22",
+    "vp": 11
    },
    {
     "id": "384595",
     "ad": "Mateusz Ponitka",
     "no": "38",
     "ilk5": true,
-    "sure": "20:44",
+    "sure": "21:10",
     "sayi": 5,
     "iki": [
      1,
@@ -539,8 +538,7 @@
     "faul": 3,
     "af": 1,
     "pm": "20",
-    "vp": 11,
-    "sahada": true
+    "vp": 11
    },
    {
     "id": "734505",
@@ -578,7 +576,7 @@
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": false,
-    "sure": "10:54",
+    "sure": "11:33",
     "sayi": 2,
     "iki": [
      0,
@@ -601,7 +599,7 @@
     "tk": 0,
     "faul": 2,
     "af": 2,
-    "pm": "2",
+    "pm": "4",
     "vp": 0,
     "sahada": true
    },
@@ -610,7 +608,7 @@
     "ad": "İsmet Akpınar",
     "no": "5",
     "ilk5": false,
-    "sure": "6:25",
+    "sure": "6:38",
     "sayi": 3,
     "iki": [
      0,
@@ -633,15 +631,16 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "0",
-    "vp": 1
+    "pm": "2",
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "776654",
     "ad": "Damien Inglis",
     "no": "7",
     "ilk5": false,
-    "sure": "14:50",
+    "sure": "15:03",
     "sayi": 8,
     "iki": [
      2,
@@ -665,7 +664,8 @@
     "faul": 0,
     "af": 1,
     "pm": "0",
-    "vp": 10
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "283725",
@@ -734,7 +734,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": false,
-    "sure": "4:43",
+    "sure": "5:22",
     "sayi": 3,
     "iki": [
      0,
@@ -751,14 +751,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 2,
+    "ast": 3,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "2",
-    "vp": 3,
+    "pm": "4",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -766,7 +766,7 @@
     "ad": "Luka Mitrovic",
     "no": "99",
     "ilk5": false,
-    "sure": "5:00",
+    "sure": "5:39",
     "sayi": 0,
     "iki": [
      0,
@@ -789,7 +789,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-3",
+    "pm": "-1",
     "vp": 1,
     "sahada": true
    }
@@ -797,7 +797,7 @@
   "ceyrekler": [
    22,
    13,
-   21
+   23
   ],
   "takim": {
    "hr": 0,
@@ -812,26 +812,26 @@
    "is": 9,
    "ba": 20,
    "benc": 19,
-   "fark": 20,
+   "fark": 22,
    "seri": 13,
-   "lider": 1411,
+   "lider": 1450,
    "degisim": 2,
    "esitlik": 4
   },
   "koc": "Aleksandar Djordjevic"
  },
  "evSkor": "36",
- "depSkor": "56",
+ "depSkor": "58",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "02:51",
+  "saat": "02:11",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1629,
+  "simdi": 1668,
   "d": [
    [
     0,
@@ -1016,6 +1016,14 @@
    [
     1629,
     -20
+   ],
+   [
+    1655,
+    -21
+   ],
+   [
+    1655,
+    -22
    ]
   ]
  }
