@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "14",
+  "skor": "16",
   "oyuncular": [
    {
     "id": "220370",
@@ -44,7 +44,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "8:00",
+    "sure": "8:54",
     "sayi": 5,
     "iki": [
      0,
@@ -169,7 +169,7 @@
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "1:16",
+    "sure": "2:10",
     "sayi": 0,
     "iki": [
      0,
@@ -263,7 +263,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": false,
-    "sure": "3:28",
+    "sure": "4:22",
     "sayi": 0,
     "iki": [
      0,
@@ -278,16 +278,16 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
-    "blk": 0,
+    "blk": 1,
     "tk": 0,
     "faul": 0,
     "af": 0,
     "pm": "-5",
-    "vp": 0,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -295,19 +295,19 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": false,
-    "sure": "1:16",
-    "sayi": 0,
+    "sure": "2:10",
+    "sayi": 2,
     "iki": [
      0,
      0
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
-     0,
-     0
+     2,
+     3
     ],
     "hr": 0,
     "sr": 0,
@@ -327,11 +327,11 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:54",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -351,7 +351,7 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -387,7 +387,7 @@
    }
   ],
   "ceyrekler": [
-   14
+   16
   ],
   "takim": {
    "hr": 0,
@@ -401,7 +401,7 @@
    "hh": 6,
    "is": 2,
    "ba": 8,
-   "benc": 0,
+   "benc": 2,
    "fark": 4,
    "seri": 4,
    "lider": 230,
@@ -412,18 +412,18 @@
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "18",
+  "skor": "20",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "6:44",
+    "sure": "7:38",
     "sayi": 6,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      2,
@@ -434,16 +434,16 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
-    "ast": 0,
+    "sr": 2,
+    "rib": 2,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "af": 0,
     "pm": "4",
-    "vp": 6,
+    "vp": 7,
     "sahada": true
    },
    {
@@ -482,11 +482,11 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "8:00",
-    "sayi": 0,
+    "sure": "8:54",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      0,
@@ -497,8 +497,8 @@
      0
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 1,
     "tc": 1,
     "blk": 0,
@@ -506,7 +506,7 @@
     "faul": 0,
     "af": 0,
     "pm": "4",
-    "vp": 2,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -669,7 +669,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": false,
-    "sure": "1:16",
+    "sure": "2:10",
     "sayi": 0,
     "iki": [
      0,
@@ -701,7 +701,7 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:54",
     "sayi": 0,
     "iki": [
      0,
@@ -733,7 +733,7 @@
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "1:16",
+    "sure": "2:10",
     "sayi": 0,
     "iki": [
      0,
@@ -793,7 +793,7 @@
    }
   ],
   "ceyrekler": [
-   18
+   20
   ],
   "takim": {
    "hr": 0,
@@ -804,30 +804,30 @@
   },
   "ileri": {
    "tks": 6,
-   "hh": 4,
+   "hh": 6,
    "is": 4,
-   "ba": 10,
+   "ba": 12,
    "benc": 0,
    "fark": 5,
    "seri": 5,
-   "lider": 191,
+   "lider": 245,
    "degisim": 3,
    "esitlik": 2
   },
   "koc": "BERAT GÖK"
  },
- "evSkor": "14",
- "depSkor": "18",
+ "evSkor": "16",
+ "depSkor": "20",
  "salon": "90. Yıl Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:00",
+  "saat": "01:08",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 480,
+  "simdi": 531,
   "d": [
    [
     0,
@@ -899,6 +899,18 @@
    ],
    [
     464,
+    -4
+   ],
+   [
+    480,
+    -3
+   ],
+   [
+    480,
+    -2
+   ],
+   [
+    513,
     -4
    ]
   ]
