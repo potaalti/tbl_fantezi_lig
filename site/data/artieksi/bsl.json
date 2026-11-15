@@ -10604,18 +10604,9 @@
     "ad": "Collin Malcolm",
     "takim": "ANADOLU EFES",
     "pm": 16,
-    "fark": 16,
+    "fark": 14,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "333434",
-    "ad": "Dario Saric",
-    "takim": "ANADOLU EFES",
-    "pm": 16,
-    "fark": 16,
-    "mac": 1,
-    "ulke": "HIRVATİSTAN"
    },
    {
     "id": "358272",
@@ -10643,6 +10634,15 @@
     "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "333434",
+    "ad": "Dario Saric",
+    "takim": "ANADOLU EFES",
+    "pm": 14,
+    "fark": 14,
+    "mac": 1,
+    "ulke": "HIRVATİSTAN"
    },
    {
     "id": "778398",
@@ -10685,7 +10685,7 @@
     "ad": "Cameron Payne",
     "takim": "ANADOLU EFES",
     "pm": 13,
-    "fark": 16,
+    "fark": 14,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -10694,7 +10694,7 @@
     "ad": "Ercan Osmani",
     "takim": "ANADOLU EFES",
     "pm": 13,
-    "fark": 16,
+    "fark": 14,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -10861,24 +10861,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "736126",
-    "ad": "Jordan Loyd",
-    "takim": "ANADOLU EFES",
-    "pm": 8,
-    "fark": 16,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "fiba-pj-dozier",
-    "ad": "Pj Dozier",
-    "takim": "ANADOLU EFES",
-    "pm": 8,
-    "fark": 16,
-    "mac": 1,
-    "ulke": ""
-   },
-   {
     "id": "736366",
     "ad": "John Meeks",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -10915,6 +10897,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "736126",
+    "ad": "Jordan Loyd",
+    "takim": "ANADOLU EFES",
+    "pm": 6,
+    "fark": 14,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "732657",
     "ad": "Mantas Rubstavicius",
     "takim": "TOFAŞ",
@@ -10922,6 +10913,15 @@
     "fark": 14,
     "mac": 1,
     "ulke": "LİTVANYA"
+   },
+   {
+    "id": "fiba-pj-dozier",
+    "ad": "Pj Dozier",
+    "takim": "ANADOLU EFES",
+    "pm": 6,
+    "fark": 14,
+    "mac": 1,
+    "ulke": ""
    },
    {
     "id": "741031",
@@ -11012,24 +11012,6 @@
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "157002",
-    "ad": "Erkan Yılmaz",
-    "takim": "ANADOLU EFES",
-    "pm": 3,
-    "fark": 16,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "587569",
-    "ad": "Fatts Russell",
-    "takim": "ANADOLU EFES",
-    "pm": 3,
-    "fark": 16,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "192987",
@@ -11154,6 +11136,24 @@
     "takim": "PİZZABULLS BORDO BANDIRMA",
     "pm": 1,
     "fark": 8,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "157002",
+    "ad": "Erkan Yılmaz",
+    "takim": "ANADOLU EFES",
+    "pm": 1,
+    "fark": 14,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "587569",
+    "ad": "Fatts Russell",
+    "takim": "ANADOLU EFES",
+    "pm": 1,
+    "fark": 14,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -11342,7 +11342,7 @@
     "ad": "Trent Forrest",
     "takim": "FENERBAHÇE TARFİN",
     "pm": -4,
-    "fark": -16,
+    "fark": -14,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -11468,18 +11468,45 @@
     "ad": "Braxton Key",
     "takim": "FENERBAHÇE TARFİN",
     "pm": -6,
-    "fark": -16,
+    "fark": -14,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "785063",
+    "ad": "Dwight Harlan Powell",
+    "takim": "FENERBAHÇE TARFİN",
+    "pm": -6,
+    "fark": -14,
+    "mac": 1,
+    "ulke": "KANADA"
+   },
+   {
+    "id": "144725",
+    "ad": "Onuralp Bitim",
+    "takim": "FENERBAHÇE TARFİN",
+    "pm": -6,
+    "fark": -14,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "54659",
     "ad": "Sertaç Şanlı",
     "takim": "FENERBAHÇE TARFİN",
     "pm": -6,
-    "fark": -16,
+    "fark": -14,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "735811",
+    "ad": "Talen Horton-Tucker",
+    "takim": "FENERBAHÇE TARFİN",
+    "pm": -6,
+    "fark": -14,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "779071",
@@ -11599,29 +11626,20 @@
     "ulke": "ABD"
    },
    {
-    "id": "785063",
-    "ad": "Dwight Harlan Powell",
-    "takim": "FENERBAHÇE TARFİN",
+    "id": "590409",
+    "ad": "Brady Manek",
+    "takim": "TRABZONSPOR",
     "pm": -8,
-    "fark": -16,
+    "fark": -14,
     "mac": 1,
-    "ulke": "KANADA"
-   },
-   {
-    "id": "144725",
-    "ad": "Onuralp Bitim",
-    "takim": "FENERBAHÇE TARFİN",
-    "pm": -8,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": "ABD"
    },
    {
     "id": "442131",
     "ad": "Shane Larkin",
     "takim": "FENERBAHÇE TARFİN",
     "pm": -8,
-    "fark": -16,
+    "fark": -14,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -11630,27 +11648,9 @@
     "ad": "Shavon Shields",
     "takim": "FENERBAHÇE TARFİN",
     "pm": -8,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "DANİMARKA"
-   },
-   {
-    "id": "735811",
-    "ad": "Talen Horton-Tucker",
-    "takim": "FENERBAHÇE TARFİN",
-    "pm": -8,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "590409",
-    "ad": "Brady Manek",
-    "takim": "TRABZONSPOR",
-    "pm": -8,
     "fark": -14,
     "mac": 1,
-    "ulke": "ABD"
+    "ulke": "DANİMARKA"
    },
    {
     "id": "778728",
@@ -11734,6 +11734,24 @@
     "ulke": "ABD"
    },
    {
+    "id": "667814",
+    "ad": "Wade Baldwin Iv",
+    "takim": "FENERBAHÇE TARFİN",
+    "pm": -10,
+    "fark": -14,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "386832",
+    "ad": "Will Clyburn",
+    "takim": "FENERBAHÇE TARFİN",
+    "pm": -10,
+    "fark": -14,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "218536",
     "ad": "Hakan Sayılı",
     "takim": "KARŞIYAKA",
@@ -11804,24 +11822,6 @@
     "fark": -36,
     "mac": 1,
     "ulke": "ALMANYA"
-   },
-   {
-    "id": "667814",
-    "ad": "Wade Baldwin Iv",
-    "takim": "FENERBAHÇE TARFİN",
-    "pm": -12,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "386832",
-    "ad": "Will Clyburn",
-    "takim": "FENERBAHÇE TARFİN",
-    "pm": -12,
-    "fark": -16,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "227653",
@@ -12043,20 +12043,11 @@
    "ulke": "ABD"
   },
   {
-   "id": "333434",
-   "ad": "Dario Saric",
-   "takim": "ANADOLU EFES",
-   "pm": 48,
-   "fark": 62,
-   "mac": 8,
-   "ulke": "HIRVATİSTAN"
-  },
-  {
    "id": "370740",
    "ad": "Ercan Osmani",
    "takim": "ANADOLU EFES",
    "pm": 48,
-   "fark": 62,
+   "fark": 60,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -12065,9 +12056,18 @@
    "ad": "Cameron Payne",
    "takim": "ANADOLU EFES",
    "pm": 47,
-   "fark": 36,
+   "fark": 34,
    "mac": 4,
    "ulke": "ABD"
+  },
+  {
+   "id": "333434",
+   "ad": "Dario Saric",
+   "takim": "ANADOLU EFES",
+   "pm": 46,
+   "fark": 60,
+   "mac": 8,
+   "ulke": "HIRVATİSTAN"
   },
   {
    "id": "346709",
@@ -12119,9 +12119,18 @@
    "ad": "Sertaç Şanlı",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 44,
-   "fark": 35,
+   "fark": 37,
    "mac": 8,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "735811",
+   "ad": "Talen Horton-Tucker",
+   "takim": "FENERBAHÇE TARFİN",
+   "pm": 42,
+   "fark": 3,
+   "mac": 6,
+   "ulke": "ABD"
   },
   {
    "id": "310250",
@@ -12142,15 +12151,6 @@
    "ulke": "SIRBİSTAN"
   },
   {
-   "id": "735811",
-   "ad": "Talen Horton-Tucker",
-   "takim": "FENERBAHÇE TARFİN",
-   "pm": 40,
-   "fark": 1,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
    "id": "384595",
    "ad": "Mateusz Ponitka",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -12158,15 +12158,6 @@
    "fark": 79,
    "mac": 8,
    "ulke": "POLONYA"
-  },
-  {
-   "id": "736126",
-   "ad": "Jordan Loyd",
-   "takim": "ANADOLU EFES",
-   "pm": 35,
-   "fark": 49,
-   "mac": 6,
-   "ulke": "ABD"
   },
   {
    "id": "202579",
@@ -12182,7 +12173,7 @@
    "ad": "Shavon Shields",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 34,
-   "fark": 13,
+   "fark": 15,
    "mac": 4,
    "ulke": "DANİMARKA"
   },
@@ -12196,21 +12187,21 @@
    "ulke": "ABD"
   },
   {
+   "id": "736126",
+   "ad": "Jordan Loyd",
+   "takim": "ANADOLU EFES",
+   "pm": 33,
+   "fark": 47,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "27541",
    "ad": "Melih Mahmutoğlu",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 33,
    "fark": 50,
    "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "157002",
-   "ad": "Erkan Yılmaz",
-   "takim": "ANADOLU EFES",
-   "pm": 33,
-   "fark": 62,
-   "mac": 8,
    "ulke": "TÜRKİYE"
   },
   {
@@ -12230,6 +12221,15 @@
    "fark": 68,
    "mac": 7,
    "ulke": "ABD"
+  },
+  {
+   "id": "157002",
+   "ad": "Erkan Yılmaz",
+   "takim": "ANADOLU EFES",
+   "pm": 31,
+   "fark": 60,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "777637",
@@ -12335,7 +12335,7 @@
    "ad": "Braxton Key",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 19,
-   "fark": 20,
+   "fark": 22,
    "mac": 5,
    "ulke": "ABD"
   },
@@ -12434,7 +12434,7 @@
    "ad": "Collin Malcolm",
    "takim": "ANADOLU EFES",
    "pm": 13,
-   "fark": 48,
+   "fark": 46,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -12475,15 +12475,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "587569",
-   "ad": "Fatts Russell",
-   "takim": "ANADOLU EFES",
-   "pm": 12,
-   "fark": 62,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
    "id": "777676",
    "ad": "Marcus Bingham Jr.",
    "takim": "FENERBAHÇE TARFİN",
@@ -12500,6 +12491,15 @@
    "fark": -17,
    "mac": 8,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "587569",
+   "ad": "Fatts Russell",
+   "takim": "ANADOLU EFES",
+   "pm": 10,
+   "fark": 60,
+   "mac": 8,
+   "ulke": "ABD"
   },
   {
    "id": "609266",
@@ -12545,15 +12545,6 @@
    "fark": 3,
    "mac": 1,
    "ulke": "ABD"
-  },
-  {
-   "id": "fiba-pj-dozier",
-   "ad": "Pj Dozier",
-   "takim": "ANADOLU EFES",
-   "pm": 8,
-   "fark": 16,
-   "mac": 1,
-   "ulke": ""
   },
   {
    "id": "778728",
@@ -12619,6 +12610,24 @@
    "ulke": "ABD"
   },
   {
+   "id": "785063",
+   "ad": "Dwight Harlan Powell",
+   "takim": "FENERBAHÇE TARFİN",
+   "pm": 6,
+   "fark": 5,
+   "mac": 2,
+   "ulke": "KANADA"
+  },
+  {
+   "id": "fiba-pj-dozier",
+   "ad": "Pj Dozier",
+   "takim": "ANADOLU EFES",
+   "pm": 6,
+   "fark": 14,
+   "mac": 1,
+   "ulke": ""
+  },
+  {
    "id": "277894",
    "ad": "Göktuğ Baş",
    "takim": "TÜRK TELEKOM",
@@ -12662,15 +12671,6 @@
    "fark": -10,
    "mac": 8,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "785063",
-   "ad": "Dwight Harlan Powell",
-   "takim": "FENERBAHÇE TARFİN",
-   "pm": 4,
-   "fark": 3,
-   "mac": 2,
-   "ulke": "KANADA"
   },
   {
    "id": "408785",
@@ -12749,7 +12749,7 @@
    "ad": "Trent Forrest",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 2,
-   "fark": 40,
+   "fark": 42,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -12911,7 +12911,7 @@
    "ad": "Shane Larkin",
    "takim": "FENERBAHÇE TARFİN",
    "pm": -1,
-   "fark": 50,
+   "fark": 52,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
@@ -12941,6 +12941,15 @@
    "fark": -15,
    "mac": 1,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "667814",
+   "ad": "Wade Baldwin Iv",
+   "takim": "FENERBAHÇE TARFİN",
+   "pm": -2,
+   "fark": 0,
+   "mac": 5,
+   "ulke": "ABD"
   },
   {
    "id": "463878",
@@ -13022,15 +13031,6 @@
    "fark": -46,
    "mac": 8,
    "ulke": "POLONYA"
-  },
-  {
-   "id": "667814",
-   "ad": "Wade Baldwin Iv",
-   "takim": "FENERBAHÇE TARFİN",
-   "pm": -4,
-   "fark": -2,
-   "mac": 5,
-   "ulke": "ABD"
   },
   {
    "id": "779130",
@@ -13528,6 +13528,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "386832",
+   "ad": "Will Clyburn",
+   "takim": "FENERBAHÇE TARFİN",
+   "pm": -23,
+   "fark": 8,
+   "mac": 5,
+   "ulke": "ABD"
+  },
+  {
    "id": "779010",
    "ad": "Victor Bailey Jr.",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -13552,15 +13561,6 @@
    "pm": -25,
    "fark": -18,
    "mac": 7,
-   "ulke": "ABD"
-  },
-  {
-   "id": "386832",
-   "ad": "Will Clyburn",
-   "takim": "FENERBAHÇE TARFİN",
-   "pm": -25,
-   "fark": 6,
-   "mac": 5,
    "ulke": "ABD"
   },
   {
@@ -13672,6 +13672,15 @@
    "ulke": "KANADA"
   },
   {
+   "id": "144725",
+   "ad": "Onuralp Bitim",
+   "takim": "FENERBAHÇE TARFİN",
+   "pm": -30,
+   "fark": 37,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "278617",
    "ad": "Erten Gazi",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -13704,15 +13713,6 @@
    "takim": "TRABZONSPOR",
    "pm": -32,
    "fark": -16,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "144725",
-   "ad": "Onuralp Bitim",
-   "takim": "FENERBAHÇE TARFİN",
-   "pm": -32,
-   "fark": 35,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
