@@ -21,7 +21,7 @@
     ],
     "uc": [
      6,
-     9
+     10
     ],
     "sa": [
      8,
@@ -37,7 +37,7 @@
     "faul": 2,
     "af": 9,
     "pm": "7",
-    "vp": 48,
+    "vp": 47,
     "sahada": true
    },
    {
@@ -393,9 +393,9 @@
    20
   ],
   "takim": {
-   "hr": 2,
+   "hr": 3,
    "sr": 0,
-   "rib": 2,
+   "rib": 3,
    "tk": 1,
    "faul": 0
   },
@@ -409,7 +409,7 @@
    "seri": 21,
    "lider": 768,
    "degisim": 9,
-   "esitlik": 6
+   "esitlik": 7
   },
   "koc": "Mustafa Korhan Aydanarığ"
  },
@@ -818,7 +818,7 @@
    "seri": 12,
    "lider": 1820,
    "degisim": 9,
-   "esitlik": 6
+   "esitlik": 7
   },
   "koc": "Ömer Uğurata"
  },
@@ -942,6 +942,10 @@
    [
     587,
     -2
+   ],
+   [
+    587,
+    -1
    ],
    [
     593,
