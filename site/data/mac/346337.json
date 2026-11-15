@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BEŞİKTAŞ",
-  "skor": "52",
+  "skor": "50",
   "oyuncular": [
    {
     "id": "735336",
@@ -36,7 +36,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 4,
     "sahada": true
    },
@@ -68,7 +68,7 @@
     "tk": 2,
     "faul": 3,
     "af": 0,
-    "pm": "3",
+    "pm": "1",
     "vp": 7,
     "sahada": true
    },
@@ -78,10 +78,10 @@
     "no": "20",
     "ilk5": true,
     "sure": "10:35",
-    "sayi": 5,
+    "sayi": 3,
     "iki": [
-     2,
-     2
+     1,
+     1
     ],
     "uc": [
      0,
@@ -100,8 +100,8 @@
     "tk": 2,
     "faul": 0,
     "af": 3,
-    "pm": "8",
-    "vp": 4,
+    "pm": "6",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -132,7 +132,7 @@
     "tk": 2,
     "faul": 0,
     "af": 4,
-    "pm": "5",
+    "pm": "3",
     "vp": 5,
     "sahada": true
    },
@@ -288,7 +288,7 @@
     "tk": 0,
     "faul": 2,
     "af": 1,
-    "pm": "9",
+    "pm": "7",
     "vp": 4,
     "sahada": true
    },
@@ -389,7 +389,7 @@
   "ceyrekler": [
    24,
    21,
-   7
+   5
   ],
   "takim": {
    "hr": 4,
@@ -402,7 +402,7 @@
    "tks": 12,
    "hh": 17,
    "is": 11,
-   "ba": 14,
+   "ba": 12,
    "benc": 25,
    "fark": 21,
    "seri": 8,
@@ -475,7 +475,7 @@
     "tk": 0,
     "faul": 4,
     "af": 3,
-    "pm": "2",
+    "pm": "4",
     "vp": 6,
     "sahada": true
    },
@@ -507,7 +507,7 @@
     "tk": 1,
     "faul": 1,
     "af": 4,
-    "pm": "-10",
+    "pm": "-8",
     "vp": 14,
     "sahada": true
    },
@@ -539,7 +539,7 @@
     "tk": 1,
     "faul": 2,
     "af": 1,
-    "pm": "-8",
+    "pm": "-6",
     "vp": 6,
     "sahada": true
    },
@@ -571,7 +571,7 @@
     "tk": 1,
     "faul": 2,
     "af": 3,
-    "pm": "-7",
+    "pm": "-5",
     "vp": 0,
     "sahada": true
    },
@@ -603,7 +603,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-9",
+    "pm": "-7",
     "vp": 5,
     "sahada": true
    },
@@ -820,7 +820,7 @@
   },
   "koc": "Roger Grimau Gragera"
  },
- "evSkor": "52",
+ "evSkor": "50",
  "depSkor": "39",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
@@ -1032,10 +1032,6 @@
    [
     1524,
     11
-   ],
-   [
-    1543,
-    13
    ]
   ]
  }
