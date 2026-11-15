@@ -55,19 +55,6 @@
    "yayin": "Youtube / TBF TV"
   },
   {
-   "id": 345993,
-   "lig": "tbl",
-   "hafta": 11,
-   "tarih": "2026-11-14T18:00:00",
-   "durum": "bitti",
-   "ev": "BÜYÜKÇEKMECE BASKETBOL",
-   "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "evSkor": "93",
-   "depSkor": "77",
-   "salon": "Gazanfer Bilge Spor Salonu",
-   "yayin": "Youtube / TBF TV"
-  },
-  {
    "id": 345998,
    "lig": "tbl",
    "hafta": 11,
@@ -81,22 +68,30 @@
    "yayin": "Youtube / TBF TV"
   },
   {
+   "id": 345993,
+   "lig": "tbl",
+   "hafta": 11,
+   "tarih": "2026-11-14T18:00:00",
+   "durum": "bitti",
+   "ev": "BÜYÜKÇEKMECE BASKETBOL",
+   "dep": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "evSkor": "93",
+   "depSkor": "77",
+   "salon": "Gazanfer Bilge Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
    "id": 345997,
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-15T14:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "dep": "FENERBAHÇE GELİŞİM",
    "evSkor": "105",
    "depSkor": "100",
    "salon": "Selçuklu Belediyesi Spor Salonu",
-   "yayin": "HT SPOR",
-   "canliDurum": {
-    "periyot": 1,
-    "saat": "00:00",
-    "uzatma": true
-   }
+   "yayin": "HT SPOR"
   },
   {
    "id": 345995,
