@@ -106,7 +106,7 @@
     "ad": "Egehan Arna",
     "no": "18",
     "ilk5": true,
-    "sure": "7:49",
+    "sure": "8:00",
     "sayi": 3,
     "iki": [
      1,
@@ -127,9 +127,9 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 4,
-    "pm": "0",
+    "pm": "-2",
     "vp": 4,
     "sahada": true
    },
@@ -169,7 +169,7 @@
     "ad": "Errick Mccollum",
     "no": "3",
     "ilk5": false,
-    "sure": "0:07",
+    "sure": "0:18",
     "sayi": 0,
     "iki": [
      0,
@@ -189,11 +189,11 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "1",
-    "vp": 0,
+    "pm": "-1",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -232,7 +232,7 @@
     "ad": "Kevin Yebo",
     "no": "10",
     "ilk5": false,
-    "sure": "2:39",
+    "sure": "2:50",
     "sayi": 0,
     "iki": [
      0,
@@ -255,7 +255,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "4",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -264,7 +264,7 @@
     "ad": "Amadou Sow",
     "no": "12",
     "ilk5": false,
-    "sure": "0:48",
+    "sure": "0:59",
     "sayi": 3,
     "iki": [
      0,
@@ -287,7 +287,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "5",
+    "pm": "3",
     "vp": 3,
     "sahada": true
    },
@@ -327,7 +327,7 @@
     "ad": "Yunus Emre Sonsırma",
     "no": "19",
     "ilk5": false,
-    "sure": "0:07",
+    "sure": "0:18",
     "sayi": 0,
     "iki": [
      0,
@@ -350,7 +350,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "1",
+    "pm": "-1",
     "vp": 0,
     "sahada": true
    },
@@ -412,7 +412,7 @@
  },
  "dep": {
   "ad": "BAHÇEŞEHİR KOLEJİ",
-  "skor": "17",
+  "skor": "19",
   "oyuncular": [
    {
     "id": "776935",
@@ -574,8 +574,8 @@
     "ad": "Marcquise Reed",
     "no": "0",
     "ilk5": false,
-    "sure": "2:39",
-    "sayi": 0,
+    "sure": "2:50",
+    "sayi": 2,
     "iki": [
      0,
      0
@@ -585,8 +585,8 @@
      0
     ],
     "sa": [
-     0,
-     0
+     2,
+     2
     ],
     "hr": 0,
     "sr": 0,
@@ -596,9 +596,9 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "af": 1,
-    "pm": "-4",
-    "vp": 0,
+    "af": 2,
+    "pm": "-2",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -606,7 +606,7 @@
     "ad": "İsmet Akpınar",
     "no": "5",
     "ilk5": false,
-    "sure": "0:07",
+    "sure": "0:18",
     "sayi": 0,
     "iki": [
      0,
@@ -629,7 +629,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-1",
+    "pm": "1",
     "vp": 0,
     "sahada": true
    },
@@ -638,7 +638,7 @@
     "ad": "Damien Inglis",
     "no": "7",
     "ilk5": false,
-    "sure": "2:39",
+    "sure": "2:50",
     "sayi": 3,
     "iki": [
      1,
@@ -661,7 +661,7 @@
     "tk": 1,
     "faul": 0,
     "af": 1,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 3,
     "sahada": true
    },
@@ -732,7 +732,7 @@
     "ad": "Kenan Sipahi",
     "no": "55",
     "ilk5": false,
-    "sure": "2:39",
+    "sure": "2:50",
     "sayi": 3,
     "iki": [
      0,
@@ -755,7 +755,7 @@
     "tk": 1,
     "faul": 2,
     "af": 0,
-    "pm": "-4",
+    "pm": "-2",
     "vp": 1,
     "sahada": true
    },
@@ -764,7 +764,7 @@
     "ad": "Luka Mitrovic",
     "no": "99",
     "ilk5": false,
-    "sure": "0:48",
+    "sure": "0:59",
     "sayi": 0,
     "iki": [
      0,
@@ -787,13 +787,13 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-5",
+    "pm": "-3",
     "vp": 0,
     "sahada": true
    }
   ],
   "ceyrekler": [
-   17
+   19
   ],
   "takim": {
    "hr": 0,
@@ -803,11 +803,11 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 0,
+   "tks": 2,
    "hh": 3,
    "is": 0,
    "ba": 2,
-   "benc": 6,
+   "benc": 8,
    "fark": 6,
    "seri": 3,
    "lider": 387,
@@ -817,17 +817,17 @@
   "koc": "Aleksandar Djordjevic"
  },
  "evSkor": "17",
- "depSkor": "17",
+ "depSkor": "19",
  "salon": "Beşiktaş Akatlar Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:11",
+  "saat": "02:00",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 469,
+  "simdi": 480,
   "d": [
    [
     0,
@@ -892,6 +892,14 @@
    [
     462,
     0
+   ],
+   [
+    480,
+    -1
+   ],
+   [
+    480,
+    -2
    ]
   ]
  }
