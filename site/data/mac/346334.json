@@ -13,11 +13,11 @@
     "ad": "Shane Larkin",
     "no": "0",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -37,7 +37,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-4",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -69,8 +69,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-4",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "777675",
@@ -101,15 +100,14 @@
     "faul": 0,
     "af": 0,
     "pm": "-4",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "785063",
     "ad": "Dwight Harlan Powell",
     "no": "16",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 6,
     "iki": [
      2,
@@ -141,7 +139,7 @@
     "ad": "Shavon Shields",
     "no": "31",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 0,
     "iki": [
      0,
@@ -173,7 +171,7 @@
     "ad": "Wade Baldwin Iv",
     "no": "2",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:43",
     "sayi": 0,
     "iki": [
      0,
@@ -197,7 +195,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "54659",
@@ -328,7 +327,7 @@
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:43",
     "sayi": 0,
     "iki": [
      0,
@@ -346,13 +345,14 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "fiba-doruk-alp-yanci",
@@ -419,7 +419,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 2,
     "iki": [
      1,
@@ -439,11 +439,11 @@
     "ast": 2,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "af": 2,
     "pm": "4",
-    "vp": 6,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Pj Dozier",
     "no": "15",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 6,
     "iki": [
      0,
@@ -483,7 +483,7 @@
     "ad": "Collin Malcolm",
     "no": "17",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 2,
     "iki": [
      1,
@@ -515,7 +515,7 @@
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 4,
     "iki": [
      2,
@@ -547,7 +547,7 @@
     "ad": "Ercan Osmani",
     "no": "24",
     "ilk5": true,
-    "sure": "5:23",
+    "sure": "6:06",
     "sayi": 4,
     "iki": [
      2,
@@ -562,8 +562,8 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -571,7 +571,7 @@
     "faul": 1,
     "af": 0,
     "pm": "4",
-    "vp": 4,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -810,7 +810,7 @@
    "benc": 0,
    "fark": 4,
    "seri": 4,
-   "lider": 136,
+   "lider": 179,
    "degisim": 1,
    "esitlik": 5
   },
@@ -822,12 +822,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "04:37",
+  "saat": "03:54",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 323,
+  "simdi": 366,
   "d": [
    [
     0,
