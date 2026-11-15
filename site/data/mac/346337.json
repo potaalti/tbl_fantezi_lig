@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BEŞİKTAŞ",
-  "skor": "39",
+  "skor": "40",
   "oyuncular": [
    {
     "id": "735336",
@@ -75,7 +75,7 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": true,
-    "sure": "8:33",
+    "sure": "8:48",
     "sayi": 1,
     "iki": [
      0,
@@ -98,7 +98,7 @@
     "tk": 2,
     "faul": 0,
     "af": 2,
-    "pm": "5",
+    "pm": "6",
     "vp": 0,
     "sahada": true
    },
@@ -107,7 +107,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "11:04",
+    "sure": "11:19",
     "sayi": 5,
     "iki": [
      0,
@@ -115,7 +115,7 @@
     ],
     "uc": [
      0,
-     2
+     3
     ],
     "sa": [
      5,
@@ -131,16 +131,15 @@
     "faul": 0,
     "af": 4,
     "pm": "5",
-    "vp": 7,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "397202",
     "ad": "Ante Zizic",
     "no": "41",
     "ilk5": true,
-    "sure": "11:04",
-    "sayi": 2,
+    "sure": "11:19",
+    "sayi": 3,
     "iki": [
      1,
      1
@@ -150,20 +149,20 @@
      0
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 1,
-    "sr": 2,
-    "rib": 3,
+    "sr": 3,
+    "rib": 4,
     "ast": 0,
     "tc": 0,
     "blk": 2,
     "tk": 2,
     "faul": 1,
-    "af": 2,
-    "pm": "5",
-    "vp": 5,
+    "af": 3,
+    "pm": "6",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -194,15 +193,16 @@
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "12",
-    "vp": 2
+    "pm": "13",
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "114257",
     "ad": "Berk Uğurlu",
     "no": "6",
     "ilk5": false,
-    "sure": "9:03",
+    "sure": "9:18",
     "sayi": 0,
     "iki": [
      0,
@@ -216,17 +216,17 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 1,
-    "rib": 1,
-    "ast": 3,
+    "rib": 2,
+    "ast": 4,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "16",
-    "vp": 2,
+    "pm": "17",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "12:25",
+    "sure": "12:40",
     "sayi": 6,
     "iki": [
      0,
@@ -381,14 +381,14 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "13",
+    "pm": "14",
     "vp": 7,
     "sahada": true
    }
   ],
   "ceyrekler": [
    24,
-   15
+   16
   ],
   "takim": {
    "hr": 2,
@@ -400,12 +400,12 @@
   "ileri": {
    "tks": 12,
    "hh": 17,
-   "is": 6,
+   "is": 7,
    "ba": 6,
    "benc": 22,
-   "fark": 17,
-   "seri": 6,
-   "lider": 1001,
+   "fark": 18,
+   "seri": 7,
+   "lider": 1016,
    "degisim": 2,
    "esitlik": 0
   },
@@ -482,7 +482,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "16:14",
+    "sure": "16:29",
     "sayi": 8,
     "iki": [
      1,
@@ -505,7 +505,7 @@
     "tk": 0,
     "faul": 0,
     "af": 3,
-    "pm": "-14",
+    "pm": "-15",
     "vp": 9,
     "sahada": true
    },
@@ -514,11 +514,11 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "9:56",
+    "sure": "10:11",
     "sayi": 0,
     "iki": [
      0,
-     2
+     3
     ],
     "uc": [
      0,
@@ -528,16 +528,16 @@
      0,
      0
     ],
-    "hr": 1,
+    "hr": 2,
     "sr": 2,
-    "rib": 3,
+    "rib": 4,
     "ast": 0,
     "tc": 1,
     "blk": 1,
     "tk": 1,
-    "faul": 0,
+    "faul": 1,
     "af": 1,
-    "pm": "-12",
+    "pm": "-13",
     "vp": 2,
     "sahada": true
    },
@@ -546,7 +546,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "10:13",
+    "sure": "10:28",
     "sayi": 2,
     "iki": [
      0,
@@ -569,7 +569,7 @@
     "tk": 1,
     "faul": 2,
     "af": 2,
-    "pm": "-11",
+    "pm": "-12",
     "vp": 1,
     "sahada": true
    },
@@ -578,7 +578,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "11:46",
+    "sure": "12:01",
     "sayi": 0,
     "iki": [
      0,
@@ -601,7 +601,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "-13",
+    "pm": "-14",
     "vp": -1,
     "sahada": true
    },
@@ -703,7 +703,7 @@
     "ad": "Buğra Çal",
     "no": "13",
     "ilk5": false,
-    "sure": "4:14",
+    "sure": "4:29",
     "sayi": 1,
     "iki": [
      0,
@@ -726,7 +726,7 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "-4",
+    "pm": "-5",
     "vp": -1,
     "sahada": true
    },
@@ -818,18 +818,18 @@
   },
   "koc": "Roger Grimau Gragera"
  },
- "evSkor": "39",
+ "evSkor": "40",
  "depSkor": "22",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:43",
+  "saat": "01:29",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1096,
+  "simdi": 1111,
   "d": [
    [
     0,
@@ -966,6 +966,10 @@
    [
     1063,
     17
+   ],
+   [
+    1111,
+    18
    ]
   ]
  }
