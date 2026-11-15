@@ -13,7 +13,7 @@
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "10:31",
+    "sure": "10:56",
     "sayi": 3,
     "iki": [
      0,
@@ -45,7 +45,7 @@
     "ad": "Daquan Jeffries",
     "no": "2",
     "ilk5": true,
-    "sure": "7:36",
+    "sure": "8:01",
     "sayi": 6,
     "iki": [
      0,
@@ -77,7 +77,7 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": true,
-    "sure": "11:24",
+    "sure": "11:49",
     "sayi": 4,
     "iki": [
      1,
@@ -97,11 +97,11 @@
     "ast": 3,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
-    "faul": 0,
+    "tk": 3,
+    "faul": 1,
     "af": 3,
     "pm": "5",
-    "vp": 2,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -109,11 +109,11 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "13:18",
+    "sure": "13:43",
     "sayi": 5,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -124,8 +124,8 @@
      5
     ],
     "hr": 0,
-    "sr": 4,
-    "rib": 4,
+    "sr": 5,
+    "rib": 5,
     "ast": 0,
     "tc": 1,
     "blk": 0,
@@ -265,7 +265,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "9:49",
+    "sure": "10:14",
     "sayi": 5,
     "iki": [
      1,
@@ -406,7 +406,7 @@
    "benc": 25,
    "fark": 21,
    "seri": 8,
-   "lider": 1497,
+   "lider": 1522,
    "degisim": 2,
    "esitlik": 0
   },
@@ -452,7 +452,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "13:23",
+    "sure": "13:48",
     "sayi": 4,
     "iki": [
      2,
@@ -484,7 +484,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "24:30",
+    "sure": "24:55",
     "sayi": 13,
     "iki": [
      2,
@@ -516,7 +516,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "15:39",
+    "sure": "16:04",
     "sayi": 4,
     "iki": [
      2,
@@ -531,8 +531,8 @@
      0
     ],
     "hr": 3,
-    "sr": 2,
-    "rib": 5,
+    "sr": 3,
+    "rib": 6,
     "ast": 0,
     "tc": 1,
     "blk": 1,
@@ -540,7 +540,7 @@
     "faul": 2,
     "af": 1,
     "pm": "-5",
-    "vp": 6,
+    "vp": 7,
     "sahada": true
    },
    {
@@ -548,7 +548,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "18:29",
+    "sure": "18:54",
     "sayi": 3,
     "iki": [
      0,
@@ -556,7 +556,7 @@
     ],
     "uc": [
      0,
-     4
+     5
     ],
     "sa": [
      3,
@@ -570,9 +570,9 @@
     "blk": 0,
     "tk": 1,
     "faul": 2,
-    "af": 3,
+    "af": 4,
     "pm": "-4",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -580,7 +580,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "20:02",
+    "sure": "20:27",
     "sayi": 5,
     "iki": [
      1,
@@ -826,12 +826,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "03:54",
+  "saat": "03:09",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1565,
+  "simdi": 1607,
   "d": [
    [
     0,
