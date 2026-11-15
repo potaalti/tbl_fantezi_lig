@@ -13,7 +13,7 @@
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "38:50",
+    "sure": "38:56",
     "sayi": 15,
     "iki": [
      3,
@@ -33,11 +33,11 @@
     "ast": 4,
     "tc": 1,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 4,
     "af": 3,
     "pm": "11",
-    "vp": 14,
+    "vp": 13,
     "sahada": true
    },
    {
@@ -76,7 +76,7 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "39:32",
+    "sure": "39:38",
     "sayi": 25,
     "iki": [
      4,
@@ -108,7 +108,7 @@
     "ad": "Isaiah Miles",
     "no": "32",
     "ilk5": true,
-    "sure": "42:21",
+    "sure": "42:27",
     "sayi": 15,
     "iki": [
      1,
@@ -140,7 +140,7 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "37:09",
+    "sure": "37:15",
     "sayi": 11,
     "iki": [
      5,
@@ -296,7 +296,7 @@
     "ad": "Tyron Deshun Brewer",
     "no": "8",
     "ilk5": false,
-    "sure": "6:39",
+    "sure": "6:45",
     "sayi": 2,
     "iki": [
      1,
@@ -311,8 +311,8 @@
      2
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -320,7 +320,7 @@
     "faul": 2,
     "af": 1,
     "pm": "-4",
-    "vp": 0,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -407,7 +407,7 @@
    "benc": 11,
    "fark": 6,
    "seri": 8,
-   "lider": 807,
+   "lider": 813,
    "degisim": 7,
    "esitlik": 16
   },
@@ -422,7 +422,7 @@
     "ad": "Jordon Crawford",
     "no": "1",
     "ilk5": true,
-    "sure": "30:20",
+    "sure": "30:26",
     "sayi": 17,
     "iki": [
      4,
@@ -430,7 +430,7 @@
     ],
     "uc": [
      2,
-     6
+     7
     ],
     "sa": [
      3,
@@ -446,7 +446,7 @@
     "faul": 0,
     "af": 4,
     "pm": "-9",
-    "vp": 17,
+    "vp": 16,
     "sahada": true
    },
    {
@@ -516,7 +516,7 @@
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": true,
-    "sure": "39:54",
+    "sure": "40:00",
     "sayi": 12,
     "iki": [
      4,
@@ -548,7 +548,7 @@
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": true,
-    "sure": "35:25",
+    "sure": "35:31",
     "sayi": 17,
     "iki": [
      3,
@@ -562,9 +562,9 @@
      5,
      5
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 2,
-    "rib": 2,
+    "rib": 3,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -572,7 +572,7 @@
     "faul": 3,
     "af": 3,
     "pm": "-6",
-    "vp": 15,
+    "vp": 16,
     "sahada": true
    },
    {
@@ -673,7 +673,7 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "35:08",
+    "sure": "35:14",
     "sayi": 24,
     "iki": [
      2,
@@ -681,7 +681,7 @@
     ],
     "uc": [
      6,
-     10
+     11
     ],
     "sa": [
      2,
@@ -697,7 +697,7 @@
     "faul": 4,
     "af": 2,
     "pm": "4",
-    "vp": 31,
+    "vp": 30,
     "sahada": true
    },
    {
@@ -705,7 +705,7 @@
     "ad": "Canberk Kuş",
     "no": "12",
     "ilk5": false,
-    "sure": "32:45",
+    "sure": "32:51",
     "sayi": 11,
     "iki": [
      1,
@@ -828,12 +828,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "00:06",
+  "saat": "00:00",
   "uzatma": true
  },
  "fark": {
   "sure": 2700,
-  "simdi": 2690,
+  "simdi": 2700,
   "d": [
    [
     0,
