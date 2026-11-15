@@ -168,7 +168,7 @@
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": false,
-    "sure": "3:44",
+    "sure": "4:42",
     "sayi": 3,
     "iki": [
      0,
@@ -191,7 +191,7 @@
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "8",
+    "pm": "9",
     "vp": 4,
     "sahada": true
    },
@@ -200,7 +200,7 @@
     "ad": "Berk Uğurlu",
     "no": "6",
     "ilk5": false,
-    "sure": "3:03",
+    "sure": "4:01",
     "sayi": 0,
     "iki": [
      0,
@@ -223,7 +223,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "8",
+    "pm": "9",
     "vp": 0,
     "sahada": true
    },
@@ -263,7 +263,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "3:03",
+    "sure": "4:01",
     "sayi": 0,
     "iki": [
      0,
@@ -271,7 +271,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -286,8 +286,8 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "8",
-    "vp": 0,
+    "pm": "9",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -295,8 +295,8 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": false,
-    "sure": "3:03",
-    "sayi": 5,
+    "sure": "4:01",
+    "sayi": 6,
     "iki": [
      1,
      1
@@ -306,20 +306,20 @@
      1
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 1,
-    "sr": 1,
-    "rib": 2,
+    "sr": 3,
+    "rib": 4,
     "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 1,
-    "pm": "8",
-    "vp": 8,
+    "af": 2,
+    "pm": "9",
+    "vp": 11,
     "sahada": true
    },
    {
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "4:12",
+    "sure": "5:10",
     "sayi": 6,
     "iki": [
      0,
@@ -381,13 +381,13 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "5",
+    "pm": "6",
     "vp": 6,
     "sahada": true
    }
   ],
   "ceyrekler": [
-   23
+   24
   ],
   "takim": {
    "hr": 0,
@@ -401,10 +401,10 @@
    "hh": 12,
    "is": 3,
    "ba": 2,
-   "benc": 14,
-   "fark": 10,
+   "benc": 15,
+   "fark": 11,
    "seri": 6,
-   "lider": 407,
+   "lider": 465,
    "degisim": 2,
    "esitlik": 0
   },
@@ -419,11 +419,11 @@
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "8:22",
+    "sure": "9:20",
     "sayi": 2,
     "iki": [
      1,
-     1
+     2
     ],
     "uc": [
      0,
@@ -440,10 +440,10 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 1,
+    "faul": 2,
     "af": 0,
-    "pm": "-10",
-    "vp": 0,
+    "pm": "-11",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -482,7 +482,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "8:22",
+    "sure": "9:20",
     "sayi": 8,
     "iki": [
      1,
@@ -505,7 +505,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-10",
+    "pm": "-11",
     "vp": 8,
     "sahada": true
    },
@@ -576,11 +576,11 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "1:52",
+    "sure": "2:50",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -599,8 +599,8 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-6",
-    "vp": 0,
+    "pm": "-7",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -639,7 +639,7 @@
     "ad": "Nate Watson",
     "no": "7",
     "ilk5": false,
-    "sure": "0:17",
+    "sure": "1:15",
     "sayi": 0,
     "iki": [
      0,
@@ -662,7 +662,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 0,
     "sahada": true
    },
@@ -733,7 +733,7 @@
     "ad": "Ömer Can İlyasoğlu",
     "no": "21",
     "ilk5": false,
-    "sure": "1:52",
+    "sure": "2:50",
     "sayi": 0,
     "iki": [
      0,
@@ -748,16 +748,16 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "-6",
-    "vp": -2,
+    "pm": "-7",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -822,12 +822,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "01:37",
+  "saat": "00:40",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 502,
+  "simdi": 560,
   "d": [
    [
     0,
