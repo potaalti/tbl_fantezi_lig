@@ -13,7 +13,7 @@
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "8:32",
+    "sure": "8:41",
     "sayi": 3,
     "iki": [
      0,
@@ -37,7 +37,8 @@
     "faul": 2,
     "af": 0,
     "pm": "1",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "fiba-daquan-jeffries",
@@ -106,7 +107,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "11:51",
+    "sure": "12:06",
     "sayi": 5,
     "iki": [
      0,
@@ -126,11 +127,11 @@
     "ast": 0,
     "tc": 1,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 0,
     "af": 4,
     "pm": "3",
-    "vp": 6,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -169,11 +170,11 @@
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": false,
-    "sure": "13:49",
+    "sure": "13:55",
     "sayi": 3,
     "iki": [
      0,
-     1
+     2
     ],
     "uc": [
      1,
@@ -193,8 +194,7 @@
     "faul": 0,
     "af": 0,
     "pm": "9",
-    "vp": 2,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "114257",
@@ -263,7 +263,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "7:44",
+    "sure": "7:59",
     "sayi": 5,
     "iki": [
      1,
@@ -295,7 +295,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": false,
-    "sure": "15:39",
+    "sure": "15:54",
     "sayi": 11,
     "iki": [
      3,
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "18:36",
+    "sure": "18:51",
     "sayi": 6,
     "iki": [
      0,
@@ -392,9 +392,9 @@
    5
   ],
   "takim": {
-   "hr": 3,
+   "hr": 4,
    "sr": 1,
-   "rib": 4,
+   "rib": 5,
    "tk": 0,
    "faul": 0
   },
@@ -406,7 +406,7 @@
    "benc": 25,
    "fark": 21,
    "seri": 8,
-   "lider": 1372,
+   "lider": 1387,
    "degisim": 2,
    "esitlik": 0
   },
@@ -452,7 +452,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "11:18",
+    "sure": "11:33",
     "sayi": 4,
     "iki": [
      2,
@@ -484,7 +484,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "22:25",
+    "sure": "22:40",
     "sayi": 11,
     "iki": [
      1,
@@ -516,7 +516,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "13:34",
+    "sure": "13:49",
     "sayi": 2,
     "iki": [
      1,
@@ -548,7 +548,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "16:24",
+    "sure": "16:39",
     "sayi": 2,
     "iki": [
      0,
@@ -580,7 +580,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "17:57",
+    "sure": "18:12",
     "sayi": 5,
     "iki": [
      1,
@@ -826,12 +826,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "05:33",
+  "saat": "05:27",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1467,
+  "simdi": 1473,
   "d": [
    [
     0,
