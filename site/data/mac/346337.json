@@ -168,7 +168,7 @@
     "ad": "David Dejulius",
     "no": "5",
     "ilk5": false,
-    "sure": "1:52",
+    "sure": "2:13",
     "sayi": 0,
     "iki": [
      0,
@@ -200,7 +200,7 @@
     "ad": "Berk Uğurlu",
     "no": "6",
     "ilk5": false,
-    "sure": "1:11",
+    "sure": "1:32",
     "sayi": 0,
     "iki": [
      0,
@@ -263,7 +263,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "1:11",
+    "sure": "1:32",
     "sayi": 0,
     "iki": [
      0,
@@ -295,7 +295,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": false,
-    "sure": "1:11",
+    "sure": "1:32",
     "sayi": 0,
     "iki": [
      0,
@@ -309,17 +309,17 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 1,
-    "rib": 1,
+    "rib": 2,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 0,
+    "af": 1,
     "pm": "2",
-    "vp": 1,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "2:20",
+    "sure": "2:41",
     "sayi": 6,
     "iki": [
      0,
@@ -366,7 +366,7 @@
     ],
     "uc": [
      2,
-     2
+     3
     ],
     "sa": [
      0,
@@ -382,7 +382,7 @@
     "faul": 1,
     "af": 0,
     "pm": "-1",
-    "vp": 6,
+    "vp": 5,
     "sahada": true
    }
   ],
@@ -404,7 +404,7 @@
    "benc": 6,
    "fark": 5,
    "seri": 6,
-   "lider": 295,
+   "lider": 316,
    "degisim": 2,
    "esitlik": 0
   },
@@ -419,7 +419,7 @@
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "6:30",
+    "sure": "6:51",
     "sayi": 0,
     "iki": [
      0,
@@ -439,11 +439,11 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
+    "tk": 1,
+    "faul": 1,
     "af": 0,
     "pm": "-4",
-    "vp": -2,
+    "vp": -3,
     "sahada": true
    },
    {
@@ -482,7 +482,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "6:30",
+    "sure": "6:51",
     "sayi": 8,
     "iki": [
      1,
@@ -514,7 +514,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "6:30",
+    "sure": "6:51",
     "sayi": 0,
     "iki": [
      0,
@@ -570,15 +570,14 @@
     "faul": 1,
     "af": 1,
     "pm": "-4",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "736260",
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:21",
     "sayi": 0,
     "iki": [
      0,
@@ -602,7 +601,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "402930",
@@ -726,15 +726,14 @@
     "faul": 1,
     "af": 1,
     "pm": "-3",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "227653",
     "ad": "Ömer Can İlyasoğlu",
     "no": "21",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:21",
     "sayi": 0,
     "iki": [
      0,
@@ -758,7 +757,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "fiba-doruk-toprak-karadag",
@@ -822,12 +822,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "03:30",
+  "saat": "03:09",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 390,
+  "simdi": 411,
   "d": [
    [
     0,
