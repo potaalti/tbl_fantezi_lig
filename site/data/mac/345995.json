@@ -44,7 +44,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "18:30",
+    "sure": "19:05",
     "sayi": 12,
     "iki": [
      1,
@@ -66,7 +66,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 1,
-    "af": 2,
+    "af": 3,
     "pm": "-11",
     "vp": 9,
     "sahada": true
@@ -107,7 +107,7 @@
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "13:38",
+    "sure": "14:13",
     "sayi": 8,
     "iki": [
      3,
@@ -170,7 +170,7 @@
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "9:14",
+    "sure": "9:49",
     "sayi": 2,
     "iki": [
      1,
@@ -264,7 +264,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": false,
-    "sure": "14:08",
+    "sure": "14:43",
     "sayi": 3,
     "iki": [
      0,
@@ -272,7 +272,7 @@
     ],
     "uc": [
      1,
-     4
+     5
     ],
     "sa": [
      0,
@@ -288,7 +288,7 @@
     "faul": 1,
     "af": 0,
     "pm": "-11",
-    "vp": 3,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -358,7 +358,7 @@
     "ad": "Ege Özçelik",
     "no": "77",
     "ilk5": false,
-    "sure": "0:47",
+    "sure": "1:22",
     "sayi": 0,
     "iki": [
      0,
@@ -372,9 +372,9 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -382,7 +382,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-2",
-    "vp": 0,
+    "vp": 1,
     "sahada": true
    }
   ],
@@ -414,14 +414,14 @@
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "45",
+  "skor": "47",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "19:07",
+    "sure": "19:42",
     "sayi": 13,
     "iki": [
      1,
@@ -438,14 +438,14 @@
     "hr": 0,
     "sr": 3,
     "rib": 3,
-    "ast": 1,
+    "ast": 2,
     "tc": 2,
     "blk": 0,
     "tk": 0,
     "faul": 2,
     "af": 2,
     "pm": "10",
-    "vp": 14,
+    "vp": 15,
     "sahada": true
    },
    {
@@ -453,7 +453,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "17:37",
+    "sure": "18:12",
     "sayi": 3,
     "iki": [
      0,
@@ -485,7 +485,7 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "12:27",
+    "sure": "13:02",
     "sayi": 4,
     "iki": [
      1,
@@ -506,7 +506,7 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "af": 1,
     "pm": "9",
     "vp": 9,
@@ -517,11 +517,11 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "15:39",
-    "sayi": 4,
+    "sure": "16:14",
+    "sayi": 6,
     "iki": [
-     2,
-     2
+     3,
+     3
     ],
     "uc": [
      0,
@@ -541,7 +541,7 @@
     "faul": 1,
     "af": 1,
     "pm": "8",
-    "vp": 15,
+    "vp": 17,
     "sahada": true
    },
    {
@@ -673,7 +673,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": false,
-    "sure": "11:05",
+    "sure": "11:40",
     "sayi": 2,
     "iki": [
      1,
@@ -811,27 +811,27 @@
    "hh": 13,
    "is": 10,
    "ba": 24,
-   "benc": 12,
+   "benc": 10,
    "fark": 12,
    "seri": 6,
-   "lider": 958,
+   "lider": 993,
    "degisim": 3,
    "esitlik": 2
   },
   "koc": "BERAT GÖK"
  },
  "evSkor": "35",
- "depSkor": "45",
+ "depSkor": "47",
  "salon": "90. Yıl Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "09:28",
+  "saat": "08:38",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1232,
+  "simdi": 1282,
   "d": [
    [
     0,
@@ -1020,6 +1020,10 @@
    [
     1198,
     -10
+   ],
+   [
+    1247,
+    -12
    ]
   ]
  }
