@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "BEŞİKTAŞ",
-  "skor": "49",
+  "skor": "50",
   "oyuncular": [
    {
     "id": "735336",
@@ -138,7 +138,7 @@
     "no": "41",
     "ilk5": true,
     "sure": "13:52",
-    "sayi": 7,
+    "sayi": 8,
     "iki": [
      2,
      3
@@ -148,8 +148,8 @@
      0
     ],
     "sa": [
-     3,
-     3
+     4,
+     5
     ],
     "hr": 2,
     "sr": 3,
@@ -159,8 +159,8 @@
     "blk": 2,
     "tk": 2,
     "faul": 2,
-    "af": 5,
-    "pm": "6",
+    "af": 6,
+    "pm": "7",
     "vp": 11,
     "sahada": true
    },
@@ -192,7 +192,7 @@
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "12",
+    "pm": "13",
     "vp": 3,
     "sahada": true
    },
@@ -224,7 +224,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "16",
+    "pm": "17",
     "vp": 4,
     "sahada": true
    },
@@ -318,7 +318,7 @@
     "tk": 0,
     "faul": 1,
     "af": 5,
-    "pm": "10",
+    "pm": "11",
     "vp": 13,
     "sahada": true
    },
@@ -381,7 +381,7 @@
     "tk": 1,
     "faul": 1,
     "af": 1,
-    "pm": "13",
+    "pm": "14",
     "vp": 7,
     "sahada": true
    }
@@ -389,7 +389,7 @@
   "ceyrekler": [
    24,
    21,
-   4
+   5
   ],
   "takim": {
    "hr": 3,
@@ -475,7 +475,7 @@
     "tk": 0,
     "faul": 4,
     "af": 2,
-    "pm": "-2",
+    "pm": "-3",
     "vp": 1,
     "sahada": true
    },
@@ -507,7 +507,7 @@
     "tk": 1,
     "faul": 1,
     "af": 3,
-    "pm": "-14",
+    "pm": "-15",
     "vp": 13,
     "sahada": true
    },
@@ -540,7 +540,8 @@
     "faul": 1,
     "af": 1,
     "pm": "-13",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "502519",
@@ -570,7 +571,7 @@
     "tk": 1,
     "faul": 2,
     "af": 2,
-    "pm": "-11",
+    "pm": "-12",
     "vp": 1,
     "sahada": true
    },
@@ -602,7 +603,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-13",
+    "pm": "-14",
     "vp": 3,
     "sahada": true
    },
@@ -663,11 +664,10 @@
     "tc": 0,
     "blk": 0,
     "tk": 1,
-    "faul": 3,
+    "faul": 4,
     "af": 2,
-    "pm": "-4",
-    "vp": 4,
-    "sahada": true
+    "pm": "-5",
+    "vp": 4
    },
    {
     "id": "443749",
@@ -820,18 +820,18 @@
   },
   "koc": "Roger Grimau Gragera"
  },
- "evSkor": "49",
+ "evSkor": "50",
  "depSkor": "32",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "07:42",
+  "saat": "07:27",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1337,
+  "simdi": 1353,
   "d": [
    [
     0,
@@ -1012,6 +1012,10 @@
    [
     1337,
     17
+   ],
+   [
+    1353,
+    18
    ]
   ]
  }
