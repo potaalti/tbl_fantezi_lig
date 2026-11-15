@@ -59,13 +59,18 @@
    "lig": "bsl",
    "hafta": 8,
    "tarih": "2026-11-15T13:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "ESENLER EROKSPOR",
    "dep": "BAHÇEŞEHİR KOLEJİ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:23",
+    "uzatma": false
+   }
   },
   {
    "id": 346335,
