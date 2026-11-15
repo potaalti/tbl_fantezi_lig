@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "16",
+  "skor": "18",
   "oyuncular": [
    {
     "id": "220370",
@@ -44,8 +44,8 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "8:54",
-    "sayi": 5,
+    "sure": "9:54",
+    "sayi": 7,
     "iki": [
      0,
      0
@@ -55,8 +55,8 @@
      2
     ],
     "sa": [
-     2,
-     3
+     4,
+     5
     ],
     "hr": 0,
     "sr": 0,
@@ -64,11 +64,11 @@
     "ast": 1,
     "tc": 0,
     "blk": 0,
-    "tk": 2,
+    "tk": 3,
     "faul": 1,
-    "af": 1,
+    "af": 2,
     "pm": "-4",
-    "vp": 2,
+    "vp": 3,
     "sahada": true
    },
    {
@@ -169,7 +169,7 @@
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "2:10",
+    "sure": "3:10",
     "sayi": 0,
     "iki": [
      0,
@@ -184,16 +184,16 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
-    "blk": 0,
+    "blk": 1,
     "tk": 0,
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -263,7 +263,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": false,
-    "sure": "4:22",
+    "sure": "5:22",
     "sayi": 0,
     "iki": [
      0,
@@ -295,7 +295,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": false,
-    "sure": "2:10",
+    "sure": "3:10",
     "sayi": 2,
     "iki": [
      0,
@@ -327,7 +327,7 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "0:54",
+    "sure": "1:54",
     "sayi": 0,
     "iki": [
      0,
@@ -387,7 +387,7 @@
    }
   ],
   "ceyrekler": [
-   16
+   18
   ],
   "takim": {
    "hr": 0,
@@ -412,14 +412,14 @@
  },
  "dep": {
   "ad": "FİNALSPOR",
-  "skor": "20",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "753710",
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "7:38",
+    "sure": "8:38",
     "sayi": 6,
     "iki": [
      0,
@@ -437,14 +437,13 @@
     "sr": 2,
     "rib": 2,
     "ast": 1,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "4",
-    "vp": 7,
-    "sahada": true
+    "pm": "6",
+    "vp": 8
    },
    {
     "id": "229599",
@@ -474,15 +473,16 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "4",
-    "vp": -1
+    "pm": "2",
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "117624",
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "8:54",
+    "sure": "9:54",
     "sayi": 2,
     "iki": [
      1,
@@ -505,9 +505,8 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "4",
-    "vp": 5,
-    "sahada": true
+    "pm": "6",
+    "vp": 5
    },
    {
     "id": "271660",
@@ -569,7 +568,8 @@
     "faul": 1,
     "af": 1,
     "pm": "4",
-    "vp": 7
+    "vp": 7,
+    "sahada": true
    },
    {
     "id": "222762",
@@ -599,8 +599,9 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 0
+    "pm": "-2",
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "395623",
@@ -669,11 +670,11 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": false,
-    "sure": "2:10",
+    "sure": "3:10",
     "sayi": 0,
     "iki": [
      0,
-     0
+     1
     ],
     "uc": [
      0,
@@ -690,10 +691,10 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "0",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -701,11 +702,11 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": false,
-    "sure": "0:54",
-    "sayi": 0,
+    "sure": "1:54",
+    "sayi": 2,
     "iki": [
-     0,
-     0
+     1,
+     2
     ],
     "uc": [
      0,
@@ -715,9 +716,9 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -725,15 +726,14 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "267856",
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "2:10",
+    "sure": "3:10",
     "sayi": 0,
     "iki": [
      0,
@@ -793,7 +793,7 @@
    }
   ],
   "ceyrekler": [
-   20
+   22
   ],
   "takim": {
    "hr": 0,
@@ -803,31 +803,31 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 6,
+   "tks": 8,
    "hh": 6,
-   "is": 4,
-   "ba": 12,
-   "benc": 0,
-   "fark": 5,
+   "is": 6,
+   "ba": 14,
+   "benc": 2,
+   "fark": 6,
    "seri": 5,
-   "lider": 245,
+   "lider": 305,
    "degisim": 3,
    "esitlik": 2
   },
   "koc": "BERAT GÖK"
  },
- "evSkor": "16",
- "depSkor": "20",
+ "evSkor": "18",
+ "depSkor": "22",
  "salon": "90. Yıl Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 1,
-  "saat": "01:08",
+  "saat": "00:05",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 531,
+  "simdi": 595,
   "d": [
    [
     0,
@@ -911,6 +911,18 @@
    ],
    [
     513,
+    -4
+   ],
+   [
+    576,
+    -6
+   ],
+   [
+    595,
+    -5
+   ],
+   [
+    595,
     -4
    ]
   ]
