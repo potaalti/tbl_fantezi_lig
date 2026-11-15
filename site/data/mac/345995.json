@@ -44,7 +44,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "21:06",
+    "sure": "21:47",
     "sayi": 19,
     "iki": [
      2,
@@ -59,8 +59,8 @@
      7
     ],
     "hr": 0,
-    "sr": 1,
-    "rib": 1,
+    "sr": 2,
+    "rib": 2,
     "ast": 2,
     "tc": 0,
     "blk": 0,
@@ -68,7 +68,7 @@
     "faul": 1,
     "af": 3,
     "pm": "-6",
-    "vp": 16,
+    "vp": 17,
     "sahada": true
    },
    {
@@ -169,7 +169,7 @@
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "11:50",
+    "sure": "12:31",
     "sayi": 2,
     "iki": [
      1,
@@ -191,7 +191,7 @@
     "blk": 2,
     "tk": 0,
     "faul": 0,
-    "af": 0,
+    "af": 1,
     "pm": "2",
     "vp": 10,
     "sahada": true
@@ -263,7 +263,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": false,
-    "sure": "16:44",
+    "sure": "17:25",
     "sayi": 3,
     "iki": [
      0,
@@ -326,7 +326,7 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "7:24",
+    "sure": "8:05",
     "sayi": 0,
     "iki": [
      0,
@@ -358,7 +358,7 @@
     "ad": "Ege Özçelik",
     "no": "77",
     "ilk5": false,
-    "sure": "3:23",
+    "sure": "4:04",
     "sayi": 0,
     "iki": [
      0,
@@ -421,7 +421,7 @@
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "21:43",
+    "sure": "22:24",
     "sayi": 15,
     "iki": [
      2,
@@ -453,11 +453,11 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "20:13",
+    "sure": "20:54",
     "sayi": 3,
     "iki": [
      0,
-     3
+     4
     ],
     "uc": [
      1,
@@ -477,15 +477,14 @@
     "faul": 0,
     "af": 1,
     "pm": "5",
-    "vp": -1,
-    "sahada": true
+    "vp": -2
    },
    {
     "id": "117624",
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "15:03",
+    "sure": "15:44",
     "sayi": 4,
     "iki": [
      1,
@@ -506,18 +505,17 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 2,
+    "faul": 3,
     "af": 1,
     "pm": "4",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "271660",
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "18:15",
+    "sure": "18:56",
     "sayi": 6,
     "iki": [
      3,
@@ -573,7 +571,8 @@
     "faul": 2,
     "af": 1,
     "pm": "5",
-    "vp": 7
+    "vp": 7,
+    "sahada": true
    },
    {
     "id": "222762",
@@ -673,7 +672,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": false,
-    "sure": "13:41",
+    "sure": "14:22",
     "sayi": 2,
     "iki": [
      1,
@@ -729,7 +728,8 @@
     "faul": 0,
     "af": 0,
     "pm": "5",
-    "vp": 11
+    "vp": 11,
+    "sahada": true
    },
    {
     "id": "267856",
@@ -814,7 +814,7 @@
    "benc": 10,
    "fark": 12,
    "seri": 6,
-   "lider": 1114,
+   "lider": 1155,
    "degisim": 3,
    "esitlik": 2
   },
@@ -826,12 +826,12 @@
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "06:36",
+  "saat": "05:56",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1403,
+  "simdi": 1444,
   "d": [
    [
     0,
