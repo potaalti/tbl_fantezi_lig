@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "YALOVA HAREM SPOR",
-  "skor": "34",
+  "skor": "35",
   "oyuncular": [
    {
     "id": "220370",
@@ -44,7 +44,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "17:25",
+    "sure": "17:37",
     "sayi": 12,
     "iki": [
      1,
@@ -76,11 +76,11 @@
     "ad": "Ege Havsa",
     "no": "5",
     "ilk5": true,
-    "sure": "8:56",
+    "sure": "9:08",
     "sayi": 2,
     "iki": [
      1,
-     4
+     5
     ],
     "uc": [
      0,
@@ -100,7 +100,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-1",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -108,7 +108,7 @@
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "12:33",
+    "sure": "12:45",
     "sayi": 8,
     "iki": [
      3,
@@ -120,7 +120,7 @@
     ],
     "sa": [
      2,
-     3
+     4
     ],
     "hr": 2,
     "sr": 4,
@@ -132,7 +132,7 @@
     "faul": 1,
     "af": 2,
     "pm": "-9",
-    "vp": 14,
+    "vp": 13,
     "sahada": true
    },
    {
@@ -264,7 +264,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": false,
-    "sure": "13:03",
+    "sure": "13:16",
     "sayi": 3,
     "iki": [
      0,
@@ -296,7 +296,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": false,
-    "sure": "9:53",
+    "sure": "10:05",
     "sayi": 4,
     "iki": [
      1,
@@ -451,7 +451,7 @@
     "ad": "Ali Efe Barış",
     "no": "10",
     "ilk5": true,
-    "sure": "16:32",
+    "sure": "16:44",
     "sayi": 3,
     "iki": [
      0,
@@ -483,7 +483,7 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "11:22",
+    "sure": "11:34",
     "sayi": 2,
     "iki": [
      1,
@@ -498,8 +498,8 @@
      0
     ],
     "hr": 0,
-    "sr": 2,
-    "rib": 2,
+    "sr": 3,
+    "rib": 3,
     "ast": 1,
     "tc": 1,
     "blk": 0,
@@ -507,7 +507,7 @@
     "faul": 1,
     "af": 0,
     "pm": "5",
-    "vp": 5,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -670,7 +670,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": false,
-    "sure": "10:00",
+    "sure": "10:12",
     "sayi": 2,
     "iki": [
      1,
@@ -702,7 +702,7 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": false,
-    "sure": "10:47",
+    "sure": "11:00",
     "sayi": 8,
     "iki": [
      4,
@@ -721,12 +721,12 @@
     "rib": 4,
     "ast": 0,
     "tc": 0,
-    "blk": 1,
+    "blk": 2,
     "tk": 1,
     "faul": 0,
     "af": 0,
     "pm": "3",
-    "vp": 10,
+    "vp": 11,
     "sahada": true
    },
    {
@@ -734,7 +734,7 @@
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": false,
-    "sure": "3:16",
+    "sure": "3:29",
     "sayi": 0,
     "iki": [
      0,
@@ -812,24 +812,24 @@
    "benc": 10,
    "fark": 9,
    "seri": 6,
-   "lider": 893,
+   "lider": 905,
    "degisim": 3,
    "esitlik": 2
   },
   "koc": "BERAT GÖK"
  },
- "evSkor": "34",
+ "evSkor": "35",
  "depSkor": "43",
  "salon": "90. Yıl Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "00:18",
+  "saat": "00:05",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1182,
+  "simdi": 1194,
   "d": [
    [
     0,
@@ -998,6 +998,10 @@
    [
     1163,
     -9
+   ],
+   [
+    1182,
+    -8
    ]
   ]
  }

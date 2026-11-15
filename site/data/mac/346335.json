@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "86",
+  "skor": "87",
   "oyuncular": [
    {
     "id": "778996",
@@ -14,7 +14,7 @@
     "no": "1",
     "ilk5": true,
     "sure": "33:25",
-    "sayi": 9,
+    "sayi": 10,
     "iki": [
      3,
      7
@@ -24,8 +24,8 @@
      4
     ],
     "sa": [
-     0,
-     0
+     1,
+     1
     ],
     "hr": 2,
     "sr": 2,
@@ -35,9 +35,9 @@
     "blk": 0,
     "tk": 2,
     "faul": 4,
-    "af": 2,
-    "pm": "10",
-    "vp": 8,
+    "af": 3,
+    "pm": "11",
+    "vp": 9,
     "sahada": true
    },
    {
@@ -68,7 +68,7 @@
     "tk": 1,
     "faul": 1,
     "af": 0,
-    "pm": "8",
+    "pm": "9",
     "vp": 20,
     "sahada": true
    },
@@ -100,7 +100,7 @@
     "tk": 3,
     "faul": 2,
     "af": 3,
-    "pm": "6",
+    "pm": "7",
     "vp": 18,
     "sahada": true
    },
@@ -132,7 +132,7 @@
     "tk": 2,
     "faul": 2,
     "af": 5,
-    "pm": "7",
+    "pm": "8",
     "vp": 20,
     "sahada": true
    },
@@ -164,7 +164,7 @@
     "tk": 2,
     "faul": 2,
     "af": 3,
-    "pm": "7",
+    "pm": "8",
     "vp": 23,
     "sahada": true
    },
@@ -390,7 +390,7 @@
    26,
    16,
    27,
-   17
+   18
   ],
   "takim": {
    "hr": 1,
@@ -445,7 +445,7 @@
     "tk": 0,
     "faul": 0,
     "af": 3,
-    "pm": "-8",
+    "pm": "-9",
     "vp": 12,
     "sahada": true
    },
@@ -537,9 +537,9 @@
     "tc": 1,
     "blk": 1,
     "tk": 0,
-    "faul": 3,
+    "faul": 4,
     "af": 3,
-    "pm": "0",
+    "pm": "-1",
     "vp": 16,
     "sahada": true
    },
@@ -571,7 +571,7 @@
     "tk": 0,
     "faul": 3,
     "af": 3,
-    "pm": "-5",
+    "pm": "-6",
     "vp": 14,
     "sahada": true
    },
@@ -696,7 +696,7 @@
     "tk": 2,
     "faul": 2,
     "af": 2,
-    "pm": "5",
+    "pm": "4",
     "vp": 26,
     "sahada": true
    },
@@ -728,7 +728,7 @@
     "tk": 0,
     "faul": 3,
     "af": 0,
-    "pm": "4",
+    "pm": "3",
     "vp": 8,
     "sahada": true
    },
@@ -806,7 +806,7 @@
    "sr": 1,
    "rib": 3,
    "tk": 1,
-   "faul": 0
+   "faul": 1
   },
   "ileri": {
    "tks": 8,
@@ -822,7 +822,7 @@
   },
   "koc": "Ender Arslan"
  },
- "evSkor": "86",
+ "evSkor": "87",
  "depSkor": "84",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
@@ -1174,6 +1174,10 @@
    [
     2349,
     2
+   ],
+   [
+    2370,
+    3
    ]
   ]
  }
