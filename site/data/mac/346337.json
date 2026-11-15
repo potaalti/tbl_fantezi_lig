@@ -13,7 +13,7 @@
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "8:41",
+    "sure": "8:56",
     "sayi": 3,
     "iki": [
      0,
@@ -45,7 +45,7 @@
     "ad": "Daquan Jeffries",
     "no": "2",
     "ilk5": true,
-    "sure": "5:51",
+    "sure": "6:01",
     "sayi": 6,
     "iki": [
      0,
@@ -69,7 +69,8 @@
     "faul": 3,
     "af": 0,
     "pm": "4",
-    "vp": 7
+    "vp": 7,
+    "sahada": true
    },
    {
     "id": "777636",
@@ -107,7 +108,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "12:06",
+    "sure": "12:11",
     "sayi": 5,
     "iki": [
      0,
@@ -131,8 +132,7 @@
     "faul": 0,
     "af": 4,
     "pm": "3",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "397202",
@@ -263,7 +263,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "7:59",
+    "sure": "8:14",
     "sayi": 5,
     "iki": [
      1,
@@ -295,7 +295,7 @@
     "ad": "Metecan Birsen",
     "no": "11",
     "ilk5": false,
-    "sure": "15:54",
+    "sure": "16:09",
     "sayi": 11,
     "iki": [
      3,
@@ -358,7 +358,7 @@
     "ad": "Anthony Brown",
     "no": "21",
     "ilk5": false,
-    "sure": "18:51",
+    "sure": "19:06",
     "sayi": 6,
     "iki": [
      0,
@@ -406,7 +406,7 @@
    "benc": 25,
    "fark": 21,
    "seri": 8,
-   "lider": 1387,
+   "lider": 1402,
    "degisim": 2,
    "esitlik": 0
   },
@@ -452,7 +452,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "11:33",
+    "sure": "11:48",
     "sayi": 4,
     "iki": [
      2,
@@ -484,7 +484,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "22:40",
+    "sure": "22:55",
     "sayi": 11,
     "iki": [
      1,
@@ -516,7 +516,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "13:49",
+    "sure": "14:04",
     "sayi": 2,
     "iki": [
      1,
@@ -548,7 +548,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "16:39",
+    "sure": "16:54",
     "sayi": 2,
     "iki": [
      0,
@@ -580,7 +580,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "18:12",
+    "sure": "18:27",
     "sayi": 5,
     "iki": [
      1,
@@ -826,12 +826,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "05:27",
+  "saat": "05:03",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1473,
+  "simdi": 1497,
   "d": [
    [
     0,
