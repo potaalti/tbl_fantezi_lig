@@ -10708,9 +10708,54 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "776935",
+    "ad": "Aleksa Avramovic",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": 4,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
+   },
+   {
     "id": "516236",
     "ad": "Khyri Thomas",
     "takim": "ALİAĞA PETKİM SPOR",
+    "pm": 4,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "734506",
+    "ad": "Malachi Flynn",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": 4,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "384595",
+    "ad": "Mateusz Ponitka",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": 4,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "POLONYA"
+   },
+   {
+    "id": "734505",
+    "ad": "Trevion Williams",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
+    "pm": 4,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "608898",
+    "ad": "Tyler Cavanaugh",
+    "takim": "BAHÇEŞEHİR KOLEJİ",
     "pm": 4,
     "fark": 4,
     "mac": 1,
@@ -10852,96 +10897,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "776935",
-    "ad": "Aleksa Avramovic",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
-   },
-   {
-    "id": "120437",
-    "ad": "Egehan Arna",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "667498",
-    "ad": "James Webb Iii",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "470574",
-    "ad": "Keye Van Der Vuurst",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "HOLLANDA"
-   },
-   {
-    "id": "734506",
-    "ad": "Malachi Flynn",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "384595",
-    "ad": "Mateusz Ponitka",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "POLONYA"
-   },
-   {
-    "id": "249031",
-    "ad": "Metehan Akyel",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "606624",
-    "ad": "Mike Davis Jr.",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "734505",
-    "ad": "Trevion Williams",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "608898",
-    "ad": "Tyler Cavanaugh",
-    "takim": "BAHÇEŞEHİR KOLEJİ",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "217226",
     "ad": "Atahan Demirtaş",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -11066,6 +11021,51 @@
     "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "120437",
+    "ad": "Egehan Arna",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "667498",
+    "ad": "James Webb Iii",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "470574",
+    "ad": "Keye Van Der Vuurst",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "HOLLANDA"
+   },
+   {
+    "id": "249031",
+    "ad": "Metehan Akyel",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "606624",
+    "ad": "Mike Davis Jr.",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "105532",
@@ -11341,6 +11341,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "734505",
+   "ad": "Trevion Williams",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 57,
+   "fark": 47,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
    "id": "735850",
    "ad": "Kai Jones",
    "takim": "ANADOLU EFES",
@@ -11348,15 +11357,6 @@
    "fark": 38,
    "mac": 5,
    "ulke": "BAHAMALAR"
-  },
-  {
-   "id": "734505",
-   "ad": "Trevion Williams",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 53,
-   "fark": 43,
-   "mac": 8,
-   "ulke": "ABD"
   },
   {
    "id": "776654",
@@ -11431,6 +11431,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "734506",
+   "ad": "Malachi Flynn",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 45,
+   "fark": 62,
+   "mac": 7,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "779275",
    "ad": "Chimezie Metu",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -11481,15 +11490,6 @@
    "takim": "BAHÇEŞEHİR KOLEJİ",
    "pm": 41,
    "fark": 43,
-   "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "734506",
-   "ad": "Malachi Flynn",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 41,
-   "fark": 58,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
@@ -11584,6 +11584,15 @@
    "ulke": "SLOVENYA"
   },
   {
+   "id": "776935",
+   "ad": "Aleksa Avramovic",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 28,
+   "fark": 39,
+   "mac": 7,
+   "ulke": "SIRBİSTAN"
+  },
+  {
    "id": "192987",
    "ad": "Rıdvan Öncel",
    "takim": "TRABZONSPOR",
@@ -11638,15 +11647,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "776935",
-   "ad": "Aleksa Avramovic",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 24,
-   "fark": 35,
-   "mac": 7,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "128768",
    "ad": "Berkan Durmaz",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -11656,6 +11656,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "384595",
+   "ad": "Mateusz Ponitka",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 24,
+   "fark": 47,
+   "mac": 8,
+   "ulke": "POLONYA"
+  },
+  {
    "id": "281408",
    "ad": "David Mutaf",
    "takim": "ANADOLU EFES",
@@ -11663,15 +11672,6 @@
    "fark": 46,
    "mac": 7,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "470574",
-   "ad": "Keye Van Der Vuurst",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 22,
-   "fark": 14,
-   "mac": 6,
-   "ulke": "HOLLANDA"
   },
   {
    "id": "778403",
@@ -11692,13 +11692,13 @@
    "ulke": "BELÇİKA"
   },
   {
-   "id": "384595",
-   "ad": "Mateusz Ponitka",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 20,
-   "fark": 43,
-   "mac": 8,
-   "ulke": "POLONYA"
+   "id": "470574",
+   "ad": "Keye Van Der Vuurst",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 18,
+   "fark": 10,
+   "mac": 6,
+   "ulke": "HOLLANDA"
   },
   {
    "id": "779277",
@@ -11751,15 +11751,6 @@
    "takim": "TOFAŞ",
    "pm": 14,
    "fark": -12,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "606624",
-   "ad": "Mike Davis Jr.",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 13,
-   "fark": -13,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -11836,11 +11827,29 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "608898",
+   "ad": "Tyler Cavanaugh",
+   "takim": "BAHÇEŞEHİR KOLEJİ",
+   "pm": 10,
+   "fark": 47,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
    "id": "609266",
    "ad": "Matt Mitchell",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
    "pm": 9,
    "fark": -26,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
+   "id": "606624",
+   "ad": "Mike Davis Jr.",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 9,
+   "fark": -17,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -11851,15 +11860,6 @@
    "pm": 9,
    "fark": -14,
    "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "120437",
-   "ad": "Egehan Arna",
-   "takim": "ESENLER EROKSPOR",
-   "pm": 9,
-   "fark": -13,
-   "mac": 8,
    "ulke": "TÜRKİYE"
   },
   {
@@ -12007,15 +12007,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "608898",
-   "ad": "Tyler Cavanaugh",
-   "takim": "BAHÇEŞEHİR KOLEJİ",
-   "pm": 6,
-   "fark": 43,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
    "id": "277894",
    "ad": "Göktuğ Baş",
    "takim": "TÜRK TELEKOM",
@@ -12052,12 +12043,12 @@
    "ulke": "ABD"
   },
   {
-   "id": "249031",
-   "ad": "Metehan Akyel",
+   "id": "120437",
+   "ad": "Egehan Arna",
    "takim": "ESENLER EROKSPOR",
-   "pm": 4,
-   "fark": -18,
-   "mac": 4,
+   "pm": 5,
+   "fark": -17,
+   "mac": 8,
    "ulke": "TÜRKİYE"
   },
   {
@@ -12140,6 +12131,15 @@
    "fark": 38,
    "mac": 5,
    "ulke": "ABD"
+  },
+  {
+   "id": "249031",
+   "ad": "Metehan Akyel",
+   "takim": "ESENLER EROKSPOR",
+   "pm": 0,
+   "fark": -22,
+   "mac": 4,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "100880",
@@ -12318,15 +12318,6 @@
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -3,
    "fark": -25,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "667498",
-   "ad": "James Webb Iii",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -3,
-   "fark": -13,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -12517,6 +12508,15 @@
    "pm": -7,
    "fark": -18,
    "mac": 3,
+   "ulke": "ABD"
+  },
+  {
+   "id": "667498",
+   "ad": "James Webb Iii",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -7,
+   "fark": -17,
+   "mac": 8,
    "ulke": "ABD"
   },
   {
