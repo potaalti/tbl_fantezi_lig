@@ -506,8 +506,7 @@
     "faul": 0,
     "af": 1,
     "pm": "-9",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "778459",
@@ -569,7 +568,8 @@
     "faul": 1,
     "af": 1,
     "pm": "-4",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "736260",
@@ -821,8 +821,8 @@
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
