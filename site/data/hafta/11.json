@@ -97,13 +97,18 @@
    "lig": "tbl",
    "hafta": 11,
    "tarih": "2026-11-15T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "YALOVA HAREM SPOR",
    "dep": "FİNALSPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "90. Yıl Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "08:31",
+    "uzatma": false
+   }
   }
  ],
  "oyuncular": {
@@ -1590,6 +1595,222 @@
    "saniye": 946,
    "maclar": [
     345997
+   ]
+  },
+  "220370": {
+   "ad": "Yiğit Özkan",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "776537": {
+   "ad": "Samuel Lee Sessoms",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "113781": {
+   "ad": "Ege Havsa",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "471743": {
+   "ad": "Abdoulaye Gueye",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 3,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "221455": {
+   "ad": "Hakan Yapar",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "108904": {
+   "ad": "Metin Türen",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "196310": {
+   "ad": "Berke Aygündüz",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "482295": {
+   "ad": "Yavuz Kara",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "61192": {
+   "ad": "Dorukhan Engindeniz",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "210252": {
+   "ad": "Alihan Deniz Genç",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "202372": {
+   "ad": "Yiğit Baran Sarıkaya",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "304808": {
+   "ad": "Ege Özçelik",
+   "takim": "YALOVA HAREM SPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "753710": {
+   "ad": "Fredrick Earl Cleveland",
+   "takim": "FİNALSPOR",
+   "vp": -1,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "229599": {
+   "ad": "Ali Efe Barış",
+   "takim": "FİNALSPOR",
+   "vp": -1,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "117624": {
+   "ad": "İlker Tunalı",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "271660": {
+   "ad": "Eric Buckner",
+   "takim": "FİNALSPOR",
+   "vp": 1,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "98663": {
+   "ad": "Tayfun Erülkü",
+   "takim": "FİNALSPOR",
+   "vp": -1,
+   "saniye": 100,
+   "maclar": [
+    345995
+   ]
+  },
+  "222762": {
+   "ad": "Can Özcan",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "395623": {
+   "ad": "Ege Erzine",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "318194": {
+   "ad": "Başar Şener",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "224189": {
+   "ad": "Arda Berk Kaya",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "275328": {
+   "ad": "Gökay Hacıoğlu",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "267856": {
+   "ad": "Mithat Can Özalp",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
+   ]
+  },
+  "363941": {
+   "ad": "Ali Taşkın",
+   "takim": "FİNALSPOR",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    345995
    ]
   }
  }
