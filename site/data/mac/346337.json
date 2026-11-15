@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BEŞİKTAŞ",
-  "skor": "50",
+  "skor": "52",
   "oyuncular": [
    {
     "id": "735336",
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "9:24",
+    "sure": "9:42",
     "sayi": 3,
     "iki": [
      0,
@@ -36,7 +36,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-2",
+    "pm": "0",
     "vp": 4,
     "sahada": true
    },
@@ -45,7 +45,7 @@
     "ad": "Daquan Jeffries",
     "no": "2",
     "ilk5": true,
-    "sure": "6:29",
+    "sure": "6:47",
     "sayi": 6,
     "iki": [
      0,
@@ -68,7 +68,7 @@
     "tk": 2,
     "faul": 3,
     "af": 0,
-    "pm": "1",
+    "pm": "3",
     "vp": 7,
     "sahada": true
    },
@@ -77,11 +77,11 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": true,
-    "sure": "10:17",
-    "sayi": 3,
+    "sure": "10:35",
+    "sayi": 5,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
      0,
@@ -99,9 +99,9 @@
     "blk": 0,
     "tk": 2,
     "faul": 0,
-    "af": 2,
-    "pm": "6",
-    "vp": 2,
+    "af": 3,
+    "pm": "8",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -109,7 +109,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "12:11",
+    "sure": "12:29",
     "sayi": 5,
     "iki": [
      0,
@@ -132,7 +132,7 @@
     "tk": 2,
     "faul": 0,
     "af": 4,
-    "pm": "3",
+    "pm": "5",
     "vp": 5,
     "sahada": true
    },
@@ -265,7 +265,7 @@
     "ad": "Conor Morgan",
     "no": "9",
     "ilk5": false,
-    "sure": "8:42",
+    "sure": "9:00",
     "sayi": 5,
     "iki": [
      1,
@@ -288,7 +288,7 @@
     "tk": 0,
     "faul": 2,
     "af": 1,
-    "pm": "7",
+    "pm": "9",
     "vp": 4,
     "sahada": true
    },
@@ -389,7 +389,7 @@
   "ceyrekler": [
    24,
    21,
-   5
+   7
   ],
   "takim": {
    "hr": 4,
@@ -402,11 +402,11 @@
    "tks": 12,
    "hh": 17,
    "is": 11,
-   "ba": 12,
+   "ba": 14,
    "benc": 25,
    "fark": 21,
    "seri": 8,
-   "lider": 1430,
+   "lider": 1448,
    "degisim": 2,
    "esitlik": 0
   },
@@ -452,7 +452,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "12:16",
+    "sure": "12:34",
     "sayi": 4,
     "iki": [
      2,
@@ -475,7 +475,7 @@
     "tk": 0,
     "faul": 4,
     "af": 3,
-    "pm": "4",
+    "pm": "2",
     "vp": 6,
     "sahada": true
    },
@@ -484,7 +484,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "23:23",
+    "sure": "23:41",
     "sayi": 11,
     "iki": [
      1,
@@ -507,7 +507,7 @@
     "tk": 1,
     "faul": 1,
     "af": 4,
-    "pm": "-8",
+    "pm": "-10",
     "vp": 14,
     "sahada": true
    },
@@ -516,7 +516,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "14:32",
+    "sure": "14:50",
     "sayi": 4,
     "iki": [
      2,
@@ -537,9 +537,9 @@
     "tc": 1,
     "blk": 1,
     "tk": 1,
-    "faul": 1,
+    "faul": 2,
     "af": 1,
-    "pm": "-6",
+    "pm": "-8",
     "vp": 6,
     "sahada": true
    },
@@ -548,7 +548,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "17:22",
+    "sure": "17:40",
     "sayi": 3,
     "iki": [
      0,
@@ -571,7 +571,7 @@
     "tk": 1,
     "faul": 2,
     "af": 3,
-    "pm": "-5",
+    "pm": "-7",
     "vp": 0,
     "sahada": true
    },
@@ -580,7 +580,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "18:55",
+    "sure": "19:13",
     "sayi": 5,
     "iki": [
      1,
@@ -603,7 +603,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-7",
+    "pm": "-9",
     "vp": 5,
     "sahada": true
    },
@@ -820,18 +820,18 @@
   },
   "koc": "Roger Grimau Gragera"
  },
- "evSkor": "50",
+ "evSkor": "52",
  "depSkor": "39",
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 3,
-  "saat": "04:35",
+  "saat": "04:17",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1525,
+  "simdi": 1543,
   "d": [
    [
     0,
@@ -1032,6 +1032,10 @@
    [
     1524,
     11
+   ],
+   [
+    1543,
+    13
    ]
   ]
  }
