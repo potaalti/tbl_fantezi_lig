@@ -13,7 +13,7 @@
     "ad": "Shane Larkin",
     "no": "0",
     "ilk5": true,
-    "sure": "9:48",
+    "sure": "10:02",
     "sayi": 2,
     "iki": [
      1,
@@ -45,7 +45,7 @@
     "ad": "Trent Forrest",
     "no": "11",
     "ilk5": true,
-    "sure": "7:10",
+    "sure": "7:24",
     "sayi": 4,
     "iki": [
      2,
@@ -132,14 +132,15 @@
     "faul": 1,
     "af": 2,
     "pm": "-6",
-    "vp": 8
+    "vp": 8,
+    "sahada": true
    },
    {
     "id": "777705",
     "ad": "Shavon Shields",
     "no": "31",
     "ilk5": true,
-    "sure": "10:29",
+    "sure": "10:43",
     "sayi": 2,
     "iki": [
      1,
@@ -202,7 +203,7 @@
     "ad": "Sertaç Şanlı",
     "no": "5",
     "ilk5": false,
-    "sure": "7:09",
+    "sure": "7:23",
     "sayi": 0,
     "iki": [
      0,
@@ -226,8 +227,7 @@
     "faul": 2,
     "af": 0,
     "pm": "-7",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "735811",
@@ -327,7 +327,7 @@
     "ad": "Will Clyburn",
     "no": "21",
     "ilk5": false,
-    "sure": "7:51",
+    "sure": "8:05",
     "sayi": 2,
     "iki": [
      1,
@@ -451,7 +451,7 @@
     "ad": "Pj Dozier",
     "no": "15",
     "ilk5": true,
-    "sure": "12:48",
+    "sure": "13:02",
     "sayi": 8,
     "iki": [
      1,
@@ -514,7 +514,7 @@
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "9:35",
+    "sure": "9:49",
     "sayi": 6,
     "iki": [
      3,
@@ -608,7 +608,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": false,
-    "sure": "8:30",
+    "sure": "8:44",
     "sayi": 3,
     "iki": [
      0,
@@ -733,7 +733,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "7:28",
+    "sure": "7:42",
     "sayi": 0,
     "iki": [
      0,
@@ -753,11 +753,11 @@
     "ast": 0,
     "tc": 2,
     "blk": 1,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
     "af": 0,
     "pm": "2",
-    "vp": 3,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -765,7 +765,7 @@
     "ad": "Kai Jones",
     "no": "88",
     "ilk5": false,
-    "sure": "3:49",
+    "sure": "4:03",
     "sayi": 0,
     "iki": [
      0,
@@ -812,7 +812,7 @@
    "benc": 3,
    "fark": 16,
    "seri": 7,
-   "lider": 806,
+   "lider": 820,
    "degisim": 1,
    "esitlik": 5
   },
@@ -824,12 +824,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "03:27",
+  "saat": "03:13",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 992,
+  "simdi": 1007,
   "d": [
    [
     0,
