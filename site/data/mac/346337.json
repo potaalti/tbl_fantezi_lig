@@ -13,7 +13,7 @@
     "ad": "Devon Dotson",
     "no": "1",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -28,8 +28,8 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -37,7 +37,7 @@
     "faul": 1,
     "af": 0,
     "pm": "1",
-    "vp": -1,
+    "vp": 0,
     "sahada": true
    },
    {
@@ -45,7 +45,7 @@
     "ad": "Daquan Jeffries",
     "no": "2",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 3,
     "iki": [
      0,
@@ -77,7 +77,7 @@
     "ad": "Eugene Omoruyi",
     "no": "20",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -99,7 +99,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "af": 0,
+    "af": 1,
     "pm": "1",
     "vp": 0,
     "sahada": true
@@ -109,7 +109,7 @@
     "ad": "Furkan Korkmaz",
     "no": "30",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -129,11 +129,11 @@
     "ast": 0,
     "tc": 0,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 0,
     "af": 1,
     "pm": "1",
-    "vp": 2,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -141,7 +141,7 @@
     "ad": "Ante Zizic",
     "no": "41",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -404,7 +404,7 @@
    "benc": 0,
    "fark": 3,
    "seri": 3,
-   "lider": 71,
+   "lider": 97,
    "degisim": 0,
    "esitlik": 0
   },
@@ -419,7 +419,7 @@
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -427,7 +427,7 @@
     ],
     "uc": [
      0,
-     0
+     1
     ],
     "sa": [
      0,
@@ -443,7 +443,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-1",
-    "vp": 0,
+    "vp": -1,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Ergi Tırpancı",
     "no": "10",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -472,7 +472,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "af": 0,
     "pm": "-1",
     "vp": 0,
@@ -483,7 +483,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -515,7 +515,7 @@
     "ad": "Warren Washington",
     "no": "22",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 0,
     "iki": [
      0,
@@ -547,7 +547,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "2:23",
+    "sure": "2:49",
     "sayi": 2,
     "iki": [
      0,
@@ -565,13 +565,13 @@
     "sr": 0,
     "rib": 0,
     "ast": 0,
-    "tc": 0,
+    "tc": 1,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "af": 1,
     "pm": "-1",
-    "vp": 0,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -822,12 +822,12 @@
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 1,
-  "saat": "07:39",
+  "saat": "07:11",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 140,
+  "simdi": 169,
   "d": [
    [
     0,
