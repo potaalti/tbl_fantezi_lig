@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "YUKATEL DENİZLİ BASKET",
-  "skor": "26",
+  "skor": "29",
   "oyuncular": [
    {
     "id": "778996",
     "ad": "Brae Ivey",
     "no": "1",
     "ilk5": true,
-    "sure": "10:59",
+    "sure": "11:35",
     "sayi": 7,
     "iki": [
      2,
@@ -37,14 +37,15 @@
     "faul": 0,
     "af": 0,
     "pm": "-5",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "779010",
     "ad": "Victor Bailey Jr.",
     "no": "10",
     "ilk5": true,
-    "sure": "12:01",
+    "sure": "12:37",
     "sayi": 6,
     "iki": [
      3,
@@ -76,15 +77,15 @@
     "ad": "John Meeks",
     "no": "12",
     "ilk5": true,
-    "sure": "11:04",
-    "sayi": 6,
+    "sure": "11:40",
+    "sayi": 9,
     "iki": [
      1,
      2
     ],
     "uc": [
-     1,
-     1
+     2,
+     2
     ],
     "sa": [
      1,
@@ -100,7 +101,7 @@
     "faul": 1,
     "af": 2,
     "pm": "-10",
-    "vp": 5,
+    "vp": 8,
     "sahada": true
    },
    {
@@ -108,7 +109,7 @@
     "ad": "Isaiah Miles",
     "no": "32",
     "ilk5": true,
-    "sure": "11:07",
+    "sure": "11:43",
     "sayi": 2,
     "iki": [
      1,
@@ -140,7 +141,7 @@
     "ad": "Mahir Ağva",
     "no": "46",
     "ilk5": true,
-    "sure": "9:25",
+    "sure": "10:01",
     "sayi": 2,
     "iki": [
      1,
@@ -157,14 +158,14 @@
     "hr": 1,
     "sr": 3,
     "rib": 4,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 1,
     "tk": 0,
     "faul": 1,
     "af": 0,
     "pm": "-6",
-    "vp": 7,
+    "vp": 8,
     "sahada": true
    },
    {
@@ -227,8 +228,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-6",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "373162",
@@ -388,7 +388,7 @@
   ],
   "ceyrekler": [
    26,
-   0
+   3
   ],
   "takim": {
    "hr": 0,
@@ -413,7 +413,7 @@
  },
  "dep": {
   "ad": "GLİNT ÇAYIROVA BELEDİYESİ",
-  "skor": "38",
+  "skor": "41",
   "oyuncular": [
    {
     "id": "501134",
@@ -513,7 +513,7 @@
     "ad": "Jeremy Simmons",
     "no": "11",
     "ilk5": true,
-    "sure": "12:10",
+    "sure": "12:46",
     "sayi": 4,
     "iki": [
      2,
@@ -545,7 +545,7 @@
     "ad": "Michal Sokolowski",
     "no": "24",
     "ilk5": true,
-    "sure": "6:29",
+    "sure": "7:05",
     "sayi": 11,
     "iki": [
      1,
@@ -608,7 +608,7 @@
     "ad": "Kartal Özmızrak",
     "no": "3",
     "ilk5": false,
-    "sure": "5:58",
+    "sure": "6:34",
     "sayi": 0,
     "iki": [
      0,
@@ -671,15 +671,15 @@
     "ad": "Rasheed Sulaimon",
     "no": "10",
     "ilk5": false,
-    "sure": "8:10",
-    "sayi": 7,
+    "sure": "8:46",
+    "sayi": 10,
     "iki": [
      1,
      1
     ],
     "uc": [
-     1,
-     2
+     2,
+     3
     ],
     "sa": [
      2,
@@ -695,7 +695,7 @@
     "faul": 0,
     "af": 1,
     "pm": "10",
-    "vp": 6,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -703,7 +703,7 @@
     "ad": "Canberk Kuş",
     "no": "12",
     "ilk5": false,
-    "sure": "8:10",
+    "sure": "8:46",
     "sayi": 3,
     "iki": [
      0,
@@ -795,7 +795,7 @@
   ],
   "ceyrekler": [
    28,
-   10
+   13
   ],
   "takim": {
    "hr": 2,
@@ -809,27 +809,27 @@
    "hh": 9,
    "is": 2,
    "ba": 10,
-   "benc": 10,
+   "benc": 13,
    "fark": 12,
    "seri": 12,
-   "lider": 665,
+   "lider": 701,
    "degisim": 2,
    "esitlik": 4
   },
   "koc": "Ender Arslan"
  },
- "evSkor": "26",
- "depSkor": "38",
+ "evSkor": "29",
+ "depSkor": "41",
  "salon": "Pamukkale Üniversitesi Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "06:20",
+  "saat": "05:43",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 820,
+  "simdi": 856,
   "d": [
    [
     0,
@@ -961,6 +961,14 @@
    ],
    [
     819,
+    -12
+   ],
+   [
+    835,
+    -9
+   ],
+   [
+    856,
     -12
    ]
   ]
