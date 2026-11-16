@@ -144,6 +144,112 @@ def fiba_canli(genius_id):
         return None
 
 
+def fiba_donemler(d):
+    """FIBA sayı sayı akışından (pbp) çeyrek çeyrek kutu skor: her dönem (1-4 çeyrek, uzatmalar) için iki takımın oyuncu
+    istatistikleri (forma numarasıyla) ve oyuncuya yazılmayan takım istatistikleri. Süre oyuna giriş-çıkışlardan, +/- o
+    dönemde sahadayken atılan/yenilen sayılardan, VP FIBA formülüyle (sayı+ribaund+asist+top çalma+blok-kaçan atış-top kaybı)."""
+    normal = int(d.get("periodLengthREGULAR") or 10) * 60
+    uzatma = int(d.get("periodLengthOVERTIME") or 5) * 60
+    taraf = {1: "ev", 2: "dep"}
+    no = {t: {int(k): str(p.get("shirtNumber")) for k, p in (d["tm"][str(t)].get("pl") or {}).items()} for t in (1, 2)}
+    sahada = {t: {int(k) for k, p in (d["tm"][str(t)].get("pl") or {}).items() if p.get("starter")} for t in (1, 2)}
+    donem = {}
+
+    def ad(e):
+        p = int(e.get("period") or 1)
+        return f"U{p - 4 if p > 4 else p}" if e.get("periodType") == "OVERTIME" else str(p)
+
+    def an(e):
+        p = int(e.get("period") or 1)
+        dk, sn, *_ = (int(x) for x in str(e.get("clock") or "0:0:0").split(":"))
+        kalan = dk * 60 + sn
+        if e.get("periodType") == "OVERTIME":
+            n = p - 4 if p > 4 else p
+            return 4 * normal + (n - 1) * uzatma + uzatma - kalan
+        return (p - 1) * normal + normal - kalan
+
+    def kutu(dn, t):
+        b = donem.setdefault(dn, {"ev": {"oyuncular": {}, "takim": {"hr": 0, "sr": 0, "rib": 0, "tk": 0, "faul": 0}},
+                                  "dep": {"oyuncular": {}, "takim": {"hr": 0, "sr": 0, "rib": 0, "tk": 0, "faul": 0}}})
+        return b[taraf[t]]
+
+    def oyuncu(dn, t, pno):
+        return kutu(dn, t)["oyuncular"].setdefault(no[t].get(pno, str(pno)), {
+            "sn": 0, "sayi": 0, "iki": [0, 0], "uc": [0, 0], "sa": [0, 0], "hr": 0, "sr": 0, "rib": 0, "ast": 0, "tc": 0,
+            "blk": 0, "tk": 0, "faul": 0, "af": 0, "pm": 0})
+
+    onceki = 0
+    for e in reversed(d.get("pbp") or []):
+        t, pno, tur, alt = e.get("tno"), e.get("pno") or 0, e.get("actionType"), e.get("subType") or ""
+        dn = ad(e)
+        simdi = an(e)
+        if simdi > onceki:  # aradaki süre o an sahada olanlara (dönem sınırı olaylarında süre sıfırlanır)
+            for tt in (1, 2):
+                for p in sahada[tt]:
+                    oyuncu(dn, tt, p)["sn"] += simdi - onceki
+        onceki = simdi
+        if t not in (1, 2):
+            continue
+        if tur == "substitution" and pno:
+            (sahada[t].discard if alt == "out" else sahada[t].add)(pno)
+            if alt == "in":
+                oyuncu(dn, t, pno)
+            continue
+        if tur in ("2pt", "3pt", "freethrow") and pno:
+            o = oyuncu(dn, t, pno)
+            alan = {"2pt": "iki", "3pt": "uc", "freethrow": "sa"}[tur]
+            o[alan][1] += 1
+            if e.get("success"):
+                puan = {"2pt": 2, "3pt": 3, "freethrow": 1}[tur]
+                o[alan][0] += 1
+                o["sayi"] += puan
+                for tt in (1, 2):
+                    for p in sahada[tt]:
+                        oyuncu(dn, tt, p)["pm"] += puan if tt == t else -puan
+            continue
+        hedef = oyuncu(dn, t, pno) if pno else kutu(dn, t)["takim"]
+        if tur == "rebound":
+            if not pno and "deadball" in alt:  # ölü top ribaundu takıma yazılmaz (FIBA takım ribaundu canlı toptan)
+                continue
+            hucum = alt.startswith("offensive")
+            hedef["hr" if hucum else "sr"] += 1
+            hedef["rib"] += 1
+        elif tur == "turnover":
+            hedef["tk"] += 1
+        elif tur == "foul":
+            hedef["faul"] += 1
+        elif pno and tur in ("assist", "steal", "block", "foulon"):
+            hedef[{"assist": "ast", "steal": "tc", "block": "blk", "foulon": "af"}[tur]] += 1
+    for b in donem.values():
+        for tr in b.values():
+            for o in tr["oyuncular"].values():
+                kacan = sum(o[a][1] - o[a][0] for a in ("iki", "uc", "sa"))
+                o["vp"] = o["sayi"] + o["rib"] + o["ast"] + o["tc"] + o["blk"] - kacan - o["tk"]
+    sira = sorted(donem, key=lambda k: (k.startswith("U"), int(k.lstrip("U"))))
+    return [{"ad": k, **donem[k]} for k in sira]
+
+
+# Çeyrek çeyrek kutu skor (Pota Altı App'te Toplam · 1.Ç … · 1. Yarı · 2. Yarı seçicisi): kullanıcı isteğiyle geçmişe dönük değil,
+# bu haftalardan itibaren (2026-11-16: TBL 11, BSL 8) ve canlı maçlarda. Biten maçın FIBA verisi bir kez indirilir (cache/fiba-<no>.json).
+DONEM_ILK_HAFTA = {"tbl": 11, "bsl": 8}
+
+
+def donem_ekle(stat, m, mac, hafta):
+    """Kutu skora dönemleri ekler (canlıda fiba_istatistik zaten ekledi). Biten maçın FIBA verisi önbellekten."""
+    if not stat or stat.get("donemler") or hafta < DONEM_ILK_HAFTA.get(mac["lig"], 999) or mac["durum"] != "bitti" or not m.get("genuisId"):
+        return
+    yol = CACHE / f"fiba-{m['genuisId']}.json"
+    d = json.loads(yol.read_text(encoding="utf-8")) if yol.exists() else fiba_canli(m["genuisId"])
+    if not d or not d.get("pbp"):
+        return
+    if not yol.exists() and any(e.get("actionType") == "game" and e.get("subType") == "end" for e in d["pbp"]):
+        json_yaz(yol, d)
+    try:
+        stat["donemler"] = fiba_donemler(d)
+    except Exception as e:  # noqa: BLE001 - dönemler çıkmazsa kutu skor yine yazılır
+        print(f"  {mac['id']}: çeyrek kutu skor hesaplanamadı: {e}")
+
+
 def fiba_sure(sure):
     """FIBA bazen '29:60' yazar -> '30:00'"""
     sn = saniye(sure)
@@ -191,6 +297,10 @@ def fiba_istatistik(d, takimlar, rehber):
         ozet[f"{taraf}TeamScore"] = [{"score": tm[k], "quarter": int(k[1:-6])}
                                      for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
     stat["farkAkisi"] = fiba_fark(d)
+    try:
+        stat["donemler"] = fiba_donemler(d)  # canlı maçta çeyrek çeyrek kutu skor
+    except Exception as e:  # noqa: BLE001
+        print("  çeyrek kutu skor hesaplanamadı:", e)
     skorlar = {"ev": str(d["tm"]["1"].get("score", 0)), "dep": str(d["tm"]["2"].get("score", 0))}
     return stat, ozet, skorlar
 
@@ -286,7 +396,8 @@ def kutu_skor(mac, stat, ozet):
         if stat.get(f"{on}Koc"):
             takimlar[taraf]["koc"] = stat[f"{on}Koc"]
     # Canlıda skor farkı grafiği (Pota Altı App maç sayfası)
-    return {**mac, **takimlar, **({"fark": stat["farkAkisi"]} if stat.get("farkAkisi") else {})}
+    return {**mac, **takimlar, **({"fark": stat["farkAkisi"]} if stat.get("farkAkisi") else {}),
+            **({"donemler": stat["donemler"]} if stat.get("donemler") else {})}
 
 
 def hafta_mac_listesi(hafta, guncel, lig_id=LIG_ID, onek="hafta"):
@@ -472,6 +583,7 @@ def bsl_guncelle(yenile):
             else:
                 bitti = mac["durum"] == "bitti"
                 stat, ozet = mac_istatistik(mac["id"], bitti), mac_ozet(mac["id"], bitti)
+                donem_ekle(stat, m, mac, hafta)
             json_yaz(SITE_DATA / "mac" / f"{mac['id']}.json", kutu_skor(mac, stat, ozet))
             for liste, taraf in STAT_LISTELERI:
                 for o in stat.get(liste) or []:
@@ -566,6 +678,7 @@ def main():
             else:
                 stat = mac_istatistik(m["matchId"], durum == "bitti")
                 ozet = mac_ozet(m["matchId"], durum == "bitti")
+                donem_ekle(stat, m, mac, hafta)
             json_yaz(SITE_DATA / "mac" / f"{m['matchId']}.json", kutu_skor(mac, stat, ozet))
             for liste, taraf in STAT_LISTELERI:
                 for o in stat.get(liste) or []:
