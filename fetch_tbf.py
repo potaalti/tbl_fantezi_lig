@@ -229,6 +229,103 @@ def fiba_donemler(d):
     return [{"ad": k, **donem[k]} for k in sira]
 
 
+def fiba_donem_ileri(d):
+    """Gelişmiş takım istatistikleri dönem dönem (kutu skordaki dönem seçicisiyle birlikte değişir): her çeyrek/uzatma ve
+    1. yarı (1-2), 2. yarı (3-4) için iki takımın {tks, hh, is, ba, benc, fark, seri, lider, degisim, esitlik}'i.
+    Sayı türleri sayı sayı akıştaki işaretlerden (fastbreak, 2ndchance, fromturnover, pointsinthepaint), benç ilk 5 dışındakilerden;
+    fark/seri/lider/değişim/eşitlik o dönemin içindeki skor akışından (dönemin başındaki skordan başlayarak)."""
+    normal = int(d.get("periodLengthREGULAR") or 10) * 60
+    uzatma = int(d.get("periodLengthOVERTIME") or 5) * 60
+    ilk5 = {t: {int(k) for k, p in (d["tm"][str(t)].get("pl") or {}).items() if p.get("starter")} for t in (1, 2)}
+
+    def ad(e):
+        p = int(e.get("period") or 1)
+        return f"U{p - 4 if p > 4 else p}" if e.get("periodType") == "OVERTIME" else str(p)
+
+    def an(e):
+        p = int(e.get("period") or 1)
+        dk, sn, *_ = (int(x) for x in str(e.get("clock") or "0:0:0").split(":"))
+        kalan = dk * 60 + sn
+        if e.get("periodType") == "OVERTIME":
+            n = p - 4 if p > 4 else p
+            return 4 * normal + (n - 1) * uzatma + uzatma - kalan
+        return (p - 1) * normal + normal - kalan
+
+    olaylar = list(reversed(d.get("pbp") or []))
+    donemler = []
+    for e in olaylar:
+        if ad(e) not in donemler:
+            donemler.append(ad(e))
+    gruplar = {k: {k} for k in donemler}
+    if "2" in donemler:
+        gruplar["Y1"] = {"1", "2"}
+    if "4" in donemler:
+        gruplar["Y2"] = {"3", "4"}
+
+    def hesapla(kume):
+        sonuc = {t: {"tks": 0, "hh": 0, "is": 0, "ba": 0, "benc": 0, "fark": 0, "seri": 0, "lider": 0, "degisim": 0, "esitlik": 0}
+                 for t in ("ev", "dep")}
+        secili = [e for e in olaylar if ad(e) in kume]
+        if not secili:
+            return sonuc
+        # Dönemin başındaki skor: seçilen ilk olaydan önceki son skor
+        bas_i = olaylar.index(secili[0])
+        once = next((e for e in reversed(olaylar[:bas_i]) if e.get("s1") not in (None, "")), None)
+        s1, s2 = (int(once["s1"]), int(once["s2"])) if once else (0, 0)
+        lider = "ev" if s1 > s2 else "dep" if s2 > s1 else None
+        # Son önde olan (dönem berabere başladıysa daha önceki): dönem başındaki beraberlikten sonra el değişirse sayılsın
+        son_lider = lider
+        for e in reversed(olaylar[:bas_i]):
+            if son_lider or e.get("s1") in (None, ""):
+                break
+            a1, a2 = int(e["s1"]), int(e["s2"])
+            son_lider = "ev" if a1 > a2 else "dep" if a2 > a1 else None
+        onceki_an, seri_t, seri, onceki_donem = an(secili[0]), None, 0, None
+        for e in secili:
+            simdi = an(e)
+            if ad(e) != onceki_donem:  # dönem değişince süre ve seri yeni dönemden başlar
+                onceki_an, seri_t, seri, onceki_donem = simdi, None, 0, ad(e)
+            if lider:
+                sonuc[lider]["lider"] += max(0, simdi - onceki_an)
+            onceki_an = simdi
+            t = e.get("tno")
+            if e.get("actionType") in ("2pt", "3pt", "freethrow") and e.get("success") and t in (1, 2):
+                puan = {"2pt": 2, "3pt": 3, "freethrow": 1}[e["actionType"]]
+                taraf = "ev" if t == 1 else "dep"
+                q = set(e.get("qualifier") or [])
+                for isaret, alan in (("fromturnover", "tks"), ("fastbreak", "hh"), ("2ndchance", "is"), ("pointsinthepaint", "ba")):
+                    if isaret in q:
+                        sonuc[taraf][alan] += puan
+                if (e.get("pno") or 0) not in ilk5[t]:
+                    sonuc[taraf]["benc"] += puan
+                seri = seri + puan if seri_t == taraf else puan
+                seri_t = taraf
+                sonuc[taraf]["seri"] = max(sonuc[taraf]["seri"], seri)
+            # Skor her değiştiğinde (sayı ya da hakemin skor düzeltmesi; FIBA da öyle sayıyor): fark, eşitlik, el değişimi
+            if e.get("s1") in (None, ""):
+                continue
+            y1, y2 = int(e["s1"]), int(e["s2"])
+            if (y1, y2) == (s1, s2):
+                continue
+            s1, s2 = y1, y2
+            fark = s1 - s2
+            sonuc["ev"]["fark"] = max(sonuc["ev"]["fark"], fark)
+            sonuc["dep"]["fark"] = max(sonuc["dep"]["fark"], -fark)
+            yeni = "ev" if fark > 0 else "dep" if fark < 0 else None
+            if fark == 0 and lider is not None:
+                sonuc["ev"]["esitlik"] += 1
+                sonuc["dep"]["esitlik"] += 1
+            if yeni and son_lider and yeni != son_lider:
+                sonuc["ev"]["degisim"] += 1
+                sonuc["dep"]["degisim"] += 1
+            if yeni:
+                son_lider = yeni
+            lider = yeni
+        return sonuc
+
+    return {k: hesapla(v) for k, v in gruplar.items()}
+
+
 # Çeyrek çeyrek kutu skor (Pota Altı App'te Toplam · 1.Ç … · 1. Yarı · 2. Yarı seçicisi): kullanıcı isteğiyle geçmişe dönük değil,
 # bu haftalardan itibaren (2026-11-16: TBL 11, BSL 8) ve canlı maçlarda. Biten maçın FIBA verisi bir kez indirilir (cache/fiba-<no>.json).
 DONEM_ILK_HAFTA = {"tbl": 11, "bsl": 8}
@@ -246,6 +343,7 @@ def donem_ekle(stat, m, mac, hafta):
         json_yaz(yol, d)
     try:
         stat["donemler"] = fiba_donemler(d)
+        stat["donemIleri"] = fiba_donem_ileri(d)
     except Exception as e:  # noqa: BLE001 - dönemler çıkmazsa kutu skor yine yazılır
         print(f"  {mac['id']}: çeyrek kutu skor hesaplanamadı: {e}")
 
@@ -299,6 +397,7 @@ def fiba_istatistik(d, takimlar, rehber):
     stat["farkAkisi"] = fiba_fark(d)
     try:
         stat["donemler"] = fiba_donemler(d)  # canlı maçta çeyrek çeyrek kutu skor
+        stat["donemIleri"] = fiba_donem_ileri(d)  # gelişmiş istatistikler de dönem dönem
     except Exception as e:  # noqa: BLE001
         print("  çeyrek kutu skor hesaplanamadı:", e)
     skorlar = {"ev": str(d["tm"]["1"].get("score", 0)), "dep": str(d["tm"]["2"].get("score", 0))}
@@ -397,7 +496,8 @@ def kutu_skor(mac, stat, ozet):
             takimlar[taraf]["koc"] = stat[f"{on}Koc"]
     # Canlıda skor farkı grafiği (Pota Altı App maç sayfası)
     return {**mac, **takimlar, **({"fark": stat["farkAkisi"]} if stat.get("farkAkisi") else {}),
-            **({"donemler": stat["donemler"]} if stat.get("donemler") else {})}
+            **({"donemler": stat["donemler"]} if stat.get("donemler") else {}),
+            **({"donemIleri": stat["donemIleri"]} if stat.get("donemIleri") else {})}
 
 
 def hafta_mac_listesi(hafta, guncel, lig_id=LIG_ID, onek="hafta"):
