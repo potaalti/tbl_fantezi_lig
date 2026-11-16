@@ -3051,5 +3051,189 @@
     }
    }
   }
- ]
+ ],
+ "donemIleri": {
+  "1": {
+   "ev": {
+    "tks": 2,
+    "hh": 2,
+    "is": 4,
+    "ba": 8,
+    "benc": 3,
+    "fark": 2,
+    "seri": 7,
+    "lider": 21,
+    "degisim": 2,
+    "esitlik": 4
+   },
+   "dep": {
+    "tks": 7,
+    "hh": 9,
+    "is": 2,
+    "ba": 8,
+    "benc": 8,
+    "fark": 5,
+    "seri": 5,
+    "lider": 445,
+    "degisim": 2,
+    "esitlik": 4
+   }
+  },
+  "2": {
+   "ev": {
+    "tks": 2,
+    "hh": 2,
+    "is": 2,
+    "ba": 6,
+    "benc": 0,
+    "fark": 0,
+    "seri": 8,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 1,
+    "hh": 2,
+    "is": 0,
+    "ba": 6,
+    "benc": 7,
+    "fark": 13,
+    "seri": 10,
+    "lider": 600,
+    "degisim": 0,
+    "esitlik": 0
+   }
+  },
+  "3": {
+   "ev": {
+    "tks": 10,
+    "hh": 2,
+    "is": 5,
+    "ba": 10,
+    "benc": 0,
+    "fark": 4,
+    "seri": 8,
+    "lider": 236,
+    "degisim": 1,
+    "esitlik": 5
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 3,
+    "is": 2,
+    "ba": 2,
+    "benc": 9,
+    "fark": 8,
+    "seri": 3,
+    "lider": 154,
+    "degisim": 1,
+    "esitlik": 5
+   }
+  },
+  "4": {
+   "ev": {
+    "tks": 3,
+    "hh": 0,
+    "is": 5,
+    "ba": 4,
+    "benc": 8,
+    "fark": 6,
+    "seri": 4,
+    "lider": 447,
+    "degisim": 0,
+    "esitlik": 5
+   },
+   "dep": {
+    "tks": 2,
+    "hh": 3,
+    "is": 4,
+    "ba": 10,
+    "benc": 5,
+    "fark": 0,
+    "seri": 6,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 5
+   }
+  },
+  "U1": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 2,
+    "ba": 2,
+    "benc": 0,
+    "fark": 4,
+    "seri": 5,
+    "lider": 110,
+    "degisim": 4,
+    "esitlik": 1
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 3,
+    "is": 0,
+    "ba": 0,
+    "benc": 6,
+    "fark": 3,
+    "seri": 3,
+    "lider": 125,
+    "degisim": 4,
+    "esitlik": 1
+   }
+  },
+  "Y1": {
+   "ev": {
+    "tks": 4,
+    "hh": 4,
+    "is": 6,
+    "ba": 14,
+    "benc": 3,
+    "fark": 2,
+    "seri": 8,
+    "lider": 21,
+    "degisim": 2,
+    "esitlik": 4
+   },
+   "dep": {
+    "tks": 8,
+    "hh": 11,
+    "is": 2,
+    "ba": 14,
+    "benc": 15,
+    "fark": 13,
+    "seri": 10,
+    "lider": 1045,
+    "degisim": 2,
+    "esitlik": 4
+   }
+  },
+  "Y2": {
+   "ev": {
+    "tks": 13,
+    "hh": 2,
+    "is": 10,
+    "ba": 14,
+    "benc": 8,
+    "fark": 6,
+    "seri": 8,
+    "lider": 683,
+    "degisim": 1,
+    "esitlik": 10
+   },
+   "dep": {
+    "tks": 2,
+    "hh": 6,
+    "is": 6,
+    "ba": 12,
+    "benc": 14,
+    "fark": 8,
+    "seri": 6,
+    "lider": 154,
+    "degisim": 1,
+    "esitlik": 10
+   }
+  }
+ }
 }

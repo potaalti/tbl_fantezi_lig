@@ -2808,5 +2808,163 @@
     }
    }
   }
- ]
+ ],
+ "donemIleri": {
+  "1": {
+   "ev": {
+    "tks": 7,
+    "hh": 4,
+    "is": 2,
+    "ba": 10,
+    "benc": 2,
+    "fark": 9,
+    "seri": 7,
+    "lider": 561,
+    "degisim": 0,
+    "esitlik": 2
+   },
+   "dep": {
+    "tks": 4,
+    "hh": 4,
+    "is": 6,
+    "ba": 14,
+    "benc": 10,
+    "fark": 0,
+    "seri": 6,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 2
+   }
+  },
+  "2": {
+   "ev": {
+    "tks": 0,
+    "hh": 2,
+    "is": 2,
+    "ba": 6,
+    "benc": 6,
+    "fark": 9,
+    "seri": 8,
+    "lider": 553,
+    "degisim": 2,
+    "esitlik": 2
+   },
+   "dep": {
+    "tks": 3,
+    "hh": 6,
+    "is": 5,
+    "ba": 16,
+    "benc": 13,
+    "fark": 2,
+    "seri": 9,
+    "lider": 26,
+    "degisim": 2,
+    "esitlik": 2
+   }
+  },
+  "3": {
+   "ev": {
+    "tks": 2,
+    "hh": 4,
+    "is": 0,
+    "ba": 8,
+    "benc": 6,
+    "fark": 7,
+    "seri": 5,
+    "lider": 527,
+    "degisim": 2,
+    "esitlik": 2
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 4,
+    "ba": 12,
+    "benc": 8,
+    "fark": 2,
+    "seri": 6,
+    "lider": 32,
+    "degisim": 2,
+    "esitlik": 2
+   }
+  },
+  "4": {
+   "ev": {
+    "tks": 0,
+    "hh": 2,
+    "is": 2,
+    "ba": 10,
+    "benc": 11,
+    "fark": 8,
+    "seri": 4,
+    "lider": 581,
+    "degisim": 0,
+    "esitlik": 1
+   },
+   "dep": {
+    "tks": 2,
+    "hh": 3,
+    "is": 6,
+    "ba": 6,
+    "benc": 3,
+    "fark": 0,
+    "seri": 5,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 1
+   }
+  },
+  "Y1": {
+   "ev": {
+    "tks": 7,
+    "hh": 6,
+    "is": 4,
+    "ba": 16,
+    "benc": 8,
+    "fark": 9,
+    "seri": 8,
+    "lider": 1114,
+    "degisim": 2,
+    "esitlik": 4
+   },
+   "dep": {
+    "tks": 7,
+    "hh": 10,
+    "is": 11,
+    "ba": 30,
+    "benc": 23,
+    "fark": 2,
+    "seri": 9,
+    "lider": 26,
+    "degisim": 2,
+    "esitlik": 4
+   }
+  },
+  "Y2": {
+   "ev": {
+    "tks": 2,
+    "hh": 6,
+    "is": 2,
+    "ba": 18,
+    "benc": 17,
+    "fark": 8,
+    "seri": 5,
+    "lider": 1108,
+    "degisim": 2,
+    "esitlik": 3
+   },
+   "dep": {
+    "tks": 2,
+    "hh": 3,
+    "is": 10,
+    "ba": 18,
+    "benc": 11,
+    "fark": 2,
+    "seri": 6,
+    "lider": 32,
+    "degisim": 2,
+    "esitlik": 3
+   }
+  }
+ }
 }
