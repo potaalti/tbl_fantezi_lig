@@ -7,13 +7,18 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-20T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "FENERBAHÇE GELİŞİM",
    "dep": "iLab BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Fenerbahçe Metro Enerji Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:42",
+    "uzatma": false
+   }
   },
   {
    "id": 346004,
