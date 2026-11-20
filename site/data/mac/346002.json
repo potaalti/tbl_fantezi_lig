@@ -13,7 +13,7 @@
     "ad": "Erik Jamal Pratt",
     "no": "1",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 0,
     "iki": [
      0,
@@ -36,7 +36,7 @@
     "tk": 1,
     "faul": 1,
     "af": 0,
-    "pm": "-2",
+    "pm": "-4",
     "vp": -1,
     "sahada": true
    },
@@ -45,7 +45,7 @@
     "ad": "Demircan Demir",
     "no": "7",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 3,
     "iki": [
      0,
@@ -68,7 +68,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-2",
+    "pm": "-4",
     "vp": 3,
     "sahada": true
    },
@@ -108,7 +108,7 @@
     "ad": "Justyn Alonzo Hamilton",
     "no": "21",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 2,
     "iki": [
      1,
@@ -125,14 +125,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "-2",
-    "vp": 1,
+    "pm": "-4",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -140,7 +140,7 @@
     "ad": "Hakan Gökçek",
     "no": "24",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 2,
     "iki": [
      0,
@@ -163,9 +163,8 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "-2",
-    "vp": 6,
-    "sahada": true
+    "pm": "-4",
+    "vp": 6
    },
    {
     "id": "404462",
@@ -296,7 +295,7 @@
     "ad": "Ömer Yusuf Şık",
     "no": "13",
     "ilk5": false,
-    "sure": "1:17",
+    "sure": "1:59",
     "sayi": 3,
     "iki": [
      0,
@@ -318,8 +317,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 0,
-    "pm": "4",
+    "af": 1,
+    "pm": "2",
     "vp": 3,
     "sahada": true
    },
@@ -383,7 +382,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    }
   ],
   "ceyrekler": [
@@ -412,14 +412,14 @@
  },
  "dep": {
   "ad": "iLab BASKETBOL",
-  "skor": "12",
+  "skor": "14",
   "oyuncular": [
    {
     "id": "223836",
     "ad": "Eray Akyüz",
     "no": "1",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 2,
     "iki": [
      1,
@@ -442,7 +442,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "2",
+    "pm": "4",
     "vp": 3,
     "sahada": true
    },
@@ -451,7 +451,7 @@
     "ad": "Batuhan Acar",
     "no": "7",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 5,
     "iki": [
      1,
@@ -474,7 +474,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "2",
+    "pm": "4",
     "vp": 5,
     "sahada": true
    },
@@ -483,7 +483,7 @@
     "ad": "Koralp Türk",
     "no": "21",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 0,
     "iki": [
      0,
@@ -506,7 +506,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "2",
+    "pm": "4",
     "vp": 1,
     "sahada": true
    },
@@ -515,7 +515,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "no": "23",
     "ilk5": true,
-    "sure": "4:24",
+    "sure": "5:06",
     "sayi": 1,
     "iki": [
      0,
@@ -536,22 +536,21 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 1,
+    "faul": 2,
     "af": 1,
-    "pm": "2",
-    "vp": -1,
-    "sahada": true
+    "pm": "4",
+    "vp": -1
    },
    {
     "id": "386617",
     "ad": "Stefan Tyler Moody",
     "no": "42",
     "ilk5": true,
-    "sure": "4:24",
-    "sayi": 4,
+    "sure": "5:06",
+    "sayi": 6,
     "iki": [
-     0,
-     0
+     1,
+     1
     ],
     "uc": [
      1,
@@ -570,8 +569,8 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "2",
-    "vp": 5,
+    "pm": "4",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -727,7 +726,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "393623",
@@ -762,7 +762,7 @@
    }
   ],
   "ceyrekler": [
-   12
+   14
   ],
   "takim": {
    "hr": 0,
@@ -775,28 +775,28 @@
    "tks": 1,
    "hh": 2,
    "is": 0,
-   "ba": 4,
+   "ba": 6,
    "benc": 0,
    "fark": 6,
    "seri": 5,
-   "lider": 212,
+   "lider": 254,
    "degisim": 2,
    "esitlik": 0
   },
   "koc": "MURAT HÜSEYİN YILMAZ"
  },
  "evSkor": "10",
- "depSkor": "12",
+ "depSkor": "14",
  "salon": "Fenerbahçe Metro Enerji Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "05:35",
+  "saat": "04:54",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 264,
+  "simdi": 306,
   "d": [
    [
     0,
@@ -845,6 +845,10 @@
    [
     264,
     -2
+   ],
+   [
+    292,
+    -4
    ]
   ]
  },
@@ -854,7 +858,7 @@
    "ev": {
     "oyuncular": {
      "24": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 2,
       "iki": [
        0,
@@ -877,11 +881,11 @@
       "tk": 0,
       "faul": 1,
       "af": 1,
-      "pm": -2,
+      "pm": -4,
       "vp": 6
      },
      "7": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 3,
       "iki": [
        0,
@@ -904,11 +908,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -2,
+      "pm": -4,
       "vp": 3
      },
      "1": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 0,
       "iki": [
        0,
@@ -931,11 +935,11 @@
       "tk": 1,
       "faul": 1,
       "af": 0,
-      "pm": -2,
+      "pm": -4,
       "vp": -1
      },
      "21": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 2,
       "iki": [
        1,
@@ -952,14 +956,14 @@
       "hr": 0,
       "sr": 0,
       "rib": 0,
-      "ast": 0,
+      "ast": 1,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -2,
-      "vp": 1
+      "pm": -4,
+      "vp": 2
      },
      "8": {
       "sn": 187,
@@ -989,7 +993,7 @@
       "vp": -1
      },
      "13": {
-      "sn": 77,
+      "sn": 119,
       "sayi": 3,
       "iki": [
        0,
@@ -1011,9 +1015,36 @@
       "blk": 0,
       "tk": 0,
       "faul": 0,
-      "af": 0,
-      "pm": 4,
+      "af": 1,
+      "pm": 2,
       "vp": 3
+     },
+     "77": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
      }
     },
     "takim": {
@@ -1027,7 +1058,7 @@
    "dep": {
     "oyuncular": {
      "7": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 5,
       "iki": [
        1,
@@ -1050,11 +1081,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 2,
+      "pm": 4,
       "vp": 5
      },
      "1": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 2,
       "iki": [
        1,
@@ -1077,11 +1108,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 2,
+      "pm": 4,
       "vp": 3
      },
      "21": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 0,
       "iki": [
        0,
@@ -1104,15 +1135,15 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 2,
+      "pm": 4,
       "vp": 1
      },
      "42": {
-      "sn": 264,
-      "sayi": 4,
+      "sn": 306,
+      "sayi": 6,
       "iki": [
-       0,
-       0
+       1,
+       1
       ],
       "uc": [
        1,
@@ -1131,11 +1162,11 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 2,
-      "vp": 5
+      "pm": 4,
+      "vp": 7
      },
      "23": {
-      "sn": 264,
+      "sn": 306,
       "sayi": 1,
       "iki": [
        0,
@@ -1156,10 +1187,37 @@
       "tc": 0,
       "blk": 0,
       "tk": 0,
-      "faul": 1,
+      "faul": 2,
       "af": 1,
-      "pm": 2,
+      "pm": 4,
       "vp": -1
+     },
+     "18": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
      }
     },
     "takim": {
@@ -1190,11 +1248,11 @@
     "tks": 1,
     "hh": 2,
     "is": 0,
-    "ba": 4,
+    "ba": 6,
     "benc": 0,
     "fark": 6,
     "seri": 5,
-    "lider": 212,
+    "lider": 254,
     "degisim": 2,
     "esitlik": 0
    }
