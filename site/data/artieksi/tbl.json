@@ -15990,29 +15990,11 @@
   ],
   "12": [
    {
-    "id": "403578",
-    "ad": "Bartu Encü",
-    "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "285246",
     "ad": "Batuhan Acar",
     "takim": "iLab BASKETBOL",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "318204",
-    "ad": "Demircan Demir",
-    "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 0,
-    "fark": 0,
+    "pm": 1,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16020,26 +16002,8 @@
     "id": "223836",
     "ad": "Eray Akyüz",
     "takim": "iLab BASKETBOL",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "777243",
-    "ad": "Erik Jamal Pratt",
-    "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "356549",
-    "ad": "Hakan Gökçek",
-    "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 0,
-    "fark": 0,
+    "pm": 1,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16047,17 +16011,8 @@
     "id": "776565",
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "takim": "iLab BASKETBOL",
-    "pm": 0,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "777244",
-    "ad": "Justyn Alonzo Hamilton",
-    "takim": "FENERBAHÇE GELİŞİM",
-    "pm": 0,
-    "fark": 0,
+    "pm": 1,
+    "fark": 1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -16065,8 +16020,8 @@
     "id": "288806",
     "ad": "Koralp Türk",
     "takim": "iLab BASKETBOL",
-    "pm": 0,
-    "fark": 0,
+    "pm": 1,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16074,8 +16029,53 @@
     "id": "386617",
     "ad": "Stefan Tyler Moody",
     "takim": "iLab BASKETBOL",
-    "pm": 0,
-    "fark": 0,
+    "pm": 1,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "403578",
+    "ad": "Bartu Encü",
+    "takim": "FENERBAHÇE GELİŞİM",
+    "pm": -1,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "318204",
+    "ad": "Demircan Demir",
+    "takim": "FENERBAHÇE GELİŞİM",
+    "pm": -1,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "777243",
+    "ad": "Erik Jamal Pratt",
+    "takim": "FENERBAHÇE GELİŞİM",
+    "pm": -1,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "356549",
+    "ad": "Hakan Gökçek",
+    "takim": "FENERBAHÇE GELİŞİM",
+    "pm": -1,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "777244",
+    "ad": "Justyn Alonzo Hamilton",
+    "takim": "FENERBAHÇE GELİŞİM",
+    "pm": -1,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    }
@@ -16482,8 +16482,8 @@
    "id": "776565",
    "ad": "Jeremiah Lamonure Tilmon Jr",
    "takim": "iLab BASKETBOL",
-   "pm": 26,
-   "fark": -9,
+   "pm": 27,
+   "fark": -8,
    "mac": 11,
    "ulke": "ABD"
   },
@@ -16767,6 +16767,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "223836",
+   "ad": "Eray Akyüz",
+   "takim": "iLab BASKETBOL",
+   "pm": 10,
+   "fark": 16,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "23926",
    "ad": "Mustafa Baki Görür",
    "takim": "OGM ORMANSPOR",
@@ -16782,15 +16791,6 @@
    "pm": 10,
    "fark": 25,
    "mac": 7,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "223836",
-   "ad": "Eray Akyüz",
-   "takim": "iLab BASKETBOL",
-   "pm": 9,
-   "fark": 15,
-   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16956,6 +16956,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "386617",
+   "ad": "Stefan Tyler Moody",
+   "takim": "iLab BASKETBOL",
+   "pm": 4,
+   "fark": 14,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "117624",
    "ad": "İlker Tunalı",
    "takim": "FİNALSPOR",
@@ -16972,15 +16981,6 @@
    "fark": -18,
    "mac": 5,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "386617",
-   "ad": "Stefan Tyler Moody",
-   "takim": "iLab BASKETBOL",
-   "pm": 3,
-   "fark": 13,
-   "mac": 7,
-   "ulke": "ABD"
   },
   {
    "id": "400882",
@@ -17334,15 +17334,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "403578",
-   "ad": "Bartu Encü",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -7,
-   "fark": -48,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "110163",
    "ad": "Atakan Akçam",
    "takim": "MKE ANKARAGÜCÜ",
@@ -17385,6 +17376,15 @@
    "pm": -8,
    "fark": -55,
    "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "403578",
+   "ad": "Bartu Encü",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -8,
+   "fark": -49,
+   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17478,6 +17478,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "288806",
+   "ad": "Koralp Türk",
+   "takim": "iLab BASKETBOL",
+   "pm": -11,
+   "fark": -32,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "457130",
    "ad": "Ahmet Karaman",
    "takim": "KİPAŞ K.B.B.",
@@ -17503,15 +17512,6 @@
    "fark": -42,
    "mac": 9,
    "ulke": "ABD"
-  },
-  {
-   "id": "288806",
-   "ad": "Koralp Türk",
-   "takim": "iLab BASKETBOL",
-   "pm": -12,
-   "fark": -33,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "130234",
@@ -17811,15 +17811,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "777244",
-   "ad": "Justyn Alonzo Hamilton",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -23,
-   "fark": -19,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
    "id": "779069",
    "ad": "Kendall Munson",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -17836,6 +17827,15 @@
    "fark": -81,
    "mac": 2,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "777244",
+   "ad": "Justyn Alonzo Hamilton",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -24,
+   "fark": -20,
+   "mac": 8,
+   "ulke": "ABD"
   },
   {
    "id": "320264",
@@ -18036,15 +18036,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "318204",
-   "ad": "Demircan Demir",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -48,
-   "fark": -48,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "640045",
    "ad": "Okay Camgöz",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -18052,6 +18043,15 @@
    "fark": -42,
    "mac": 8,
    "ulke": "KKTC"
+  },
+  {
+   "id": "318204",
+   "ad": "Demircan Demir",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -49,
+   "fark": -49,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "500443",
@@ -18066,17 +18066,8 @@
    "id": "285246",
    "ad": "Batuhan Acar",
    "takim": "iLab BASKETBOL",
-   "pm": -54,
-   "fark": -9,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "356549",
-   "ad": "Hakan Gökçek",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -57,
-   "fark": -48,
+   "pm": -53,
+   "fark": -8,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -18086,6 +18077,15 @@
    "takim": "MKE ANKARAGÜCÜ",
    "pm": -57,
    "fark": -30,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "356549",
+   "ad": "Hakan Gökçek",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -58,
+   "fark": -49,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -18162,15 +18162,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "777243",
-   "ad": "Erik Jamal Pratt",
-   "takim": "FENERBAHÇE GELİŞİM",
-   "pm": -67,
-   "fark": -48,
-   "mac": 11,
-   "ulke": "ABD"
-  },
-  {
    "id": "222696",
    "ad": "Burak Erol",
    "takim": "TED ANKARA KOLEJLİLER",
@@ -18178,6 +18169,15 @@
    "fark": -75,
    "mac": 11,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "777243",
+   "ad": "Erik Jamal Pratt",
+   "takim": "FENERBAHÇE GELİŞİM",
+   "pm": -68,
+   "fark": -49,
+   "mac": 11,
+   "ulke": "ABD"
   },
   {
    "id": "562549",
