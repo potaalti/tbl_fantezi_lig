@@ -30,6 +30,15 @@ API = "https://www.tbf.org.tr/api"
 LIG_ID = 22215      # TBL 2026-2027
 BSL_LIG_ID = 22214  # BSL 2026-2027 (sadece Maçlar sekmesinde gösterilir)
 SEZON_ID = 174
+# Sezon içinde adı değişen takımlar: TBF eski maçlarda ve fikstürde eski adı, yenilerde yeni adı veriyor; hepsi yeni ada
+# yazılır (uygulamada takım kimliği addan üretiliyor, iki ayrı takım görünmesin). Pota Altı App'te bsl/veri_guncelle.py'de de aynı liste.
+TAKIM_AD = {"BEŞİKTAŞ": "BEŞİKTAŞ FUZUL"}  # 2026-11-15 (BSL 8. hafta)
+
+
+def takim_adi(ad):
+    return TAKIM_AD.get(ad, ad)
+
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0 Safari/537.36",
     "Accept": "application/json, text/plain, */*",
@@ -515,7 +524,7 @@ def mac_kaydi(m, hafta, lig):
     """TBF maç kaydının sitedeki hali (fikstür ve skor)."""
     return {
         "id": m["matchId"], "lig": lig, "hafta": hafta, "tarih": m["matchDate"], "durum": durum_adi(m["matchStatusId"]),
-        "ev": m["homeTeam"]["name"], "dep": m["awayTeam"]["name"],
+        "ev": takim_adi(m["homeTeam"]["name"]), "dep": takim_adi(m["awayTeam"]["name"]),
         "evSkor": m["homeTeam"]["score"] or None, "depSkor": m["awayTeam"]["score"] or None,
         "salon": m.get("salonAdi"), "yayin": m.get("broadcastChannel"),
     }
@@ -861,7 +870,7 @@ def main():
                 pid = str(o["personId"])
                 ad = rehber.get(pid, {}).get("ad") or f"{o['firstName']} {o['lastName']}".strip()
                 adaylar.setdefault(pid, []).append({
-                    "ad": ad, "takim": t["teamName"], "aktif": True,
+                    "ad": ad, "takim": takim_adi(t["teamName"]), "aktif": True,
                     "ulke": o.get("country") or "",  # haftalık eşitlikte Türk oyuncuların VP'si için
                     "mac": o.get("macSayisi") or 0,
                     "vpOrt": round(o.get("verimlilikPuani") or 0, 1),
