@@ -2,7 +2,7 @@
 # Telefonda 15 dakikada bir tetiklenir (Android daha sık izin vermez). Şarjı korumak için:
 #   - Maç günü: o günün ilk maçından 3 saat önceden son maç bitene kadar telefon uyanık kalır (wake lock)
 #     ve maç saatlerinde (bir maçın başlamasına 10 dk kala, o maç TBF'de kesinleşene kadar; en fazla 4 saat)
-#     3 dakikada bir günceller; maç aralarında bekler. 2026-11-21: Android telefonu uyutunca 15 dakikalık görev
+#     dakikada bir günceller; maç aralarında bekler. 2026-11-21: Android telefonu uyutunca 15 dakikalık görev
 #     saatlerce tetiklenmedi (10:13'ten sonra hiç), 13:00 maçının döngüsü hiç başlamadı; artık maçtan 3 saat
 #     önceki herhangi bir tetikleme yeter. Maç saatleri telefondaki son veriden okunur (TBL ve BSL'nin bu ve
 #     gelecek haftası, Cuma maçları dahil). Döngü maç saatinde Pota Altı App'in telefon görevini de (BSL
@@ -25,7 +25,7 @@ DONGU_PID="$HOME/.tbl-mac-dongusu.pid"
 NABIZ="$HOME/.tbl-mac-dongusu.nabiz"
 NABIZ_SINIR_SN=600
 GUNLUK_SAATLER="12 23"
-MAC_ARALIK_SN=180
+MAC_ARALIK_SN=60  # 2026-11-21: 3 dakikadan 1 dakikaya (kullanıcı: her alanda en hızlısı)
 
 # Şu an bir maç saatinde miyiz? (telefondaki veriden, internete çıkmadan)
 mac_saatinde_mi() {
@@ -148,7 +148,7 @@ kirp() {
   tail -n 500 "$LOG" > "$LOG.tmp" && mv "$LOG.tmp" "$LOG"
 }
 
-# Maç günü penceresi boyunca telefon uyumasın; maç saatlerinde 3 dakikada bir güncelle (TBL/BSL canlı skor ve
+# Maç günü penceresi boyunca telefon uyumasın; maç saatlerinde dakikada bir güncelle (TBL/BSL canlı skor ve
 # Pota Altı App'in BSL Fantezi canlı VP'si), maç aralarında dakikada bir bak. 12:00/23:00 günlük güncellemesi de
 # döngü içinde yapılır (döngü çalışırken 15 dakikalık tetikleme hemen çıkar).
 mac_dongusu() {
@@ -159,12 +159,15 @@ mac_dongusu() {
   while mac_saatinde_mi || mac_gunu_mu; do
     nabiz
     if mac_saatinde_mi; then
+      tur_basi=$(date +%s)
       guncelle >> "$LOG" 2>&1
       nabiz
       # Süre sınırı nabız sınırının (10 dk) altında: uzun sürse de bekçi döngüyü takıldı sanmasın
       [ -f "$HOME/pota-alti-app/telefon/guncelle.sh" ] && timeout 480 bash "$HOME/pota-alti-app/telefon/guncelle.sh"
       kirp
-      sleep "$MAC_ARALIK_SN"
+      # Turun kendisi de sürer: dakikanın kalanı kadar beklenir (tur dakikayı aştıysa hemen sonraki tur)
+      kalan=$(( MAC_ARALIK_SN - ($(date +%s) - tur_basi) ))
+      [ "$kalan" -gt 0 ] && sleep "$kalan"
     else
       if gunluk_guncelleme_zamani_mi; then guncelle gunluk >> "$LOG" 2>&1; kirp; fi
       sleep 60
