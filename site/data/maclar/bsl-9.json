@@ -33,13 +33,18 @@
    "lig": "bsl",
    "hafta": 9,
    "tarih": "2026-11-21T18:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BAHÇEŞEHİR KOLEJİ",
    "dep": "BİOTEKNO KÖRFEZ BASKET",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "0",
    "salon": "Sinan Erdem Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:41",
+    "uzatma": false
+   }
   },
   {
    "id": 346344,
