@@ -401,8 +401,17 @@ def fiba_istatistik(d, takimlar, rehber):
             "totalRebounds": tm.get("tot_sReboundsTeam", 0), "turnovers": tm.get("tot_sTurnoversTeam", 0), "fouls": tm.get("tot_sFoulsTeam", 0)}
         stat[f"{taraf}Ileri"] = fiba_ileri(tm)
         stat[f"{taraf}Koc"] = tm.get("coach") or None  # başantrenör (Pota Altı App kutu skorda takım adının yanında)
-        ozet[f"{taraf}TeamScore"] = [{"score": tm[k], "quarter": int(k[1:-6])}
-                                     for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
+        # Çeyrekler TBF'nin biçiminde: periodType 1 normal süre (quarter 1-4), 2 uzatma (quarter 1, 2…). FIBA uzatmayı ayrı
+        # "ot_score" alanında verir (2026-11-21 Keçiören–Büyükçekmece: canlıda uzatma sütunu hiç görünmüyordu)
+        ceyrekler = [{"score": tm[k], "quarter": int(k[1:-6]), "periodType": 1}
+                     for k in tm if k.startswith("p") and k.endswith("_score") and k[1:-6].isdigit()]
+        for c in ceyrekler:
+            if c["quarter"] > 4:
+                c.update(quarter=c["quarter"] - 4, periodType=2)
+        if not any(c["periodType"] == 2 for c in ceyrekler):
+            ceyrekler += [{"score": tm[k], "quarter": int(k[2:-6] or 1), "periodType": 2}
+                          for k in tm if k.startswith("ot") and k.endswith("_score") and (k[2:-6] == "" or k[2:-6].isdigit())]
+        ozet[f"{taraf}TeamScore"] = ceyrekler
     stat["farkAkisi"] = fiba_fark(d)
     try:
         stat["donemler"] = fiba_donemler(d)  # canlı maçta çeyrek çeyrek kutu skor
@@ -465,6 +474,12 @@ def mac_istatistik(mac_id, bitti):
     return mac_verisi("mac-istatistik", "mac", mac_id, bitti)
 
 
+def ceyrek_sirasi(liste):
+    """Çeyrek skorları sırayla, uzatmalar sonda. TBF uzatmayı periodType 2, quarter 1 diye verir: yalnız quarter'a göre
+    sıralanınca uzatma 1. çeyreğin arkasına giriyordu (2026-11-21: normal süre 71-65 gibi tutmayan skorlar)."""
+    return [c["score"] for c in sorted(liste or [], key=lambda c: (int(c.get("periodType") or 1), int(c.get("quarter") or 0)))]
+
+
 def mac_ozet(mac_id, bitti):
     """Çeyrek skorları için."""
     return mac_verisi("mac-ozet", "ozet", mac_id, bitti)
@@ -492,7 +507,7 @@ def kutu_skor(mac, stat, ozet):
             })
         takimlar[taraf] = {
             "ad": mac[taraf], "skor": mac[f"{taraf}Skor"], "oyuncular": oyuncular,
-            "ceyrekler": [c["score"] for c in sorted((ozet or {}).get(ceyrek) or [], key=lambda c: c["quarter"])],
+            "ceyrekler": ceyrek_sirasi((ozet or {}).get(ceyrek)),
         }
         # Pota Altı App kutu skordaki "Takım" satırı (takım ribaundu, top kaybı, faul) ve canlıda gelişmiş istatistikler
         ts = stat.get(f"{on}TeamStats")
