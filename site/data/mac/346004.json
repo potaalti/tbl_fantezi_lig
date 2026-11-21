@@ -44,7 +44,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "27:00",
+    "sure": "27:17",
     "sayi": 9,
     "iki": [
      2,
@@ -76,7 +76,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "21:23",
+    "sure": "21:40",
     "sayi": 9,
     "iki": [
      1,
@@ -108,7 +108,7 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "27:03",
+    "sure": "27:20",
     "sayi": 12,
     "iki": [
      4,
@@ -295,7 +295,7 @@
     "ad": "Ahmet Arda Aydın",
     "no": "23",
     "ilk5": false,
-    "sure": "9:01",
+    "sure": "9:18",
     "sayi": 4,
     "iki": [
      0,
@@ -327,7 +327,7 @@
     "ad": "Nusret Yıldırım",
     "no": "57",
     "ilk5": false,
-    "sure": "18:42",
+    "sure": "18:59",
     "sayi": 4,
     "iki": [
      2,
@@ -351,13 +351,15 @@
     "faul": 1,
     "af": 0,
     "pm": "6",
-    "vp": 8
+    "vp": 8,
+    "sahada": true
    }
   ],
   "ceyrekler": [
    17,
    22,
-   14
+   14,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -389,7 +391,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "22:29",
+    "sure": "22:46",
     "sayi": 15,
     "iki": [
      1,
@@ -413,14 +415,15 @@
     "faul": 3,
     "af": 7,
     "pm": "11",
-    "vp": 10
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "471743",
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "21:35",
+    "sure": "21:52",
     "sayi": 9,
     "iki": [
      4,
@@ -444,14 +447,15 @@
     "faul": 3,
     "af": 2,
     "pm": "10",
-    "vp": 21
+    "vp": 21,
+    "sahada": true
    },
    {
     "id": "221455",
     "ad": "Hakan Yapar",
     "no": "15",
     "ilk5": true,
-    "sure": "13:14",
+    "sure": "13:31",
     "sayi": 6,
     "iki": [
      0,
@@ -483,7 +487,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": true,
-    "sure": "19:15",
+    "sure": "19:32",
     "sayi": 3,
     "iki": [
      0,
@@ -507,14 +511,15 @@
     "faul": 0,
     "af": 0,
     "pm": "2",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "210252",
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": true,
-    "sure": "16:28",
+    "sure": "16:45",
     "sayi": 6,
     "iki": [
      1,
@@ -570,8 +575,7 @@
     "faul": 1,
     "af": 1,
     "pm": "7",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "113781",
@@ -602,8 +606,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-5",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "108904",
@@ -727,8 +730,7 @@
     "faul": 2,
     "af": 4,
     "pm": "3",
-    "vp": 19,
-    "sahada": true
+    "vp": 19
    },
    {
     "id": "304808",
@@ -765,7 +767,8 @@
   "ceyrekler": [
    19,
    22,
-   18
+   18,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -782,7 +785,7 @@
    "benc": 20,
    "fark": 9,
    "seri": 8,
-   "lider": 1578,
+   "lider": 1595,
    "degisim": 0,
    "esitlik": 5
   },
@@ -2661,6 +2664,166 @@
      "faul": 0
     }
    }
+  },
+  {
+   "ad": "4",
+   "ev": {
+    "oyuncular": {
+     "23": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "57": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   },
+   "dep": {
+    "oyuncular": {
+     "3": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "10": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "21": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   }
   }
  ],
  "donemIleri": {
@@ -2742,6 +2905,32 @@
     "esitlik": 2
    }
   },
+  "4": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   }
+  },
   "Y1": {
    "ev": {
     "tks": 8,
@@ -2766,6 +2955,32 @@
     "lider": 1129,
     "degisim": 0,
     "esitlik": 3
+   }
+  },
+  "Y2": {
+   "ev": {
+    "tks": 0,
+    "hh": 3,
+    "is": 0,
+    "ba": 8,
+    "benc": 0,
+    "fark": 0,
+    "seri": 5,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 2
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 5,
+    "ba": 10,
+    "benc": 10,
+    "fark": 9,
+    "seri": 8,
+    "lider": 449,
+    "degisim": 0,
+    "esitlik": 2
    }
   }
  }
