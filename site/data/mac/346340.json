@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "TÜRK TELEKOM",
-  "skor": "31",
+  "skor": "34",
   "oyuncular": [
    {
     "id": "778728",
@@ -106,7 +106,7 @@
     "ad": "Göktuğ Baş",
     "no": "57",
     "ilk5": true,
-    "sure": "6:29",
+    "sure": "6:53",
     "sayi": 2,
     "iki": [
      1,
@@ -129,7 +129,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "7",
+    "pm": "10",
     "vp": 1,
     "sahada": true
    },
@@ -200,7 +200,7 @@
     "ad": "Ata Kahraman",
     "no": "6",
     "ilk5": false,
-    "sure": "5:42",
+    "sure": "6:06",
     "sayi": 4,
     "iki": [
      2,
@@ -222,8 +222,8 @@
     "blk": 0,
     "tk": 0,
     "faul": 1,
-    "af": 0,
-    "pm": "-1",
+    "af": 1,
+    "pm": "2",
     "vp": 3,
     "sahada": true
    },
@@ -263,15 +263,15 @@
     "ad": "Uros Trifunovic",
     "no": "10",
     "ilk5": false,
-    "sure": "6:53",
-    "sayi": 3,
+    "sure": "7:17",
+    "sayi": 6,
     "iki": [
      1,
      1
     ],
     "uc": [
-     0,
-     1
+     1,
+     2
     ],
     "sa": [
      1,
@@ -286,8 +286,8 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-1",
-    "vp": 3,
+    "pm": "2",
+    "vp": 6,
     "sahada": true
    },
    {
@@ -295,7 +295,7 @@
     "ad": "Doğuş Özdemiroğlu",
     "no": "18",
     "ilk5": false,
-    "sure": "6:53",
+    "sure": "7:17",
     "sayi": 3,
     "iki": [
      1,
@@ -312,14 +312,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 1,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 1,
     "faul": 1,
     "af": 1,
-    "pm": "-1",
-    "vp": 2,
+    "pm": "2",
+    "vp": 3,
     "sahada": true
    },
    {
@@ -327,7 +327,7 @@
     "ad": "Kris Bankston",
     "no": "30",
     "ilk5": false,
-    "sure": "5:42",
+    "sure": "6:06",
     "sayi": 2,
     "iki": [
      1,
@@ -350,7 +350,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "1",
+    "pm": "4",
     "vp": 4,
     "sahada": true
    },
@@ -388,7 +388,7 @@
   ],
   "ceyrekler": [
    29,
-   2
+   5
   ],
   "takim": {
    "hr": 1,
@@ -402,10 +402,10 @@
    "hh": 0,
    "is": 10,
    "ba": 12,
-   "benc": 12,
+   "benc": 15,
    "fark": 13,
    "seri": 12,
-   "lider": 686,
+   "lider": 710,
    "degisim": 0,
    "esitlik": 0
   },
@@ -482,7 +482,7 @@
     "ad": "Bryce Jones",
     "no": "32",
     "ilk5": true,
-    "sure": "7:56",
+    "sure": "8:20",
     "sayi": 8,
     "iki": [
      4,
@@ -505,7 +505,7 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "-7",
+    "pm": "-10",
     "vp": 10,
     "sahada": true
    },
@@ -569,7 +569,8 @@
     "faul": 0,
     "af": 0,
     "pm": "-12",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "452216",
@@ -607,7 +608,7 @@
     "ad": "Terrell Carter Ii",
     "no": "5",
     "ilk5": false,
-    "sure": "6:30",
+    "sure": "6:54",
     "sayi": 2,
     "iki": [
      1,
@@ -627,11 +628,11 @@
     "ast": 1,
     "tc": 2,
     "blk": 0,
-    "tk": 0,
-    "faul": 0,
+    "tk": 1,
+    "faul": 1,
     "af": 1,
-    "pm": "-3",
-    "vp": 5,
+    "pm": "-6",
+    "vp": 4,
     "sahada": true
    },
    {
@@ -639,7 +640,7 @@
     "ad": "Tre'shawn Thurman",
     "no": "15",
     "ilk5": false,
-    "sure": "5:42",
+    "sure": "6:06",
     "sayi": 4,
     "iki": [
      1,
@@ -662,7 +663,7 @@
     "tk": 0,
     "faul": 1,
     "af": 2,
-    "pm": "-1",
+    "pm": "-4",
     "vp": 6,
     "sahada": true
    },
@@ -702,7 +703,7 @@
     "ad": "Efe Postel",
     "no": "22",
     "ilk5": false,
-    "sure": "6:21",
+    "sure": "6:45",
     "sayi": 0,
     "iki": [
      0,
@@ -725,7 +726,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "4",
+    "pm": "1",
     "vp": -1,
     "sahada": true
    },
@@ -765,7 +766,7 @@
     "ad": "Leon Apaydın",
     "no": "55",
     "ilk5": false,
-    "sure": "3:22",
+    "sure": "3:46",
     "sayi": 0,
     "iki": [
      0,
@@ -788,9 +789,8 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "0",
-    "vp": 0,
-    "sahada": true
+    "pm": "-3",
+    "vp": 0
    }
   ],
   "ceyrekler": [
@@ -818,18 +818,18 @@
   },
   "koc": "Massimo Cancelleieri"
  },
- "evSkor": "31",
+ "evSkor": "34",
  "depSkor": "23",
  "salon": "Ankara Spor Salonu",
  "yayin": "beINSports",
  "canliDurum": {
   "periyot": 2,
-  "saat": "08:10",
+  "saat": "07:47",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 709,
+  "simdi": 733,
   "d": [
    [
     0,
@@ -962,6 +962,10 @@
    [
     709,
     8
+   ],
+   [
+    725,
+    11
    ]
   ]
  },
@@ -1536,7 +1540,7 @@
    "ev": {
     "oyuncular": {
      "6": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 2,
       "iki": [
        1,
@@ -1558,12 +1562,12 @@
       "blk": 0,
       "tk": 0,
       "faul": 0,
-      "af": 0,
-      "pm": 0,
+      "af": 1,
+      "pm": 3,
       "vp": 2
      },
      "18": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 0,
       "iki": [
        0,
@@ -1580,14 +1584,14 @@
       "hr": 0,
       "sr": 0,
       "rib": 0,
-      "ast": 1,
+      "ast": 2,
       "tc": 0,
       "blk": 0,
       "tk": 1,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": -1
+      "pm": 3,
+      "vp": 0
      },
      "0": {
       "sn": 87,
@@ -1617,7 +1621,7 @@
       "vp": 3
      },
      "30": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 0,
       "iki": [
        0,
@@ -1640,19 +1644,19 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 0,
+      "pm": 3,
       "vp": 1
      },
      "10": {
-      "sn": 109,
-      "sayi": 0,
+      "sn": 133,
+      "sayi": 3,
       "iki": [
        0,
        0
       ],
       "uc": [
-       0,
-       0
+       1,
+       1
       ],
       "sa": [
        0,
@@ -1667,11 +1671,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": 0
+      "pm": 3,
+      "vp": 3
      },
      "57": {
-      "sn": 22,
+      "sn": 46,
       "sayi": 0,
       "iki": [
        0,
@@ -1694,7 +1698,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": 3,
       "vp": 0
      }
     },
@@ -1709,7 +1713,7 @@
    "dep": {
     "oyuncular": {
      "5": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 0,
       "iki": [
        0,
@@ -1729,14 +1733,14 @@
       "ast": 0,
       "tc": 1,
       "blk": 0,
-      "tk": 0,
-      "faul": 0,
+      "tk": 1,
+      "faul": 1,
       "af": 1,
-      "pm": 0,
-      "vp": 0
+      "pm": -3,
+      "vp": -1
      },
      "22": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 0,
       "iki": [
        0,
@@ -1759,11 +1763,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -3,
       "vp": -1
      },
      "32": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 2,
       "iki": [
        1,
@@ -1786,11 +1790,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -3,
       "vp": 2
      },
      "55": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 0,
       "iki": [
        0,
@@ -1813,11 +1817,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -3,
       "vp": 0
      },
      "15": {
-      "sn": 109,
+      "sn": 133,
       "sayi": 0,
       "iki": [
        0,
@@ -1839,6 +1843,33 @@
       "blk": 0,
       "tk": 0,
       "faul": 1,
+      "af": 0,
+      "pm": -3,
+      "vp": 0
+     },
+     "44": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
       "af": 0,
       "pm": 0,
       "vp": 0
@@ -1887,10 +1918,10 @@
     "hh": 0,
     "is": 2,
     "ba": 2,
-    "benc": 2,
-    "fark": 10,
-    "seri": 2,
-    "lider": 109,
+    "benc": 5,
+    "fark": 11,
+    "seri": 3,
+    "lider": 133,
     "degisim": 0,
     "esitlik": 0
    },
@@ -1913,10 +1944,10 @@
     "hh": 0,
     "is": 10,
     "ba": 12,
-    "benc": 12,
+    "benc": 15,
     "fark": 13,
     "seri": 12,
-    "lider": 686,
+    "lider": 710,
     "degisim": 0,
     "esitlik": 0
    },
