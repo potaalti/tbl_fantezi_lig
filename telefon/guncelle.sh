@@ -113,13 +113,13 @@ guncelle() {
     timeout 120 git fetch -q origin || return 1
     git reset -q --hard origin/main
     nabiz
-    # Bilgisayar açıkken asıl kaynak o (pota-alti-app/veri/pc_dongu.py, maç saatinde 2 dakikada bir, günde 4 kez de
-    # kadrolarla tam '(pc)' gönderir): canlı turda son 5 dakikada, günlük tam güncellemede son 30 dakikada bilgisayardan
-    # gönderim varsa telefon atlar (2026-11-14 12:12'de telefonun çektiği eski TBF kadroları transferleri geri almıştı).
+    # Bilgisayar açıkken asıl kaynak o (pota-alti-app/veri/pc_dongu.py, maç saatinde 30 sn'de bir, günde 4 kez de kadrolarla
+    # tam '(pc)' gönderir): canlı turda son 2 dakikada, günlük tam güncellemede son 30 dakikada bilgisayardan gönderim
+    # varsa telefon atlar; yoksa (bilgisayar kapalı, uykuda ya da internetsiz) kendisi günceller (2026-11-14 12:12'de telefonun çektiği eski TBF kadroları transferleri geri almıştı).
     # Elle "tam" her zaman çalışır. Bilgisayar kapanınca telefon kendiliğinden devralır.
     if [ "$1" != "tam" ]; then
       son_pc=$(git log -1 --format=%ct --grep='(pc)$' origin/main)
-      sinir=300
+      sinir=120
       [ "$1" = "gunluk" ] && sinir=1800
       if [ -n "$son_pc" ] && [ $(( $(date +%s) - son_pc )) -lt $sinir ]; then
         echo "Bilgisayar çekiyor; telefon bu turu atladı."
