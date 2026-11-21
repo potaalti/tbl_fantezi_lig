@@ -46,13 +46,18 @@
    "lig": "bsl",
    "hafta": 9,
    "tarih": "2026-11-21T20:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BURSASPOR BASKETBOL",
    "dep": "PİZZABULLS BORDO BANDIRMA",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "2",
    "salon": "Tofaş Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:23",
+    "uzatma": false
+   }
   },
   {
    "id": 346342,
