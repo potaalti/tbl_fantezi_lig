@@ -11979,20 +11979,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "609083",
-    "ad": "Steven Enoch",
-    "takim": "KARŞIYAKA",
-    "pm": 10,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "277894",
     "ad": "Göktuğ Baş",
     "takim": "TÜRK TELEKOM",
-    "pm": 10,
-    "fark": 10,
+    "pm": 11,
+    "fark": 13,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12000,8 +11991,8 @@
     "id": "778727",
     "ad": "Ismael Bako",
     "takim": "TÜRK TELEKOM",
-    "pm": 10,
-    "fark": 10,
+    "pm": 11,
+    "fark": 13,
     "mac": 1,
     "ulke": "BELÇİKA"
    },
@@ -12009,8 +12000,8 @@
     "id": "778728",
     "ad": "Jerrick Harding",
     "takim": "TÜRK TELEKOM",
-    "pm": 10,
-    "fark": 10,
+    "pm": 11,
+    "fark": 13,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12018,8 +12009,8 @@
     "id": "386159",
     "ad": "Shaquille Mckissic",
     "takim": "TÜRK TELEKOM",
-    "pm": 10,
-    "fark": 10,
+    "pm": 11,
+    "fark": 13,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12027,8 +12018,17 @@
     "id": "410568",
     "ad": "Tony Taylor",
     "takim": "TÜRK TELEKOM",
+    "pm": 11,
+    "fark": 13,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "609083",
+    "ad": "Steven Enoch",
+    "takim": "KARŞIYAKA",
     "pm": 10,
-    "fark": 10,
+    "fark": 3,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12078,6 +12078,24 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "389934",
+    "ad": "Efe Postel",
+    "takim": "TOFAŞ",
+    "pm": 1,
+    "fark": -13,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "732657",
+    "ad": "Mantas Rubstavicius",
+    "takim": "TOFAŞ",
+    "pm": 1,
+    "fark": -13,
+    "mac": 1,
+    "ulke": "LİTVANYA"
+   },
+   {
     "id": "410874",
     "ad": "Markel Starks",
     "takim": "KARŞIYAKA",
@@ -12117,8 +12135,8 @@
     "id": "485299",
     "ad": "Terrell Carter Ii",
     "takim": "TOFAŞ",
-    "pm": -4,
-    "fark": -10,
+    "pm": -5,
+    "fark": -13,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12127,7 +12145,7 @@
     "ad": "Jamuni Mcneace",
     "takim": "TOFAŞ",
     "pm": -6,
-    "fark": -10,
+    "fark": -13,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12177,42 +12195,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "778401",
-    "ad": "Bryce Jones",
-    "takim": "TOFAŞ",
-    "pm": -10,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "778398",
-    "ad": "Gabe Brown",
-    "takim": "TOFAŞ",
-    "pm": -10,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "227173",
-    "ad": "Sadık Kabaca",
-    "takim": "TOFAŞ",
-    "pm": -10,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778399",
-    "ad": "Shavar Reynolds Jr.",
-    "takim": "TOFAŞ",
-    "pm": -10,
-    "fark": -10,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "779130",
     "ad": "Ty  Brewer",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12222,11 +12204,47 @@
     "ulke": "ABD"
    },
    {
+    "id": "778401",
+    "ad": "Bryce Jones",
+    "takim": "TOFAŞ",
+    "pm": -11,
+    "fark": -13,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "227173",
+    "ad": "Sadık Kabaca",
+    "takim": "TOFAŞ",
+    "pm": -11,
+    "fark": -13,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "500079",
     "ad": "Rashard Kelly",
     "takim": "KARŞIYAKA",
     "pm": -11,
     "fark": 3,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "778398",
+    "ad": "Gabe Brown",
+    "takim": "TOFAŞ",
+    "pm": -12,
+    "fark": -13,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "778399",
+    "ad": "Shavar Reynolds Jr.",
+    "takim": "TOFAŞ",
+    "pm": -12,
+    "fark": -13,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12246,8 +12264,8 @@
    "id": "386159",
    "ad": "Shaquille Mckissic",
    "takim": "TÜRK TELEKOM",
-   "pm": 79,
-   "fark": 83,
+   "pm": 80,
+   "fark": 86,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -12525,8 +12543,8 @@
    "id": "778727",
    "ad": "Ismael Bako",
    "takim": "TÜRK TELEKOM",
-   "pm": 31,
-   "fark": 79,
+   "pm": 32,
+   "fark": 82,
    "mac": 9,
    "ulke": "BELÇİKA"
   },
@@ -12666,6 +12684,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "778728",
+   "ad": "Jerrick Harding",
+   "takim": "TÜRK TELEKOM",
+   "pm": 19,
+   "fark": 61,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
    "id": "779277",
    "ad": "Nikola Ivanovic",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -12673,24 +12700,6 @@
    "fark": 45,
    "mac": 4,
    "ulke": "KARADAĞ"
-  },
-  {
-   "id": "778728",
-   "ad": "Jerrick Harding",
-   "takim": "TÜRK TELEKOM",
-   "pm": 18,
-   "fark": 58,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "778401",
-   "ad": "Bryce Jones",
-   "takim": "TOFAŞ",
-   "pm": 17,
-   "fark": -22,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "697020",
@@ -12702,6 +12711,33 @@
    "ulke": "ABD"
   },
   {
+   "id": "277894",
+   "ad": "Göktuğ Baş",
+   "takim": "TÜRK TELEKOM",
+   "pm": 17,
+   "fark": 64,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778401",
+   "ad": "Bryce Jones",
+   "takim": "TOFAŞ",
+   "pm": 16,
+   "fark": -25,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
+   "id": "389934",
+   "ad": "Efe Postel",
+   "takim": "TOFAŞ",
+   "pm": 16,
+   "fark": -25,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "587569",
    "ad": "Fatts Russell",
    "takim": "ANADOLU EFES",
@@ -12711,29 +12747,11 @@
    "ulke": "ABD"
   },
   {
-   "id": "277894",
-   "ad": "Göktuğ Baş",
-   "takim": "TÜRK TELEKOM",
-   "pm": 16,
-   "fark": 61,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "250129",
    "ad": "Şehmus Hazer",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 16,
    "fark": 63,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "389934",
-   "ad": "Efe Postel",
-   "takim": "TOFAŞ",
-   "pm": 15,
-   "fark": -12,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
@@ -12801,30 +12819,21 @@
    "ulke": "ABD"
   },
   {
+   "id": "410568",
+   "ad": "Tony Taylor",
+   "takim": "TÜRK TELEKOM",
+   "pm": 12,
+   "fark": 51,
+   "mac": 6,
+   "ulke": "ABD"
+  },
+  {
    "id": "777676",
    "ad": "Marcus Bingham Jr.",
    "takim": "FENERBAHÇE TARFİN",
    "pm": 11,
    "fark": 36,
    "mac": 2,
-   "ulke": "ABD"
-  },
-  {
-   "id": "410568",
-   "ad": "Tony Taylor",
-   "takim": "TÜRK TELEKOM",
-   "pm": 11,
-   "fark": 48,
-   "mac": 6,
-   "ulke": "ABD"
-  },
-  {
-   "id": "485299",
-   "ad": "Terrell Carter Ii",
-   "takim": "TOFAŞ",
-   "pm": 10,
-   "fark": -22,
-   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -12843,6 +12852,15 @@
    "pm": 9,
    "fark": -26,
    "mac": 8,
+   "ulke": "ABD"
+  },
+  {
+   "id": "485299",
+   "ad": "Terrell Carter Ii",
+   "takim": "TOFAŞ",
+   "pm": 9,
+   "fark": -25,
+   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -13152,15 +13170,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778398",
-   "ad": "Gabe Brown",
-   "takim": "TOFAŞ",
-   "pm": -1,
-   "fark": -11,
-   "mac": 8,
-   "ulke": "ABD"
-  },
-  {
    "id": "735336",
    "ad": "Devon Dotson",
    "takim": "BEŞİKTAŞ FUZUL",
@@ -13274,6 +13283,15 @@
    "takim": "PİZZABULLS BORDO BANDIRMA",
    "pm": -3,
    "fark": -25,
+   "mac": 8,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778398",
+   "ad": "Gabe Brown",
+   "takim": "TOFAŞ",
+   "pm": -3,
+   "fark": -14,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -13395,6 +13413,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "732657",
+   "ad": "Mantas Rubstavicius",
+   "takim": "TOFAŞ",
+   "pm": -5,
+   "fark": 7,
+   "mac": 3,
+   "ulke": "LİTVANYA"
+  },
+  {
    "id": "272903",
    "ad": "Mete Tekçevik",
    "takim": "TÜRK TELEKOM",
@@ -13438,15 +13465,6 @@
    "fark": 5,
    "mac": 8,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "732657",
-   "ad": "Mantas Rubstavicius",
-   "takim": "TOFAŞ",
-   "pm": -6,
-   "fark": 20,
-   "mac": 2,
-   "ulke": "LİTVANYA"
   },
   {
    "id": "777679",
@@ -13575,15 +13593,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "227173",
-   "ad": "Sadık Kabaca",
-   "takim": "TOFAŞ",
-   "pm": -11,
-   "fark": -22,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "228502",
    "ad": "Muhaymin Mustafa",
    "takim": "KARŞIYAKA",
@@ -13600,6 +13609,15 @@
    "fark": 5,
    "mac": 1,
    "ulke": "ABD"
+  },
+  {
+   "id": "227173",
+   "ad": "Sadık Kabaca",
+   "takim": "TOFAŞ",
+   "pm": -12,
+   "fark": -25,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "137459",
@@ -13984,7 +14002,7 @@
    "ad": "Jamuni Mcneace",
    "takim": "TOFAŞ",
    "pm": -31,
-   "fark": -28,
+   "fark": -31,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -14118,8 +14136,8 @@
    "id": "778399",
    "ad": "Shavar Reynolds Jr.",
    "takim": "TOFAŞ",
-   "pm": -39,
-   "fark": -22,
+   "pm": -41,
+   "fark": -25,
    "mac": 9,
    "ulke": "ABD"
   },
