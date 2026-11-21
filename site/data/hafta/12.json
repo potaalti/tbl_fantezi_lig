@@ -32,18 +32,13 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-21T16:00:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "GAZİANTEP BASKETBOL",
    "dep": "GÖZTEPE ISONEM",
    "evSkor": "65",
    "depSkor": "56",
    "salon": "Kamil Ocak Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 346000,
@@ -53,13 +48,13 @@
    "durum": "canli",
    "ev": "KİPAŞ K.B.B.",
    "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": "69",
-   "depSkor": "54",
+   "evSkor": "72",
+   "depSkor": "56",
    "salon": "Kahramanmaraş Merkez Spor Salonu",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 4,
-    "saat": "06:39",
+    "saat": "06:04",
     "uzatma": false
    }
   },
@@ -580,7 +575,7 @@
    "ad": "Sarp Coşkun",
    "takim": "GAZİANTEP BASKETBOL",
    "vp": -1,
-   "saniye": 715,
+   "saniye": 714,
    "maclar": [
     346003
    ]
@@ -640,7 +635,7 @@
    ]
   },
   "786709": {
-   "ad": "Deandre Pinckney",
+   "ad": "DeAndre Pinckney",
    "takim": "GÖZTEPE ISONEM",
    "vp": 5,
    "saniye": 1673,
@@ -760,7 +755,7 @@
    "ad": "Batın Tuna",
    "takim": "KİPAŞ K.B.B.",
    "vp": 3,
-   "saniye": 849,
+   "saniye": 880,
    "maclar": [
     346000
    ]
@@ -768,8 +763,8 @@
   "229233": {
    "ad": "Baran Avşar",
    "takim": "KİPAŞ K.B.B.",
-   "vp": 8,
-   "saniye": 1158,
+   "vp": 11,
+   "saniye": 1189,
    "maclar": [
     346000
    ]
@@ -796,7 +791,7 @@
    "ad": "Brandon Jefferson",
    "takim": "KİPAŞ K.B.B.",
    "vp": 15,
-   "saniye": 1376,
+   "saniye": 1407,
    "maclar": [
     346000
    ]
@@ -814,7 +809,7 @@
    "ad": "Arda Özdoğan",
    "takim": "KİPAŞ K.B.B.",
    "vp": 2,
-   "saniye": 618,
+   "saniye": 649,
    "maclar": [
     346000
    ]
@@ -823,7 +818,7 @@
    "ad": "Deniz Çelen",
    "takim": "KİPAŞ K.B.B.",
    "vp": 9,
-   "saniye": 933,
+   "saniye": 964,
    "maclar": [
     346000
    ]
@@ -849,8 +844,8 @@
   "430940": {
    "ad": "Jacob Pullen",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": -1,
-   "saniye": 1763,
+   "vp": -2,
+   "saniye": 1794,
    "maclar": [
     346000
    ]
@@ -859,7 +854,7 @@
    "ad": "Tyler Harris",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 9,
-   "saniye": 1525,
+   "saniye": 1556,
    "maclar": [
     346000
    ]
@@ -867,8 +862,8 @@
   "290538": {
    "ad": "Mevlüt Melih Doğan",
    "takim": "MKE ANKARAGÜCÜ",
-   "vp": 12,
-   "saniye": 1512,
+   "vp": 15,
+   "saniye": 1543,
    "maclar": [
     346000
    ]
@@ -877,7 +872,7 @@
    "ad": "İbrahim Pınarer",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 5,
-   "saniye": 830,
+   "saniye": 861,
    "maclar": [
     346000
    ]
@@ -886,7 +881,7 @@
    "ad": "İnanç Mert Hotamış",
    "takim": "MKE ANKARAGÜCÜ",
    "vp": 10,
-   "saniye": 1549,
+   "saniye": 1580,
    "maclar": [
     346000
    ]
