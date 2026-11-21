@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "BURSASPOR BASKETBOL",
-  "skor": "72",
+  "skor": "73",
   "oyuncular": [
    {
     "id": "510723",
     "ad": "Leyton Hammonds",
     "no": "2",
     "ilk5": true,
-    "sure": "24:17",
+    "sure": "24:43",
     "sayi": 21,
     "iki": [
      5,
@@ -76,7 +76,7 @@
     "ad": "Brandon Taylor",
     "no": "11",
     "ilk5": true,
-    "sure": "32:27",
+    "sure": "32:53",
     "sayi": 11,
     "iki": [
      3,
@@ -139,7 +139,7 @@
     "ad": "Bryce Brown",
     "no": "31",
     "ilk5": true,
-    "sure": "18:23",
+    "sure": "18:49",
     "sayi": 13,
     "iki": [
      1,
@@ -171,7 +171,7 @@
     "ad": "Micheal Moore",
     "no": "1",
     "ilk5": false,
-    "sure": "17:09",
+    "sure": "17:35",
     "sayi": 7,
     "iki": [
      1,
@@ -296,7 +296,7 @@
     "ad": "Buğra Çal",
     "no": "13",
     "ilk5": false,
-    "sure": "18:22",
+    "sure": "18:48",
     "sayi": 1,
     "iki": [
      0,
@@ -484,7 +484,7 @@
     "ad": "Peyton Aldridge",
     "no": "22",
     "ilk5": true,
-    "sure": "28:44",
+    "sure": "29:10",
     "sayi": 7,
     "iki": [
      0,
@@ -516,7 +516,7 @@
     "ad": "Zach Hankins",
     "no": "35",
     "ilk5": true,
-    "sure": "28:25",
+    "sure": "28:51",
     "sayi": 12,
     "iki": [
      4,
@@ -548,7 +548,7 @@
     "ad": "Quentin Peterson",
     "no": "77",
     "ilk5": true,
-    "sure": "30:03",
+    "sure": "30:29",
     "sayi": 26,
     "iki": [
      5,
@@ -580,7 +580,7 @@
     "ad": "Alex Perez",
     "no": "2",
     "ilk5": false,
-    "sure": "18:20",
+    "sure": "18:46",
     "sayi": 11,
     "iki": [
      2,
@@ -612,7 +612,7 @@
     "ad": "Kadir Bayram",
     "no": "8",
     "ilk5": false,
-    "sure": "20:59",
+    "sure": "21:25",
     "sayi": 4,
     "iki": [
      1,
@@ -816,13 +816,13 @@
    "benc": 23,
    "fark": 16,
    "seri": 12,
-   "lider": 2210,
+   "lider": 2236,
    "degisim": 0,
    "esitlik": 1
   },
   "koc": "Tutku Açık"
  },
- "evSkor": "72",
+ "evSkor": "73",
  "depSkor": "85",
  "salon": "Tofaş Spor Salonu",
  "yayin": "beINSports",
@@ -1198,6 +1198,10 @@
    [
     2248,
     -13
+   ],
+   [
+    2248,
+    -12
    ]
   ]
  },
@@ -2768,7 +2772,7 @@
     "oyuncular": {
      "11": {
       "sn": 448,
-      "sayi": 6,
+      "sayi": 7,
       "iki": [
        2,
        2
@@ -2778,8 +2782,8 @@
        0
       ],
       "sa": [
-       2,
-       3
+       3,
+       4
       ],
       "hr": 1,
       "sr": 0,
@@ -2790,8 +2794,8 @@
       "tk": 0,
       "faul": 0,
       "af": 4,
-      "pm": -1,
-      "vp": 7
+      "pm": 0,
+      "vp": 8
      },
      "31": {
       "sn": 232,
@@ -2817,7 +2821,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 1,
+      "pm": 2,
       "vp": 5
      },
      "13": {
@@ -2844,7 +2848,7 @@
       "tk": 0,
       "faul": 1,
       "af": 1,
-      "pm": 1,
+      "pm": 2,
       "vp": 1
      },
      "1": {
@@ -2871,7 +2875,7 @@
       "tk": 1,
       "faul": 1,
       "af": 0,
-      "pm": -2,
+      "pm": -1,
       "vp": -3
      },
      "22": {
@@ -2979,7 +2983,7 @@
       "tk": 1,
       "faul": 0,
       "af": 0,
-      "pm": -1,
+      "pm": 0,
       "vp": 2
      },
      "12": {
@@ -3044,7 +3048,7 @@
       "tk": 0,
       "faul": 1,
       "af": 0,
-      "pm": 2,
+      "pm": 1,
       "vp": 2
      },
      "35": {
@@ -3071,7 +3075,7 @@
       "tk": 1,
       "faul": 1,
       "af": 0,
-      "pm": 1,
+      "pm": 0,
       "vp": -1
      },
      "0": {
@@ -3125,7 +3129,7 @@
       "tk": 1,
       "faul": 1,
       "af": 3,
-      "pm": 1,
+      "pm": 0,
       "vp": 5
      },
      "22": {
@@ -3152,7 +3156,7 @@
       "tk": 0,
       "faul": 3,
       "af": 0,
-      "pm": 2,
+      "pm": 1,
       "vp": 0
      },
      "2": {
@@ -3179,7 +3183,7 @@
       "tk": 1,
       "faul": 0,
       "af": 0,
-      "pm": 1,
+      "pm": 0,
       "vp": -2
      },
      "11": {
