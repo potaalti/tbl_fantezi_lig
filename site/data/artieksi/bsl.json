@@ -11955,25 +11955,16 @@
     "id": "218536",
     "ad": "Hakan Sayılı",
     "takim": "KARŞIYAKA",
-    "pm": 10,
+    "pm": 11,
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "778996",
-    "ad": "Brae Ivey",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": 9,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "228502",
     "ad": "Muhaymin Mustafa",
     "takim": "KARŞIYAKA",
-    "pm": 9,
+    "pm": 10,
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -11982,8 +11973,17 @@
     "id": "779071",
     "ad": "Ishmael El-Amin",
     "takim": "KARŞIYAKA",
-    "pm": 8,
+    "pm": 9,
     "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "778996",
+    "ad": "Brae Ivey",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": 8,
+    "fark": -4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -11991,7 +11991,7 @@
     "id": "609083",
     "ad": "Steven Enoch",
     "takim": "KARŞIYAKA",
-    "pm": 7,
+    "pm": 8,
     "fark": 4,
     "mac": 1,
     "ulke": "ABD"
@@ -12036,7 +12036,7 @@
     "id": "573226",
     "ad": "Briante Weber",
     "takim": "KARŞIYAKA",
-    "pm": -1,
+    "pm": 0,
     "fark": 4,
     "mac": 1,
     "ulke": "ABD"
@@ -12051,15 +12051,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "373162",
-    "ad": "Marko Pecarski",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -2,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
-   },
-   {
     "id": "278617",
     "ad": "Erten Gazi",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12067,6 +12058,15 @@
     "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "373162",
+    "ad": "Marko Pecarski",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": -3,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
    },
    {
     "id": "786430",
@@ -12087,15 +12087,6 @@
     "ulke": "FRANSA"
    },
    {
-    "id": "736366",
-    "ad": "John Meeks",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -6,
-    "fark": -4,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "500079",
     "ad": "Rashard Kelly",
     "takim": "KARŞIYAKA",
@@ -12105,22 +12096,22 @@
     "ulke": "ABD"
    },
    {
-    "id": "fiba-tyron-brewer",
-    "ad": "Tyron Brewer",
+    "id": "736366",
+    "ad": "John Meeks",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -7,
     "fark": -4,
     "mac": 1,
-    "ulke": ""
+    "ulke": "ABD"
    },
    {
-    "id": "470765",
-    "ad": "Mahir Ağva",
+    "id": "fiba-tyron-brewer",
+    "ad": "Tyron Brewer",
     "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": -9,
+    "pm": -8,
     "fark": -4,
     "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": ""
    },
    {
     "id": "779010",
@@ -12130,6 +12121,15 @@
     "fark": -4,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "470765",
+    "ad": "Mahir Ağva",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": -10,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    }
   ]
  },
@@ -12513,6 +12513,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "609083",
+   "ad": "Steven Enoch",
+   "takim": "KARŞIYAKA",
+   "pm": 22,
+   "fark": -13,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "778403",
    "ad": "Santi Yusta",
    "takim": "ANADOLU EFES",
@@ -12529,15 +12538,6 @@
    "fark": 44,
    "mac": 8,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "609083",
-   "ad": "Steven Enoch",
-   "takim": "KARŞIYAKA",
-   "pm": 21,
-   "fark": -13,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "785063",
@@ -12666,21 +12666,21 @@
    "ulke": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI"
   },
   {
+   "id": "573226",
+   "ad": "Briante Weber",
+   "takim": "KARŞIYAKA",
+   "pm": 12,
+   "fark": -13,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "778423",
    "ad": "Mike James",
    "takim": "ANADOLU EFES",
    "pm": 12,
    "fark": 14,
    "mac": 1,
-   "ulke": "ABD"
-  },
-  {
-   "id": "573226",
-   "ad": "Briante Weber",
-   "takim": "KARŞIYAKA",
-   "pm": 11,
-   "fark": -13,
-   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -12828,15 +12828,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "470765",
-   "ad": "Mahir Ağva",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": 5,
-   "fark": -50,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "122136",
    "ad": "Canberk Kuş",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
@@ -12862,6 +12853,15 @@
    "fark": -25,
    "mac": 8,
    "ulke": "ABD"
+  },
+  {
+   "id": "470765",
+   "ad": "Mahir Ağva",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": 4,
+   "fark": -50,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "114257",
@@ -12936,15 +12936,6 @@
    "ulke": "SIRBİSTAN"
   },
   {
-   "id": "778996",
-   "ad": "Brae Ivey",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": 1,
-   "fark": -50,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "410568",
    "ad": "Tony Taylor",
    "takim": "TÜRK TELEKOM",
@@ -12961,6 +12952,15 @@
    "fark": -66,
    "mac": 8,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778996",
+   "ad": "Brae Ivey",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": 0,
+   "fark": -50,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "100880",
@@ -13224,6 +13224,15 @@
    "ulke": "POLONYA"
   },
   {
+   "id": "779071",
+   "ad": "Ishmael El-Amin",
+   "takim": "KARŞIYAKA",
+   "pm": -4,
+   "fark": -13,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "779130",
    "ad": "TYRON DESHUN BREWER",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -13276,15 +13285,6 @@
    "fark": -26,
    "mac": 8,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "779071",
-   "ad": "Ishmael El-Amin",
-   "takim": "KARŞIYAKA",
-   "pm": -5,
-   "fark": -13,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "609092",
@@ -13404,15 +13404,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "fiba-tyron-brewer",
-   "ad": "Tyron Brewer",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -7,
-   "fark": -4,
-   "mac": 1,
-   "ulke": ""
-  },
-  {
    "id": "778080",
    "ad": "Dallas Moore",
    "takim": "ESENLER EROKSPOR",
@@ -13420,6 +13411,15 @@
    "fark": -24,
    "mac": 3,
    "ulke": "ABD"
+  },
+  {
+   "id": "fiba-tyron-brewer",
+   "ad": "Tyron Brewer",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -8,
+   "fark": -4,
+   "mac": 1,
+   "ulke": ""
   },
   {
    "id": "667814",
@@ -13503,6 +13503,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "228502",
+   "ad": "Muhaymin Mustafa",
+   "takim": "KARŞIYAKA",
+   "pm": -12,
+   "fark": -13,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "137459",
    "ad": "Burak Can Yıldızlı",
    "takim": "ANADOLU EFES",
@@ -13539,15 +13548,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "228502",
-   "ad": "Muhaymin Mustafa",
-   "takim": "KARŞIYAKA",
-   "pm": -13,
-   "fark": -13,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "127089",
    "ad": "Erdi Gülaslan",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
@@ -13566,21 +13566,21 @@
    "ulke": "ABD"
   },
   {
-   "id": "736366",
-   "ad": "John Meeks",
-   "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -16,
-   "fark": -50,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "736069",
    "ad": "Tre'shawn Thurman",
    "takim": "TOFAŞ",
    "pm": -16,
    "fark": -13,
    "mac": 7,
+   "ulke": "ABD"
+  },
+  {
+   "id": "736366",
+   "ad": "John Meeks",
+   "takim": "YUKATEL DENİZLİ BASKET",
+   "pm": -17,
+   "fark": -50,
+   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -13767,7 +13767,7 @@
    "id": "218536",
    "ad": "Hakan Sayılı",
    "takim": "KARŞIYAKA",
-   "pm": -26,
+   "pm": -25,
    "fark": -13,
    "mac": 9,
    "ulke": "TÜRKİYE"
@@ -14037,7 +14037,7 @@
    "id": "373162",
    "ad": "Marko Pecarski",
    "takim": "YUKATEL DENİZLİ BASKET",
-   "pm": -41,
+   "pm": -42,
    "fark": -50,
    "mac": 9,
    "ulke": "SIRBİSTAN"
