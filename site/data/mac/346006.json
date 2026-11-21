@@ -510,7 +510,8 @@
     "faul": 2,
     "af": 2,
     "pm": "1",
-    "vp": 16
+    "vp": 16,
+    "sahada": true
    },
    {
     "id": "111242",
@@ -666,8 +667,7 @@
     "faul": 3,
     "af": 3,
     "pm": "0",
-    "vp": 25,
-    "sahada": true
+    "vp": 25
    },
    {
     "id": "332044",
@@ -827,12 +827,12 @@
  "salon": "TOBB ETÜ Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 4,
-  "saat": "00:00",
-  "uzatma": false
+  "periyot": 1,
+  "saat": "05:00",
+  "uzatma": true
  },
  "fark": {
-  "sure": 2400,
+  "sure": 2700,
   "simdi": 2400,
   "d": [
    [
@@ -2985,6 +2985,57 @@
      "faul": 0
     }
    }
+  },
+  {
+   "ad": "U1",
+   "ev": {
+    "oyuncular": {},
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   },
+   "dep": {
+    "oyuncular": {
+     "4": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   }
   }
  ],
  "donemIleri": {
@@ -3090,6 +3141,32 @@
     "lider": 86,
     "degisim": 6,
     "esitlik": 1
+   }
+  },
+  "U1": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
    }
   },
   "Y1": {
