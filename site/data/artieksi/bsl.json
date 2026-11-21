@@ -12186,20 +12186,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "278617",
-    "ad": "Erten Gazi",
-    "takim": "YUKATEL DENİZLİ BASKET",
-    "pm": 2,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "130898",
     "ad": "Okben Ulubay",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 2,
-    "fark": 2,
+    "pm": 4,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12207,8 +12198,8 @@
     "id": "473261",
     "ad": "Peyton Aldridge",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 2,
-    "fark": 2,
+    "pm": 4,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12216,8 +12207,8 @@
     "id": "501076",
     "ad": "Quentin Peterson",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 2,
-    "fark": 2,
+    "pm": 4,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12225,8 +12216,8 @@
     "id": "666515",
     "ad": "Ty Gordon",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 2,
-    "fark": 2,
+    "pm": 4,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12234,10 +12225,19 @@
     "id": "778310",
     "ad": "Zach Hankins",
     "takim": "PİZZABULLS BORDO BANDIRMA",
-    "pm": 2,
-    "fark": 2,
+    "pm": 4,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "278617",
+    "ad": "Erten Gazi",
+    "takim": "YUKATEL DENİZLİ BASKET",
+    "pm": 2,
+    "fark": -3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "410874",
@@ -12303,51 +12303,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "778460",
-    "ad": "Brandon Taylor",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "502519",
-    "ad": "Bryce Brown",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "247547",
-    "ad": "Ergi Tırpancı",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "510723",
-    "ad": "Leyton Hammonds",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "778459",
-    "ad": "Warren Washington",
-    "takim": "BURSASPOR BASKETBOL",
-    "pm": -2,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "434482",
     "ad": "Emirhan Serbest",
     "takim": "TOFAŞ",
@@ -12373,6 +12328,51 @@
     "fark": 17,
     "mac": 1,
     "ulke": "BELÇİKA"
+   },
+   {
+    "id": "778460",
+    "ad": "Brandon Taylor",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "502519",
+    "ad": "Bryce Brown",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "247547",
+    "ad": "Ergi Tırpancı",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "510723",
+    "ad": "Leyton Hammonds",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "778459",
+    "ad": "Warren Washington",
+    "takim": "BURSASPOR BASKETBOL",
+    "pm": -4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "47659",
@@ -12747,6 +12747,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "473261",
+   "ad": "Peyton Aldridge",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": 48,
+   "fark": -21,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "781548",
    "ad": "KJ Simpson",
    "takim": "GALATASARAY MCT TECHNIC",
@@ -12763,15 +12772,6 @@
    "fark": 107,
    "mac": 8,
    "ulke": "SIRBİSTAN"
-  },
-  {
-   "id": "473261",
-   "ad": "Peyton Aldridge",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 46,
-   "fark": -23,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "735850",
@@ -13233,6 +13233,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "501076",
+   "ad": "Quentin Peterson",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": 9,
+   "fark": -21,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "573226",
    "ad": "Briante Weber",
    "takim": "KARŞIYAKA",
@@ -13265,15 +13274,6 @@
    "takim": "TOFAŞ",
    "pm": 7,
    "fark": -29,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
-   "id": "501076",
-   "ad": "Quentin Peterson",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": 7,
-   "fark": -23,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -13413,6 +13413,15 @@
    "ulke": "SIRBİSTAN"
   },
   {
+   "id": "778310",
+   "ad": "Zach Hankins",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": 1,
+   "fark": -21,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "779071",
    "ad": "Ishmael El-Amin",
    "takim": "KARŞIYAKA",
@@ -13503,15 +13512,6 @@
    "ulke": "FRANSA"
   },
   {
-   "id": "778310",
-   "ad": "Zach Hankins",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -1,
-   "fark": -23,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "777635",
    "ad": "Wenyen Gabriel",
    "takim": "BEŞİKTAŞ FUZUL",
@@ -13566,15 +13566,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "247547",
-   "ad": "Ergi Tırpancı",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -2,
-   "fark": -68,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "249031",
    "ad": "Metehan Akyel",
    "takim": "ESENLER EROKSPOR",
@@ -13600,6 +13591,15 @@
    "fark": -22,
    "mac": 6,
    "ulke": "HOLLANDA"
+  },
+  {
+   "id": "130898",
+   "ad": "Okben Ulubay",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -2,
+   "fark": -21,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "378292",
@@ -13674,6 +13674,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "247547",
+   "ad": "Ergi Tırpancı",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -4,
+   "fark": -70,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "778183",
    "ad": "Paulius Danusevicius",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -13690,15 +13699,6 @@
    "fark": -46,
    "mac": 8,
    "ulke": "POLONYA"
-  },
-  {
-   "id": "130898",
-   "ad": "Okben Ulubay",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -4,
-   "fark": -23,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "786430",
@@ -13827,15 +13827,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778459",
-   "ad": "Warren Washington",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -7,
-   "fark": -68,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "307500",
    "ad": "Mehmet Oğuzhan Kızıl",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -13896,6 +13887,15 @@
    "pm": -8,
    "fark": 16,
    "mac": 5,
+   "ulke": "ABD"
+  },
+  {
+   "id": "778459",
+   "ad": "Warren Washington",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -9,
+   "fark": -70,
+   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -14187,6 +14187,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "666515",
+   "ad": "Ty Gordon",
+   "takim": "PİZZABULLS BORDO BANDIRMA",
+   "pm": -21,
+   "fark": -21,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "782996",
    "ad": "Lonnie Walker IV",
    "takim": "BEŞİKTAŞ FUZUL",
@@ -14212,15 +14221,6 @@
    "fark": -14,
    "mac": 9,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "666515",
-   "ad": "Ty Gordon",
-   "takim": "PİZZABULLS BORDO BANDIRMA",
-   "pm": -23,
-   "fark": -23,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "736069",
@@ -14484,15 +14484,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778460",
-   "ad": "Brandon Taylor",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -41,
-   "fark": -68,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "470601",
    "ad": "Filip Barna",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -14511,6 +14502,15 @@
    "ulke": "FRANSA"
   },
   {
+   "id": "778460",
+   "ad": "Brandon Taylor",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -43,
+   "fark": -70,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "363061",
    "ad": "Scottie Wilbekin",
    "takim": "BEŞİKTAŞ FUZUL",
@@ -14526,15 +14526,6 @@
    "pm": -45,
    "fark": -66,
    "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "502519",
-   "ad": "Bryce Brown",
-   "takim": "BURSASPOR BASKETBOL",
-   "pm": -45,
-   "fark": -53,
-   "mac": 7,
    "ulke": "ABD"
   },
   {
@@ -14565,12 +14556,12 @@
    "ulke": "ABD"
   },
   {
-   "id": "510723",
-   "ad": "Leyton Hammonds",
+   "id": "502519",
+   "ad": "Bryce Brown",
    "takim": "BURSASPOR BASKETBOL",
-   "pm": -48,
-   "fark": -68,
-   "mac": 9,
+   "pm": -47,
+   "fark": -55,
+   "mac": 7,
    "ulke": "ABD"
   },
   {
@@ -14580,6 +14571,15 @@
    "pm": -49,
    "fark": -52,
    "mac": 7,
+   "ulke": "ABD"
+  },
+  {
+   "id": "510723",
+   "ad": "Leyton Hammonds",
+   "takim": "BURSASPOR BASKETBOL",
+   "pm": -50,
+   "fark": -70,
+   "mac": 9,
    "ulke": "ABD"
   },
   {
