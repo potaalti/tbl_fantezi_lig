@@ -106,7 +106,7 @@
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "14:55",
+    "sure": "14:56",
     "sayi": 5,
     "iki": [
      1,
@@ -200,7 +200,7 @@
     "ad": "Erdem İlter",
     "no": "5",
     "ilk5": false,
-    "sure": "5:51",
+    "sure": "5:52",
     "sayi": 0,
     "iki": [
      0,
@@ -232,7 +232,7 @@
     "ad": "Utku Yücedağ",
     "no": "9",
     "ilk5": false,
-    "sure": "0:23",
+    "sure": "0:24",
     "sayi": 0,
     "iki": [
      0,
@@ -295,11 +295,11 @@
     "ad": "Jarmar Gulley",
     "no": "15",
     "ilk5": false,
-    "sure": "10:15",
+    "sure": "10:16",
     "sayi": 9,
     "iki": [
      0,
-     3
+     4
     ],
     "uc": [
      2,
@@ -319,7 +319,7 @@
     "faul": 2,
     "af": 4,
     "pm": "3",
-    "vp": 9,
+    "vp": 8,
     "sahada": true
    },
    {
@@ -327,7 +327,7 @@
     "ad": "Mehmet Fırat Alemdaroğlu",
     "no": "23",
     "ilk5": false,
-    "sure": "9:32",
+    "sure": "9:33",
     "sayi": 4,
     "iki": [
      2,
@@ -395,7 +395,7 @@
    "hr": 2,
    "sr": 1,
    "rib": 3,
-   "tk": 0,
+   "tk": 1,
    "faul": 2
   },
   "ileri": {
@@ -452,7 +452,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "19:39",
+    "sure": "19:40",
     "sayi": 6,
     "iki": [
      0,
@@ -484,7 +484,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "19:02",
+    "sure": "19:03",
     "sayi": 12,
     "iki": [
      2,
@@ -547,7 +547,7 @@
     "ad": "Kaan Sarıaslan",
     "no": "13",
     "ilk5": true,
-    "sure": "18:40",
+    "sure": "18:41",
     "sayi": 3,
     "iki": [
      1,
@@ -579,7 +579,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "11:26",
+    "sure": "11:27",
     "sayi": 6,
     "iki": [
      3,
@@ -598,12 +598,12 @@
     "rib": 5,
     "ast": 0,
     "tc": 0,
-    "blk": 0,
+    "blk": 1,
     "tk": 1,
     "faul": 1,
     "af": 2,
     "pm": "-1",
-    "vp": 8,
+    "vp": 9,
     "sahada": true
    },
    {
@@ -673,7 +673,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "6:19",
+    "sure": "6:20",
     "sayi": 2,
     "iki": [
      0,
@@ -783,7 +783,7 @@
    "benc": 10,
    "fark": 5,
    "seri": 7,
-   "lider": 476,
+   "lider": 477,
    "degisim": 12,
    "esitlik": 6
   },
@@ -795,12 +795,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "09:37",
+  "saat": "09:36",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1206,
+  "simdi": 1223,
   "d": [
    [
     0,
@@ -1949,7 +1949,7 @@
    "ev": {
     "oyuncular": {
      "5": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -1976,7 +1976,7 @@
       "vp": 0
      },
      "9": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2003,11 +2003,11 @@
       "vp": 0
      },
      "15": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
-       0
+       1
       ],
       "uc": [
        0,
@@ -2027,10 +2027,10 @@
       "faul": 0,
       "af": 1,
       "pm": 0,
-      "vp": 0
+      "vp": -1
      },
      "23": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2057,7 +2057,7 @@
       "vp": 0
      },
      "33": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2088,14 +2088,14 @@
      "hr": 0,
      "sr": 0,
      "rib": 0,
-     "tk": 0,
+     "tk": 1,
      "faul": 0
     }
    },
    "dep": {
     "oyuncular": {
      "4": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2122,7 +2122,7 @@
       "vp": 0
      },
      "0": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2141,15 +2141,15 @@
       "rib": 0,
       "ast": 0,
       "tc": 0,
-      "blk": 0,
+      "blk": 1,
       "tk": 0,
       "faul": 0,
       "af": 0,
       "pm": 0,
-      "vp": 0
+      "vp": 1
      },
      "14": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2176,7 +2176,7 @@
       "vp": 0
      },
      "13": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2203,7 +2203,7 @@
       "vp": 0
      },
      "9": {
-      "sn": 6,
+      "sn": 23,
       "sayi": 0,
       "iki": [
        0,
@@ -2314,7 +2314,7 @@
     "benc": 0,
     "fark": 0,
     "seri": 0,
-    "lider": 6,
+    "lider": 23,
     "degisim": 0,
     "esitlik": 0
    }
