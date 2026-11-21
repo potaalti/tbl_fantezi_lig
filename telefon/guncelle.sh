@@ -1,8 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Telefonda 15 dakikada bir tetiklenir (Android daha sık izin vermez). Şarjı korumak için:
-#   - Maç saatlerinde (bir maçın başlamasına 10 dk kala, o maç TBF'de kesinleşene kadar; en fazla
-#     4 saat): telefon uyanık kalır ve 3 dakikada bir günceller (wake lock). Maç saatleri telefondaki
-#     son veriden okunur (TBL ve BSL'nin bu ve gelecek haftası, Cuma maçları dahil).
+#   - Maç günü: o günün ilk maçından 3 saat önceden son maç bitene kadar telefon uyanık kalır (wake lock)
+#     ve maç saatlerinde (bir maçın başlamasına 10 dk kala, o maç TBF'de kesinleşene kadar; en fazla 4 saat)
+#     3 dakikada bir günceller; maç aralarında bekler. 2026-11-21: Android telefonu uyutunca 15 dakikalık görev
+#     saatlerce tetiklenmedi (10:13'ten sonra hiç), 13:00 maçının döngüsü hiç başlamadı; artık maçtan 3 saat
+#     önceki herhangi bir tetikleme yeter. Maç saatleri telefondaki son veriden okunur (TBL ve BSL'nin bu ve
+#     gelecek haftası, Cuma maçları dahil). Döngü maç saatinde Pota Altı App'in telefon görevini de (BSL
+#     Fantezi canlı VP) çalıştırır.
 #   - Maç yokken: günde 2 güncelleme, 12:00'de (fikstür, maç saatleri, TBL kadroları) ve 23:00'te
 #     (maç sonrası kesin sonuçlar).
 #   - Diğer bütün tetiklemeler internete bile bağlanmadan hemen kapanır.
@@ -40,6 +44,23 @@ for m in maclar:
     if baslama - timedelta(minutes=10) <= simdi <= baslama + timedelta(hours=4):
         sys.exit(0)
 sys.exit(1)
+PY
+}
+
+# Maç günü penceresinde miyiz? Bugün bitmemiş (saati belli) maç varsa: ilk maçtan 3 saat önceden son maçın
+# başlamasından 4 saat sonrasına kadar (bitmiş maçlar sayılmaz: hepsi bitince pencere kapanır)
+mac_gunu_mu() {
+  python - "$DEPO/site/data/hafta/index.json" <<'PY'
+import json, os, sys
+from datetime import datetime, timedelta
+try:
+    maclar = json.load(open(sys.argv[1], encoding="utf-8")).get("macSaatleri", [])
+except Exception:
+    sys.exit(1)
+simdi = datetime.fromisoformat(os.environ["TBL_SIMDI"]) if os.environ.get("TBL_SIMDI") else datetime.now()
+bugun = [datetime.fromisoformat(m["tarih"]) for m in maclar
+         if not m.get("bitti") and not m["tarih"].endswith("T00:00:00") and m["tarih"].startswith(simdi.strftime("%Y-%m-%d"))]
+sys.exit(0 if bugun and min(bugun) - timedelta(hours=3) <= simdi <= max(bugun) + timedelta(hours=4) else 1)
 PY
 }
 
@@ -127,17 +148,27 @@ kirp() {
   tail -n 500 "$LOG" > "$LOG.tmp" && mv "$LOG.tmp" "$LOG"
 }
 
-# Maç saatleri boyunca 3 dakikada bir güncelle; bu sırada telefon uyumasın
+# Maç günü penceresi boyunca telefon uyumasın; maç saatlerinde 3 dakikada bir güncelle (TBL/BSL canlı skor ve
+# Pota Altı App'in BSL Fantezi canlı VP'si), maç aralarında dakikada bir bak. 12:00/23:00 günlük güncellemesi de
+# döngü içinde yapılır (döngü çalışırken 15 dakikalık tetikleme hemen çıkar).
 mac_dongusu() {
   echo $$ > "$DONGU_PID"
   nabiz
   termux-wake-lock
-  echo "=== $(date '+%H:%M') maç saati: ${MAC_ARALIK_SN} sn'de bir güncellenecek ===" >> "$LOG"
-  while mac_saatinde_mi; do
+  echo "=== $(date '+%H:%M') maç günü: telefon uyanık, maç saatlerinde ${MAC_ARALIK_SN} sn'de bir güncellenecek ===" >> "$LOG"
+  while mac_saatinde_mi || mac_gunu_mu; do
     nabiz
-    guncelle >> "$LOG" 2>&1
-    kirp
-    sleep "$MAC_ARALIK_SN"
+    if mac_saatinde_mi; then
+      guncelle >> "$LOG" 2>&1
+      nabiz
+      # Süre sınırı nabız sınırının (10 dk) altında: uzun sürse de bekçi döngüyü takıldı sanmasın
+      [ -f "$HOME/pota-alti-app/telefon/guncelle.sh" ] && timeout 480 bash "$HOME/pota-alti-app/telefon/guncelle.sh"
+      kirp
+      sleep "$MAC_ARALIK_SN"
+    else
+      if gunluk_guncelleme_zamani_mi; then guncelle gunluk >> "$LOG" 2>&1; kirp; fi
+      sleep 60
+    fi
   done
   echo "=== $(date '+%H:%M') maç saati bitti, normal düzene dönüldü ===" >> "$LOG"
   termux-wake-unlock
@@ -150,7 +181,7 @@ if [ "$1" = "tam" ]; then
   guncelle tam >> "$LOG" 2>&1; kirp
 elif dongu_calisiyor_mu; then
   :
-elif mac_saatinde_mi; then
+elif mac_saatinde_mi || mac_gunu_mu; then
   mac_dongusu
 elif gunluk_guncelleme_zamani_mi; then
   guncelle gunluk >> "$LOG" 2>&1; kirp
