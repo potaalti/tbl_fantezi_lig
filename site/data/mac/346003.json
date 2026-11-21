@@ -13,7 +13,7 @@
     "ad": "Ömer Utku Al",
     "no": "3",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 3,
     "iki": [
      0,
@@ -45,7 +45,7 @@
     "ad": "Samet Geyik",
     "no": "4",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 2,
     "iki": [
      1,
@@ -77,7 +77,7 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 0,
     "iki": [
      0,
@@ -94,14 +94,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
     "pm": "1",
-    "vp": 0,
+    "vp": 1,
     "sahada": true
    },
    {
@@ -109,7 +109,7 @@
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 0,
     "iki": [
      0,
@@ -141,7 +141,7 @@
     "ad": "Mert Celep",
     "no": "35",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 0,
     "iki": [
      0,
@@ -404,7 +404,7 @@
    "benc": 0,
    "fark": 1,
    "seri": 3,
-   "lider": 47,
+   "lider": 61,
    "degisim": 3,
    "esitlik": 0
   },
@@ -419,7 +419,7 @@
     "ad": "Deandre Pinckney",
     "no": "2",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 2,
     "iki": [
      1,
@@ -439,11 +439,11 @@
     "ast": 0,
     "tc": 1,
     "blk": 0,
-    "tk": 1,
+    "tk": 2,
     "faul": 0,
     "af": 0,
     "pm": "-1",
-    "vp": 1,
+    "vp": 0,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 0,
     "iki": [
      0,
@@ -483,7 +483,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 2,
     "iki": [
      1,
@@ -515,7 +515,7 @@
     "ad": "Ahmet Can Duran",
     "no": "10",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 0,
     "iki": [
      0,
@@ -547,7 +547,7 @@
     "ad": "Kaan Sarıaslan",
     "no": "13",
     "ilk5": true,
-    "sure": "2:49",
+    "sure": "3:03",
     "sayi": 0,
     "iki": [
      0,
@@ -791,12 +791,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "07:10",
+  "saat": "06:57",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 169,
+  "simdi": 182,
   "d": [
    [
     0,
@@ -826,7 +826,7 @@
    "ev": {
     "oyuncular": {
      "3": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 3,
       "iki": [
        0,
@@ -853,7 +853,7 @@
       "vp": 2
      },
      "33": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 0,
       "iki": [
        0,
@@ -880,7 +880,7 @@
       "vp": 1
      },
      "4": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 2,
       "iki": [
        1,
@@ -907,7 +907,7 @@
       "vp": 3
      },
      "35": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 0,
       "iki": [
        0,
@@ -934,7 +934,7 @@
       "vp": -1
      },
      "11": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 0,
       "iki": [
        0,
@@ -951,14 +951,14 @@
       "hr": 0,
       "sr": 0,
       "rib": 0,
-      "ast": 0,
+      "ast": 1,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 0,
       "pm": 1,
-      "vp": 0
+      "vp": 1
      }
     },
     "takim": {
@@ -972,7 +972,7 @@
    "dep": {
     "oyuncular": {
      "2": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 2,
       "iki": [
        1,
@@ -992,14 +992,14 @@
       "ast": 0,
       "tc": 1,
       "blk": 0,
-      "tk": 1,
+      "tk": 2,
       "faul": 0,
       "af": 0,
       "pm": -1,
-      "vp": 1
+      "vp": 0
      },
      "4": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 0,
       "iki": [
        0,
@@ -1026,7 +1026,7 @@
       "vp": 1
      },
      "10": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 0,
       "iki": [
        0,
@@ -1053,7 +1053,7 @@
       "vp": -1
      },
      "13": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 0,
       "iki": [
        0,
@@ -1080,7 +1080,7 @@
       "vp": 0
      },
      "9": {
-      "sn": 169,
+      "sn": 182,
       "sayi": 2,
       "iki": [
        1,
@@ -1127,7 +1127,7 @@
     "benc": 0,
     "fark": 1,
     "seri": 3,
-    "lider": 47,
+    "lider": 60,
     "degisim": 3,
     "esitlik": 0
    },
