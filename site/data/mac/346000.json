@@ -540,7 +540,8 @@
     "faul": 1,
     "af": 2,
     "pm": "-6",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "284498",
@@ -697,8 +698,7 @@
     "faul": 2,
     "af": 2,
     "pm": "-5",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "570021",
@@ -825,8 +825,8 @@
  "salon": "Kahramanmaraş Merkez Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
-  "periyot": 3,
-  "saat": "00:00",
+  "periyot": 4,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
