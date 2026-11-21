@@ -13,7 +13,7 @@
     "ad": "Ömer Utku Al",
     "no": "3",
     "ilk5": true,
-    "sure": "13:13",
+    "sure": "13:27",
     "sayi": 5,
     "iki": [
      1,
@@ -76,7 +76,7 @@
     "ad": "Scoochie Smith",
     "no": "11",
     "ilk5": true,
-    "sure": "14:23",
+    "sure": "14:36",
     "sayi": 7,
     "iki": [
      1,
@@ -108,7 +108,7 @@
     "ad": "Alp Karahan",
     "no": "33",
     "ilk5": true,
-    "sure": "14:16",
+    "sure": "14:30",
     "sayi": 5,
     "iki": [
      1,
@@ -140,7 +140,7 @@
     "ad": "Mert Celep",
     "no": "35",
     "ilk5": true,
-    "sure": "9:24",
+    "sure": "9:38",
     "sayi": 0,
     "iki": [
      0,
@@ -164,14 +164,15 @@
     "faul": 1,
     "af": 0,
     "pm": "-1",
-    "vp": -3
+    "vp": -3,
+    "sahada": true
    },
    {
     "id": "379651",
     "ad": "Sarp Coşkun",
     "no": "0",
     "ilk5": false,
-    "sure": "4:55",
+    "sure": "5:09",
     "sayi": 0,
     "iki": [
      0,
@@ -195,7 +196,8 @@
     "faul": 1,
     "af": 0,
     "pm": "0",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "25674",
@@ -319,8 +321,7 @@
     "faul": 2,
     "af": 3,
     "pm": "3",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    },
    {
     "id": "132328",
@@ -351,8 +352,7 @@
     "faul": 0,
     "af": 0,
     "pm": "6",
-    "vp": 10,
-    "sahada": true
+    "vp": 10
    },
    {
     "id": "210255",
@@ -405,7 +405,7 @@
    "benc": 15,
    "fark": 3,
    "seri": 5,
-   "lider": 567,
+   "lider": 580,
    "degisim": 11,
    "esitlik": 6
   },
@@ -451,7 +451,7 @@
     "ad": "Emir Arda Sivas",
     "no": "4",
     "ilk5": true,
-    "sure": "19:00",
+    "sure": "19:14",
     "sayi": 6,
     "iki": [
      0,
@@ -483,7 +483,7 @@
     "ad": "Fatih Cantitiz",
     "no": "9",
     "ilk5": true,
-    "sure": "18:24",
+    "sure": "18:37",
     "sayi": 10,
     "iki": [
      1,
@@ -546,7 +546,7 @@
     "ad": "Kaan Sarıaslan",
     "no": "13",
     "ilk5": true,
-    "sure": "18:01",
+    "sure": "18:15",
     "sayi": 3,
     "iki": [
      1,
@@ -578,7 +578,7 @@
     "ad": "Berke Atar",
     "no": "0",
     "ilk5": false,
-    "sure": "10:47",
+    "sure": "11:01",
     "sayi": 6,
     "iki": [
      3,
@@ -672,7 +672,7 @@
     "ad": "Rijad Aydın",
     "no": "14",
     "ilk5": false,
-    "sure": "5:40",
+    "sure": "5:54",
     "sayi": 2,
     "iki": [
      0,
@@ -793,12 +793,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 2,
-  "saat": "00:15",
+  "saat": "00:02",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1185,
+  "simdi": 1198,
   "d": [
    [
     0,
@@ -1486,7 +1486,7 @@
       "vp": 8
      },
      "0": {
-      "sn": 248,
+      "sn": 261,
       "sayi": 0,
       "iki": [
        0,
@@ -1594,7 +1594,7 @@
       "vp": 1
      },
      "35": {
-      "sn": 220,
+      "sn": 233,
       "sayi": 0,
       "iki": [
        0,
@@ -1621,7 +1621,7 @@
       "vp": -1
      },
      "3": {
-      "sn": 395,
+      "sn": 408,
       "sayi": 0,
       "iki": [
        0,
@@ -1648,7 +1648,7 @@
       "vp": -1
      },
      "33": {
-      "sn": 395,
+      "sn": 408,
       "sayi": 2,
       "iki": [
        1,
@@ -1675,7 +1675,7 @@
       "vp": 2
      },
      "11": {
-      "sn": 310,
+      "sn": 323,
       "sayi": 5,
       "iki": [
        1,
@@ -1713,7 +1713,7 @@
    "dep": {
     "oyuncular": {
      "14": {
-      "sn": 341,
+      "sn": 354,
       "sayi": 2,
       "iki": [
        0,
@@ -1767,7 +1767,7 @@
       "vp": -2
      },
      "4": {
-      "sn": 541,
+      "sn": 554,
       "sayi": 0,
       "iki": [
        0,
@@ -1794,7 +1794,7 @@
       "vp": -2
      },
      "0": {
-      "sn": 392,
+      "sn": 405,
       "sayi": 2,
       "iki": [
        1,
@@ -1848,7 +1848,7 @@
       "vp": 1
      },
      "9": {
-      "sn": 551,
+      "sn": 564,
       "sayi": 4,
       "iki": [
        0,
@@ -1875,7 +1875,7 @@
       "vp": 3
      },
      "13": {
-      "sn": 482,
+      "sn": 495,
       "sayi": 1,
       "iki": [
        0,
@@ -1975,7 +1975,7 @@
     "benc": 10,
     "fark": 3,
     "seri": 5,
-    "lider": 412,
+    "lider": 425,
     "degisim": 5,
     "esitlik": 2
    },
@@ -2001,7 +2001,7 @@
     "benc": 15,
     "fark": 3,
     "seri": 5,
-    "lider": 567,
+    "lider": 580,
     "degisim": 11,
     "esitlik": 6
    },
