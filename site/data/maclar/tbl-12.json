@@ -59,30 +59,12 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-21T19:30:00",
-   "durum": "canli",
+   "durum": "bitti",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
-   "evSkor": "89",
+   "evSkor": "90",
    "depSkor": "88",
    "salon": "TOBB ETÜ Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 1,
-    "saat": "00:04",
-    "uzatma": true
-   }
-  },
-  {
-   "id": 346007,
-   "lig": "tbl",
-   "hafta": 12,
-   "tarih": "2026-11-22T16:00:00",
-   "durum": "oynanmadi",
-   "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "dep": "OGM ORMANSPOR",
-   "evSkor": null,
-   "depSkor": null,
-   "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
@@ -96,6 +78,19 @@
    "evSkor": null,
    "depSkor": null,
    "salon": "Tofaş Spor Salonu",
+   "yayin": "Youtube / TBF TV"
+  },
+  {
+   "id": 346007,
+   "lig": "tbl",
+   "hafta": 12,
+   "tarih": "2026-11-22T16:00:00",
+   "durum": "oynanmadi",
+   "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "dep": "OGM ORMANSPOR",
+   "evSkor": null,
+   "depSkor": null,
+   "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV"
   },
   {
