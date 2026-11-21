@@ -20,13 +20,18 @@
    "lig": "bsl",
    "hafta": 9,
    "tarih": "2026-11-21T15:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "TÜRK TELEKOM",
    "dep": "TOFAŞ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "0",
    "salon": "Ankara Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:37",
+    "uzatma": false
+   }
   },
   {
    "id": 346338,
