@@ -59,13 +59,18 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-21T19:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "TOBB ETÜ Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:40",
+    "uzatma": false
+   }
   },
   {
    "id": 346007,

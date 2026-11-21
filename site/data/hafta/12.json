@@ -58,13 +58,18 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-21T19:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "dep": "BÜYÜKÇEKMECE BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "TOBB ETÜ Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:40",
+    "uzatma": false
+   }
   },
   {
    "id": 346007,
@@ -942,6 +947,222 @@
    "saniye": 603,
    "maclar": [
     346000
+   ]
+  },
+  "500173": {
+   "ad": "Kahlil Dukes",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": -1,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "27582": {
+   "ad": "Hazer Avcı",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "623478": {
+   "ad": "Jamari Traylor",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "109425": {
+   "ad": "Oğuzhan Tosun",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "261226": {
+   "ad": "Efe Sert",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "460265": {
+   "ad": "Efe Kemal Akayın",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "257055": {
+   "ad": "Zahid İsaoğlu",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "247538": {
+   "ad": "Ayberk Olmaz",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "230701": {
+   "ad": "Eray Aydoğan",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "380032": {
+   "ad": "Arda Birkeser",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "209010": {
+   "ad": "Oktay Güneş",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "401353": {
+   "ad": "Mert Can Yılmam",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "665900": {
+   "ad": "Jordan Barnes",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 1,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "198380": {
+   "ad": "Tevfik Akdamar",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "139924": {
+   "ad": "Kerem Aydan Özel",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "111242": {
+   "ad": "Oğulcan Baykan",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "616402": {
+   "ad": "Julien Ducree",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 20,
+   "maclar": [
+    346006
+   ]
+  },
+  "502279": {
+   "ad": "Edin Baçevaç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "229642": {
+   "ad": "Gökhan Akkoyun",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "116084": {
+   "ad": "Mustafa Baştürk",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "332044": {
+   "ad": "Enes Tunç",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "350568": {
+   "ad": "Bora Can Işık",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "134523": {
+   "ad": "Kemal Can Aktuna",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
+   ]
+  },
+  "55533": {
+   "ad": "Can Uğur Öğüt",
+   "takim": "BÜYÜKÇEKMECE BASKETBOL",
+   "vp": 0,
+   "saniye": 0,
+   "maclar": [
+    346006
    ]
   }
  }
