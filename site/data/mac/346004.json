@@ -44,7 +44,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "26:57",
+    "sure": "27:00",
     "sayi": 9,
     "iki": [
      2,
@@ -76,7 +76,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "21:20",
+    "sure": "21:23",
     "sayi": 9,
     "iki": [
      1,
@@ -100,14 +100,15 @@
     "faul": 1,
     "af": 1,
     "pm": "-7",
-    "vp": 6
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "189840",
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "26:59",
+    "sure": "27:03",
     "sayi": 12,
     "iki": [
      4,
@@ -232,7 +233,7 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "7:56",
+    "sure": "7:59",
     "sayi": 0,
     "iki": [
      0,
@@ -264,7 +265,7 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": false,
-    "sure": "8:43",
+    "sure": "8:46",
     "sayi": 2,
     "iki": [
      1,
@@ -351,8 +352,7 @@
     "faul": 1,
     "af": 0,
     "pm": "6",
-    "vp": 8,
-    "sahada": true
+    "vp": 8
    }
   ],
   "ceyrekler": [
@@ -452,7 +452,7 @@
     "ad": "Hakan Yapar",
     "no": "15",
     "ilk5": true,
-    "sure": "13:11",
+    "sure": "13:14",
     "sayi": 6,
     "iki": [
      0,
@@ -515,7 +515,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": true,
-    "sure": "16:25",
+    "sure": "16:28",
     "sayi": 6,
     "iki": [
      1,
@@ -547,7 +547,7 @@
     "ad": "Yiğit Özkan",
     "no": "2",
     "ilk5": false,
-    "sure": "10:58",
+    "sure": "11:01",
     "sayi": 2,
     "iki": [
      1,
@@ -579,7 +579,7 @@
     "ad": "Ege Havsa",
     "no": "5",
     "ilk5": false,
-    "sure": "7:28",
+    "sure": "7:31",
     "sayi": 0,
     "iki": [
      0,
@@ -704,7 +704,7 @@
     "ad": "Yiğit Baran Sarıkaya",
     "no": "32",
     "ilk5": false,
-    "sure": "15:44",
+    "sure": "15:47",
     "sayi": 16,
     "iki": [
      6,
@@ -783,7 +783,7 @@
    "benc": 20,
    "fark": 9,
    "seri": 8,
-   "lider": 1575,
+   "lider": 1578,
    "degisim": 0,
    "esitlik": 5
   },
@@ -795,12 +795,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "00:03",
+  "saat": "00:00",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1797,
+  "simdi": 1800,
   "d": [
    [
     0,
@@ -2157,7 +2157,7 @@
    "ev": {
     "oyuncular": {
      "11": {
-      "sn": 378,
+      "sn": 381,
       "sayi": 0,
       "iki": [
        0,
@@ -2184,7 +2184,7 @@
       "vp": -1
      },
      "21": {
-      "sn": 514,
+      "sn": 517,
       "sayi": 8,
       "iki": [
        3,
@@ -2238,7 +2238,7 @@
       "vp": 4
      },
      "8": {
-      "sn": 597,
+      "sn": 600,
       "sayi": 1,
       "iki": [
        0,
@@ -2292,7 +2292,7 @@
       "vp": 2
      },
      "13": {
-      "sn": 302,
+      "sn": 305,
       "sayi": 0,
       "iki": [
        0,
@@ -2373,7 +2373,7 @@
       "vp": 1
      },
      "22": {
-      "sn": 36,
+      "sn": 39,
       "sayi": 0,
       "iki": [
        0,
@@ -2438,7 +2438,7 @@
       "vp": 6
      },
      "32": {
-      "sn": 597,
+      "sn": 600,
       "sayi": 8,
       "iki": [
        2,
@@ -2546,7 +2546,7 @@
       "vp": -1
      },
      "2": {
-      "sn": 342,
+      "sn": 345,
       "sayi": 0,
       "iki": [
        0,
@@ -2573,7 +2573,7 @@
       "vp": 1
      },
      "23": {
-      "sn": 342,
+      "sn": 345,
       "sayi": 2,
       "iki": [
        1,
@@ -2600,7 +2600,7 @@
       "vp": 3
      },
      "5": {
-      "sn": 148,
+      "sn": 151,
       "sayi": 0,
       "iki": [
        0,
@@ -2627,7 +2627,7 @@
       "vp": 1
      },
      "15": {
-      "sn": 148,
+      "sn": 151,
       "sayi": 0,
       "iki": [
        0,
@@ -2738,7 +2738,7 @@
     "benc": 10,
     "fark": 9,
     "seri": 8,
-    "lider": 446,
+    "lider": 449,
     "degisim": 0,
     "esitlik": 2
    }
