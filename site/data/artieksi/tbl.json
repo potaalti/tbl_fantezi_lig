@@ -16111,7 +16111,7 @@
     "ad": "Erdem İlter",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": 9,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16120,7 +16120,7 @@
     "ad": "Jarmar Gulley",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": 8,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -16129,7 +16129,7 @@
     "ad": "Mehmet Fırat Alemdaroğlu",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": 8,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16137,8 +16137,8 @@
     "id": "786709",
     "ad": "Deandre Pinckney",
     "takim": "GÖZTEPE ISONEM",
-    "pm": 7,
-    "fark": 0,
+    "pm": 8,
+    "fark": 1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -16182,8 +16182,8 @@
     "id": "316467",
     "ad": "Emir Arda Sivas",
     "takim": "GÖZTEPE ISONEM",
-    "pm": 5,
-    "fark": 0,
+    "pm": 6,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16193,6 +16193,24 @@
     "takim": "YALOVA HAREM SPOR",
     "pm": 5,
     "fark": 15,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "196982",
+    "ad": "Ahmet Can Duran",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 4,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "287583",
+    "ad": "Eray Büyükcangaz",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 4,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16211,24 +16229,6 @@
     "takim": "MKE ANKARAGÜCÜ",
     "pm": 3,
     "fark": -5,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "196982",
-    "ad": "Ahmet Can Duran",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 3,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "287583",
-    "ad": "Eray Büyükcangaz",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 3,
-    "fark": 0,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16278,29 +16278,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "132341",
+    "ad": "Kaan Sarıaslan",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": 2,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "354964",
     "ad": "Arda Özdoğan",
     "takim": "KİPAŞ K.B.B.",
     "pm": 2,
     "fark": 5,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "132341",
-    "ad": "Kaan Sarıaslan",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 1,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "58437",
-    "ad": "Utku Yücedağ",
-    "takim": "GAZİANTEP BASKETBOL",
-    "pm": 1,
-    "fark": 0,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16359,6 +16350,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "58437",
+    "ad": "Utku Yücedağ",
+    "takim": "GAZİANTEP BASKETBOL",
+    "pm": 0,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "404462",
     "ad": "Yağız Cumalıoğlu",
     "takim": "FENERBAHÇE GELİŞİM",
@@ -16386,15 +16386,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "51504",
-    "ad": "Samet Geyik",
-    "takim": "GAZİANTEP BASKETBOL",
-    "pm": -1,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "340042",
     "ad": "Ata Engin",
     "takim": "CEDİ OSMAN BASKETBOL",
@@ -16411,6 +16402,15 @@
     "fark": -5,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "51504",
+    "ad": "Samet Geyik",
+    "takim": "GAZİANTEP BASKETBOL",
+    "pm": -2,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "229233",
@@ -16440,20 +16440,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "163820",
-    "ad": "Berke Atar",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": -3,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "210255",
     "ad": "Emre Tanışan",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": -3,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16462,16 +16453,16 @@
     "ad": "Mert Celep",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": -3,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "379651",
-    "ad": "Sarp Coşkun",
-    "takim": "GAZİANTEP BASKETBOL",
+    "id": "163820",
+    "ad": "Berke Atar",
+    "takim": "GÖZTEPE ISONEM",
     "pm": -3,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16485,11 +16476,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "153295",
-    "ad": "Ömer Utku Al",
+    "id": "379651",
+    "ad": "Sarp Coşkun",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": -4,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16528,6 +16519,15 @@
     "fark": -5,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "153295",
+    "ad": "Ömer Utku Al",
+    "takim": "GAZİANTEP BASKETBOL",
+    "pm": -5,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "214552",
@@ -16570,18 +16570,9 @@
     "ad": "Alp Karahan",
     "takim": "GAZİANTEP BASKETBOL",
     "pm": -6,
-    "fark": 0,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "736200",
-    "ad": "Scoochie Smith",
-    "takim": "GAZİANTEP BASKETBOL",
-    "pm": -6,
-    "fark": 0,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "343659",
@@ -16593,11 +16584,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "736200",
+    "ad": "Scoochie Smith",
+    "takim": "GAZİANTEP BASKETBOL",
+    "pm": -7,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "39445",
     "ad": "Fatih Cantitiz",
     "takim": "GÖZTEPE ISONEM",
     "pm": -7,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16651,7 +16651,7 @@
     "ad": "Rijad Aydın",
     "takim": "GÖZTEPE ISONEM",
     "pm": -9,
-    "fark": 0,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16830,21 +16830,21 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "316467",
+   "ad": "Emir Arda Sivas",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 84,
+   "fark": 91,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "305920",
    "ad": "Batın Tuna",
    "takim": "KİPAŞ K.B.B.",
    "pm": 83,
    "fark": 85,
    "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "316467",
-   "ad": "Emir Arda Sivas",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 83,
-   "fark": 90,
-   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16860,8 +16860,8 @@
    "id": "132341",
    "ad": "Kaan Sarıaslan",
    "takim": "GÖZTEPE ISONEM",
-   "pm": 68,
-   "fark": 137,
+   "pm": 69,
+   "fark": 138,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -16905,8 +16905,8 @@
    "id": "196982",
    "ad": "Ahmet Can Duran",
    "takim": "GÖZTEPE ISONEM",
-   "pm": 62,
-   "fark": 90,
+   "pm": 63,
+   "fark": 91,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -16933,7 +16933,7 @@
    "ad": "Alp Karahan",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 61,
-   "fark": 137,
+   "fark": 136,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -16987,7 +16987,7 @@
    "ad": "Emre Tanışan",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 47,
-   "fark": 35,
+   "fark": 34,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -16996,7 +16996,7 @@
    "ad": "Rijad Aydın",
    "takim": "GÖZTEPE ISONEM",
    "pm": 47,
-   "fark": 90,
+   "fark": 91,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17014,9 +17014,18 @@
    "ad": "Jarmar Gulley",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 43,
-   "fark": 31,
+   "fark": 30,
    "mac": 7,
    "ulke": "ABD"
+  },
+  {
+   "id": "132328",
+   "ad": "Mehmet Fırat Alemdaroğlu",
+   "takim": "GAZİANTEP BASKETBOL",
+   "pm": 40,
+   "fark": 34,
+   "mac": 10,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "616402",
@@ -17028,12 +17037,12 @@
    "ulke": "ABD"
   },
   {
-   "id": "132328",
-   "ad": "Mehmet Fırat Alemdaroğlu",
-   "takim": "GAZİANTEP BASKETBOL",
-   "pm": 40,
-   "fark": 35,
-   "mac": 10,
+   "id": "287583",
+   "ad": "Eray Büyükcangaz",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 38,
+   "fark": 91,
+   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17046,15 +17055,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "287583",
-   "ad": "Eray Büyükcangaz",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 37,
-   "fark": 90,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "220370",
    "ad": "Yiğit Özkan",
    "takim": "YALOVA HAREM SPOR",
@@ -17064,21 +17064,21 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "379651",
-   "ad": "Sarp Coşkun",
-   "takim": "GAZİANTEP BASKETBOL",
-   "pm": 36,
-   "fark": 44,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "207867",
    "ad": "Mert Konuk",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
    "pm": 35,
    "fark": -26,
    "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "379651",
+   "ad": "Sarp Coşkun",
+   "takim": "GAZİANTEP BASKETBOL",
+   "pm": 35,
+   "fark": 43,
+   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17104,7 +17104,7 @@
    "ad": "Berke Atar",
    "takim": "GÖZTEPE ISONEM",
    "pm": 34,
-   "fark": 90,
+   "fark": 91,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17127,15 +17127,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "58437",
-   "ad": "Utku Yücedağ",
-   "takim": "GAZİANTEP BASKETBOL",
-   "pm": 31,
-   "fark": 44,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "202113",
    "ad": "Deniz Çelen",
    "takim": "KİPAŞ K.B.B.",
@@ -17145,11 +17136,11 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "51504",
-   "ad": "Samet Geyik",
+   "id": "58437",
+   "ad": "Utku Yücedağ",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 30,
-   "fark": 44,
+   "fark": 43,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17177,6 +17168,15 @@
    "takim": "iLab BASKETBOL",
    "pm": 29,
    "fark": 13,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "51504",
+   "ad": "Samet Geyik",
+   "takim": "GAZİANTEP BASKETBOL",
+   "pm": 29,
+   "fark": 43,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17244,15 +17244,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "153295",
-   "ad": "Ömer Utku Al",
-   "takim": "GAZİANTEP BASKETBOL",
-   "pm": 22,
-   "fark": 37,
-   "mac": 4,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "401353",
    "ad": "Mert Can Yılmam",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
@@ -17271,6 +17262,24 @@
    "ulke": "ABD"
   },
   {
+   "id": "153295",
+   "ad": "Ömer Utku Al",
+   "takim": "GAZİANTEP BASKETBOL",
+   "pm": 21,
+   "fark": 36,
+   "mac": 4,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "786709",
+   "ad": "Deandre Pinckney",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 20,
+   "fark": 32,
+   "mac": 2,
+   "ulke": "ABD"
+  },
+  {
    "id": "222929",
    "ad": "Orhan Hacıyeva",
    "takim": "MERSİN SPOR",
@@ -17278,15 +17287,6 @@
    "fark": 81,
    "mac": 6,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "786709",
-   "ad": "Deandre Pinckney",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 19,
-   "fark": 31,
-   "mac": 2,
-   "ulke": "ABD"
   },
   {
    "id": "460265",
@@ -17316,15 +17316,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "736200",
-   "ad": "Scoochie Smith",
-   "takim": "GAZİANTEP BASKETBOL",
-   "pm": 16,
-   "fark": 44,
-   "mac": 11,
-   "ulke": "ABD"
-  },
-  {
    "id": "14106",
    "ad": "Doğan Şenli",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
@@ -17341,6 +17332,15 @@
    "fark": 24,
    "mac": 10,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "736200",
+   "ad": "Scoochie Smith",
+   "takim": "GAZİANTEP BASKETBOL",
+   "pm": 15,
+   "fark": 43,
+   "mac": 11,
+   "ulke": "ABD"
   },
   {
    "id": "229233",
@@ -17437,7 +17437,7 @@
    "ad": "Fatih Cantitiz",
    "takim": "GÖZTEPE ISONEM",
    "pm": 11,
-   "fark": 77,
+   "fark": 78,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -17716,7 +17716,7 @@
    "ad": "Mert Celep",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 2,
-   "fark": 66,
+   "fark": 65,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -17761,7 +17761,7 @@
    "ad": "Erdem İlter",
    "takim": "GAZİANTEP BASKETBOL",
    "pm": 1,
-   "fark": 33,
+   "fark": 32,
    "mac": 8,
    "ulke": "TÜRKİYE"
   },
