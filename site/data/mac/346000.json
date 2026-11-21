@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "KİPAŞ K.B.B.",
-  "skor": "35",
+  "skor": "36",
   "oyuncular": [
    {
     "id": "214552",
     "ad": "Burak Gözeneli",
     "no": "4",
     "ilk5": true,
-    "sure": "13:41",
+    "sure": "13:53",
     "sayi": 5,
     "iki": [
      1,
@@ -45,7 +45,7 @@
     "ad": "Koray Çekici",
     "no": "6",
     "ilk5": true,
-    "sure": "12:40",
+    "sure": "12:52",
     "sayi": 2,
     "iki": [
      1,
@@ -139,7 +139,7 @@
     "ad": "Ike Nweke",
     "no": "15",
     "ilk5": true,
-    "sure": "17:16",
+    "sure": "17:28",
     "sayi": 10,
     "iki": [
      3,
@@ -202,7 +202,7 @@
     "ad": "Brandon Jefferson",
     "no": "3",
     "ilk5": false,
-    "sure": "12:34",
+    "sure": "12:46",
     "sayi": 9,
     "iki": [
      1,
@@ -234,7 +234,7 @@
     "ad": "Kaya Bayram",
     "no": "5",
     "ilk5": false,
-    "sure": "6:47",
+    "sure": "6:59",
     "sayi": 3,
     "iki": [
      0,
@@ -406,7 +406,7 @@
    "benc": 16,
    "fark": 12,
    "seri": 9,
-   "lider": 704,
+   "lider": 716,
    "degisim": 6,
    "esitlik": 4
   },
@@ -421,7 +421,7 @@
     "ad": "Jacob Pullen",
     "no": "0",
     "ilk5": true,
-    "sure": "19:22",
+    "sure": "19:34",
     "sayi": 2,
     "iki": [
      1,
@@ -453,7 +453,7 @@
     "ad": "Tyler Harris",
     "no": "8",
     "ilk5": true,
-    "sure": "16:35",
+    "sure": "16:47",
     "sayi": 11,
     "iki": [
      4,
@@ -485,7 +485,7 @@
     "ad": "Mevlüt Melih Doğan",
     "no": "9",
     "ilk5": true,
-    "sure": "17:59",
+    "sure": "18:11",
     "sayi": 2,
     "iki": [
      1,
@@ -517,7 +517,7 @@
     "ad": "İbrahim Pınarer",
     "no": "10",
     "ilk5": true,
-    "sure": "9:21",
+    "sure": "9:33",
     "sayi": 3,
     "iki": [
      1,
@@ -549,7 +549,7 @@
     "ad": "İnanç Mert Hotamış",
     "no": "33",
     "ilk5": true,
-    "sure": "12:40",
+    "sure": "12:52",
     "sayi": 3,
     "iki": [
      1,
@@ -820,13 +820,13 @@
   },
   "koc": "İhsan Behçet Üner"
  },
- "evSkor": "35",
+ "evSkor": "36",
  "depSkor": "30",
  "salon": "Kahramanmaraş Merkez Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "09:46",
+  "saat": "09:44",
   "uzatma": false
  },
  "fark": {
@@ -972,6 +972,10 @@
    [
     1163,
     5
+   ],
+   [
+    1214,
+    6
    ]
   ]
  },
@@ -2080,7 +2084,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": 1,
       "vp": 0
      },
      "5": {
@@ -2107,7 +2111,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": 1,
       "vp": 0
      },
      "6": {
@@ -2134,7 +2138,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": 1,
       "vp": 0
      },
      "4": {
@@ -2155,18 +2159,18 @@
       "hr": 0,
       "sr": 0,
       "rib": 0,
-      "ast": 0,
+      "ast": 1,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": 0
+      "pm": 1,
+      "vp": 1
      },
      "15": {
       "sn": 14,
-      "sayi": 0,
+      "sayi": 1,
       "iki": [
        0,
        0
@@ -2176,8 +2180,8 @@
        0
       ],
       "sa": [
-       0,
-       1
+       1,
+       2
       ],
       "hr": 0,
       "sr": 0,
@@ -2188,8 +2192,8 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 0,
-      "vp": -1
+      "pm": 1,
+      "vp": 0
      }
     },
     "takim": {
@@ -2226,7 +2230,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -1,
       "vp": 0
      },
      "33": {
@@ -2253,7 +2257,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -1,
       "vp": 0
      },
      "9": {
@@ -2280,7 +2284,7 @@
       "tk": 0,
       "faul": 1,
       "af": 0,
-      "pm": 0,
+      "pm": -1,
       "vp": 0
      },
      "0": {
@@ -2307,7 +2311,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -1,
       "vp": 0
      },
      "8": {
@@ -2334,7 +2338,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -1,
       "vp": 0
      }
     },
@@ -2408,8 +2412,8 @@
     "is": 0,
     "ba": 0,
     "benc": 0,
-    "fark": 0,
-    "seri": 0,
+    "fark": 6,
+    "seri": 1,
     "lider": 14,
     "degisim": 0,
     "esitlik": 0
