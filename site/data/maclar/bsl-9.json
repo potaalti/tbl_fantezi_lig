@@ -7,13 +7,18 @@
    "lig": "bsl",
    "hafta": 9,
    "tarih": "2026-11-21T13:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KARŞIYAKA",
    "dep": "YUKATEL DENİZLİ BASKET",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "11",
+   "depSkor": "16",
    "salon": "Mustafa Kemal Atatürk Karşıyaka Spor Salonu",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "02:56",
+    "uzatma": false
+   }
   },
   {
    "id": 346340,
