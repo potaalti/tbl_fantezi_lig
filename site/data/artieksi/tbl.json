@@ -16048,7 +16048,7 @@
     "ad": "Alihan Deniz Genç",
     "takim": "YALOVA HAREM SPOR",
     "pm": 9,
-    "fark": 6,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16057,7 +16057,7 @@
     "ad": "Hakan Yapar",
     "takim": "YALOVA HAREM SPOR",
     "pm": 9,
-    "fark": 6,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16075,7 +16075,7 @@
     "ad": "Abdoulaye Gueye",
     "takim": "YALOVA HAREM SPOR",
     "pm": 6,
-    "fark": 6,
+    "fark": 4,
     "mac": 1,
     "ulke": "SENEGAL"
    },
@@ -16084,7 +16084,7 @@
     "ad": "Dorukhan Engindeniz",
     "takim": "YALOVA HAREM SPOR",
     "pm": 6,
-    "fark": 6,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16093,9 +16093,18 @@
     "ad": "Samuel Lee Sessoms",
     "takim": "YALOVA HAREM SPOR",
     "pm": 6,
-    "fark": 6,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "222955",
+    "ad": "Nusret Yıldırım",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": 4,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "231062",
@@ -16116,11 +16125,20 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "222955",
-    "ad": "Nusret Yıldırım",
+    "id": "467246",
+    "ad": "Ahmet Arda Aydın",
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": 2,
-    "fark": -6,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "340042",
+    "ad": "Ata Engin",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": 2,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16152,51 +16170,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "467246",
-    "ad": "Ahmet Arda Aydın",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": 0,
-    "fark": -6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "340042",
-    "ad": "Ata Engin",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": 0,
-    "fark": -6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "196310",
-    "ad": "Berke Aygündüz",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "113781",
-    "ad": "Ege Havsa",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "202372",
-    "ad": "Yiğit Baran Sarıkaya",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "404462",
     "ad": "Yağız Cumalıoğlu",
     "takim": "FENERBAHÇE GELİŞİM",
@@ -16215,6 +16188,33 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "196310",
+    "ad": "Berke Aygündüz",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": -2,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "113781",
+    "ad": "Ege Havsa",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": -2,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "202372",
+    "ad": "Yiğit Baran Sarıkaya",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": -2,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "378297",
     "ad": "Eren Deniz",
     "takim": "FENERBAHÇE GELİŞİM",
@@ -16224,20 +16224,20 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "304808",
-    "ad": "Ege Özçelik",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": -3,
-    "fark": 6,
+    "id": "189840",
+    "ad": "Umut Geçen",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -4,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "108904",
-    "ad": "Metin Türen",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": -3,
-    "fark": 6,
+    "id": "224801",
+    "ad": "Ömercan Engin",
+    "takim": "CEDİ OSMAN BASKETBOL",
+    "pm": -4,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16251,38 +16251,38 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "304808",
+    "ad": "Ege Özçelik",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": -5,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "108904",
+    "ad": "Metin Türen",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": -5,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": -6,
-    "fark": -6,
+    "fark": -4,
     "mac": 1,
     "ulke": "KAMERUN"
-   },
-   {
-    "id": "189840",
-    "ad": "Umut Geçen",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": -6,
-    "fark": -6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "56403",
     "ad": "Ömer Sancaklı",
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": -6,
-    "fark": -6,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "224801",
-    "ad": "Ömercan Engin",
-    "takim": "CEDİ OSMAN BASKETBOL",
-    "pm": -6,
-    "fark": -6,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16291,7 +16291,7 @@
     "ad": "Ali Işık",
     "takim": "CEDİ OSMAN BASKETBOL",
     "pm": -8,
-    "fark": -6,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16411,7 +16411,7 @@
    "ad": "Samuel Lee Sessoms",
    "takim": "YALOVA HAREM SPOR",
    "pm": 87,
-   "fark": 132,
+   "fark": 130,
    "mac": 12,
    "ulke": "ABD"
   },
@@ -16420,7 +16420,7 @@
    "ad": "Dorukhan Engindeniz",
    "takim": "YALOVA HAREM SPOR",
    "pm": 86,
-   "fark": 116,
+   "fark": 114,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -16434,22 +16434,22 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "108904",
-   "ad": "Metin Türen",
-   "takim": "YALOVA HAREM SPOR",
-   "pm": 84,
-   "fark": 132,
-   "mac": 12,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "471743",
    "ad": "Abdoulaye Gueye",
    "takim": "YALOVA HAREM SPOR",
    "pm": 82,
-   "fark": 132,
+   "fark": 130,
    "mac": 12,
    "ulke": "SENEGAL"
+  },
+  {
+   "id": "108904",
+   "ad": "Metin Türen",
+   "takim": "YALOVA HAREM SPOR",
+   "pm": 82,
+   "fark": 130,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "316467",
@@ -16473,8 +16473,8 @@
    "id": "304808",
    "ad": "Ege Özçelik",
    "takim": "YALOVA HAREM SPOR",
-   "pm": 72,
-   "fark": 129,
+   "pm": 70,
+   "fark": 127,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -16482,8 +16482,8 @@
    "id": "113781",
    "ad": "Ege Havsa",
    "takim": "YALOVA HAREM SPOR",
-   "pm": 72,
-   "fark": 132,
+   "pm": 70,
+   "fark": 130,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -16527,8 +16527,8 @@
    "id": "196310",
    "ad": "Berke Aygündüz",
    "takim": "YALOVA HAREM SPOR",
-   "pm": 66,
-   "fark": 124,
+   "pm": 64,
+   "fark": 122,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -16560,21 +16560,21 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "202372",
-   "ad": "Yiğit Baran Sarıkaya",
-   "takim": "YALOVA HAREM SPOR",
-   "pm": 57,
-   "fark": 116,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "384273",
    "ad": "Rijad Aydın",
    "takim": "GÖZTEPE ISONEM",
    "pm": 56,
    "fark": 90,
    "mac": 10,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "202372",
+   "ad": "Yiğit Baran Sarıkaya",
+   "takim": "YALOVA HAREM SPOR",
+   "pm": 55,
+   "fark": 114,
+   "mac": 11,
    "ulke": "TÜRKİYE"
   },
   {
@@ -16663,7 +16663,7 @@
    "ad": "Hakan Yapar",
    "takim": "YALOVA HAREM SPOR",
    "pm": 37,
-   "fark": 132,
+   "fark": 130,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -16888,7 +16888,7 @@
    "ad": "Alihan Deniz Genç",
    "takim": "YALOVA HAREM SPOR",
    "pm": 20,
-   "fark": 24,
+   "fark": 22,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17253,6 +17253,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "222955",
+   "ad": "Nusret Yıldırım",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": 4,
+   "fark": -4,
+   "mac": 1,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "117624",
    "ad": "İlker Tunalı",
    "takim": "FİNALSPOR",
@@ -17286,15 +17295,6 @@
    "pm": 3,
    "fark": 42,
    "mac": 2,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "222955",
-   "ad": "Nusret Yıldırım",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": 2,
-   "fark": -6,
-   "mac": 1,
    "ulke": "TÜRKİYE"
   },
   {
@@ -17878,7 +17878,7 @@
    "ad": "Mbala Mendzana",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -16,
-   "fark": -49,
+   "fark": -47,
    "mac": 4,
    "ulke": "KAMERUN"
   },
@@ -17982,6 +17982,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "467246",
+   "ad": "Ahmet Arda Aydın",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": -20,
+   "fark": -116,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "393345",
    "ad": "Eren İlyem",
    "takim": "DARÜŞŞAFAKA",
@@ -18051,15 +18060,6 @@
    "pm": -21,
    "fark": 34,
    "mac": 5,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "467246",
-   "ad": "Ahmet Arda Aydın",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -22,
-   "fark": -118,
-   "mac": 12,
    "ulke": "TÜRKİYE"
   },
   {
@@ -18166,7 +18166,7 @@
    "ad": "Ali Işık",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -31,
-   "fark": -118,
+   "fark": -116,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -18243,6 +18243,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "189840",
+   "ad": "Umut Geçen",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": -39,
+   "fark": -105,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "777244",
    "ad": "Justyn Alonzo Hamilton",
    "takim": "FENERBAHÇE GELİŞİM",
@@ -18266,15 +18275,6 @@
    "takim": "DARÜŞŞAFAKA",
    "pm": -40,
    "fark": -59,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "189840",
-   "ad": "Umut Geçen",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -41,
-   "fark": -107,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -18351,21 +18351,21 @@
    "ulke": "ABD"
   },
   {
+   "id": "340042",
+   "ad": "Ata Engin",
+   "takim": "CEDİ OSMAN BASKETBOL",
+   "pm": -57,
+   "fark": -116,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "335737",
    "ad": "Emirali Göktürk",
    "takim": "MKE ANKARAGÜCÜ",
    "pm": -57,
    "fark": -30,
    "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "340042",
-   "ad": "Ata Engin",
-   "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -59,
-   "fark": -118,
-   "mac": 12,
    "ulke": "TÜRKİYE"
   },
   {
@@ -18517,7 +18517,7 @@
    "ad": "Ömer Sancaklı",
    "takim": "CEDİ OSMAN BASKETBOL",
    "pm": -105,
-   "fark": -118,
+   "fark": -116,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -18525,8 +18525,8 @@
    "id": "224801",
    "ad": "Ömercan Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "pm": -118,
-   "fark": -118,
+   "pm": -116,
+   "fark": -116,
    "mac": 12,
    "ulke": "TÜRKİYE"
   }
