@@ -36,7 +36,7 @@
    "durum": "canli",
    "ev": "GAZİANTEP BASKETBOL",
    "dep": "GÖZTEPE ISONEM",
-   "evSkor": "22",
+   "evSkor": "23",
    "depSkor": "24",
    "salon": "Kamil Ocak Spor Salonu",
    "yayin": "Youtube / TBF TV",
@@ -51,13 +51,18 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-21T16:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "KİPAŞ K.B.B.",
    "dep": "MKE ANKARAGÜCÜ",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Kahramanmaraş Merkez Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:28",
+    "uzatma": false
+   }
   },
   {
    "id": 346006,
