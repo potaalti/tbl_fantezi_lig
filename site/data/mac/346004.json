@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "54",
+  "skor": "55",
   "oyuncular": [
    {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "20:27",
+    "sure": "20:52",
     "sayi": 10,
     "iki": [
      4,
@@ -45,7 +45,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "28:21",
+    "sure": "28:46",
     "sayi": 9,
     "iki": [
      2,
@@ -77,7 +77,7 @@
     "ad": "Ömer Sancaklı",
     "no": "11",
     "ilk5": true,
-    "sure": "22:44",
+    "sure": "23:09",
     "sayi": 9,
     "iki": [
      1,
@@ -109,7 +109,7 @@
     "ad": "Umut Geçen",
     "no": "21",
     "ilk5": true,
-    "sure": "28:24",
+    "sure": "28:49",
     "sayi": 12,
     "iki": [
      4,
@@ -327,7 +327,7 @@
     "ad": "Nusret Yıldırım",
     "no": "57",
     "ilk5": false,
-    "sure": "20:03",
+    "sure": "20:28",
     "sayi": 6,
     "iki": [
      2,
@@ -391,7 +391,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "23:50",
+    "sure": "24:15",
     "sayi": 15,
     "iki": [
      1,
@@ -423,7 +423,7 @@
     "ad": "Abdoulaye Gueye",
     "no": "10",
     "ilk5": true,
-    "sure": "22:56",
+    "sure": "23:21",
     "sayi": 9,
     "iki": [
      4,
@@ -455,7 +455,7 @@
     "ad": "Hakan Yapar",
     "no": "15",
     "ilk5": true,
-    "sure": "14:35",
+    "sure": "15:00",
     "sayi": 6,
     "iki": [
      0,
@@ -487,7 +487,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": true,
-    "sure": "20:36",
+    "sure": "21:01",
     "sayi": 6,
     "iki": [
      0,
@@ -519,7 +519,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": true,
-    "sure": "17:49",
+    "sure": "18:14",
     "sayi": 6,
     "iki": [
      1,
@@ -785,13 +785,13 @@
    "benc": 20,
    "fark": 9,
    "seri": 8,
-   "lider": 1659,
+   "lider": 1684,
    "degisim": 0,
    "esitlik": 5
   },
   "koc": "Faruk Beşok"
  },
- "evSkor": "54",
+ "evSkor": "55",
  "depSkor": "62",
  "salon": "Gazanfer Bilge Spor Salonu",
  "yayin": "Youtube / TBF TV",
@@ -1055,6 +1055,10 @@
    [
     1881,
     -8
+   ],
+   [
+    1881,
+    -7
    ]
   ]
  },
@@ -2706,7 +2710,7 @@
      },
      "57": {
       "sn": 81,
-      "sayi": 1,
+      "sayi": 2,
       "iki": [
        0,
        0
@@ -2716,8 +2720,8 @@
        0
       ],
       "sa": [
-       1,
-       1
+       2,
+       2
       ],
       "hr": 0,
       "sr": 0,
@@ -2728,8 +2732,8 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": -2,
-      "vp": 1
+      "pm": -1,
+      "vp": 2
      },
      "8": {
       "sn": 81,
@@ -2755,7 +2759,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -2,
+      "pm": -1,
       "vp": 0
      },
      "21": {
@@ -2782,7 +2786,7 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": -2,
+      "pm": -1,
       "vp": 0
      },
      "11": {
@@ -2809,7 +2813,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -2,
+      "pm": -1,
       "vp": 1
      },
      "00": {
@@ -2836,7 +2840,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 1,
+      "pm": 2,
       "vp": 0
      }
     },
@@ -2874,7 +2878,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 2,
+      "pm": 1,
       "vp": 1
      },
      "10": {
@@ -2901,7 +2905,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 2,
+      "pm": 1,
       "vp": -1
      },
      "21": {
@@ -2928,7 +2932,7 @@
       "tk": 0,
       "faul": 2,
       "af": 0,
-      "pm": 2,
+      "pm": 1,
       "vp": 3
      },
      "15": {
@@ -2955,7 +2959,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 2,
+      "pm": 1,
       "vp": 0
      },
      "23": {
@@ -2982,7 +2986,7 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 2,
+      "pm": 1,
       "vp": 0
      }
     },
@@ -3081,9 +3085,9 @@
     "hh": 0,
     "is": 0,
     "ba": 0,
-    "benc": 1,
+    "benc": 2,
     "fark": 0,
-    "seri": 1,
+    "seri": 2,
     "lider": 0,
     "degisim": 0,
     "esitlik": 0
@@ -3133,7 +3137,7 @@
     "hh": 3,
     "is": 0,
     "ba": 8,
-    "benc": 1,
+    "benc": 2,
     "fark": 0,
     "seri": 5,
     "lider": 0,
