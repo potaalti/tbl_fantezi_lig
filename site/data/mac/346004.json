@@ -13,7 +13,7 @@
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "14:06",
+    "sure": "14:11",
     "sayi": 5,
     "iki": [
      2,
@@ -45,7 +45,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "16:53",
+    "sure": "16:58",
     "sayi": 8,
     "iki": [
      2,
@@ -101,8 +101,7 @@
     "faul": 1,
     "af": 1,
     "pm": "-2",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "189840",
@@ -133,8 +132,7 @@
     "faul": 1,
     "af": 4,
     "pm": "-2",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "35766",
@@ -234,7 +232,7 @@
     "ad": "Demir Öztürk",
     "no": "13",
     "ilk5": false,
-    "sure": "2:47",
+    "sure": "2:52",
     "sayi": 0,
     "iki": [
      0,
@@ -258,14 +256,15 @@
     "faul": 1,
     "af": 0,
     "pm": "1",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "340042",
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": false,
-    "sure": "8:00",
+    "sure": "8:05",
     "sayi": 2,
     "iki": [
      1,
@@ -289,7 +288,8 @@
     "faul": 1,
     "af": 1,
     "pm": "3",
-    "vp": 4
+    "vp": 4,
+    "sahada": true
    },
    {
     "id": "467246",
@@ -327,7 +327,7 @@
     "ad": "Nusret Yıldırım",
     "no": "57",
     "ilk5": false,
-    "sure": "10:04",
+    "sure": "10:09",
     "sayi": 4,
     "iki": [
      2,
@@ -389,7 +389,7 @@
     "ad": "Samuel Lee Sessoms",
     "no": "3",
     "ilk5": true,
-    "sure": "14:53",
+    "sure": "14:58",
     "sayi": 12,
     "iki": [
      1,
@@ -445,8 +445,7 @@
     "faul": 1,
     "af": 1,
     "pm": "3",
-    "vp": 15,
-    "sahada": true
+    "vp": 15
    },
    {
     "id": "221455",
@@ -484,7 +483,7 @@
     "ad": "Dorukhan Engindeniz",
     "no": "21",
     "ilk5": true,
-    "sure": "14:53",
+    "sure": "14:58",
     "sayi": 3,
     "iki": [
      0,
@@ -516,7 +515,7 @@
     "ad": "Alihan Deniz Genç",
     "no": "23",
     "ilk5": true,
-    "sure": "10:36",
+    "sure": "10:41",
     "sayi": 4,
     "iki": [
      0,
@@ -548,7 +547,7 @@
     "ad": "Yiğit Özkan",
     "no": "2",
     "ilk5": false,
-    "sure": "5:09",
+    "sure": "5:14",
     "sayi": 2,
     "iki": [
      1,
@@ -572,7 +571,8 @@
     "faul": 1,
     "af": 1,
     "pm": "1",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "113781",
@@ -610,7 +610,7 @@
     "ad": "Metin Türen",
     "no": "7",
     "ilk5": false,
-    "sure": "9:10",
+    "sure": "9:15",
     "sayi": 0,
     "iki": [
      0,
@@ -781,7 +781,7 @@
    "benc": 10,
    "fark": 9,
    "seri": 7,
-   "lider": 1122,
+   "lider": 1127,
    "degisim": 0,
    "esitlik": 3
   },
