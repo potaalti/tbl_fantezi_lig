@@ -13,7 +13,7 @@
     "ad": "Fredrick Earl Cleveland",
     "no": "2",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 6,
     "iki": [
      0,
@@ -37,15 +37,14 @@
     "faul": 1,
     "af": 0,
     "pm": "3",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "117624",
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 1,
     "iki": [
      0,
@@ -77,7 +76,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 0,
     "iki": [
      0,
@@ -109,7 +108,7 @@
     "ad": "Eric Buckner",
     "no": "23",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 2,
     "iki": [
      1,
@@ -129,11 +128,11 @@
     "ast": 0,
     "tc": 0,
     "blk": 1,
-    "tk": 1,
+    "tk": 2,
     "faul": 1,
     "af": 0,
     "pm": "3",
-    "vp": 3,
+    "vp": 2,
     "sahada": true
    },
    {
@@ -141,7 +140,7 @@
     "ad": "Mithat Can Özalp",
     "no": "61",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 3,
     "iki": [
      0,
@@ -321,7 +320,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "275328",
@@ -404,7 +404,7 @@
    "benc": 0,
    "fark": 7,
    "seri": 8,
-   "lider": 255,
+   "lider": 266,
    "degisim": 2,
    "esitlik": 0
   },
@@ -419,7 +419,7 @@
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 7,
     "iki": [
      3,
@@ -451,7 +451,7 @@
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 0,
     "iki": [
      0,
@@ -483,7 +483,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 2,
     "iki": [
      1,
@@ -500,14 +500,14 @@
     "hr": 0,
     "sr": 2,
     "rib": 2,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 1,
     "af": 1,
     "pm": "-3",
-    "vp": 4,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -515,7 +515,7 @@
     "ad": "Faik Can Kaşıkçı",
     "no": "8",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 0,
     "iki": [
      0,
@@ -547,7 +547,7 @@
     "ad": "Nihat Atalan",
     "no": "26",
     "ilk5": true,
-    "sure": "5:03",
+    "sure": "5:14",
     "sayi": 0,
     "iki": [
      0,
@@ -791,12 +791,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "04:57",
+  "saat": "04:46",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 303,
+  "simdi": 314,
   "d": [
    [
     0,
@@ -850,7 +850,7 @@
    "ev": {
     "oyuncular": {
      "20": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 0,
       "iki": [
        0,
@@ -873,11 +873,11 @@
       "tk": 1,
       "faul": 0,
       "af": 0,
-      "pm": 5,
+      "pm": 3,
       "vp": 0
      },
      "15": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 1,
       "iki": [
        0,
@@ -900,11 +900,11 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 5,
+      "pm": 3,
       "vp": 3
      },
      "61": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 3,
       "iki": [
        0,
@@ -927,11 +927,11 @@
       "tk": 0,
       "faul": 2,
       "af": 0,
-      "pm": 5,
+      "pm": 3,
       "vp": 6
      },
      "2": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 6,
       "iki": [
        0,
@@ -954,11 +954,11 @@
       "tk": 1,
       "faul": 1,
       "af": 0,
-      "pm": 5,
+      "pm": 3,
       "vp": 5
      },
      "23": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 2,
       "iki": [
        1,
@@ -978,11 +978,38 @@
       "ast": 0,
       "tc": 0,
       "blk": 1,
-      "tk": 1,
+      "tk": 2,
       "faul": 1,
       "af": 0,
-      "pm": 5,
-      "vp": 3
+      "pm": 3,
+      "vp": 2
+     },
+     "27": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
      }
     },
     "takim": {
@@ -996,7 +1023,7 @@
    "dep": {
     "oyuncular": {
      "8": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 0,
       "iki": [
        0,
@@ -1019,15 +1046,15 @@
       "tk": 0,
       "faul": 0,
       "af": 2,
-      "pm": -5,
+      "pm": -3,
       "vp": -1
      },
      "2": {
-      "sn": 303,
-      "sayi": 5,
+      "sn": 314,
+      "sayi": 7,
       "iki": [
-       2,
-       4
+       3,
+       5
       ],
       "uc": [
        0,
@@ -1046,11 +1073,11 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": -5,
-      "vp": 3
+      "pm": -3,
+      "vp": 5
      },
      "3": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 0,
       "iki": [
        0,
@@ -1073,11 +1100,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -5,
+      "pm": -3,
       "vp": 2
      },
      "26": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 0,
       "iki": [
        0,
@@ -1100,11 +1127,11 @@
       "tk": 3,
       "faul": 0,
       "af": 0,
-      "pm": -5,
+      "pm": -3,
       "vp": -2
      },
      "6": {
-      "sn": 303,
+      "sn": 314,
       "sayi": 2,
       "iki": [
        1,
@@ -1121,14 +1148,14 @@
       "hr": 0,
       "sr": 2,
       "rib": 2,
-      "ast": 0,
+      "ast": 1,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 1,
       "af": 1,
-      "pm": -5,
-      "vp": 4
+      "pm": -3,
+      "vp": 5
      }
     },
     "takim": {
@@ -1151,7 +1178,7 @@
     "benc": 0,
     "fark": 7,
     "seri": 8,
-    "lider": 255,
+    "lider": 266,
     "degisim": 2,
     "esitlik": 0
    },
@@ -1160,7 +1187,7 @@
     "hh": 2,
     "is": 0,
     "ba": 8,
-    "benc": 2,
+    "benc": 0,
     "fark": 1,
     "seri": 4,
     "lider": 9,
