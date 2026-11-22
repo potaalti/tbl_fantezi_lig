@@ -12105,33 +12105,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "502492",
-    "ad": "Aleksej Nikolic",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 12,
-    "fark": 12,
-    "mac": 1,
-    "ulke": "SLOVENYA"
-   },
-   {
-    "id": "779275",
-    "ad": "Chimezie Metu",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 12,
-    "fark": 12,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "250129",
-    "ad": "Şehmus Hazer",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 12,
-    "fark": 12,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "668012",
     "ad": "Kris Bankston",
     "takim": "TÜRK TELEKOM",
@@ -12190,7 +12163,7 @@
     "ad": "Oumar Ballo",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 9,
-    "fark": 12,
+    "fark": 8,
     "mac": 1,
     "ulke": "MALİ"
    },
@@ -12204,13 +12177,31 @@
     "ulke": "ABD"
    },
    {
-    "id": "781548",
-    "ad": "Kj Simpson",
+    "id": "502492",
+    "ad": "Aleksej Nikolic",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 8,
-    "fark": 12,
+    "fark": 8,
+    "mac": 1,
+    "ulke": "SLOVENYA"
+   },
+   {
+    "id": "779275",
+    "ad": "Chimezie Metu",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 8,
+    "fark": 8,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "250129",
+    "ad": "Şehmus Hazer",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 8,
+    "fark": 8,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "776654",
@@ -12361,7 +12352,16 @@
     "ad": "Jerome Robinson Jr.",
     "takim": "GALATASARAY MCT TECHNIC",
     "pm": 4,
-    "fark": 12,
+    "fark": 8,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "781548",
+    "ad": "Kj Simpson",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": 4,
+    "fark": 8,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12420,15 +12420,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "779278",
-    "ad": "Alen Smailagic",
-    "takim": "GALATASARAY MCT TECHNIC",
-    "pm": 3,
-    "fark": 12,
-    "mac": 1,
-    "ulke": "SIRBİSTAN"
-   },
-   {
     "id": "278617",
     "ad": "Erten Gazi",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12454,6 +12445,15 @@
     "fark": 7,
     "mac": 1,
     "ulke": "POLONYA"
+   },
+   {
+    "id": "778279",
+    "ad": "Chris Horton",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": 1,
+    "fark": -8,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "410874",
@@ -12618,6 +12618,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "779278",
+    "ad": "Alen Smailagic",
+    "takim": "GALATASARAY MCT TECHNIC",
+    "pm": -1,
+    "fark": 8,
+    "mac": 1,
+    "ulke": "SIRBİSTAN"
+   },
+   {
     "id": "408785",
     "ad": "Anıl Alyanak",
     "takim": "TÜRK TELEKOM",
@@ -12625,6 +12634,15 @@
     "fark": 17,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778246",
+    "ad": "Max Abmas",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": -2,
+    "fark": -8,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "129295",
@@ -12670,15 +12688,6 @@
     "fark": -17,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778279",
-    "ad": "Chris Horton",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": -3,
-    "fark": -12,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "411169",
@@ -12829,16 +12838,7 @@
     "ad": "Khyri Thomas",
     "takim": "ALİAĞA PETKİM SPOR",
     "pm": -6,
-    "fark": -12,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "778246",
-    "ad": "Max Abmas",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": -6,
-    "fark": -12,
+    "fark": -8,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12951,6 +12951,33 @@
     "ulke": "ABD"
    },
    {
+    "id": "778249",
+    "ad": "Keandre Cook",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": -8,
+    "fark": -8,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "572386",
+    "ad": "Olivier Hanlan",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": -8,
+    "fark": -8,
+    "mac": 1,
+    "ulke": "KANADA"
+   },
+   {
+    "id": "310250",
+    "ad": "Yiğit Onan",
+    "takim": "ALİAĞA PETKİM SPOR",
+    "pm": -8,
+    "fark": -8,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "778183",
     "ad": "Paulius Danusevicius",
     "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -12964,7 +12991,7 @@
     "ad": "Anzejs Pasecniks",
     "takim": "ALİAĞA PETKİM SPOR",
     "pm": -9,
-    "fark": -12,
+    "fark": -8,
     "mac": 1,
     "ulke": "LETONYA"
    },
@@ -13055,33 +13082,6 @@
     "takim": "BİOTEKNO KÖRFEZ BASKET",
     "pm": -12,
     "fark": -36,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778249",
-    "ad": "Keandre Cook",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": -12,
-    "fark": -12,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "572386",
-    "ad": "Olivier Hanlan",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": -12,
-    "fark": -12,
-    "mac": 1,
-    "ulke": "KANADA"
-   },
-   {
-    "id": "310250",
-    "ad": "Yiğit Onan",
-    "takim": "ALİAĞA PETKİM SPOR",
-    "pm": -12,
-    "fark": -12,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -13215,15 +13215,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "779278",
-   "ad": "Alen Smailagic",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 81,
-   "fark": 75,
-   "mac": 9,
-   "ulke": "SIRBİSTAN"
-  },
-  {
    "id": "131296",
    "ad": "Kenan Sipahi",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -13231,6 +13222,15 @@
    "fark": 115,
    "mac": 9,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "779278",
+   "ad": "Alen Smailagic",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 77,
+   "fark": 71,
+   "mac": 9,
+   "ulke": "SIRBİSTAN"
   },
   {
    "id": "668012",
@@ -13278,15 +13278,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "779275",
-   "ad": "Chimezie Metu",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 57,
-   "fark": 75,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "384595",
    "ad": "Mateusz Ponitka",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -13296,11 +13287,20 @@
    "ulke": "POLONYA"
   },
   {
+   "id": "779275",
+   "ad": "Chimezie Metu",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 53,
+   "fark": 71,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "781548",
    "ad": "Kj Simpson",
    "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 56,
-   "fark": 64,
+   "pm": 52,
+   "fark": 60,
    "mac": 6,
    "ulke": "ABD"
   },
@@ -13395,15 +13395,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "502492",
-   "ad": "Aleksej Nikolic",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 41,
-   "fark": 75,
-   "mac": 9,
-   "ulke": "SLOVENYA"
-  },
-  {
    "id": "418533",
    "ad": "Uros Trifunovic",
    "takim": "TÜRK TELEKOM",
@@ -13431,11 +13422,20 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "502492",
+   "ad": "Aleksej Nikolic",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 37,
+   "fark": 71,
+   "mac": 9,
+   "ulke": "SLOVENYA"
+  },
+  {
    "id": "736340",
    "ad": "Jerome Robinson Jr.",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": 36,
-   "fark": 80,
+   "fark": 76,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -13463,6 +13463,15 @@
    "takim": "TRABZONSPOR",
    "pm": 33,
    "fark": -23,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "310250",
+   "ad": "Yiğit Onan",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": 33,
+   "fark": -3,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13503,13 +13512,13 @@
    "ulke": "ABD"
   },
   {
-   "id": "310250",
-   "ad": "Yiğit Onan",
+   "id": "778279",
+   "ad": "Chris Horton",
    "takim": "ALİAĞA PETKİM SPOR",
-   "pm": 29,
-   "fark": -7,
+   "pm": 28,
+   "fark": -3,
    "mac": 9,
-   "ulke": "TÜRKİYE"
+   "ulke": "ABD"
   },
   {
    "id": "281408",
@@ -13517,15 +13526,6 @@
    "takim": "ANADOLU EFES",
    "pm": 28,
    "fark": 51,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "250129",
-   "ad": "Şehmus Hazer",
-   "takim": "GALATASARAY MCT TECHNIC",
-   "pm": 28,
-   "fark": 75,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13557,20 +13557,20 @@
    "ulke": "KANADA"
   },
   {
+   "id": "778249",
+   "ad": "Keandre Cook",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": 25,
+   "fark": -3,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "609083",
    "ad": "Steven Enoch",
    "takim": "KARŞIYAKA",
    "pm": 24,
    "fark": -14,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
-   "id": "778279",
-   "ad": "Chris Horton",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": 24,
-   "fark": -7,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -13593,6 +13593,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "250129",
+   "ad": "Şehmus Hazer",
+   "takim": "GALATASARAY MCT TECHNIC",
+   "pm": 24,
+   "fark": 71,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "609095",
    "ad": "Marcquise Reed",
    "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -13611,20 +13620,11 @@
    "ulke": "İSPANYA"
   },
   {
-   "id": "778249",
-   "ad": "Keandre Cook",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": 21,
-   "fark": -7,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "516236",
    "ad": "Khyri Thomas",
    "takim": "ALİAĞA PETKİM SPOR",
    "pm": 21,
-   "fark": -7,
+   "fark": -3,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14227,7 +14227,7 @@
    "ad": "Oumar Ballo",
    "takim": "GALATASARAY MCT TECHNIC",
    "pm": -3,
-   "fark": 75,
+   "fark": 71,
    "mac": 9,
    "ulke": "MALİ"
   },
@@ -14394,6 +14394,15 @@
    "ulke": "LİTVANYA"
   },
   {
+   "id": "778246",
+   "ad": "Max Abmas",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": -7,
+   "fark": -3,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
    "id": "470574",
    "ad": "Keye Van der Vuurst",
    "takim": "ESENLER EROKSPOR",
@@ -14466,6 +14475,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "572386",
+   "ad": "Olivier Hanlan",
+   "takim": "ALİAĞA PETKİM SPOR",
+   "pm": -9,
+   "fark": -3,
+   "mac": 9,
+   "ulke": "KANADA"
+  },
+  {
    "id": "689440",
    "ad": "PJ Dozier",
    "takim": "ANADOLU EFES",
@@ -14520,15 +14538,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "778246",
-   "ad": "Max Abmas",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": -11,
-   "fark": -7,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "777634",
    "ad": "Daquan Jeffries",
    "takim": "BEŞİKTAŞ FUZUL",
@@ -14572,15 +14581,6 @@
    "fark": -56,
    "mac": 9,
    "ulke": "ABD"
-  },
-  {
-   "id": "572386",
-   "ad": "Olivier Hanlan",
-   "takim": "ALİAĞA PETKİM SPOR",
-   "pm": -13,
-   "fark": -7,
-   "mac": 9,
-   "ulke": "KANADA"
   },
   {
    "id": "666515",
@@ -15019,7 +15019,7 @@
    "ad": "Anzejs Pasecniks",
    "takim": "ALİAĞA PETKİM SPOR",
    "pm": -36,
-   "fark": -7,
+   "fark": -3,
    "mac": 9,
    "ulke": "LETONYA"
   },
