@@ -16246,7 +16246,7 @@
     "ad": "Ahmet Kutay Güneş",
     "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
     "pm": 6,
-    "fark": 1,
+    "fark": 2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16291,7 +16291,7 @@
     "ad": "Diante Watkins",
     "takim": "OGM ORMANSPOR",
     "pm": 4,
-    "fark": -1,
+    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -16300,7 +16300,7 @@
     "ad": "Koray Uzunhasan",
     "takim": "OGM ORMANSPOR",
     "pm": 4,
-    "fark": -1,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16309,7 +16309,7 @@
     "ad": "Tolga Kaan Birer",
     "takim": "OGM ORMANSPOR",
     "pm": 4,
-    "fark": -1,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16318,7 +16318,7 @@
     "ad": "Berkay Bayar",
     "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
     "pm": 4,
-    "fark": 1,
+    "fark": 2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16431,33 +16431,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "777505",
-    "ad": "Jaquan Elijah Scott",
-    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-    "pm": 2,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "245190",
-    "ad": "Muhammet Engin Kalkan",
-    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-    "pm": 2,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "758770",
-    "ad": "Tavian Dunn-Martin",
-    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-    "pm": 2,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "224189",
     "ad": "Arda Berk Kaya",
     "takim": "FİNALSPOR",
@@ -16476,6 +16449,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "777505",
+    "ad": "Jaquan Elijah Scott",
+    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "267856",
     "ad": "Mithat Can Özalp",
     "takim": "FİNALSPOR",
@@ -16483,6 +16465,24 @@
     "fark": 2,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "245190",
+    "ad": "Muhammet Engin Kalkan",
+    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "758770",
+    "ad": "Tavian Dunn-Martin",
+    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "117624",
@@ -16591,6 +16591,15 @@
     "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "426948",
+    "ad": "Yiğithan Ergenç",
+    "takim": "MERSİN SPOR",
+    "pm": 0,
+    "fark": -2,
+    "mac": 1,
+    "ulke": ""
    },
    {
     "id": "380032",
@@ -16710,6 +16719,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "109594",
+    "ad": "Göktürk Gökalp Ural",
+    "takim": "OGM ORMANSPOR",
+    "pm": -2,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "343369",
     "ad": "Nihat Atalan",
     "takim": "MERSİN SPOR",
@@ -16717,6 +16735,15 @@
     "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "501170",
+    "ad": "Tobin Carberry",
+    "takim": "OGM ORMANSPOR",
+    "pm": -2,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "320264",
@@ -16728,29 +16755,11 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "109594",
-    "ad": "Göktürk Gökalp Ural",
-    "takim": "OGM ORMANSPOR",
-    "pm": -2,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "501170",
-    "ad": "Tobin Carberry",
-    "takim": "OGM ORMANSPOR",
-    "pm": -2,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "153011",
     "ad": "Harun Can Doğan",
     "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
     "pm": -2,
-    "fark": 1,
+    "fark": 2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16813,7 +16822,7 @@
     "ad": "Cem Küçüközkan",
     "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
     "pm": -4,
-    "fark": 1,
+    "fark": 2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16921,7 +16930,7 @@
     "ad": "Arca Tülüoğlu",
     "takim": "OGM ORMANSPOR",
     "pm": -6,
-    "fark": -1,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16930,7 +16939,7 @@
     "ad": "Mustafa Baki Görür",
     "takim": "OGM ORMANSPOR",
     "pm": -6,
-    "fark": -1,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -16939,7 +16948,7 @@
     "ad": "Tuna Han Dikmen",
     "takim": "OGM ORMANSPOR",
     "pm": -6,
-    "fark": -1,
+    "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17293,7 +17302,7 @@
    "ad": "Arca Tülüoğlu",
    "takim": "OGM ORMANSPOR",
    "pm": 79,
-   "fark": 125,
+   "fark": 124,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17392,7 +17401,7 @@
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
    "pm": 57,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17689,7 +17698,7 @@
    "ad": "Ahmet Kutay Güneş",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": 23,
-   "fark": -39,
+   "fark": -38,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -17743,7 +17752,7 @@
    "ad": "Muhammet Engin Kalkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": 19,
-   "fark": 3,
+   "fark": 4,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -17752,7 +17761,7 @@
    "ad": "Koray Uzunhasan",
    "takim": "OGM ORMANSPOR",
    "pm": 19,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17797,7 +17806,7 @@
    "ad": "Tolga Kaan Birer",
    "takim": "OGM ORMANSPOR",
    "pm": 16,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -17842,7 +17851,7 @@
    "ad": "Diante Watkins",
    "takim": "OGM ORMANSPOR",
    "pm": 13,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "ABD"
   },
@@ -17950,7 +17959,7 @@
    "ad": "Tobin Carberry",
    "takim": "OGM ORMANSPOR",
    "pm": 7,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "ABD"
   },
@@ -18103,7 +18112,7 @@
    "ad": "Tavian Dunn-Martin",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": 4,
-   "fark": 7,
+   "fark": 8,
    "mac": 3,
    "ulke": "ABD"
   },
@@ -18112,7 +18121,7 @@
    "ad": "Mustafa Baki Görür",
    "takim": "OGM ORMANSPOR",
    "pm": 4,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -18360,21 +18369,21 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "210913",
-   "ad": "Berkay Bayar",
-   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "pm": -3,
-   "fark": -15,
-   "mac": 2,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "356958",
    "ad": "Taylan George Warren",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": -3,
    "fark": -15,
    "mac": 4,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "210913",
+   "ad": "Berkay Bayar",
+   "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
+   "pm": -3,
+   "fark": -14,
+   "mac": 2,
    "ulke": "TÜRKİYE"
   },
   {
@@ -18544,8 +18553,8 @@
    "ad": "Yiğithan Ergenç",
    "takim": "MERSİN SPOR",
    "pm": -9,
-   "fark": -31,
-   "mac": 1,
+   "fark": -33,
+   "mac": 2,
    "ulke": ""
   },
   {
@@ -18643,7 +18652,7 @@
    "ad": "Tuna Han Dikmen",
    "takim": "OGM ORMANSPOR",
    "pm": -12,
-   "fark": 23,
+   "fark": 22,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -18724,7 +18733,7 @@
    "ad": "Jaquan Elijah Scott",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": -15,
-   "fark": -39,
+   "fark": -38,
    "mac": 12,
    "ulke": "ABD"
   },
@@ -18958,7 +18967,7 @@
    "ad": "Cem Küçüközkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": -27,
-   "fark": -39,
+   "fark": -38,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -18967,7 +18976,7 @@
    "ad": "Harun Can Doğan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "pm": -27,
-   "fark": -28,
+   "fark": -27,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
