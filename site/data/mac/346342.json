@@ -506,7 +506,7 @@
     "blk": 0,
     "tk": 3,
     "faul": 2,
-    "af": 2,
+    "af": 3,
     "pm": "-3",
     "vp": 2
    },
@@ -537,7 +537,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "af": 1,
+    "af": 0,
     "pm": "-6",
     "vp": 3
    },
@@ -792,8 +792,8 @@
  "salon": "Çayırova Belediyesi Spor Kompleksi",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 2,
-  "saat": "00:00",
+  "periyot": 3,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
@@ -1287,7 +1287,7 @@
       "blk": 0,
       "tk": 1,
       "faul": 0,
-      "af": 1,
+      "af": 0,
       "pm": -10,
       "vp": 2
      },
@@ -1368,7 +1368,7 @@
       "blk": 0,
       "tk": 3,
       "faul": 2,
-      "af": 1,
+      "af": 2,
       "pm": -6,
       "vp": -1
      },
