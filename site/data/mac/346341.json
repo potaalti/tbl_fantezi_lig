@@ -13,7 +13,7 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": true,
-    "sure": "14:41",
+    "sure": "14:52",
     "sayi": 13,
     "iki": [
      2,
@@ -69,15 +69,14 @@
     "faul": 1,
     "af": 0,
     "pm": "-12",
-    "vp": 1,
-    "sahada": true
+    "vp": 1
    },
    {
     "id": "473256",
     "ad": "Emanuel Terry",
     "no": "33",
     "ilk5": true,
-    "sure": "10:37",
+    "sure": "10:48",
     "sayi": 2,
     "iki": [
      0,
@@ -99,7 +98,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 2,
+    "af": 3,
     "pm": "-9",
     "vp": 1,
     "sahada": true
@@ -133,15 +132,14 @@
     "faul": 2,
     "af": 0,
     "pm": "-14",
-    "vp": -2,
-    "sahada": true
+    "vp": -2
    },
    {
     "id": "192987",
     "ad": "Rıdvan Öncel",
     "no": "99",
     "ilk5": true,
-    "sure": "4:10",
+    "sure": "4:21",
     "sayi": 0,
     "iki": [
      0,
@@ -165,7 +163,8 @@
     "faul": 1,
     "af": 0,
     "pm": "3",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "779255",
@@ -196,8 +195,7 @@
     "faul": 1,
     "af": 1,
     "pm": "-11",
-    "vp": -3,
-    "sahada": true
+    "vp": -3
    },
    {
     "id": "133530",
@@ -266,7 +264,7 @@
     "ad": "Akwasi Yeboah",
     "no": "15",
     "ilk5": false,
-    "sure": "7:50",
+    "sure": "8:01",
     "sayi": 3,
     "iki": [
      0,
@@ -290,14 +288,15 @@
     "faul": 1,
     "af": 0,
     "pm": "6",
-    "vp": 6
+    "vp": 6,
+    "sahada": true
    },
    {
     "id": "741031",
     "ad": "Royce Hamm Jr.",
     "no": "17",
     "ilk5": false,
-    "sure": "7:05",
+    "sure": "7:16",
     "sayi": 6,
     "iki": [
      3,
@@ -321,7 +320,8 @@
     "faul": 1,
     "af": 0,
     "pm": "6",
-    "vp": 10
+    "vp": 10,
+    "sahada": true
    },
    {
     "id": "129295",
@@ -482,7 +482,7 @@
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "10:40",
+    "sure": "10:51",
     "sayi": 2,
     "iki": [
      1,
@@ -545,7 +545,7 @@
     "ad": "Kai Jones",
     "no": "88",
     "ilk5": true,
-    "sure": "6:53",
+    "sure": "7:04",
     "sayi": 4,
     "iki": [
      2,
@@ -608,7 +608,7 @@
     "ad": "Santi Yusta",
     "no": "4",
     "ilk5": false,
-    "sure": "4:44",
+    "sure": "4:55",
     "sayi": 3,
     "iki": [
      0,
@@ -629,7 +629,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "4",
     "vp": 2,
@@ -733,7 +733,7 @@
     "ad": "Matthew Strazel",
     "no": "32",
     "ilk5": false,
-    "sure": "8:45",
+    "sure": "8:56",
     "sayi": 0,
     "iki": [
      0,
@@ -765,7 +765,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "4:44",
+    "sure": "4:55",
     "sayi": 1,
     "iki": [
      0,
@@ -812,7 +812,7 @@
    "benc": 6,
    "fark": 10,
    "seri": 13,
-   "lider": 834,
+   "lider": 845,
    "degisim": 3,
    "esitlik": 1
   },
@@ -1615,7 +1615,7 @@
       "blk": 0,
       "tk": 0,
       "faul": 0,
-      "af": 0,
+      "af": 1,
       "pm": -4,
       "vp": -2
      },
@@ -1644,6 +1644,33 @@
       "faul": 1,
       "af": 0,
       "pm": -6,
+      "vp": 0
+     },
+     "99": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
       "vp": 0
      }
     },
@@ -1814,7 +1841,7 @@
       "tc": 0,
       "blk": 0,
       "tk": 0,
-      "faul": 0,
+      "faul": 1,
       "af": 0,
       "pm": 4,
       "vp": 2
@@ -1906,7 +1933,7 @@
      "sr": 0,
      "rib": 0,
      "tk": 0,
-     "faul": 1
+     "faul": 0
     }
    }
   }
