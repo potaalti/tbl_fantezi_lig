@@ -44,7 +44,7 @@
     "ad": "İlker Tunalı",
     "no": "15",
     "ilk5": true,
-    "sure": "7:07",
+    "sure": "7:10",
     "sayi": 1,
     "iki": [
      0,
@@ -66,7 +66,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 1,
+    "af": 2,
     "pm": "2",
     "vp": 4,
     "sahada": true
@@ -76,7 +76,7 @@
     "ad": "Arda Berk Kaya",
     "no": "20",
     "ilk5": true,
-    "sure": "7:07",
+    "sure": "7:10",
     "sayi": 3,
     "iki": [
      0,
@@ -201,7 +201,7 @@
     "ad": "Can Çevikel",
     "no": "5",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:03",
     "sayi": 0,
     "iki": [
      0,
@@ -295,7 +295,7 @@
     "ad": "Tayfun Erülkü",
     "no": "27",
     "ilk5": false,
-    "sure": "1:53",
+    "sure": "1:56",
     "sayi": 0,
     "iki": [
      0,
@@ -327,7 +327,7 @@
     "ad": "Gökay Hacıoğlu",
     "no": "35",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:03",
     "sayi": 0,
     "iki": [
      0,
@@ -404,7 +404,7 @@
    "benc": 0,
    "fark": 7,
    "seri": 8,
-   "lider": 352,
+   "lider": 355,
    "degisim": 2,
    "esitlik": 1
   },
@@ -419,7 +419,7 @@
     "ad": "Turan Altunbaş",
     "no": "2",
     "ilk5": true,
-    "sure": "7:07",
+    "sure": "7:10",
     "sayi": 12,
     "iki": [
      4,
@@ -451,7 +451,7 @@
     "ad": "Berat Ege Bulut",
     "no": "3",
     "ilk5": true,
-    "sure": "7:07",
+    "sure": "7:10",
     "sayi": 0,
     "iki": [
      0,
@@ -472,7 +472,7 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "-2",
     "vp": 2,
@@ -483,7 +483,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": true,
-    "sure": "7:07",
+    "sure": "7:10",
     "sayi": 2,
     "iki": [
      1,
@@ -515,7 +515,7 @@
     "ad": "Faik Can Kaşıkçı",
     "no": "8",
     "ilk5": true,
-    "sure": "7:07",
+    "sure": "7:10",
     "sayi": 0,
     "iki": [
      0,
@@ -539,8 +539,7 @@
     "faul": 0,
     "af": 2,
     "pm": "-2",
-    "vp": -1,
-    "sahada": true
+    "vp": -1
    },
    {
     "id": "343369",
@@ -602,7 +601,8 @@
     "faul": 0,
     "af": 0,
     "pm": "0",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "552894",
@@ -671,7 +671,7 @@
     "ad": "Işık Ali Akpınar",
     "no": "11",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:03",
     "sayi": 0,
     "iki": [
      0,
@@ -791,12 +791,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:53",
+  "saat": "02:50",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 427,
+  "simdi": 430,
   "d": [
    [
     0,
@@ -870,7 +870,7 @@
    "ev": {
     "oyuncular": {
      "20": {
-      "sn": 427,
+      "sn": 430,
       "sayi": 3,
       "iki": [
        0,
@@ -897,7 +897,7 @@
       "vp": 2
      },
      "15": {
-      "sn": 427,
+      "sn": 430,
       "sayi": 1,
       "iki": [
        0,
@@ -919,7 +919,7 @@
       "blk": 0,
       "tk": 0,
       "faul": 0,
-      "af": 1,
+      "af": 2,
       "pm": 2,
       "vp": 4
      },
@@ -1005,7 +1005,7 @@
       "vp": 4
      },
      "27": {
-      "sn": 113,
+      "sn": 116,
       "sayi": 0,
       "iki": [
        0,
@@ -1032,7 +1032,7 @@
       "vp": 1
      },
      "5": {
-      "sn": 0,
+      "sn": 3,
       "sayi": 0,
       "iki": [
        0,
@@ -1059,7 +1059,7 @@
       "vp": 0
      },
      "35": {
-      "sn": 0,
+      "sn": 3,
       "sayi": 0,
       "iki": [
        0,
@@ -1097,7 +1097,7 @@
    "dep": {
     "oyuncular": {
      "8": {
-      "sn": 427,
+      "sn": 430,
       "sayi": 0,
       "iki": [
        0,
@@ -1124,7 +1124,7 @@
       "vp": -1
      },
      "2": {
-      "sn": 427,
+      "sn": 430,
       "sayi": 12,
       "iki": [
        4,
@@ -1151,7 +1151,7 @@
       "vp": 11
      },
      "3": {
-      "sn": 427,
+      "sn": 430,
       "sayi": 0,
       "iki": [
        0,
@@ -1172,7 +1172,7 @@
       "tc": 1,
       "blk": 0,
       "tk": 0,
-      "faul": 0,
+      "faul": 1,
       "af": 0,
       "pm": -2,
       "vp": 2
@@ -1205,7 +1205,7 @@
       "vp": -2
      },
      "6": {
-      "sn": 427,
+      "sn": 430,
       "sayi": 2,
       "iki": [
        1,
@@ -1232,6 +1232,33 @@
       "vp": 5
      },
      "11": {
+      "sn": 3,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "0": {
       "sn": 0,
       "sayi": 0,
       "iki": [
@@ -1279,7 +1306,7 @@
     "benc": 0,
     "fark": 7,
     "seri": 8,
-    "lider": 352,
+    "lider": 355,
     "degisim": 2,
     "esitlik": 1
    },
