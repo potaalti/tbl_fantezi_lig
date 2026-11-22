@@ -75,13 +75,13 @@
    "durum": "canli",
    "ev": "FİNALSPOR",
    "dep": "MERSİN SPOR",
-   "evSkor": "0",
+   "evSkor": "3",
    "depSkor": "0",
    "salon": "Tofaş Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 1,
-    "saat": "09:44",
+    "saat": "09:21",
     "uzatma": false
    }
   },
@@ -90,13 +90,18 @@
    "lig": "tbl",
    "hafta": 12,
    "tarih": "2026-11-22T16:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "dep": "OGM ORMANSPOR",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "3",
+   "depSkor": "0",
    "salon": "Şehit Turgut Solak Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:24",
+    "uzatma": false
+   }
   },
   {
    "id": 346001,
