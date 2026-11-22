@@ -12028,7 +12028,7 @@
     "ad": "Fabian White Jr.",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": 17,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12141,15 +12141,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "359434",
-    "ad": "Errick Mccollum",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 8,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "776654",
     "ad": "Damien Inglis",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -12168,6 +12159,15 @@
     "ulke": "LİTVANYA"
    },
    {
+    "id": "359434",
+    "ad": "Errick Mccollum",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 6,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "778996",
     "ad": "Brae Ivey",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12184,15 +12184,6 @@
     "fark": -3,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778079",
-    "ad": "Amadou Sow",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 6,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "MALİ"
    },
    {
     "id": "776935",
@@ -12231,13 +12222,13 @@
     "ulke": "ABD"
    },
    {
-    "id": "351474",
-    "ad": "Melih Tunca",
+    "id": "778079",
+    "ad": "Amadou Sow",
     "takim": "ESENLER EROKSPOR",
-    "pm": 5,
-    "fark": -2,
+    "pm": 4,
+    "fark": -4,
     "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": "MALİ"
    },
    {
     "id": "778460",
@@ -12262,7 +12253,7 @@
     "ad": "Enes Berkay Taşkıran",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": 4,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12271,9 +12262,18 @@
     "ad": "Nate Watson",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": 4,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "351474",
+    "ad": "Melih Tunca",
+    "takim": "ESENLER EROKSPOR",
+    "pm": 3,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "278617",
@@ -12294,33 +12294,6 @@
     "ulke": "SENEGAL"
    },
    {
-    "id": "667498",
-    "ad": "James Webb Iii",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 1,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "606624",
-    "ad": "Mike Davis Jr.",
-    "takim": "ESENLER EROKSPOR",
-    "pm": 1,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "107520",
-    "ad": "Kartal Özmızrak",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": 1,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "410874",
     "ad": "Markel Starks",
     "takim": "KARŞIYAKA",
@@ -12335,6 +12308,15 @@
     "takim": "KARŞIYAKA",
     "pm": 1,
     "fark": 3,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "107520",
+    "ad": "Kartal Özmızrak",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": 1,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12384,6 +12366,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "122136",
+    "ad": "Canberk Kuş",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": 0,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "667625",
     "ad": "Damien Jefferson",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -12402,11 +12393,29 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "667498",
+    "ad": "James Webb Iii",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -1,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "606624",
+    "ad": "Mike Davis Jr.",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -1,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "151935",
     "ad": "Muhsin Yaşar",
     "takim": "ESENLER EROKSPOR",
     "pm": -1,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12420,6 +12429,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "501134",
+    "ad": "Jordon Crawford",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -1,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "106461",
     "ad": "Kadir Bayram",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -12427,6 +12445,15 @@
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "502472",
+    "ad": "Michal Sokolowski",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -1,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "POLONYA"
    },
    {
     "id": "501076",
@@ -12456,13 +12483,13 @@
     "ulke": "ABD"
    },
    {
-    "id": "122136",
-    "ad": "Canberk Kuş",
+    "id": "500074",
+    "ad": "Jeremy Simmons",
     "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
     "pm": -2,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
-    "ulke": "TÜRKİYE"
+    "ulke": "ABD"
    },
    {
     "id": "130898",
@@ -12472,6 +12499,15 @@
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "510739",
+    "ad": "Rasheed Sulaimon",
+    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+    "pm": -2,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "434482",
@@ -12490,24 +12526,6 @@
     "fark": -4,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "501134",
-    "ad": "Jordon Crawford",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -3,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "502472",
-    "ad": "Michal Sokolowski",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -3,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "POLONYA"
    },
    {
     "id": "573226",
@@ -12555,24 +12573,6 @@
     "ulke": "ABD"
    },
    {
-    "id": "500074",
-    "ad": "Jeremy Simmons",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -4,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "510739",
-    "ad": "Rasheed Sulaimon",
-    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-    "pm": -4,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "47659",
     "ad": "Maxim Mutaf",
     "takim": "BAHÇEŞEHİR KOLEJİ",
@@ -12595,7 +12595,7 @@
     "ad": "Kevin Yebo",
     "takim": "ESENLER EROKSPOR",
     "pm": -5,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "ALMANYA"
    },
@@ -12604,7 +12604,7 @@
     "ad": "Yunus Emre Sonsırma",
     "takim": "ESENLER EROKSPOR",
     "pm": -5,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12627,6 +12627,15 @@
     "ulke": "SIRBİSTAN"
    },
    {
+    "id": "470574",
+    "ad": "Keye Van Der Vuurst",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -6,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "HOLLANDA"
+   },
+   {
     "id": "373162",
     "ad": "Marko Pecarski",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12643,15 +12652,6 @@
     "fark": -3,
     "mac": 1,
     "ulke": "ABD"
-   },
-   {
-    "id": "470574",
-    "ad": "Keye Van Der Vuurst",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -6,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "HOLLANDA"
    },
    {
     "id": "397073",
@@ -12672,6 +12672,24 @@
     "ulke": "ABD"
    },
    {
+    "id": "120437",
+    "ad": "Egehan Arna",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -7,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "502518",
+    "ad": "Jordan Usher",
+    "takim": "ESENLER EROKSPOR",
+    "pm": -7,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "358242",
     "ad": "Martynas Sajus",
     "takim": "BURSASPOR BASKETBOL",
@@ -12686,24 +12704,6 @@
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -7,
     "fark": -3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "120437",
-    "ad": "Egehan Arna",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -7,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "502518",
-    "ad": "Jordan Usher",
-    "takim": "ESENLER EROKSPOR",
-    "pm": -7,
-    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -13575,6 +13575,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "122136",
+   "ad": "Canberk Kuş",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": 5,
+   "fark": -30,
+   "mac": 6,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "501076",
    "ad": "Quentin Peterson",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -13593,15 +13602,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "122136",
-   "ad": "Canberk Kuş",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": 3,
-   "fark": -32,
-   "mac": 6,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "441857",
    "ad": "Alex Perez",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -13615,7 +13615,7 @@
    "ad": "Kartal Özmızrak",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": 3,
-   "fark": -5,
+   "fark": -3,
    "mac": 7,
    "ulke": "TÜRKİYE"
   },
@@ -13980,6 +13980,15 @@
    "ulke": "ALMANYA"
   },
   {
+   "id": "502472",
+   "ad": "Michal Sokolowski",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -5,
+   "fark": -42,
+   "mac": 9,
+   "ulke": "POLONYA"
+  },
+  {
    "id": "217226",
    "ad": "Atahan Demirtaş",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -14052,15 +14061,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "502472",
-   "ad": "Michal Sokolowski",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -7,
-   "fark": -44,
-   "mac": 9,
-   "ulke": "POLONYA"
-  },
-  {
    "id": "307500",
    "ad": "Mehmet Oğuzhan Kızıl",
    "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -14115,22 +14115,13 @@
    "ulke": "LİTVANYA"
   },
   {
-   "id": "351474",
-   "ad": "Melih Tunca",
+   "id": "470574",
+   "ad": "Keye Van Der Vuurst",
    "takim": "ESENLER EROKSPOR",
    "pm": -8,
-   "fark": -59,
-   "mac": 8,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "606624",
-   "ad": "Mike Davis Jr.",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -8,
-   "fark": -51,
-   "mac": 9,
-   "ulke": "ABD"
+   "fark": -26,
+   "mac": 7,
+   "ulke": "HOLLANDA"
   },
   {
    "id": "778080",
@@ -14140,15 +14131,6 @@
    "fark": -24,
    "mac": 3,
    "ulke": "ABD"
-  },
-  {
-   "id": "470574",
-   "ad": "Keye Van Der Vuurst",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -8,
-   "fark": -24,
-   "mac": 7,
-   "ulke": "HOLLANDA"
   },
   {
    "id": "130898",
@@ -14223,13 +14205,31 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "351474",
+   "ad": "Melih Tunca",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -10,
+   "fark": -61,
+   "mac": 8,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "776570",
    "ad": "Kevin Yebo",
    "takim": "ESENLER EROKSPOR",
    "pm": -10,
-   "fark": -51,
+   "fark": -53,
    "mac": 9,
    "ulke": "ALMANYA"
+  },
+  {
+   "id": "606624",
+   "ad": "Mike Davis Jr.",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -10,
+   "fark": -53,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "609266",
@@ -14268,15 +14268,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "778079",
-   "ad": "Amadou Sow",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -12,
-   "fark": -51,
-   "mac": 9,
-   "ulke": "MALİ"
-  },
-  {
    "id": "137459",
    "ad": "Burak Can Yıldızlı",
    "takim": "ANADOLU EFES",
@@ -14299,9 +14290,18 @@
    "ad": "Egehan Arna",
    "takim": "ESENLER EROKSPOR",
    "pm": -13,
-   "fark": -51,
+   "fark": -53,
    "mac": 9,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "778079",
+   "ad": "Amadou Sow",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -14,
+   "fark": -53,
+   "mac": 9,
+   "ulke": "MALİ"
   },
   {
    "id": "666515",
@@ -14497,9 +14497,18 @@
    "ad": "Enes Berkay Taşkıran",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -23,
-   "fark": -44,
+   "fark": -42,
    "mac": 9,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "510739",
+   "ad": "Rasheed Sulaimon",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -23,
+   "fark": -42,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "736069",
@@ -14508,15 +14517,6 @@
    "pm": -24,
    "fark": -30,
    "mac": 8,
-   "ulke": "ABD"
-  },
-  {
-   "id": "510739",
-   "ad": "Rasheed Sulaimon",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -25,
-   "fark": -44,
-   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -14538,15 +14538,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "359434",
-   "ad": "Errick Mccollum",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -27,
-   "fark": -51,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "675128",
    "ad": "Anzejs Pasecniks",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -14565,15 +14556,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "667498",
-   "ad": "James Webb Iii",
-   "takim": "ESENLER EROKSPOR",
-   "pm": -28,
-   "fark": -51,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "778184",
    "ad": "Oscar Cluff",
    "takim": "BİOTEKNO KÖRFEZ BASKET",
@@ -14581,6 +14563,15 @@
    "fark": -27,
    "mac": 7,
    "ulke": "AVUSTRALYA"
+  },
+  {
+   "id": "359434",
+   "ad": "Errick Mccollum",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -29,
+   "fark": -53,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "666871",
@@ -14608,6 +14599,15 @@
    "fark": -31,
    "mac": 5,
    "ulke": "FİNLANDİYA"
+  },
+  {
+   "id": "667498",
+   "ad": "James Webb Iii",
+   "takim": "ESENLER EROKSPOR",
+   "pm": -30,
+   "fark": -53,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "778244",
@@ -14722,7 +14722,7 @@
    "ad": "Yunus Emre Sonsırma",
    "takim": "ESENLER EROKSPOR",
    "pm": -37,
-   "fark": -74,
+   "fark": -76,
    "mac": 5,
    "ulke": "TÜRKİYE"
   },
@@ -14731,9 +14731,27 @@
    "ad": "Muhsin Yaşar",
    "takim": "ESENLER EROKSPOR",
    "pm": -38,
-   "fark": -51,
+   "fark": -53,
    "mac": 7,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "500074",
+   "ad": "Jeremy Simmons",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -38,
+   "fark": -42,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
+   "id": "501134",
+   "ad": "Jordon Crawford",
+   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
+   "pm": -38,
+   "fark": -42,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "303549",
@@ -14767,25 +14785,7 @@
    "ad": "Fabian White Jr.",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -40,
-   "fark": -44,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
-   "id": "500074",
-   "ad": "Jeremy Simmons",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -40,
-   "fark": -44,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
-   "id": "501134",
-   "ad": "Jordon Crawford",
-   "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
-   "pm": -40,
-   "fark": -44,
+   "fark": -42,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14857,7 +14857,7 @@
    "ad": "Nate Watson",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
    "pm": -52,
-   "fark": -64,
+   "fark": -62,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14884,7 +14884,7 @@
    "ad": "Jordan Usher",
    "takim": "ESENLER EROKSPOR",
    "pm": -56,
-   "fark": -54,
+   "fark": -56,
    "mac": 8,
    "ulke": "ABD"
   },
