@@ -37,7 +37,8 @@
     "faul": 0,
     "af": 1,
     "pm": "4",
-    "vp": 3
+    "vp": 3,
+    "sahada": true
    },
    {
     "id": "777634",
@@ -131,7 +132,8 @@
     "faul": 1,
     "af": 0,
     "pm": "4",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "397202",
@@ -287,8 +289,7 @@
     "faul": 1,
     "af": 1,
     "pm": "14",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "777636",
@@ -382,12 +383,12 @@
     "faul": 1,
     "af": 1,
     "pm": "14",
-    "vp": 9,
-    "sahada": true
+    "vp": 9
    }
   ],
   "ceyrekler": [
-   29
+   29,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -600,7 +601,8 @@
     "faul": 0,
     "af": 1,
     "pm": "3",
-    "vp": 2
+    "vp": 2,
+    "sahada": true
    },
    {
     "id": "667814",
@@ -756,8 +758,7 @@
     "faul": 0,
     "af": 0,
     "pm": "-14",
-    "vp": 0,
-    "sahada": true
+    "vp": 0
    },
    {
     "id": "386832",
@@ -793,7 +794,8 @@
    }
   ],
   "ceyrekler": [
-   18
+   18,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -821,8 +823,8 @@
  "salon": "Turkcell Basketbol Gelişim Merkezi",
  "yayin": "beINSports",
  "canliDurum": {
-  "periyot": 1,
-  "saat": "00:00",
+  "periyot": 2,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
@@ -1543,10 +1545,168 @@
      "faul": 0
     }
    }
+  },
+  {
+   "ad": "2",
+   "ev": {
+    "oyuncular": {
+     "1": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "11": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   },
+   "dep": {
+    "oyuncular": {
+     "0": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   }
   }
  ],
  "donemIleri": {
   "1": {
+   "ev": {
+    "tks": 9,
+    "hh": 6,
+    "is": 11,
+    "ba": 14,
+    "benc": 18,
+    "fark": 15,
+    "seri": 10,
+    "lider": 419,
+    "degisim": 3,
+    "esitlik": 4
+   },
+   "dep": {
+    "tks": 2,
+    "hh": 2,
+    "is": 4,
+    "ba": 10,
+    "benc": 5,
+    "fark": 2,
+    "seri": 5,
+    "lider": 69,
+    "degisim": 3,
+    "esitlik": 4
+   }
+  },
+  "2": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   }
+  },
+  "Y1": {
    "ev": {
     "tks": 9,
     "hh": 6,
