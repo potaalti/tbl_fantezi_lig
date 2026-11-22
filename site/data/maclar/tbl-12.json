@@ -68,24 +68,6 @@
    "yayin": "Youtube / TBF TV"
   },
   {
-   "id": 346005,
-   "lig": "tbl",
-   "hafta": 12,
-   "tarih": "2026-11-22T16:00:00",
-   "durum": "canli",
-   "ev": "FİNALSPOR",
-   "dep": "MERSİN SPOR",
-   "evSkor": "84",
-   "depSkor": "65",
-   "salon": "Tofaş Spor Salonu",
-   "yayin": "Youtube / TBF TV",
-   "canliDurum": {
-    "periyot": 4,
-    "saat": "00:00",
-    "uzatma": false
-   }
-  },
-  {
    "id": 346007,
    "lig": "tbl",
    "hafta": 12,
@@ -99,9 +81,22 @@
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 4,
-    "saat": "02:54",
+    "saat": "02:14",
     "uzatma": false
    }
+  },
+  {
+   "id": 346005,
+   "lig": "tbl",
+   "hafta": 12,
+   "tarih": "2026-11-22T16:00:00",
+   "durum": "bitti",
+   "ev": "FİNALSPOR",
+   "dep": "MERSİN SPOR",
+   "evSkor": "84",
+   "depSkor": "65",
+   "salon": "Tofaş Spor Salonu",
+   "yayin": "Youtube / TBF TV"
   },
   {
    "id": 346001,
@@ -117,7 +112,7 @@
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 3,
-    "saat": "05:36",
+    "saat": "05:18",
     "uzatma": false
    }
   }
