@@ -6,7 +6,7 @@
  "durum": "canli",
  "ev": {
   "ad": "DARÜŞŞAFAKA",
-  "skor": "46",
+  "skor": "48",
   "oyuncular": [
    {
     "id": "606144",
@@ -44,7 +44,7 @@
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "19:01",
+    "sure": "19:26",
     "sayi": 8,
     "iki": [
      2,
@@ -76,11 +76,11 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "13:31",
-    "sayi": 4,
+    "sure": "13:56",
+    "sayi": 6,
     "iki": [
-     2,
-     4
+     3,
+     5
     ],
     "uc": [
      0,
@@ -100,7 +100,7 @@
     "faul": 1,
     "af": 3,
     "pm": "4",
-    "vp": 3,
+    "vp": 5,
     "sahada": true
    },
    {
@@ -170,7 +170,7 @@
     "ad": "Arda Çelik",
     "no": "1",
     "ilk5": false,
-    "sure": "2:39",
+    "sure": "3:04",
     "sayi": 0,
     "iki": [
      0,
@@ -264,7 +264,7 @@
     "ad": "Ahmet Arda Ene",
     "no": "11",
     "ilk5": false,
-    "sure": "5:07",
+    "sure": "5:32",
     "sayi": 2,
     "iki": [
      1,
@@ -327,7 +327,7 @@
     "ad": "Eren İlyem",
     "no": "19",
     "ilk5": false,
-    "sure": "2:12",
+    "sure": "2:37",
     "sayi": 0,
     "iki": [
      0,
@@ -344,14 +344,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
     "pm": "2",
-    "vp": -1,
+    "vp": 0,
     "sahada": true
    },
    {
@@ -388,7 +388,7 @@
   ],
   "ceyrekler": [
    25,
-   21
+   23
   ],
   "takim": {
    "hr": 1,
@@ -401,11 +401,11 @@
    "tks": 1,
    "hh": 17,
    "is": 1,
-   "ba": 24,
+   "ba": 26,
    "benc": 9,
    "fark": 9,
    "seri": 7,
-   "lider": 932,
+   "lider": 957,
    "degisim": 6,
    "esitlik": 5
   },
@@ -413,14 +413,14 @@
  },
  "dep": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "41",
+  "skor": "43",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "16:03",
+    "sure": "16:28",
     "sayi": 11,
     "iki": [
      4,
@@ -452,7 +452,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "11:21",
+    "sure": "11:46",
     "sayi": 0,
     "iki": [
      0,
@@ -484,11 +484,11 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": true,
-    "sure": "10:01",
-    "sayi": 6,
+    "sure": "10:26",
+    "sayi": 8,
     "iki": [
-     3,
-     5
+     4,
+     6
     ],
     "uc": [
      0,
@@ -508,7 +508,7 @@
     "faul": 2,
     "af": 0,
     "pm": "-7",
-    "vp": 10,
+    "vp": 12,
     "sahada": true
    },
    {
@@ -516,7 +516,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "12:21",
+    "sure": "12:46",
     "sayi": 8,
     "iki": [
      1,
@@ -641,7 +641,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": false,
-    "sure": "12:43",
+    "sure": "13:08",
     "sayi": 11,
     "iki": [
      1,
@@ -795,7 +795,7 @@
   ],
   "ceyrekler": [
    23,
-   18
+   20
   ],
   "takim": {
    "hr": 0,
@@ -808,7 +808,7 @@
    "tks": 12,
    "hh": 4,
    "is": 3,
-   "ba": 16,
+   "ba": 18,
    "benc": 11,
    "fark": 2,
    "seri": 5,
@@ -818,18 +818,18 @@
   },
   "koc": "Mustafa Korhan Aydanarığ"
  },
- "evSkor": "46",
- "depSkor": "41",
+ "evSkor": "48",
+ "depSkor": "43",
  "salon": "Darüşşafaka Ayhan Şahenk Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "01:04",
+  "saat": "00:33",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1135,
+  "simdi": 1167,
   "d": [
    [
     0,
@@ -997,6 +997,14 @@
    ],
    [
     1104,
+    5
+   ],
+   [
+    1150,
+    3
+   ],
+   [
+    1167,
     5
    ]
   ]
@@ -1491,7 +1499,7 @@
       "vp": 2
      },
      "3": {
-      "sn": 535,
+      "sn": 567,
       "sayi": 6,
       "iki": [
        1,
@@ -1572,11 +1580,11 @@
       "vp": 4
      },
      "13": {
-      "sn": 357,
-      "sayi": 2,
+      "sn": 389,
+      "sayi": 4,
       "iki": [
-       1,
-       1
+       2,
+       2
       ],
       "uc": [
        0,
@@ -1596,7 +1604,7 @@
       "faul": 0,
       "af": 3,
       "pm": 2,
-      "vp": 0
+      "vp": 2
      },
      "0": {
       "sn": 204,
@@ -1626,7 +1634,7 @@
       "vp": 3
      },
      "11": {
-      "sn": 301,
+      "sn": 333,
       "sayi": 2,
       "iki": [
        1,
@@ -1653,7 +1661,7 @@
       "vp": 4
      },
      "1": {
-      "sn": 153,
+      "sn": 185,
       "sayi": 0,
       "iki": [
        0,
@@ -1680,7 +1688,7 @@
       "vp": 0
      },
      "19": {
-      "sn": 126,
+      "sn": 158,
       "sayi": 0,
       "iki": [
        0,
@@ -1718,7 +1726,7 @@
    "dep": {
     "oyuncular": {
      "4": {
-      "sn": 297,
+      "sn": 329,
       "sayi": 0,
       "iki": [
        0,
@@ -1745,11 +1753,11 @@
       "vp": 3
      },
      "9": {
-      "sn": 217,
-      "sayi": 2,
+      "sn": 249,
+      "sayi": 4,
       "iki": [
-       1,
-       2
+       2,
+       3
       ],
       "uc": [
        0,
@@ -1769,10 +1777,10 @@
       "faul": 2,
       "af": 0,
       "pm": -2,
-      "vp": 5
+      "vp": 7
      },
      "15": {
-      "sn": 535,
+      "sn": 567,
       "sayi": 8,
       "iki": [
        1,
@@ -1853,7 +1861,7 @@
       "vp": -1
      },
      "2": {
-      "sn": 357,
+      "sn": 389,
       "sayi": 4,
       "iki": [
        2,
@@ -1880,7 +1888,7 @@
       "vp": 1
      },
      "23": {
-      "sn": 357,
+      "sn": 389,
       "sayi": 4,
       "iki": [
        0,
@@ -1976,11 +1984,11 @@
     "tks": 1,
     "hh": 3,
     "is": 1,
-    "ba": 10,
+    "ba": 12,
     "benc": 6,
     "fark": 9,
     "seri": 7,
-    "lider": 479,
+    "lider": 511,
     "degisim": 2,
     "esitlik": 2
    },
@@ -1988,7 +1996,7 @@
     "tks": 7,
     "hh": 2,
     "is": 1,
-    "ba": 6,
+    "ba": 8,
     "benc": 8,
     "fark": 1,
     "seri": 5,
@@ -2002,11 +2010,11 @@
     "tks": 1,
     "hh": 17,
     "is": 1,
-    "ba": 24,
+    "ba": 26,
     "benc": 9,
     "fark": 9,
     "seri": 7,
-    "lider": 926,
+    "lider": 958,
     "degisim": 6,
     "esitlik": 5
    },
@@ -2014,7 +2022,7 @@
     "tks": 12,
     "hh": 4,
     "is": 3,
-    "ba": 16,
+    "ba": 18,
     "benc": 11,
     "fark": 2,
     "seri": 5,
