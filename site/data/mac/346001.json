@@ -6,14 +6,14 @@
  "durum": "canli",
  "ev": {
   "ad": "DARÜŞŞAFAKA",
-  "skor": "4",
+  "skor": "9",
   "oyuncular": [
    {
     "id": "606144",
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 2,
     "iki": [
      1,
@@ -36,7 +36,7 @@
     "tk": 0,
     "faul": 1,
     "af": 1,
-    "pm": "0",
+    "pm": "2",
     "vp": 4,
     "sahada": true
    },
@@ -45,7 +45,7 @@
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 0,
     "iki": [
      0,
@@ -62,14 +62,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 2,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": -1,
+    "pm": "2",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -77,7 +77,7 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 0,
     "iki": [
      0,
@@ -92,16 +92,16 @@
      0
     ],
     "hr": 0,
-    "sr": 0,
-    "rib": 0,
+    "sr": 1,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": -2,
+    "pm": "2",
+    "vp": -1,
     "sahada": true
    },
    {
@@ -109,7 +109,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 0,
     "iki": [
      0,
@@ -132,7 +132,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "2",
     "vp": 0,
     "sahada": true
    },
@@ -141,15 +141,15 @@
     "ad": "Ege Akçay",
     "no": "20",
     "ilk5": true,
-    "sure": "2:32",
-    "sayi": 2,
+    "sure": "3:16",
+    "sayi": 7,
     "iki": [
-     1,
-     1
+     2,
+     2
     ],
     "uc": [
-     0,
-     0
+     1,
+     1
     ],
     "sa": [
      0,
@@ -164,8 +164,8 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 2,
+    "pm": "2",
+    "vp": 7,
     "sahada": true
    },
    {
@@ -387,7 +387,7 @@
    }
   ],
   "ceyrekler": [
-   4
+   9
   ],
   "takim": {
    "hr": 0,
@@ -398,28 +398,28 @@
   },
   "ileri": {
    "tks": 0,
-   "hh": 2,
+   "hh": 4,
    "is": 0,
-   "ba": 2,
+   "ba": 4,
    "benc": 0,
    "fark": 2,
-   "seri": 2,
-   "lider": 46,
-   "degisim": 1,
+   "seri": 4,
+   "lider": 72,
+   "degisim": 4,
    "esitlik": 2
   },
   "koc": "Hüsnü Eser"
  },
  "dep": {
   "ad": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
-  "skor": "4",
+  "skor": "7",
   "oyuncular": [
    {
     "id": "782891",
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 0,
     "iki": [
      0,
@@ -436,14 +436,14 @@
     "hr": 0,
     "sr": 0,
     "rib": 0,
-    "ast": 0,
+    "ast": 1,
     "tc": 0,
     "blk": 0,
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
-    "vp": 0,
+    "pm": "-2",
+    "vp": 1,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 0,
     "iki": [
      0,
@@ -474,7 +474,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -483,7 +483,7 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 2,
     "iki": [
      1,
@@ -506,7 +506,7 @@
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 1,
     "sahada": true
    },
@@ -515,7 +515,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "2:32",
+    "sure": "3:16",
     "sayi": 2,
     "iki": [
      1,
@@ -538,7 +538,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 3
    },
    {
@@ -546,15 +546,15 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": true,
-    "sure": "2:32",
-    "sayi": 0,
+    "sure": "3:16",
+    "sayi": 3,
     "iki": [
      0,
      0
     ],
     "uc": [
-     0,
-     0
+     1,
+     2
     ],
     "sa": [
      0,
@@ -569,8 +569,8 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "0",
-    "vp": 0,
+    "pm": "-2",
+    "vp": 2,
     "sahada": true
    },
    {
@@ -793,7 +793,7 @@
    }
   ],
   "ceyrekler": [
-   4
+   7
   ],
   "takim": {
    "hr": 0,
@@ -810,24 +810,24 @@
    "benc": 0,
    "fark": 2,
    "seri": 4,
-   "lider": 17,
-   "degisim": 1,
+   "lider": 29,
+   "degisim": 4,
    "esitlik": 2
   },
   "koc": "Mustafa Korhan Aydanarığ"
  },
- "evSkor": "4",
- "depSkor": "4",
+ "evSkor": "9",
+ "depSkor": "7",
  "salon": "Darüşşafaka Ayhan Şahenk Spor Salonu",
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 1,
-  "saat": "07:53",
+  "saat": "06:43",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 125,
+  "simdi": 196,
   "d": [
    [
     0,
@@ -848,6 +848,18 @@
    [
     125,
     0
+   ],
+   [
+    158,
+    2
+   ],
+   [
+    172,
+    -1
+   ],
+   [
+    184,
+    2
    ]
   ]
  },
@@ -857,7 +869,7 @@
    "ev": {
     "oyuncular": {
      "3": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 0,
       "iki": [
        0,
@@ -874,17 +886,17 @@
       "hr": 0,
       "sr": 0,
       "rib": 0,
-      "ast": 0,
+      "ast": 2,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": -1
+      "pm": 2,
+      "vp": 1
      },
      "13": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 0,
       "iki": [
        0,
@@ -899,19 +911,19 @@
        0
       ],
       "hr": 0,
-      "sr": 0,
-      "rib": 0,
+      "sr": 1,
+      "rib": 1,
       "ast": 0,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": -2
+      "pm": 2,
+      "vp": -1
      },
      "14": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 0,
       "iki": [
        0,
@@ -934,19 +946,19 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": 2,
       "vp": 0
      },
      "20": {
-      "sn": 125,
-      "sayi": 2,
+      "sn": 196,
+      "sayi": 7,
       "iki": [
-       1,
-       1
+       2,
+       2
       ],
       "uc": [
-       0,
-       0
+       1,
+       1
       ],
       "sa": [
        0,
@@ -961,11 +973,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": 2
+      "pm": 2,
+      "vp": 7
      },
      "0": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 2,
       "iki": [
        1,
@@ -988,7 +1000,7 @@
       "tk": 0,
       "faul": 1,
       "af": 1,
-      "pm": 0,
+      "pm": 2,
       "vp": 4
      }
     },
@@ -1003,15 +1015,15 @@
    "dep": {
     "oyuncular": {
      "65": {
-      "sn": 125,
-      "sayi": 0,
+      "sn": 196,
+      "sayi": 3,
       "iki": [
        0,
        0
       ],
       "uc": [
-       0,
-       0
+       1,
+       2
       ],
       "sa": [
        0,
@@ -1026,11 +1038,11 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 0,
-      "vp": 0
+      "pm": -2,
+      "vp": 2
      },
      "23": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 2,
       "iki": [
        1,
@@ -1053,11 +1065,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -2,
       "vp": 3
      },
      "9": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 2,
       "iki": [
        1,
@@ -1080,11 +1092,11 @@
       "tk": 1,
       "faul": 0,
       "af": 0,
-      "pm": 0,
+      "pm": -2,
       "vp": 1
      },
      "2": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 0,
       "iki": [
        0,
@@ -1101,17 +1113,17 @@
       "hr": 0,
       "sr": 0,
       "rib": 0,
-      "ast": 0,
+      "ast": 1,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 0,
-      "vp": 0
+      "pm": -2,
+      "vp": 1
      },
      "4": {
-      "sn": 125,
+      "sn": 196,
       "sayi": 0,
       "iki": [
        0,
@@ -1119,7 +1131,7 @@
       ],
       "uc": [
        0,
-       0
+       1
       ],
       "sa": [
        0,
@@ -1134,8 +1146,8 @@
       "tk": 0,
       "faul": 1,
       "af": 0,
-      "pm": 0,
-      "vp": 1
+      "pm": -2,
+      "vp": 0
      }
     },
     "takim": {
@@ -1152,14 +1164,14 @@
   "1": {
    "ev": {
     "tks": 0,
-    "hh": 2,
+    "hh": 4,
     "is": 0,
-    "ba": 2,
+    "ba": 4,
     "benc": 0,
     "fark": 2,
-    "seri": 2,
-    "lider": 46,
-    "degisim": 1,
+    "seri": 4,
+    "lider": 72,
+    "degisim": 4,
     "esitlik": 2
    },
    "dep": {
@@ -1170,8 +1182,8 @@
     "benc": 0,
     "fark": 2,
     "seri": 4,
-    "lider": 17,
-    "degisim": 1,
+    "lider": 29,
+    "degisim": 4,
     "esitlik": 2
    }
   }
