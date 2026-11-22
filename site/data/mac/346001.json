@@ -387,7 +387,8 @@
    }
   ],
   "ceyrekler": [
-   25
+   25,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -443,8 +444,7 @@
     "faul": 0,
     "af": 1,
     "pm": "-2",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "218578",
@@ -475,7 +475,8 @@
     "faul": 1,
     "af": 0,
     "pm": "-5",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "779069",
@@ -506,7 +507,8 @@
     "faul": 0,
     "af": 0,
     "pm": "-5",
-    "vp": 5
+    "vp": 5,
+    "sahada": true
    },
    {
     "id": "211415",
@@ -568,8 +570,7 @@
     "faul": 0,
     "af": 2,
     "pm": "-2",
-    "vp": 5,
-    "sahada": true
+    "vp": 5
    },
    {
     "id": "219716",
@@ -793,7 +794,8 @@
    }
   ],
   "ceyrekler": [
-   23
+   23,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -1353,10 +1355,140 @@
      "faul": 0
     }
    }
+  },
+  {
+   "ad": "2",
+   "ev": {
+    "oyuncular": {},
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   },
+   "dep": {
+    "oyuncular": {
+     "4": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "9": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   }
   }
  ],
  "donemIleri": {
   "1": {
+   "ev": {
+    "tks": 0,
+    "hh": 14,
+    "is": 0,
+    "ba": 14,
+    "benc": 3,
+    "fark": 5,
+    "seri": 5,
+    "lider": 447,
+    "degisim": 4,
+    "esitlik": 3
+   },
+   "dep": {
+    "tks": 5,
+    "hh": 2,
+    "is": 2,
+    "ba": 10,
+    "benc": 3,
+    "fark": 2,
+    "seri": 5,
+    "lider": 29,
+    "degisim": 4,
+    "esitlik": 3
+   }
+  },
+  "2": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   }
+  },
+  "Y1": {
    "ev": {
     "tks": 0,
     "hh": 14,
