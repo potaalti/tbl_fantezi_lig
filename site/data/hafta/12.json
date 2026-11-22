@@ -74,13 +74,13 @@
    "durum": "canli",
    "ev": "FİNALSPOR",
    "dep": "MERSİN SPOR",
-   "evSkor": "3",
+   "evSkor": "6",
    "depSkor": "4",
    "salon": "Tofaş Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 1,
-    "saat": "08:32",
+    "saat": "07:48",
     "uzatma": false
    }
   },
@@ -93,12 +93,12 @@
    "ev": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "dep": "OGM ORMANSPOR",
    "evSkor": "3",
-   "depSkor": "1",
+   "depSkor": "4",
    "salon": "Şehit Turgut Solak Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 1,
-    "saat": "09:24",
+    "saat": "08:45",
     "uzatma": false
    }
   },
@@ -1173,8 +1173,8 @@
   "753710": {
    "ad": "Fredrick Earl Cleveland",
    "takim": "FİNALSPOR",
-   "vp": 3,
-   "saniye": 97,
+   "vp": 5,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1183,7 +1183,7 @@
    "ad": "İlker Tunalı",
    "takim": "FİNALSPOR",
    "vp": 1,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1192,7 +1192,7 @@
    "ad": "Arda Berk Kaya",
    "takim": "FİNALSPOR",
    "vp": -1,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1201,7 +1201,7 @@
    "ad": "Eric Buckner",
    "takim": "FİNALSPOR",
    "vp": 0,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1210,7 +1210,7 @@
    "ad": "Mithat Can Özalp",
    "takim": "FİNALSPOR",
    "vp": 1,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1282,7 +1282,7 @@
    "ad": "Turan Altunbaş",
    "takim": "MERSİN SPOR",
    "vp": 2,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1291,7 +1291,7 @@
    "ad": "Berat Ege Bulut",
    "takim": "MERSİN SPOR",
    "vp": 1,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1299,8 +1299,8 @@
   "442471": {
    "ad": "Ferhat Seniçeli",
    "takim": "MERSİN SPOR",
-   "vp": 2,
-   "saniye": 97,
+   "vp": 3,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1309,7 +1309,7 @@
    "ad": "Faik Can Kaşıkçı",
    "takim": "MERSİN SPOR",
    "vp": 1,
-   "saniye": 97,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1317,8 +1317,8 @@
   "343369": {
    "ad": "Nihat Atalan",
    "takim": "MERSİN SPOR",
-   "vp": 0,
-   "saniye": 97,
+   "vp": -1,
+   "saniye": 132,
    "maclar": [
     346005
    ]
@@ -1381,7 +1381,7 @@
    "ad": "Cem Küçüközkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 0,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1390,7 +1390,7 @@
    "ad": "Tavian Dunn-Martin",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 1,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1399,7 +1399,7 @@
    "ad": "Muhammet Engin Kalkan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 0,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1408,7 +1408,7 @@
    "ad": "Harun Can Doğan",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
    "vp": 3,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1416,8 +1416,8 @@
   "777505": {
    "ad": "Jaquan Elijah Scott",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
-   "vp": 0,
-   "saniye": 36,
+   "vp": -2,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1488,8 +1488,8 @@
   "109594": {
    "ad": "Göktürk Gökalp Ural",
    "takim": "OGM ORMANSPOR",
-   "vp": 1,
-   "saniye": 36,
+   "vp": 2,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1497,8 +1497,8 @@
   "473677": {
    "ad": "Diante Watkins",
    "takim": "OGM ORMANSPOR",
-   "vp": 0,
-   "saniye": 36,
+   "vp": 2,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1507,7 +1507,7 @@
    "ad": "Tolga Kaan Birer",
    "takim": "OGM ORMANSPOR",
    "vp": 0,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1516,7 +1516,7 @@
    "ad": "Koray Uzunhasan",
    "takim": "OGM ORMANSPOR",
    "vp": 0,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
@@ -1525,7 +1525,7 @@
    "ad": "Tobin Carberry",
    "takim": "OGM ORMANSPOR",
    "vp": 0,
-   "saniye": 36,
+   "saniye": 75,
    "maclar": [
     346007
    ]
