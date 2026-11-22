@@ -37,8 +37,7 @@
     "faul": 1,
     "af": 0,
     "pm": "-14",
-    "vp": 2,
-    "sahada": true
+    "vp": 2
    },
    {
     "id": "758770",
@@ -196,7 +195,8 @@
     "faul": 1,
     "af": 0,
     "pm": "3",
-    "vp": 0
+    "vp": 0,
+    "sahada": true
    },
    {
     "id": "210913",
@@ -227,8 +227,7 @@
     "faul": 0,
     "af": 1,
     "pm": "-12",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "356958",
@@ -290,7 +289,8 @@
     "faul": 2,
     "af": 0,
     "pm": "-4",
-    "vp": -1
+    "vp": -1,
+    "sahada": true
    },
    {
     "id": "293126",
@@ -388,7 +388,8 @@
   ],
   "ceyrekler": [
    22,
-   15
+   15,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -795,7 +796,8 @@
   ],
   "ceyrekler": [
    21,
-   34
+   34,
+   0
   ],
   "takim": {
    "hr": 3,
@@ -823,8 +825,8 @@
  "salon": "Şehit Turgut Solak Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
-  "periyot": 2,
-  "saat": "00:00",
+  "periyot": 3,
+  "saat": "10:00",
   "uzatma": false
  },
  "fark": {
@@ -2113,6 +2115,84 @@
      "faul": 0
     }
    }
+  },
+  {
+   "ad": "3",
+   "ev": {
+    "oyuncular": {
+     "1": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "17": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   },
+   "dep": {
+    "oyuncular": {},
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   }
   }
  ],
  "donemIleri": {
@@ -2165,6 +2245,32 @@
     "seri": 9,
     "lider": 518,
     "degisim": 1,
+    "esitlik": 0
+   }
+  },
+  "3": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
     "esitlik": 0
    }
   },
