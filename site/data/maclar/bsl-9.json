@@ -98,13 +98,18 @@
    "lig": "bsl",
    "hafta": 9,
    "tarih": "2026-11-22T20:30:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "BEŞİKTAŞ FUZUL",
    "dep": "FENERBAHÇE TARFİN",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "2",
    "salon": "Turkcell Basketbol Gelişim Merkezi",
-   "yayin": "beINSports"
+   "yayin": "beINSports",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:29",
+    "uzatma": false
+   }
   }
  ]
 }
