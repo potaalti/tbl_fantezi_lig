@@ -389,7 +389,8 @@
   "ceyrekler": [
    25,
    23,
-   22
+   22,
+   0
   ],
   "takim": {
    "hr": 2,
@@ -797,7 +798,8 @@
   "ceyrekler": [
    23,
    20,
-   14
+   14,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -2597,6 +2599,32 @@
     "esitlik": 0
    }
   },
+  "4": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   }
+  },
   "Y1": {
    "ev": {
     "tks": 1,
@@ -2621,6 +2649,32 @@
     "lider": 46,
     "degisim": 6,
     "esitlik": 5
+   }
+  },
+  "Y2": {
+   "ev": {
+    "tks": 3,
+    "hh": 6,
+    "is": 0,
+    "ba": 8,
+    "benc": 8,
+    "fark": 18,
+    "seri": 10,
+    "lider": 600,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 1,
+    "hh": 1,
+    "is": 1,
+    "ba": 8,
+    "benc": 3,
+    "fark": 0,
+    "seri": 5,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
    }
   }
  }
