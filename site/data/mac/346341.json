@@ -13,7 +13,7 @@
     "ad": "Brandon Boston Jr.",
     "no": "5",
     "ilk5": true,
-    "sure": "32:22",
+    "sure": "32:34",
     "sayi": 22,
     "iki": [
      5,
@@ -45,7 +45,7 @@
     "ad": "Yiğit Arslan",
     "no": "7",
     "ilk5": true,
-    "sure": "24:31",
+    "sure": "24:43",
     "sayi": 9,
     "iki": [
      0,
@@ -77,7 +77,7 @@
     "ad": "Emanuel Terry",
     "no": "33",
     "ilk5": true,
-    "sure": "24:19",
+    "sure": "24:31",
     "sayi": 4,
     "iki": [
      1,
@@ -171,7 +171,7 @@
     "ad": "Marcus Keene",
     "no": "1",
     "ilk5": false,
-    "sure": "20:30",
+    "sure": "20:42",
     "sayi": 5,
     "iki": [
      1,
@@ -296,7 +296,7 @@
     "ad": "Royce Hamm Jr.",
     "no": "17",
     "ilk5": false,
-    "sure": "17:31",
+    "sure": "17:43",
     "sayi": 14,
     "iki": [
      6,
@@ -422,7 +422,7 @@
     "ad": "Jordan Loyd",
     "no": "3",
     "ilk5": true,
-    "sure": "25:52",
+    "sure": "26:04",
     "sayi": 16,
     "iki": [
      2,
@@ -454,7 +454,7 @@
     "ad": "Dario Saric",
     "no": "5",
     "ilk5": true,
-    "sure": "17:43",
+    "sure": "17:55",
     "sayi": 16,
     "iki": [
      1,
@@ -478,14 +478,15 @@
     "faul": 0,
     "af": 1,
     "pm": "14",
-    "vp": 21
+    "vp": 21,
+    "sahada": true
    },
    {
     "id": "782949",
     "ad": "Cameron Payne",
     "no": "22",
     "ilk5": true,
-    "sure": "22:58",
+    "sure": "23:10",
     "sayi": 7,
     "iki": [
      2,
@@ -572,8 +573,7 @@
     "faul": 3,
     "af": 0,
     "pm": "-2",
-    "vp": 6,
-    "sahada": true
+    "vp": 6
    },
    {
     "id": "508583",
@@ -735,7 +735,7 @@
     "ad": "Matthew Strazel",
     "no": "32",
     "ilk5": false,
-    "sure": "19:56",
+    "sure": "20:08",
     "sayi": 5,
     "iki": [
      2,
@@ -767,7 +767,7 @@
     "ad": "Erkan Yılmaz",
     "no": "33",
     "ilk5": false,
-    "sure": "12:45",
+    "sure": "12:57",
     "sayi": 1,
     "iki": [
      0,
@@ -816,7 +816,7 @@
    "benc": 17,
    "fark": 11,
    "seri": 13,
-   "lider": 1915,
+   "lider": 1927,
    "degisim": 3,
    "esitlik": 1
   },
@@ -2957,6 +2957,33 @@
       "af": 0,
       "pm": -2,
       "vp": -1
+     },
+     "5": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
      }
     },
     "takim": {
