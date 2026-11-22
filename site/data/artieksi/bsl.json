@@ -12213,6 +12213,15 @@
     "ulke": "ABD"
    },
    {
+    "id": "fiba-georgios-papagiannis",
+    "ad": "Georgios Papagiannis",
+    "takim": "ANADOLU EFES",
+    "pm": 5,
+    "fark": -1,
+    "mac": 1,
+    "ulke": ""
+   },
+   {
     "id": "778460",
     "ad": "Brandon Taylor",
     "takim": "BURSASPOR BASKETBOL",
@@ -12312,13 +12321,40 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "fiba-georgios-papagiannis",
-    "ad": "Georgios Papagiannis",
+    "id": "782949",
+    "ad": "Cameron Payne",
     "takim": "ANADOLU EFES",
     "pm": 2,
     "fark": -1,
     "mac": 1,
-    "ulke": ""
+    "ulke": "ABD"
+   },
+   {
+    "id": "333434",
+    "ad": "Dario Saric",
+    "takim": "ANADOLU EFES",
+    "pm": 2,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "HIRVATİSTAN"
+   },
+   {
+    "id": "281408",
+    "ad": "David Mutaf",
+    "takim": "ANADOLU EFES",
+    "pm": 2,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "736126",
+    "ad": "Jordan Loyd",
+    "takim": "ANADOLU EFES",
+    "pm": 2,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "512379",
@@ -12337,42 +12373,6 @@
     "fark": 7,
     "mac": 1,
     "ulke": "POLONYA"
-   },
-   {
-    "id": "590409",
-    "ad": "Brady Manek",
-    "takim": "TRABZONSPOR",
-    "pm": 1,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "735812",
-    "ad": "Brandon Boston Jr.",
-    "takim": "TRABZONSPOR",
-    "pm": 1,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "473256",
-    "ad": "Emanuel Terry",
-    "takim": "TRABZONSPOR",
-    "pm": 1,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "105532",
-    "ad": "Yiğit Arslan",
-    "takim": "TRABZONSPOR",
-    "pm": 1,
-    "fark": 1,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
    },
    {
     "id": "410874",
@@ -12483,42 +12483,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "782949",
-    "ad": "Cameron Payne",
-    "takim": "ANADOLU EFES",
-    "pm": -1,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "333434",
-    "ad": "Dario Saric",
-    "takim": "ANADOLU EFES",
-    "pm": -1,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "HIRVATİSTAN"
-   },
-   {
-    "id": "281408",
-    "ad": "David Mutaf",
-    "takim": "ANADOLU EFES",
-    "pm": -1,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "736126",
-    "ad": "Jordan Loyd",
-    "takim": "ANADOLU EFES",
-    "pm": -1,
-    "fark": -1,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "254789",
     "ad": "Yavuz Gültekin",
     "takim": "KARŞIYAKA",
@@ -12573,13 +12537,40 @@
     "ulke": "ABD"
    },
    {
-    "id": "779255",
-    "ad": "Marcus Keene",
+    "id": "590409",
+    "ad": "Brady Manek",
     "takim": "TRABZONSPOR",
     "pm": -2,
     "fark": 1,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "735812",
+    "ad": "Brandon Boston Jr.",
+    "takim": "TRABZONSPOR",
+    "pm": -2,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "473256",
+    "ad": "Emanuel Terry",
+    "takim": "TRABZONSPOR",
+    "pm": -2,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
+    "id": "105532",
+    "ad": "Yiğit Arslan",
+    "takim": "TRABZONSPOR",
+    "pm": -2,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "130898",
@@ -12715,6 +12706,15 @@
     "fark": -7,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "779255",
+    "ad": "Marcus Keene",
+    "takim": "TRABZONSPOR",
+    "pm": -5,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "129216",
@@ -13224,6 +13224,15 @@
    "ulke": "ABD"
   },
   {
+   "id": "333434",
+   "ad": "Dario Saric",
+   "takim": "ANADOLU EFES",
+   "pm": 36,
+   "fark": 43,
+   "mac": 9,
+   "ulke": "HIRVATİSTAN"
+  },
+  {
    "id": "202579",
    "ad": "Ata Kahraman",
    "takim": "TÜRK TELEKOM",
@@ -13249,15 +13258,6 @@
    "fark": 5,
    "mac": 8,
    "ulke": "ABD"
-  },
-  {
-   "id": "333434",
-   "ad": "Dario Saric",
-   "takim": "ANADOLU EFES",
-   "pm": 33,
-   "fark": 43,
-   "mac": 9,
-   "ulke": "HIRVATİSTAN"
   },
   {
    "id": "27541",
@@ -13314,6 +13314,15 @@
    "ulke": "SLOVENYA"
   },
   {
+   "id": "736126",
+   "ad": "Jordan Loyd",
+   "takim": "ANADOLU EFES",
+   "pm": 28,
+   "fark": 30,
+   "mac": 7,
+   "ulke": "ABD"
+  },
+  {
    "id": "778279",
    "ad": "Chris Horton",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -13329,6 +13338,15 @@
    "pm": 27,
    "fark": 5,
    "mac": 8,
+   "ulke": "ABD"
+  },
+  {
+   "id": "782949",
+   "ad": "Cameron Payne",
+   "takim": "ANADOLU EFES",
+   "pm": 27,
+   "fark": 17,
+   "mac": 5,
    "ulke": "ABD"
   },
   {
@@ -13350,13 +13368,13 @@
    "ulke": "KANADA"
   },
   {
-   "id": "736126",
-   "ad": "Jordan Loyd",
+   "id": "281408",
+   "ad": "David Mutaf",
    "takim": "ANADOLU EFES",
    "pm": 25,
-   "fark": 30,
-   "mac": 7,
-   "ulke": "ABD"
+   "fark": 43,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "609083",
@@ -13365,15 +13383,6 @@
    "pm": 24,
    "fark": -14,
    "mac": 9,
-   "ulke": "ABD"
-  },
-  {
-   "id": "782949",
-   "ad": "Cameron Payne",
-   "takim": "ANADOLU EFES",
-   "pm": 24,
-   "fark": 17,
-   "mac": 5,
    "ulke": "ABD"
   },
   {
@@ -13411,15 +13420,6 @@
    "fark": 21,
    "mac": 4,
    "ulke": "İSPANYA"
-  },
-  {
-   "id": "281408",
-   "ad": "David Mutaf",
-   "takim": "ANADOLU EFES",
-   "pm": 22,
-   "fark": 43,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "157002",
@@ -13692,6 +13692,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "fiba-georgios-papagiannis",
+   "ad": "Georgios Papagiannis",
+   "takim": "ANADOLU EFES",
+   "pm": 5,
+   "fark": -1,
+   "mac": 1,
+   "ulke": ""
+  },
+  {
    "id": "107520",
    "ad": "Kartal Özmızrak",
    "takim": "GLİNT ÇAYIROVA BELEDİYESİ",
@@ -13762,15 +13771,6 @@
    "fark": -4,
    "mac": 2,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "fiba-georgios-papagiannis",
-   "ad": "Georgios Papagiannis",
-   "takim": "ANADOLU EFES",
-   "pm": 2,
-   "fark": -1,
-   "mac": 1,
-   "ulke": ""
   },
   {
    "id": "500054",
@@ -14151,15 +14151,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "735812",
-   "ad": "Brandon Boston Jr.",
-   "takim": "TRABZONSPOR",
-   "pm": -6,
-   "fark": -17,
-   "mac": 4,
-   "ulke": "ABD"
-  },
-  {
    "id": "392627",
    "ad": "Yaman Alişan",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -14286,12 +14277,12 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "779255",
-   "ad": "Marcus Keene",
+   "id": "735812",
+   "ad": "Brandon Boston Jr.",
    "takim": "TRABZONSPOR",
    "pm": -9,
-   "fark": -15,
-   "mac": 9,
+   "fark": -17,
+   "mac": 4,
    "ulke": "ABD"
   },
   {
@@ -14364,6 +14355,15 @@
    "pm": -11,
    "fark": 5,
    "mac": 1,
+   "ulke": "ABD"
+  },
+  {
+   "id": "779255",
+   "ad": "Marcus Keene",
+   "takim": "TRABZONSPOR",
+   "pm": -12,
+   "fark": -15,
+   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -14475,15 +14475,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "590409",
-   "ad": "Brady Manek",
-   "takim": "TRABZONSPOR",
-   "pm": -16,
-   "fark": -15,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "779011",
    "ad": "Jhonathan Dunn",
    "takim": "YUKATEL DENİZLİ BASKET",
@@ -14563,6 +14554,15 @@
    "fark": 34,
    "mac": 4,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "590409",
+   "ad": "Brady Manek",
+   "takim": "TRABZONSPOR",
+   "pm": -19,
+   "fark": -15,
+   "mac": 9,
+   "ulke": "ABD"
   },
   {
    "id": "109611",
@@ -14736,15 +14736,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "105532",
-   "ad": "Yiğit Arslan",
-   "takim": "TRABZONSPOR",
-   "pm": -31,
-   "fark": -15,
-   "mac": 9,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "470691",
    "ad": "Thomas Akyazılı",
    "takim": "ALİAĞA PETKİM SPOR",
@@ -14824,6 +14815,15 @@
    "fark": -39,
    "mac": 9,
    "ulke": "ABD"
+  },
+  {
+   "id": "105532",
+   "ad": "Yiğit Arslan",
+   "takim": "TRABZONSPOR",
+   "pm": -34,
+   "fark": -15,
+   "mac": 9,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "778460",
@@ -14925,15 +14925,6 @@
    "ulke": "FRANSA"
   },
   {
-   "id": "473256",
-   "ad": "Emanuel Terry",
-   "takim": "TRABZONSPOR",
-   "pm": -44,
-   "fark": -15,
-   "mac": 9,
-   "ulke": "ABD"
-  },
-  {
    "id": "363061",
    "ad": "Scottie Wilbekin",
    "takim": "BEŞİKTAŞ FUZUL",
@@ -14957,6 +14948,15 @@
    "takim": "TOFAŞ",
    "pm": -45,
    "fark": -29,
+   "mac": 9,
+   "ulke": "ABD"
+  },
+  {
+   "id": "473256",
+   "ad": "Emanuel Terry",
+   "takim": "TRABZONSPOR",
+   "pm": -47,
+   "fark": -15,
    "mac": 9,
    "ulke": "ABD"
   },
