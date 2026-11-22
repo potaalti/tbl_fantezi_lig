@@ -13,7 +13,7 @@
     "ad": "Josh Sharkey",
     "no": "0",
     "ilk5": true,
-    "sure": "17:38",
+    "sure": "17:49",
     "sayi": 9,
     "iki": [
      4,
@@ -76,7 +76,7 @@
     "ad": "İsmail Karabilen",
     "no": "13",
     "ilk5": true,
-    "sure": "21:02",
+    "sure": "21:13",
     "sayi": 8,
     "iki": [
      3,
@@ -108,7 +108,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "20:33",
+    "sure": "20:44",
     "sayi": 5,
     "iki": [
      1,
@@ -164,8 +164,7 @@
     "faul": 2,
     "af": 1,
     "pm": "11",
-    "vp": 18,
-    "sahada": true
+    "vp": 18
    },
    {
     "id": "447523",
@@ -203,7 +202,7 @@
     "ad": "Ege Eskinazi",
     "no": "7",
     "ilk5": false,
-    "sure": "10:23",
+    "sure": "10:34",
     "sayi": 5,
     "iki": [
      1,
@@ -328,7 +327,7 @@
     "ad": "Eren İlyem",
     "no": "19",
     "ilk5": false,
-    "sure": "3:11",
+    "sure": "3:22",
     "sayi": 0,
     "iki": [
      0,
@@ -352,7 +351,8 @@
     "faul": 0,
     "af": 0,
     "pm": "2",
-    "vp": 1
+    "vp": 1,
+    "sahada": true
    },
    {
     "id": "489789",
@@ -406,7 +406,7 @@
    "benc": 9,
    "fark": 15,
    "seri": 12,
-   "lider": 1390,
+   "lider": 1401,
    "degisim": 6,
    "esitlik": 5
   },
@@ -421,7 +421,7 @@
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "23:41",
+    "sure": "23:52",
     "sayi": 13,
     "iki": [
      5,
@@ -453,7 +453,7 @@
     "ad": "Ömer Yasir Küçük",
     "no": "4",
     "ilk5": true,
-    "sure": "15:41",
+    "sure": "15:52",
     "sayi": 0,
     "iki": [
      0,
@@ -485,7 +485,7 @@
     "ad": "Kendall Munson",
     "no": "9",
     "ilk5": true,
-    "sure": "17:39",
+    "sure": "17:50",
     "sayi": 12,
     "iki": [
      6,
@@ -517,7 +517,7 @@
     "ad": "Cengizhan İvedi",
     "no": "23",
     "ilk5": true,
-    "sure": "19:52",
+    "sure": "20:03",
     "sayi": 8,
     "iki": [
      1,
@@ -549,7 +549,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": true,
-    "sure": "17:15",
+    "sure": "17:26",
     "sayi": 6,
     "iki": [
      1,
@@ -826,7 +826,7 @@
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 3,
-  "saat": "03:21",
+  "saat": "03:10",
   "uzatma": false
  },
  "fark": {
@@ -2146,6 +2146,33 @@
      },
      "7": {
       "sn": 62,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     },
+     "19": {
+      "sn": 0,
       "sayi": 0,
       "iki": [
        0,
