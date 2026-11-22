@@ -44,7 +44,7 @@
     "ad": "Trev Crews",
     "no": "3",
     "ilk5": true,
-    "sure": "7:51",
+    "sure": "8:06",
     "sayi": 2,
     "iki": [
      1,
@@ -67,7 +67,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 6,
     "sahada": true
    },
@@ -107,7 +107,7 @@
     "ad": "Mert Ali Sert",
     "no": "14",
     "ilk5": true,
-    "sure": "7:51",
+    "sure": "8:06",
     "sayi": 2,
     "iki": [
      1,
@@ -127,11 +127,11 @@
     "ast": 0,
     "tc": 1,
     "blk": 0,
-    "tk": 0,
+    "tk": 1,
     "faul": 1,
     "af": 0,
-    "pm": "2",
-    "vp": 1,
+    "pm": "0",
+    "vp": 0,
     "sahada": true
    },
    {
@@ -139,7 +139,7 @@
     "ad": "Ege Akçay",
     "no": "20",
     "ilk5": true,
-    "sure": "7:51",
+    "sure": "8:06",
     "sayi": 9,
     "iki": [
      3,
@@ -162,7 +162,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "2",
+    "pm": "0",
     "vp": 9,
     "sahada": true
    },
@@ -202,7 +202,7 @@
     "ad": "Ege Eskinazi",
     "no": "7",
     "ilk5": false,
-    "sure": "0:23",
+    "sure": "0:38",
     "sayi": 0,
     "iki": [
      0,
@@ -225,7 +225,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -296,7 +296,7 @@
     "ad": "Yiğit Elgün",
     "no": "12",
     "ilk5": false,
-    "sure": "0:23",
+    "sure": "0:38",
     "sayi": 0,
     "iki": [
      0,
@@ -319,7 +319,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "0",
+    "pm": "-2",
     "vp": 0,
     "sahada": true
    },
@@ -404,9 +404,9 @@
    "benc": 0,
    "fark": 5,
    "seri": 5,
-   "lider": 347,
+   "lider": 362,
    "degisim": 4,
-   "esitlik": 2
+   "esitlik": 3
   },
   "koc": "Hüsnü Eser"
  },
@@ -419,7 +419,7 @@
     "ad": "Robert Smith",
     "no": "2",
     "ilk5": true,
-    "sure": "7:51",
+    "sure": "8:06",
     "sayi": 3,
     "iki": [
      0,
@@ -442,7 +442,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-2",
+    "pm": "0",
     "vp": 1,
     "sahada": true
    },
@@ -544,7 +544,7 @@
     "ad": "Doğan Şenli",
     "no": "65",
     "ilk5": true,
-    "sure": "7:51",
+    "sure": "8:06",
     "sayi": 3,
     "iki": [
      0,
@@ -567,7 +567,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-2",
+    "pm": "0",
     "vp": 3,
     "sahada": true
    },
@@ -607,7 +607,7 @@
     "ad": "Yiğit Karalar",
     "no": "8",
     "ilk5": false,
-    "sure": "1:33",
+    "sure": "1:48",
     "sayi": 0,
     "iki": [
      0,
@@ -630,7 +630,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "3",
+    "pm": "5",
     "vp": 0,
     "sahada": true
    },
@@ -639,7 +639,7 @@
     "ad": "Yiğit Çoban",
     "no": "15",
     "ilk5": false,
-    "sure": "1:33",
+    "sure": "1:48",
     "sayi": 3,
     "iki": [
      0,
@@ -662,7 +662,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "3",
+    "pm": "5",
     "vp": 3,
     "sahada": true
    },
@@ -702,7 +702,7 @@
     "ad": "Enes Bayraktar",
     "no": "20",
     "ilk5": false,
-    "sure": "1:33",
+    "sure": "1:48",
     "sayi": 0,
     "iki": [
      0,
@@ -725,7 +725,7 @@
     "tk": 0,
     "faul": 0,
     "af": 0,
-    "pm": "3",
+    "pm": "5",
     "vp": 1,
     "sahada": true
    },
@@ -793,7 +793,7 @@
    }
   ],
   "ceyrekler": [
-   17
+   19
   ],
   "takim": {
    "hr": 0,
@@ -803,16 +803,16 @@
    "faul": 0
   },
   "ileri": {
-   "tks": 3,
+   "tks": 5,
    "hh": 2,
    "is": 2,
-   "ba": 6,
-   "benc": 3,
+   "ba": 8,
+   "benc": 5,
    "fark": 2,
-   "seri": 4,
+   "seri": 5,
    "lider": 29,
    "degisim": 4,
-   "esitlik": 2
+   "esitlik": 3
   },
   "koc": "Mustafa Korhan Aydanarığ"
  },
@@ -983,11 +983,11 @@
       "ast": 0,
       "tc": 1,
       "blk": 0,
-      "tk": 0,
+      "tk": 1,
       "faul": 1,
       "af": 0,
       "pm": 2,
-      "vp": 1
+      "vp": 0
      },
      "20": {
       "sn": 471,
