@@ -13,7 +13,7 @@
     "ad": "Cem Küçüközkan",
     "no": "2",
     "ilk5": true,
-    "sure": "14:34",
+    "sure": "14:43",
     "sayi": 4,
     "iki": [
      2,
@@ -45,7 +45,7 @@
     "ad": "Tavian Dunn-Martin",
     "no": "7",
     "ilk5": true,
-    "sure": "23:18",
+    "sure": "23:27",
     "sayi": 18,
     "iki": [
      2,
@@ -67,7 +67,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 1,
-    "af": 2,
+    "af": 3,
     "pm": "-8",
     "vp": 15,
     "sahada": true
@@ -77,7 +77,7 @@
     "ad": "Muhammet Engin Kalkan",
     "no": "12",
     "ilk5": true,
-    "sure": "21:24",
+    "sure": "21:33",
     "sayi": 8,
     "iki": [
      1,
@@ -202,7 +202,7 @@
     "ad": "Berkay Bayar",
     "no": "9",
     "ilk5": false,
-    "sure": "13:27",
+    "sure": "13:36",
     "sayi": 2,
     "iki": [
      1,
@@ -296,7 +296,7 @@
     "ad": "Ufuk Tan Ertan",
     "no": "26",
     "ilk5": false,
-    "sure": "2:43",
+    "sure": "2:52",
     "sayi": 0,
     "iki": [
      0,
@@ -421,7 +421,7 @@
     "ad": "Göktürk Gökalp Ural",
     "no": "4",
     "ilk5": true,
-    "sure": "13:51",
+    "sure": "14:00",
     "sayi": 8,
     "iki": [
      3,
@@ -484,7 +484,7 @@
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "18:46",
+    "sure": "18:55",
     "sayi": 6,
     "iki": [
      3,
@@ -504,11 +504,11 @@
     "ast": 1,
     "tc": 0,
     "blk": 1,
-    "tk": 1,
-    "faul": 1,
+    "tk": 2,
+    "faul": 2,
     "af": 0,
     "pm": "15",
-    "vp": 14,
+    "vp": 13,
     "sahada": true
    },
    {
@@ -516,7 +516,7 @@
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "14:26",
+    "sure": "14:35",
     "sayi": 2,
     "iki": [
      1,
@@ -540,15 +540,14 @@
     "faul": 0,
     "af": 0,
     "pm": "6",
-    "vp": 4,
-    "sahada": true
+    "vp": 4
    },
    {
     "id": "501170",
     "ad": "Tobin Carberry",
     "no": "29",
     "ilk5": true,
-    "sure": "20:23",
+    "sure": "20:32",
     "sayi": 15,
     "iki": [
      5,
@@ -704,7 +703,7 @@
     "ad": "Arca Tülüoğlu",
     "no": "20",
     "ilk5": false,
-    "sure": "11:35",
+    "sure": "11:44",
     "sayi": 6,
     "iki": [
      2,
@@ -760,7 +759,8 @@
     "faul": 1,
     "af": 1,
     "pm": "9",
-    "vp": 18
+    "vp": 18,
+    "sahada": true
    },
    {
     "id": "352299",
@@ -814,7 +814,7 @@
    "benc": 24,
    "fark": 22,
    "seri": 11,
-   "lider": 1143,
+   "lider": 1152,
    "degisim": 7,
    "esitlik": 5
   },
@@ -826,12 +826,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 3,
-  "saat": "03:59",
+  "saat": "03:50",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 1561,
+  "simdi": 1570,
   "d": [
    [
     0,
@@ -2215,7 +2215,7 @@
       "vp": 1
      },
      "12": {
-      "sn": 361,
+      "sn": 370,
       "sayi": 0,
       "iki": [
        0,
@@ -2242,7 +2242,7 @@
       "vp": 1
      },
      "7": {
-      "sn": 361,
+      "sn": 370,
       "sayi": 9,
       "iki": [
        0,
@@ -2264,7 +2264,7 @@
       "blk": 0,
       "tk": 1,
       "faul": 1,
-      "af": 0,
+      "af": 1,
       "pm": 3,
       "vp": 9
      },
@@ -2296,7 +2296,7 @@
       "vp": 3
      },
      "2": {
-      "sn": 246,
+      "sn": 255,
       "sayi": 2,
       "iki": [
        1,
@@ -2350,7 +2350,7 @@
       "vp": -1
      },
      "9": {
-      "sn": 0,
+      "sn": 9,
       "sayi": 0,
       "iki": [
        0,
@@ -2377,7 +2377,7 @@
       "vp": 0
      },
      "26": {
-      "sn": 0,
+      "sn": 9,
       "sayi": 0,
       "iki": [
        0,
@@ -2415,7 +2415,7 @@
    "dep": {
     "oyuncular": {
      "29": {
-      "sn": 361,
+      "sn": 370,
       "sayi": 2,
       "iki": [
        1,
@@ -2442,7 +2442,7 @@
       "vp": 1
      },
      "4": {
-      "sn": 361,
+      "sn": 370,
       "sayi": 2,
       "iki": [
        1,
@@ -2469,7 +2469,7 @@
       "vp": 4
      },
      "12": {
-      "sn": 361,
+      "sn": 370,
       "sayi": 4,
       "iki": [
        2,
@@ -2489,14 +2489,14 @@
       "ast": 0,
       "tc": 0,
       "blk": 0,
-      "tk": 0,
-      "faul": 0,
+      "tk": 1,
+      "faul": 1,
       "af": 0,
       "pm": -3,
-      "vp": 5
+      "vp": 4
      },
      "24": {
-      "sn": 361,
+      "sn": 370,
       "sayi": 2,
       "iki": [
        1,
@@ -2550,7 +2550,7 @@
       "vp": 1
      },
      "20": {
-      "sn": 0,
+      "sn": 9,
       "sayi": 0,
       "iki": [
        0,
@@ -2661,7 +2661,7 @@
     "benc": 0,
     "fark": 22,
     "seri": 6,
-    "lider": 361,
+    "lider": 370,
     "degisim": 0,
     "esitlik": 0
    }
