@@ -12082,7 +12082,7 @@
     "ad": "Cameron Payne",
     "takim": "ANADOLU EFES",
     "pm": 12,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12132,15 +12132,6 @@
     "ulke": "KANADA"
    },
    {
-    "id": "333434",
-    "ad": "Dario Saric",
-    "takim": "ANADOLU EFES",
-    "pm": 10,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "HIRVATİSTAN"
-   },
-   {
     "id": "609083",
     "ad": "Steven Enoch",
     "takim": "KARŞIYAKA",
@@ -12148,6 +12139,15 @@
     "fark": 3,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "333434",
+    "ad": "Dario Saric",
+    "takim": "ANADOLU EFES",
+    "pm": 10,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "HIRVATİSTAN"
    },
    {
     "id": "609095",
@@ -12177,6 +12177,24 @@
     "ulke": "LİTVANYA"
    },
    {
+    "id": "512899",
+    "ad": "Akwasi Yeboah",
+    "takim": "TRABZONSPOR",
+    "pm": 6,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI"
+   },
+   {
+    "id": "741031",
+    "ad": "Royce Hamm Jr.",
+    "takim": "TRABZONSPOR",
+    "pm": 6,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "778996",
     "ad": "Brae Ivey",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12193,24 +12211,6 @@
     "fark": -3,
     "mac": 1,
     "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "512899",
-    "ad": "Akwasi Yeboah",
-    "takim": "TRABZONSPOR",
-    "pm": 6,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI"
-   },
-   {
-    "id": "741031",
-    "ad": "Royce Hamm Jr.",
-    "takim": "TRABZONSPOR",
-    "pm": 6,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
    },
    {
     "id": "776935",
@@ -12253,7 +12253,7 @@
     "ad": "Georgios Papagiannis",
     "takim": "ANADOLU EFES",
     "pm": 5,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": ""
    },
@@ -12280,7 +12280,7 @@
     "ad": "David Mutaf",
     "takim": "ANADOLU EFES",
     "pm": 4,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12316,7 +12316,7 @@
     "ad": "Rıdvan Öncel",
     "takim": "TRABZONSPOR",
     "pm": 3,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12366,15 +12366,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "736126",
-    "ad": "Jordan Loyd",
-    "takim": "ANADOLU EFES",
-    "pm": 2,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "512379",
     "ad": "Boubacar Toure",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -12382,6 +12373,15 @@
     "fark": 4,
     "mac": 1,
     "ulke": "SENEGAL"
+   },
+   {
+    "id": "736126",
+    "ad": "Jordan Loyd",
+    "takim": "ANADOLU EFES",
+    "pm": 2,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "502472",
@@ -12397,7 +12397,7 @@
     "ad": "Ege Arar",
     "takim": "TRABZONSPOR",
     "pm": 1,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12474,24 +12474,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "157002",
-    "ad": "Erkan Yılmaz",
-    "takim": "ANADOLU EFES",
-    "pm": 0,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "778403",
-    "ad": "Santi Yusta",
-    "takim": "ANADOLU EFES",
-    "pm": 0,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "İSPANYA"
-   },
-   {
     "id": "109611",
     "ad": "Berk Demir",
     "takim": "PİZZABULLS BORDO BANDIRMA",
@@ -12508,6 +12490,24 @@
     "fark": 4,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "157002",
+    "ad": "Erkan Yılmaz",
+    "takim": "ANADOLU EFES",
+    "pm": 0,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "778403",
+    "ad": "Santi Yusta",
+    "takim": "ANADOLU EFES",
+    "pm": 0,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "İSPANYA"
    },
    {
     "id": "452216",
@@ -12528,15 +12528,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "735850",
-    "ad": "Kai Jones",
-    "takim": "ANADOLU EFES",
-    "pm": -1,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "BAHAMALAR"
-   },
-   {
     "id": "254789",
     "ad": "Yavuz Gültekin",
     "takim": "KARŞIYAKA",
@@ -12553,6 +12544,15 @@
     "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "735850",
+    "ad": "Kai Jones",
+    "takim": "ANADOLU EFES",
+    "pm": -1,
+    "fark": 4,
+    "mac": 1,
+    "ulke": "BAHAMALAR"
    },
    {
     "id": "501076",
@@ -12721,7 +12721,7 @@
     "ad": "Emanuel Terry",
     "takim": "TRABZONSPOR",
     "pm": -5,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12753,6 +12753,15 @@
     "ulke": "HOLLANDA"
    },
    {
+    "id": "735812",
+    "ad": "Brandon Boston Jr.",
+    "takim": "TRABZONSPOR",
+    "pm": -6,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "373162",
     "ad": "Marko Pecarski",
     "takim": "YUKATEL DENİZLİ BASKET",
@@ -12771,20 +12780,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "735812",
-    "ad": "Brandon Boston Jr.",
-    "takim": "TRABZONSPOR",
-    "pm": -6,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
     "id": "370740",
     "ad": "Ercan Osmani",
     "takim": "ANADOLU EFES",
     "pm": -6,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12793,7 +12793,7 @@
     "ad": "Matthew Strazel",
     "takim": "ANADOLU EFES",
     "pm": -6,
-    "fark": 2,
+    "fark": 4,
     "mac": 1,
     "ulke": "FRANSA"
    },
@@ -12825,6 +12825,15 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "779255",
+    "ad": "Marcus Keene",
+    "takim": "TRABZONSPOR",
+    "pm": -7,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "358242",
     "ad": "Martynas Sajus",
     "takim": "BURSASPOR BASKETBOL",
@@ -12839,15 +12848,6 @@
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -7,
     "fark": -3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "779255",
-    "ad": "Marcus Keene",
-    "takim": "TRABZONSPOR",
-    "pm": -7,
-    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -12883,7 +12883,7 @@
     "ad": "Yiğit Arslan",
     "takim": "TRABZONSPOR",
     "pm": -8,
-    "fark": -2,
+    "fark": -4,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -12933,20 +12933,20 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "590409",
+    "ad": "Brady Manek",
+    "takim": "TRABZONSPOR",
+    "pm": -10,
+    "fark": -4,
+    "mac": 1,
+    "ulke": "ABD"
+   },
+   {
     "id": "779130",
     "ad": "Ty  Brewer",
     "takim": "YUKATEL DENİZLİ BASKET",
     "pm": -10,
     "fark": -3,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "590409",
-    "ad": "Brady Manek",
-    "takim": "TRABZONSPOR",
-    "pm": -10,
-    "fark": -2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -13219,7 +13219,7 @@
    "ad": "Kai Jones",
    "takim": "ANADOLU EFES",
    "pm": 45,
-   "fark": 38,
+   "fark": 40,
    "mac": 7,
    "ulke": "BAHAMALAR"
   },
@@ -13246,7 +13246,7 @@
    "ad": "Dario Saric",
    "takim": "ANADOLU EFES",
    "pm": 44,
-   "fark": 46,
+   "fark": 48,
    "mac": 9,
    "ulke": "HIRVATİSTAN"
   },
@@ -13291,7 +13291,7 @@
    "ad": "Ercan Osmani",
    "takim": "ANADOLU EFES",
    "pm": 38,
-   "fark": 46,
+   "fark": 48,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13300,7 +13300,7 @@
    "ad": "Cameron Payne",
    "takim": "ANADOLU EFES",
    "pm": 37,
-   "fark": 20,
+   "fark": 22,
    "mac": 5,
    "ulke": "ABD"
   },
@@ -13354,7 +13354,7 @@
    "ad": "Rıdvan Öncel",
    "takim": "TRABZONSPOR",
    "pm": 30,
-   "fark": -18,
+   "fark": -20,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13390,7 +13390,7 @@
    "ad": "Jordan Loyd",
    "takim": "ANADOLU EFES",
    "pm": 28,
-   "fark": 33,
+   "fark": 35,
    "mac": 7,
    "ulke": "ABD"
   },
@@ -13417,7 +13417,7 @@
    "ad": "David Mutaf",
    "takim": "ANADOLU EFES",
    "pm": 27,
-   "fark": 46,
+   "fark": 48,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13480,7 +13480,7 @@
    "ad": "Santi Yusta",
    "takim": "ANADOLU EFES",
    "pm": 22,
-   "fark": 23,
+   "fark": 25,
    "mac": 5,
    "ulke": "İSPANYA"
   },
@@ -13489,7 +13489,7 @@
    "ad": "Erkan Yılmaz",
    "takim": "ANADOLU EFES",
    "pm": 22,
-   "fark": 46,
+   "fark": 48,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -13525,7 +13525,7 @@
    "ad": "Royce Hamm Jr.",
    "takim": "TRABZONSPOR",
    "pm": 19,
-   "fark": -7,
+   "fark": -9,
    "mac": 4,
    "ulke": "ABD"
   },
@@ -13543,7 +13543,7 @@
    "ad": "Akwasi Yeboah",
    "takim": "TRABZONSPOR",
    "pm": 18,
-   "fark": -18,
+   "fark": -20,
    "mac": 9,
    "ulke": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI"
   },
@@ -13705,7 +13705,7 @@
    "ad": "Ege Arar",
    "takim": "TRABZONSPOR",
    "pm": 8,
-   "fark": -5,
+   "fark": -7,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -13768,7 +13768,7 @@
    "ad": "Georgios Papagiannis",
    "takim": "ANADOLU EFES",
    "pm": 5,
-   "fark": 2,
+   "fark": 4,
    "mac": 1,
    "ulke": ""
   },
@@ -14227,7 +14227,7 @@
    "ad": "Matthew Strazel",
    "takim": "ANADOLU EFES",
    "pm": -6,
-   "fark": 38,
+   "fark": 40,
    "mac": 6,
    "ulke": "FRANSA"
   },
@@ -14461,7 +14461,7 @@
    "ad": "Brandon Boston Jr.",
    "takim": "TRABZONSPOR",
    "pm": -13,
-   "fark": -20,
+   "fark": -22,
    "mac": 4,
    "ulke": "ABD"
   },
@@ -14479,7 +14479,7 @@
    "ad": "Marcus Keene",
    "takim": "TRABZONSPOR",
    "pm": -14,
-   "fark": -18,
+   "fark": -20,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14713,7 +14713,7 @@
    "ad": "Brady Manek",
    "takim": "TRABZONSPOR",
    "pm": -27,
-   "fark": -18,
+   "fark": -20,
    "mac": 9,
    "ulke": "ABD"
   },
@@ -14965,7 +14965,7 @@
    "ad": "Yiğit Arslan",
    "takim": "TRABZONSPOR",
    "pm": -40,
-   "fark": -18,
+   "fark": -20,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -15028,7 +15028,7 @@
    "ad": "Emanuel Terry",
    "takim": "TRABZONSPOR",
    "pm": -50,
-   "fark": -18,
+   "fark": -20,
    "mac": 9,
    "ulke": "ABD"
   },
