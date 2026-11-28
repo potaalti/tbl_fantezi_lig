@@ -389,7 +389,8 @@
   "ceyrekler": [
    24,
    15,
-   30
+   30,
+   0
   ],
   "takim": {
    "hr": 0,
@@ -797,7 +798,8 @@
   "ceyrekler": [
    16,
    22,
-   15
+   15,
+   0
   ],
   "takim": {
    "hr": 1,
@@ -2578,6 +2580,57 @@
      "faul": 0
     }
    }
+  },
+  {
+   "ad": "4",
+   "ev": {
+    "oyuncular": {},
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   },
+   "dep": {
+    "oyuncular": {
+     "22": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
+      "vp": 0
+     }
+    },
+    "takim": {
+     "hr": 0,
+     "sr": 0,
+     "rib": 0,
+     "tk": 0,
+     "faul": 0
+    }
+   }
   }
  ],
  "donemIleri": {
@@ -2659,6 +2712,32 @@
     "esitlik": 0
    }
   },
+  "4": {
+   "ev": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 0,
+    "hh": 0,
+    "is": 0,
+    "ba": 0,
+    "benc": 0,
+    "fark": 0,
+    "seri": 0,
+    "lider": 0,
+    "degisim": 0,
+    "esitlik": 0
+   }
+  },
   "Y1": {
    "ev": {
     "tks": 10,
@@ -2681,6 +2760,32 @@
     "fark": 1,
     "seri": 11,
     "lider": 20,
+    "degisim": 2,
+    "esitlik": 0
+   }
+  },
+  "Y2": {
+   "ev": {
+    "tks": 4,
+    "hh": 9,
+    "is": 2,
+    "ba": 12,
+    "benc": 7,
+    "fark": 18,
+    "seri": 19,
+    "lider": 569,
+    "degisim": 2,
+    "esitlik": 0
+   },
+   "dep": {
+    "tks": 2,
+    "hh": 2,
+    "is": 2,
+    "ba": 6,
+    "benc": 4,
+    "fark": 1,
+    "seri": 9,
+    "lider": 31,
     "degisim": 2,
     "esitlik": 0
    }
