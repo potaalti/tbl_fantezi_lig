@@ -17517,7 +17517,7 @@
     "ad": "Koralp Türk",
     "takim": "iLab BASKETBOL",
     "pm": 16,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17526,7 +17526,7 @@
     "ad": "Jeremiah Lamonure Tilmon Jr",
     "takim": "iLab BASKETBOL",
     "pm": 14,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -17535,7 +17535,7 @@
     "ad": "Batuhan Acar",
     "takim": "iLab BASKETBOL",
     "pm": 13,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17571,7 +17571,7 @@
     "ad": "Eren İlyem",
     "takim": "DARÜŞŞAFAKA",
     "pm": 11,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17607,7 +17607,7 @@
     "ad": "Eray Akyüz",
     "takim": "iLab BASKETBOL",
     "pm": 9,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17634,9 +17634,18 @@
     "ad": "Stefan Tyler Moody",
     "takim": "iLab BASKETBOL",
     "pm": 6,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "248403",
+    "ad": "Yiğit Elgün",
+    "takim": "DARÜŞŞAFAKA",
+    "pm": 6,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "471743",
@@ -17660,15 +17669,6 @@
     "id": "61192",
     "ad": "Dorukhan Engindeniz",
     "takim": "YALOVA HAREM SPOR",
-    "pm": 6,
-    "fark": 3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "248403",
-    "ad": "Yiğit Elgün",
-    "takim": "DARÜŞŞAFAKA",
     "pm": 6,
     "fark": 3,
     "mac": 1,
@@ -17715,7 +17715,7 @@
     "ad": "Ege Eskinazi",
     "takim": "DARÜŞŞAFAKA",
     "pm": 4,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17724,7 +17724,7 @@
     "ad": "Josh Sharkey",
     "takim": "DARÜŞŞAFAKA",
     "pm": 4,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -17760,7 +17760,7 @@
     "ad": "Ahmet Arda Ene",
     "takim": "DARÜŞŞAFAKA",
     "pm": 2,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17814,7 +17814,7 @@
     "ad": "Mert Ali Sert",
     "takim": "DARÜŞŞAFAKA",
     "pm": -1,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17832,7 +17832,7 @@
     "ad": "Ege Akçay",
     "takim": "DARÜŞŞAFAKA",
     "pm": -2,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17864,15 +17864,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "446970",
-    "ad": "Alperen Duruksu",
-    "takim": "iLab BASKETBOL",
-    "pm": -3,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "786709",
     "ad": "Deandre Pinckney",
     "takim": "GÖZTEPE ISONEM",
@@ -17880,6 +17871,15 @@
     "fark": -3,
     "mac": 1,
     "ulke": "ABD"
+   },
+   {
+    "id": "446970",
+    "ad": "Alperen Duruksu",
+    "takim": "iLab BASKETBOL",
+    "pm": -3,
+    "fark": -1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
    },
    {
     "id": "202372",
@@ -17913,7 +17913,7 @@
     "ad": "Trev Crews",
     "takim": "DARÜŞŞAFAKA",
     "pm": -4,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -17954,15 +17954,6 @@
     "ulke": "TÜRKİYE"
    },
    {
-    "id": "393623",
-    "ad": "Aybars Varlı",
-    "takim": "iLab BASKETBOL",
-    "pm": -5,
-    "fark": -3,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
     "id": "777502",
     "ad": "Isaiah Dandre Washington",
     "takim": "GÖZTEPE ISONEM",
@@ -17972,11 +17963,11 @@
     "ulke": "ABD"
    },
    {
-    "id": "108904",
-    "ad": "Metin Türen",
-    "takim": "YALOVA HAREM SPOR",
+    "id": "393623",
+    "ad": "Aybars Varlı",
+    "takim": "iLab BASKETBOL",
     "pm": -5,
-    "fark": 3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -17984,6 +17975,15 @@
     "id": "252757",
     "ad": "İsmail Karabilen",
     "takim": "DARÜŞŞAFAKA",
+    "pm": -5,
+    "fark": 1,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "108904",
+    "ad": "Metin Türen",
+    "takim": "YALOVA HAREM SPOR",
     "pm": -5,
     "fark": 3,
     "mac": 1,
@@ -18039,7 +18039,7 @@
     "ad": "Meriç Kuntker",
     "takim": "iLab BASKETBOL",
     "pm": -8,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -18066,7 +18066,7 @@
     "ad": "Can Kaan Turgut",
     "takim": "iLab BASKETBOL",
     "pm": -9,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -18075,7 +18075,7 @@
     "ad": "Yücel Çağın Başaran",
     "takim": "iLab BASKETBOL",
     "pm": -9,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -18093,7 +18093,7 @@
     "ad": "Arda Çelik",
     "takim": "DARÜŞŞAFAKA",
     "pm": -10,
-    "fark": 3,
+    "fark": 1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -18102,7 +18102,7 @@
     "ad": "Yesukan Onar",
     "takim": "iLab BASKETBOL",
     "pm": -12,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -18147,7 +18147,7 @@
     "ad": "Cihat Dalgalı",
     "takim": "iLab BASKETBOL",
     "pm": -17,
-    "fark": -3,
+    "fark": -1,
     "mac": 1,
     "ulke": "TÜRKİYE"
    },
@@ -18429,7 +18429,7 @@
    "ad": "Jeremiah Lamonure Tilmon Jr",
    "takim": "iLab BASKETBOL",
    "pm": 47,
-   "fark": 10,
+   "fark": 12,
    "mac": 12,
    "ulke": "ABD"
   },
@@ -18627,7 +18627,7 @@
    "ad": "Eray Akyüz",
    "takim": "iLab BASKETBOL",
    "pm": 31,
-   "fark": 34,
+   "fark": 36,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -18654,7 +18654,7 @@
    "ad": "Stefan Tyler Moody",
    "takim": "iLab BASKETBOL",
    "pm": 29,
-   "fark": 32,
+   "fark": 34,
    "mac": 8,
    "ulke": "ABD"
   },
@@ -18663,7 +18663,7 @@
    "ad": "Koralp Türk",
    "takim": "iLab BASKETBOL",
    "pm": 27,
-   "fark": -14,
+   "fark": -12,
    "mac": 9,
    "ulke": "TÜRKİYE"
   },
@@ -18744,7 +18744,7 @@
    "ad": "Meriç Kuntker",
    "takim": "iLab BASKETBOL",
    "pm": 21,
-   "fark": 10,
+   "fark": 12,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -18780,7 +18780,7 @@
    "ad": "Yiğit Elgün",
    "takim": "DARÜŞŞAFAKA",
    "pm": 17,
-   "fark": -71,
+   "fark": -73,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -18843,7 +18843,7 @@
    "ad": "Can Kaan Turgut",
    "takim": "iLab BASKETBOL",
    "pm": 13,
-   "fark": 6,
+   "fark": 8,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -19356,7 +19356,7 @@
    "ad": "Alperen Duruksu",
    "takim": "iLab BASKETBOL",
    "pm": -4,
-   "fark": 42,
+   "fark": 44,
    "mac": 4,
    "ulke": "TÜRKİYE"
   },
@@ -19500,7 +19500,7 @@
    "ad": "Eren İlyem",
    "takim": "DARÜŞŞAFAKA",
    "pm": -9,
-   "fark": -66,
+   "fark": -68,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -19509,7 +19509,7 @@
    "ad": "Arda Çelik",
    "takim": "DARÜŞŞAFAKA",
    "pm": -9,
-   "fark": -60,
+   "fark": -62,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -19554,7 +19554,7 @@
    "ad": "Aybars Varlı",
    "takim": "iLab BASKETBOL",
    "pm": -10,
-   "fark": 0,
+   "fark": 2,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -19617,7 +19617,7 @@
    "ad": "Josh Sharkey",
    "takim": "DARÜŞŞAFAKA",
    "pm": -12,
-   "fark": -41,
+   "fark": -43,
    "mac": 11,
    "ulke": "ABD"
   },
@@ -19815,7 +19815,7 @@
    "ad": "Yesukan Onar",
    "takim": "iLab BASKETBOL",
    "pm": -20,
-   "fark": 50,
+   "fark": 52,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -19842,7 +19842,7 @@
    "ad": "Cihat Dalgalı",
    "takim": "iLab BASKETBOL",
    "pm": -21,
-   "fark": -3,
+   "fark": -1,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -19887,7 +19887,7 @@
    "ad": "Batuhan Acar",
    "takim": "iLab BASKETBOL",
    "pm": -26,
-   "fark": 10,
+   "fark": 12,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -19941,7 +19941,7 @@
    "ad": "Yücel Çağın Başaran",
    "takim": "iLab BASKETBOL",
    "pm": -28,
-   "fark": 11,
+   "fark": 13,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -19977,7 +19977,7 @@
    "ad": "Mert Ali Sert",
    "takim": "DARÜŞŞAFAKA",
    "pm": -31,
-   "fark": -60,
+   "fark": -62,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -20094,7 +20094,7 @@
    "ad": "Ege Akçay",
    "takim": "DARÜŞŞAFAKA",
    "pm": -39,
-   "fark": -60,
+   "fark": -62,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -20139,7 +20139,7 @@
    "ad": "İsmail Karabilen",
    "takim": "DARÜŞŞAFAKA",
    "pm": -45,
-   "fark": -58,
+   "fark": -60,
    "mac": 11,
    "ulke": "TÜRKİYE"
   },
@@ -20238,7 +20238,7 @@
    "ad": "Ege Eskinazi",
    "takim": "DARÜŞŞAFAKA",
    "pm": -57,
-   "fark": -60,
+   "fark": -62,
    "mac": 10,
    "ulke": "TÜRKİYE"
   },
@@ -20283,7 +20283,7 @@
    "ad": "Ahmet Arda Ene",
    "takim": "DARÜŞŞAFAKA",
    "pm": -66,
-   "fark": -60,
+   "fark": -62,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -20301,7 +20301,7 @@
    "ad": "Trev Crews",
    "takim": "DARÜŞŞAFAKA",
    "pm": -67,
-   "fark": -70,
+   "fark": -72,
    "mac": 10,
    "ulke": "ABD"
   },
