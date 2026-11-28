@@ -17549,6 +17549,24 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "471743",
+    "ad": "Abdoulaye Gueye",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "SENEGAL"
+   },
+   {
+    "id": "210252",
+    "ad": "Alihan Deniz Genç",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "285246",
     "ad": "Batuhan Acar",
     "takim": "iLab BASKETBOL",
@@ -17558,9 +17576,27 @@
     "ulke": "TÜRKİYE"
    },
    {
+    "id": "61192",
+    "ad": "Dorukhan Engindeniz",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "223836",
     "ad": "Eray Akyüz",
     "takim": "iLab BASKETBOL",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "221455",
+    "ad": "Hakan Yapar",
+    "takim": "YALOVA HAREM SPOR",
     "pm": 2,
     "fark": 2,
     "mac": 1,
@@ -17583,6 +17619,15 @@
     "fark": 2,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "776537",
+    "ad": "Samuel Lee Sessoms",
+    "takim": "YALOVA HAREM SPOR",
+    "pm": 2,
+    "fark": 2,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "386617",
@@ -17615,7 +17660,7 @@
     "id": "196982",
     "ad": "Ahmet Can Duran",
     "takim": "GÖZTEPE ISONEM",
-    "pm": 0,
+    "pm": -2,
     "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17624,80 +17669,8 @@
     "id": "786709",
     "ad": "Deandre Pinckney",
     "takim": "GÖZTEPE ISONEM",
-    "pm": 0,
+    "pm": -2,
     "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "316467",
-    "ad": "Emir Arda Sivas",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 0,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "39445",
-    "ad": "Fatih Cantitiz",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 0,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "777502",
-    "ad": "Isaiah Dandre Washington",
-    "takim": "GÖZTEPE ISONEM",
-    "pm": 0,
-    "fark": -2,
-    "mac": 1,
-    "ulke": "ABD"
-   },
-   {
-    "id": "471743",
-    "ad": "Abdoulaye Gueye",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "SENEGAL"
-   },
-   {
-    "id": "210252",
-    "ad": "Alihan Deniz Genç",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "61192",
-    "ad": "Dorukhan Engindeniz",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "221455",
-    "ad": "Hakan Yapar",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 2,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "776537",
-    "ad": "Samuel Lee Sessoms",
-    "takim": "YALOVA HAREM SPOR",
-    "pm": 0,
-    "fark": 2,
     "mac": 1,
     "ulke": "ABD"
    },
@@ -17709,6 +17682,33 @@
     "fark": -2,
     "mac": 1,
     "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "316467",
+    "ad": "Emir Arda Sivas",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -2,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "39445",
+    "ad": "Fatih Cantitiz",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -2,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
+    "id": "777502",
+    "ad": "Isaiah Dandre Washington",
+    "takim": "GÖZTEPE ISONEM",
+    "pm": -2,
+    "fark": -2,
+    "mac": 1,
+    "ulke": "ABD"
    },
    {
     "id": "606144",
@@ -17879,10 +17879,19 @@
    "id": "776537",
    "ad": "Samuel Lee Sessoms",
    "takim": "YALOVA HAREM SPOR",
-   "pm": 101,
+   "pm": 103,
    "fark": 143,
    "mac": 13,
    "ulke": "ABD"
+  },
+  {
+   "id": "471743",
+   "ad": "Abdoulaye Gueye",
+   "takim": "YALOVA HAREM SPOR",
+   "pm": 95,
+   "fark": 143,
+   "mac": 13,
+   "ulke": "SENEGAL"
   },
   {
    "id": "277425",
@@ -17894,13 +17903,13 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "471743",
-   "ad": "Abdoulaye Gueye",
+   "id": "61192",
+   "ad": "Dorukhan Engindeniz",
    "takim": "YALOVA HAREM SPOR",
    "pm": 93,
-   "fark": 143,
-   "mac": 13,
-   "ulke": "SENEGAL"
+   "fark": 127,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "632441",
@@ -17910,15 +17919,6 @@
    "fark": 106,
    "mac": 9,
    "ulke": "ABD"
-  },
-  {
-   "id": "61192",
-   "ad": "Dorukhan Engindeniz",
-   "takim": "YALOVA HAREM SPOR",
-   "pm": 91,
-   "fark": 127,
-   "mac": 12,
-   "ulke": "TÜRKİYE"
   },
   {
    "id": "108904",
@@ -17960,19 +17960,10 @@
    "id": "316467",
    "ad": "Emir Arda Sivas",
    "takim": "GÖZTEPE ISONEM",
-   "pm": 79,
+   "pm": 77,
    "fark": 79,
    "mac": 12,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "777502",
-   "ad": "Isaiah Dandre Washington",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 77,
-   "fark": 67,
-   "mac": 9,
-   "ulke": "ABD"
   },
   {
    "id": "753710",
@@ -17981,6 +17972,15 @@
    "pm": 76,
    "fark": 37,
    "mac": 12,
+   "ulke": "ABD"
+  },
+  {
+   "id": "777502",
+   "ad": "Isaiah Dandre Washington",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 75,
+   "fark": 67,
+   "mac": 9,
    "ulke": "ABD"
   },
   {
@@ -18065,15 +18065,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "196982",
-   "ad": "Ahmet Can Duran",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 51,
-   "fark": 79,
-   "mac": 12,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "202113",
    "ad": "Deniz Çelen",
    "takim": "KİPAŞ K.B.B.",
@@ -18089,6 +18080,15 @@
    "pm": 49,
    "fark": 33,
    "mac": 11,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "196982",
+   "ad": "Ahmet Can Duran",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 49,
+   "fark": 79,
+   "mac": 12,
    "ulke": "TÜRKİYE"
   },
   {
@@ -18209,6 +18209,24 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "221455",
+   "ad": "Hakan Yapar",
+   "takim": "YALOVA HAREM SPOR",
+   "pm": 37,
+   "fark": 143,
+   "mac": 13,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "210252",
+   "ad": "Alihan Deniz Genç",
+   "takim": "YALOVA HAREM SPOR",
+   "pm": 36,
+   "fark": 35,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "501170",
    "ad": "Tobin Carberry",
    "takim": "OGM ORMANSPOR",
@@ -18251,24 +18269,6 @@
    "pm": 35,
    "fark": 46,
    "mac": 4,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "221455",
-   "ad": "Hakan Yapar",
-   "takim": "YALOVA HAREM SPOR",
-   "pm": 35,
-   "fark": 143,
-   "mac": 13,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "210252",
-   "ad": "Alihan Deniz Genç",
-   "takim": "YALOVA HAREM SPOR",
-   "pm": 34,
-   "fark": 35,
-   "mac": 12,
    "ulke": "TÜRKİYE"
   },
   {
@@ -18524,15 +18524,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "786709",
-   "ad": "Deandre Pinckney",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 13,
-   "fark": 20,
-   "mac": 3,
-   "ulke": "ABD"
-  },
-  {
    "id": "330914",
    "ad": "İbrahim Ethem Yılmaz",
    "takim": "GAZİANTEP BASKETBOL",
@@ -18585,6 +18576,15 @@
    "fark": -35,
    "mac": 11,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "786709",
+   "ad": "Deandre Pinckney",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": 11,
+   "fark": 20,
+   "mac": 3,
+   "ulke": "ABD"
   },
   {
    "id": "262737",
@@ -18857,15 +18857,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "39445",
-   "ad": "Fatih Cantitiz",
-   "takim": "GÖZTEPE ISONEM",
-   "pm": 1,
-   "fark": 66,
-   "mac": 10,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "369470",
    "ad": "Onur Aslaner",
    "takim": "BALIKESİR BÜYÜKŞEHİR BELEDİYE SPOR",
@@ -18944,6 +18935,15 @@
    "pm": -1,
    "fark": 45,
    "mac": 3,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "39445",
+   "ad": "Fatih Cantitiz",
+   "takim": "GÖZTEPE ISONEM",
+   "pm": -1,
+   "fark": 66,
+   "mac": 10,
    "ulke": "TÜRKİYE"
   },
   {
