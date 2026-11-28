@@ -44,7 +44,7 @@
     "ad": "Diante Watkins",
     "no": "6",
     "ilk5": true,
-    "sure": "9:44",
+    "sure": "9:57",
     "sayi": 6,
     "iki": [
      2,
@@ -67,7 +67,7 @@
     "tk": 1,
     "faul": 0,
     "af": 1,
-    "pm": "10",
+    "pm": "7",
     "vp": 9,
     "sahada": true
    },
@@ -76,7 +76,7 @@
     "ad": "Tolga Kaan Birer",
     "no": "12",
     "ilk5": true,
-    "sure": "8:12",
+    "sure": "8:25",
     "sayi": 4,
     "iki": [
      2,
@@ -99,7 +99,7 @@
     "tk": 1,
     "faul": 0,
     "af": 0,
-    "pm": "8",
+    "pm": "5",
     "vp": 7,
     "sahada": true
    },
@@ -108,7 +108,7 @@
     "ad": "Koray Uzunhasan",
     "no": "24",
     "ilk5": true,
-    "sure": "6:17",
+    "sure": "6:32",
     "sayi": 4,
     "iki": [
      1,
@@ -131,8 +131,9 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "8",
-    "vp": 8
+    "pm": "5",
+    "vp": 8,
+    "sahada": true
    },
    {
     "id": "501170",
@@ -201,7 +202,7 @@
     "ad": "Kaan Tarla",
     "no": "7",
     "ilk5": false,
-    "sure": "5:45",
+    "sure": "5:58",
     "sayi": 0,
     "iki": [
      0,
@@ -224,7 +225,7 @@
     "tk": 0,
     "faul": 1,
     "af": 0,
-    "pm": "3",
+    "pm": "0",
     "vp": -1,
     "sahada": true
    },
@@ -264,7 +265,7 @@
     "ad": "Arca Tülüoğlu",
     "no": "20",
     "ilk5": false,
-    "sure": "7:10",
+    "sure": "7:23",
     "sayi": 4,
     "iki": [
      1,
@@ -287,7 +288,7 @@
     "tk": 2,
     "faul": 0,
     "af": 2,
-    "pm": "2",
+    "pm": "-1",
     "vp": 4,
     "sahada": true
    },
@@ -296,7 +297,7 @@
     "ad": "Mustafa Baki Görür",
     "no": "21",
     "ilk5": false,
-    "sure": "7:10",
+    "sure": "7:08",
     "sayi": 6,
     "iki": [
      3,
@@ -320,8 +321,7 @@
     "faul": 1,
     "af": 0,
     "pm": "2",
-    "vp": 7,
-    "sahada": true
+    "vp": 7
    },
    {
     "id": "105514",
@@ -405,7 +405,7 @@
    "benc": 12,
    "fark": 11,
    "seri": 8,
-   "lider": 774,
+   "lider": 787,
    "degisim": 2,
    "esitlik": 0
   },
@@ -420,7 +420,7 @@
     "ad": "Kahlil Dukes",
     "no": "5",
     "ilk5": true,
-    "sure": "11:09",
+    "sure": "11:22",
     "sayi": 2,
     "iki": [
      1,
@@ -443,7 +443,7 @@
     "tk": 3,
     "faul": 0,
     "af": 0,
-    "pm": "-9",
+    "pm": "-6",
     "vp": -1,
     "sahada": true
    },
@@ -483,7 +483,7 @@
     "ad": "Jamari Traylor",
     "no": "13",
     "ilk5": true,
-    "sure": "13:27",
+    "sure": "13:40",
     "sayi": 5,
     "iki": [
      2,
@@ -506,7 +506,7 @@
     "tk": 0,
     "faul": 1,
     "af": 2,
-    "pm": "-10",
+    "pm": "-7",
     "vp": 5,
     "sahada": true
    },
@@ -515,7 +515,7 @@
     "ad": "Oğuzhan Tosun",
     "no": "15",
     "ilk5": true,
-    "sure": "5:19",
+    "sure": "5:32",
     "sayi": 0,
     "iki": [
      0,
@@ -538,7 +538,7 @@
     "tk": 0,
     "faul": 2,
     "af": 0,
-    "pm": "-4",
+    "pm": "-1",
     "vp": 0,
     "sahada": true
    },
@@ -547,7 +547,7 @@
     "ad": "Efe Sert",
     "no": "18",
     "ilk5": true,
-    "sure": "5:19",
+    "sure": "5:32",
     "sayi": 1,
     "iki": [
      0,
@@ -570,7 +570,7 @@
     "tk": 0,
     "faul": 0,
     "af": 1,
-    "pm": "-4",
+    "pm": "-1",
     "vp": 0,
     "sahada": true
    },
@@ -610,7 +610,7 @@
     "ad": "Zahid İsaoğlu",
     "no": "2",
     "ilk5": false,
-    "sure": "6:33",
+    "sure": "6:46",
     "sayi": 5,
     "iki": [
      1,
@@ -633,7 +633,7 @@
     "tk": 1,
     "faul": 0,
     "af": 1,
-    "pm": "-2",
+    "pm": "1",
     "vp": 4,
     "sahada": true
    },
@@ -795,7 +795,7 @@
   ],
   "ceyrekler": [
    16,
-   6
+   9
   ],
   "takim": {
    "hr": 1,
@@ -809,7 +809,7 @@
    "hh": 1,
    "is": 2,
    "ba": 4,
-   "benc": 11,
+   "benc": 14,
    "fark": 1,
    "seri": 3,
    "lider": 20,
@@ -1633,6 +1633,33 @@
       "faul": 0,
       "af": 0,
       "pm": 1,
+      "vp": 0
+     },
+     "24": {
+      "sn": 0,
+      "sayi": 0,
+      "iki": [
+       0,
+       0
+      ],
+      "uc": [
+       0,
+       0
+      ],
+      "sa": [
+       0,
+       0
+      ],
+      "hr": 0,
+      "sr": 0,
+      "rib": 0,
+      "ast": 0,
+      "tc": 0,
+      "blk": 0,
+      "tk": 0,
+      "faul": 0,
+      "af": 0,
+      "pm": 0,
       "vp": 0
      }
     },
