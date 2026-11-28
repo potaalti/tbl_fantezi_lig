@@ -22,13 +22,13 @@
    "durum": "canli",
    "ev": "GÖZTEPE ISONEM",
    "dep": "YALOVA HAREM SPOR",
-   "evSkor": "39",
-   "depSkor": "42",
+   "evSkor": "42",
+   "depSkor": "45",
    "salon": "Altındağ Atatürk Spor Kompleksi",
    "yayin": "HT SPOR",
    "canliDurum": {
     "periyot": 2,
-    "saat": "00:59",
+    "saat": "00:43",
     "uzatma": false
    }
   },
@@ -40,7 +40,7 @@
    "durum": "canli",
    "ev": "iLab BASKETBOL",
    "dep": "DARÜŞŞAFAKA",
-   "evSkor": "42",
+   "evSkor": "43",
    "depSkor": "42",
    "salon": "Beşiktaş Akatlar Spor Kompleksi",
    "yayin": "Youtube / TBF TV",
@@ -59,12 +59,12 @@
    "ev": "MERSİN SPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
    "evSkor": "10",
-   "depSkor": "20",
+   "depSkor": "22",
    "salon": "Servet Tazegül Spor Salonu",
    "yayin": "Youtube / TBF TV",
    "canliDurum": {
     "periyot": 1,
-    "saat": "02:41",
+    "saat": "02:22",
     "uzatma": false
    }
   },
@@ -341,8 +341,8 @@
   "786709": {
    "ad": "Deandre Pinckney",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 2,
-   "saniye": 906,
+   "vp": 5,
+   "saniye": 924,
    "maclar": [
     346008
    ]
@@ -359,8 +359,8 @@
   "777502": {
    "ad": "Isaiah Dandre Washington",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 4,
-   "saniye": 1020,
+   "vp": 5,
+   "saniye": 1038,
    "maclar": [
     346008
    ]
@@ -368,7 +368,7 @@
   "39445": {
    "ad": "Fatih Cantitiz",
    "takim": "GÖZTEPE ISONEM",
-   "vp": 4,
+   "vp": 5,
    "saniye": 922,
    "maclar": [
     346008
@@ -378,7 +378,7 @@
    "ad": "Ahmet Can Duran",
    "takim": "GÖZTEPE ISONEM",
    "vp": 9,
-   "saniye": 766,
+   "saniye": 784,
    "maclar": [
     346008
    ]
@@ -414,7 +414,7 @@
    "ad": "Kaan Sarıaslan",
    "takim": "GÖZTEPE ISONEM",
    "vp": 9,
-   "saniye": 823,
+   "saniye": 841,
    "maclar": [
     346008
    ]
@@ -423,7 +423,7 @@
    "ad": "Rijad Aydın",
    "takim": "GÖZTEPE ISONEM",
    "vp": 3,
-   "saniye": 186,
+   "saniye": 204,
    "maclar": [
     346008
    ]
@@ -467,8 +467,8 @@
   "221455": {
    "ad": "Hakan Yapar",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 0,
-   "saniye": 603,
+   "vp": 3,
+   "saniye": 621,
    "maclar": [
     346008
    ]
@@ -495,7 +495,7 @@
    "ad": "Yiğit Özkan",
    "takim": "YALOVA HAREM SPOR",
    "vp": -1,
-   "saniye": 347,
+   "saniye": 365,
    "maclar": [
     346008
    ]
@@ -503,8 +503,8 @@
   "113781": {
    "ad": "Ege Havsa",
    "takim": "YALOVA HAREM SPOR",
-   "vp": 3,
-   "saniye": 226,
+   "vp": 2,
+   "saniye": 244,
    "maclar": [
     346008
    ]
@@ -522,7 +522,7 @@
    "ad": "Atakan Şahinkaya",
    "takim": "YALOVA HAREM SPOR",
    "vp": 0,
-   "saniye": 67,
+   "saniye": 85,
    "maclar": [
     346008
    ]
@@ -540,7 +540,7 @@
    "ad": "Yiğit Baran Sarıkaya",
    "takim": "YALOVA HAREM SPOR",
    "vp": 3,
-   "saniye": 544,
+   "saniye": 562,
    "maclar": [
     346008
    ]
@@ -575,7 +575,7 @@
   "288806": {
    "ad": "Koralp Türk",
    "takim": "iLab BASKETBOL",
-   "vp": 4,
+   "vp": 5,
    "saniye": 649,
    "maclar": [
     346012
@@ -792,7 +792,7 @@
    "ad": "Ferhat Seniçeli",
    "takim": "MERSİN SPOR",
    "vp": 1,
-   "saniye": 439,
+   "saniye": 473,
    "maclar": [
     346010
    ]
@@ -801,7 +801,7 @@
    "ad": "Deshon Davion Taylor",
    "takim": "MERSİN SPOR",
    "vp": 2,
-   "saniye": 439,
+   "saniye": 473,
    "maclar": [
     346010
    ]
@@ -846,7 +846,7 @@
    "ad": "Berkay Gönül",
    "takim": "MERSİN SPOR",
    "vp": 0,
-   "saniye": 98,
+   "saniye": 132,
    "maclar": [
     346010
    ]
@@ -864,7 +864,7 @@
    "ad": "Hüseyin Seviğ",
    "takim": "MERSİN SPOR",
    "vp": 0,
-   "saniye": 98,
+   "saniye": 132,
    "maclar": [
     346010
    ]
@@ -873,7 +873,7 @@
    "ad": "Kutay Odabaşı",
    "takim": "MERSİN SPOR",
    "vp": 3,
-   "saniye": 67,
+   "saniye": 101,
    "maclar": [
     346010
    ]
@@ -881,8 +881,8 @@
   "510615": {
    "ad": "Mbala Mendzana",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 9,
-   "saniye": 439,
+   "vp": 11,
+   "saniye": 473,
    "maclar": [
     346010
    ]
@@ -891,7 +891,7 @@
    "ad": "Ömercan Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 7,
-   "saniye": 439,
+   "saniye": 473,
    "maclar": [
     346010
    ]
@@ -917,8 +917,8 @@
   "473518": {
    "ad": "Keshun Sherrill",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 7,
-   "saniye": 439,
+   "vp": 6,
+   "saniye": 473,
    "maclar": [
     346010
    ]
@@ -954,7 +954,7 @@
    "ad": "Ata Engin",
    "takim": "CEDİ OSMAN BASKETBOL",
    "vp": 0,
-   "saniye": 67,
+   "saniye": 101,
    "maclar": [
     346010
    ]
@@ -971,8 +971,8 @@
   "222955": {
    "ad": "Nusret Yildirim",
    "takim": "CEDİ OSMAN BASKETBOL",
-   "vp": 0,
-   "saniye": 67,
+   "vp": 1,
+   "saniye": 101,
    "maclar": [
     346010
    ]

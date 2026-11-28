@@ -75,7 +75,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": true,
-    "sure": "7:19",
+    "sure": "7:53",
     "sayi": 0,
     "iki": [
      0,
@@ -107,7 +107,7 @@
     "ad": "Deshon Davion Taylor",
     "no": "23",
     "ilk5": true,
-    "sure": "7:19",
+    "sure": "7:53",
     "sayi": 0,
     "iki": [
      0,
@@ -263,7 +263,7 @@
     "ad": "Berkay Gönül",
     "no": "9",
     "ilk5": false,
-    "sure": "1:38",
+    "sure": "2:12",
     "sayi": 0,
     "iki": [
      0,
@@ -326,7 +326,7 @@
     "ad": "Hüseyin Seviğ",
     "no": "61",
     "ilk5": false,
-    "sure": "1:38",
+    "sure": "2:12",
     "sayi": 1,
     "iki": [
      0,
@@ -358,7 +358,7 @@
     "ad": "Kutay Odabaşı",
     "no": "91",
     "ilk5": false,
-    "sure": "1:07",
+    "sure": "1:41",
     "sayi": 3,
     "iki": [
      1,
@@ -387,7 +387,7 @@
    }
   ],
   "ceyrekler": [
-   10
+   12
   ],
   "takim": {
    "hr": 0,
@@ -400,8 +400,8 @@
    "tks": 0,
    "hh": 0,
    "is": 0,
-   "ba": 6,
-   "benc": 4,
+   "ba": 8,
+   "benc": 6,
    "fark": 4,
    "seri": 4,
    "lider": 140,
@@ -412,18 +412,18 @@
  },
  "dep": {
   "ad": "CEDİ OSMAN BASKETBOL",
-  "skor": "20",
+  "skor": "22",
   "oyuncular": [
    {
     "id": "510615",
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "7:19",
-    "sayi": 5,
+    "sure": "7:53",
+    "sayi": 7,
     "iki": [
-     2,
-     3
+     3,
+     4
     ],
     "uc": [
      0,
@@ -443,7 +443,7 @@
     "faul": 1,
     "af": 2,
     "pm": "10",
-    "vp": 9,
+    "vp": 11,
     "sahada": true
    },
    {
@@ -451,7 +451,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "7:19",
+    "sure": "7:53",
     "sayi": 6,
     "iki": [
      0,
@@ -545,7 +545,7 @@
     "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "7:19",
+    "sure": "7:53",
     "sayi": 6,
     "iki": [
      0,
@@ -553,7 +553,7 @@
     ],
     "uc": [
      2,
-     3
+     4
     ],
     "sa": [
      0,
@@ -569,7 +569,7 @@
     "faul": 0,
     "af": 0,
     "pm": "10",
-    "vp": 7,
+    "vp": 6,
     "sahada": true
    },
    {
@@ -670,7 +670,7 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": false,
-    "sure": "1:07",
+    "sure": "1:41",
     "sayi": 0,
     "iki": [
      0,
@@ -733,7 +733,7 @@
     "ad": "Nusret Yildirim",
     "no": "57",
     "ilk5": false,
-    "sure": "1:07",
+    "sure": "1:41",
     "sayi": 0,
     "iki": [
      0,
@@ -747,9 +747,9 @@
      0,
      0
     ],
-    "hr": 0,
+    "hr": 1,
     "sr": 0,
-    "rib": 0,
+    "rib": 1,
     "ast": 0,
     "tc": 0,
     "blk": 0,
@@ -757,12 +757,12 @@
     "faul": 0,
     "af": 1,
     "pm": "0",
-    "vp": 0,
+    "vp": 1,
     "sahada": true
    }
   ],
   "ceyrekler": [
-   20
+   22
   ],
   "takim": {
    "hr": 0,
@@ -774,29 +774,29 @@
   "ileri": {
    "tks": 0,
    "hh": 6,
-   "is": 0,
+   "is": 2,
    "ba": 4,
    "benc": 0,
    "fark": 13,
    "seri": 14,
-   "lider": 252,
+   "lider": 286,
    "degisim": 1,
    "esitlik": 1
   },
   "koc": "Abdulkadir Serdar"
  },
  "evSkor": "10",
- "depSkor": "20",
+ "depSkor": "22",
  "salon": "Servet Tazegül Spor Salonu",
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "02:41",
+  "saat": "02:22",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 439,
+  "simdi": 456,
   "d": [
    [
     0,
@@ -857,6 +857,10 @@
    [
     431,
     -10
+   ],
+   [
+    456,
+    -12
    ]
   ]
  },
@@ -920,7 +924,7 @@
       "vp": -1
      },
      "23": {
-      "sn": 439,
+      "sn": 456,
       "sayi": 0,
       "iki": [
        0,
@@ -943,7 +947,7 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -10,
+      "pm": -12,
       "vp": 2
      },
      "26": {
@@ -974,7 +978,7 @@
       "vp": -1
      },
      "6": {
-      "sn": 439,
+      "sn": 456,
       "sayi": 0,
       "iki": [
        0,
@@ -997,11 +1001,11 @@
       "tk": 0,
       "faul": 2,
       "af": 0,
-      "pm": -10,
+      "pm": -12,
       "vp": 1
      },
      "9": {
-      "sn": 98,
+      "sn": 115,
       "sayi": 0,
       "iki": [
        0,
@@ -1024,11 +1028,11 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": -2,
+      "pm": -4,
       "vp": 0
      },
      "61": {
-      "sn": 98,
+      "sn": 115,
       "sayi": 1,
       "iki": [
        0,
@@ -1051,11 +1055,11 @@
       "tk": 0,
       "faul": 1,
       "af": 1,
-      "pm": -2,
+      "pm": -4,
       "vp": 0
      },
      "91": {
-      "sn": 67,
+      "sn": 84,
       "sayi": 3,
       "iki": [
        1,
@@ -1078,7 +1082,7 @@
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 0,
+      "pm": -2,
       "vp": 3
      }
     },
@@ -1093,11 +1097,11 @@
    "dep": {
     "oyuncular": {
      "00": {
-      "sn": 439,
-      "sayi": 5,
+      "sn": 456,
+      "sayi": 7,
       "iki": [
-       2,
-       3
+       3,
+       4
       ],
       "uc": [
        0,
@@ -1116,11 +1120,11 @@
       "tk": 0,
       "faul": 1,
       "af": 2,
-      "pm": 10,
-      "vp": 9
+      "pm": 12,
+      "vp": 11
      },
      "8": {
-      "sn": 439,
+      "sn": 456,
       "sayi": 6,
       "iki": [
        0,
@@ -1143,11 +1147,11 @@
       "tk": 0,
       "faul": 1,
       "af": 0,
-      "pm": 10,
+      "pm": 12,
       "vp": 7
      },
      "73": {
-      "sn": 439,
+      "sn": 456,
       "sayi": 6,
       "iki": [
        0,
@@ -1155,7 +1159,7 @@
       ],
       "uc": [
        2,
-       3
+       4
       ],
       "sa": [
        0,
@@ -1170,8 +1174,8 @@
       "tk": 0,
       "faul": 0,
       "af": 0,
-      "pm": 10,
-      "vp": 7
+      "pm": 12,
+      "vp": 6
      },
      "21": {
       "sn": 372,
@@ -1228,7 +1232,7 @@
       "vp": 5
      },
      "22": {
-      "sn": 67,
+      "sn": 84,
       "sayi": 0,
       "iki": [
        0,
@@ -1251,11 +1255,11 @@
       "tk": 0,
       "faul": 1,
       "af": 0,
-      "pm": 0,
+      "pm": 2,
       "vp": 0
      },
      "57": {
-      "sn": 67,
+      "sn": 84,
       "sayi": 0,
       "iki": [
        0,
@@ -1269,17 +1273,17 @@
        0,
        0
       ],
-      "hr": 0,
+      "hr": 1,
       "sr": 0,
-      "rib": 0,
+      "rib": 1,
       "ast": 0,
       "tc": 0,
       "blk": 0,
       "tk": 0,
       "faul": 0,
       "af": 1,
-      "pm": 0,
-      "vp": 0
+      "pm": 2,
+      "vp": 1
      }
     },
     "takim": {
@@ -1309,12 +1313,12 @@
    "dep": {
     "tks": 0,
     "hh": 6,
-    "is": 0,
+    "is": 2,
     "ba": 4,
     "benc": 0,
     "fark": 13,
     "seri": 14,
-    "lider": 252,
+    "lider": 269,
     "degisim": 1,
     "esitlik": 1
    }
