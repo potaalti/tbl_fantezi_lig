@@ -7,13 +7,18 @@
    "lig": "tbl",
    "hafta": 13,
    "tarih": "2026-11-28T13:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "OGM ORMANSPOR",
    "dep": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "2",
+   "depSkor": "3",
    "salon": "M. Sait Zarifoğlu Spor Salonu",
-   "yayin": "HT SPOR"
+   "yayin": "HT SPOR",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:28",
+    "uzatma": false
+   }
   },
   {
    "id": 346012,
