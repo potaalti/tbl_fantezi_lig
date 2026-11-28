@@ -75,7 +75,7 @@
     "ad": "Ferhat Seniçeli",
     "no": "6",
     "ilk5": true,
-    "sure": "6:12",
+    "sure": "6:36",
     "sayi": 0,
     "iki": [
      0,
@@ -107,7 +107,7 @@
     "ad": "Deshon Davion Taylor",
     "no": "23",
     "ilk5": true,
-    "sure": "6:12",
+    "sure": "6:36",
     "sayi": 0,
     "iki": [
      0,
@@ -263,7 +263,7 @@
     "ad": "Berkay Gönül",
     "no": "9",
     "ilk5": false,
-    "sure": "0:31",
+    "sure": "0:55",
     "sayi": 0,
     "iki": [
      0,
@@ -326,7 +326,7 @@
     "ad": "Hüseyin Seviğ",
     "no": "61",
     "ilk5": false,
-    "sure": "0:31",
+    "sure": "0:55",
     "sayi": 0,
     "iki": [
      0,
@@ -348,7 +348,7 @@
     "blk": 0,
     "tk": 0,
     "faul": 0,
-    "af": 0,
+    "af": 1,
     "pm": "-3",
     "vp": 0,
     "sahada": true
@@ -358,7 +358,7 @@
     "ad": "Kutay Odabaşı",
     "no": "91",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:24",
     "sayi": 0,
     "iki": [
      0,
@@ -419,7 +419,7 @@
     "ad": "Mbala Mendzana",
     "no": "00",
     "ilk5": true,
-    "sure": "6:12",
+    "sure": "6:36",
     "sayi": 5,
     "iki": [
      2,
@@ -451,7 +451,7 @@
     "ad": "Ömercan Engin",
     "no": "8",
     "ilk5": true,
-    "sure": "6:12",
+    "sure": "6:36",
     "sayi": 6,
     "iki": [
      0,
@@ -545,7 +545,7 @@
     "ad": "Keshun Sherrill",
     "no": "73",
     "ilk5": true,
-    "sure": "6:12",
+    "sure": "6:36",
     "sayi": 3,
     "iki": [
      0,
@@ -670,7 +670,7 @@
     "ad": "Ata Engin",
     "no": "22",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:24",
     "sayi": 0,
     "iki": [
      0,
@@ -691,7 +691,7 @@
     "tc": 0,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "1",
     "vp": 0,
@@ -733,7 +733,7 @@
     "ad": "Nusret Yildirim",
     "no": "57",
     "ilk5": false,
-    "sure": "0:00",
+    "sure": "0:24",
     "sayi": 0,
     "iki": [
      0,
@@ -779,7 +779,7 @@
    "benc": 0,
    "fark": 11,
    "seri": 14,
-   "lider": 185,
+   "lider": 209,
    "degisim": 1,
    "esitlik": 1
   },
@@ -791,12 +791,12 @@
  "yayin": "Youtube / TBF TV",
  "canliDurum": {
   "periyot": 1,
-  "saat": "03:48",
+  "saat": "03:24",
   "uzatma": false
  },
  "fark": {
   "sure": 2400,
-  "simdi": 372,
+  "simdi": 396,
   "d": [
    [
     0,
@@ -904,7 +904,7 @@
       "vp": -1
      },
      "23": {
-      "sn": 372,
+      "sn": 396,
       "sayi": 0,
       "iki": [
        0,
@@ -958,7 +958,7 @@
       "vp": -1
      },
      "6": {
-      "sn": 372,
+      "sn": 396,
       "sayi": 0,
       "iki": [
        0,
@@ -985,7 +985,7 @@
       "vp": 1
      },
      "9": {
-      "sn": 31,
+      "sn": 55,
       "sayi": 0,
       "iki": [
        0,
@@ -1012,7 +1012,7 @@
       "vp": 0
      },
      "61": {
-      "sn": 31,
+      "sn": 55,
       "sayi": 0,
       "iki": [
        0,
@@ -1034,12 +1034,12 @@
       "blk": 0,
       "tk": 0,
       "faul": 0,
-      "af": 0,
+      "af": 1,
       "pm": -3,
       "vp": 0
      },
      "91": {
-      "sn": 0,
+      "sn": 24,
       "sayi": 0,
       "iki": [
        0,
@@ -1077,7 +1077,7 @@
    "dep": {
     "oyuncular": {
      "00": {
-      "sn": 372,
+      "sn": 396,
       "sayi": 5,
       "iki": [
        2,
@@ -1104,7 +1104,7 @@
       "vp": 9
      },
      "8": {
-      "sn": 372,
+      "sn": 396,
       "sayi": 6,
       "iki": [
        0,
@@ -1131,7 +1131,7 @@
       "vp": 7
      },
      "73": {
-      "sn": 372,
+      "sn": 396,
       "sayi": 3,
       "iki": [
        0,
@@ -1212,7 +1212,7 @@
       "vp": 5
      },
      "22": {
-      "sn": 0,
+      "sn": 24,
       "sayi": 0,
       "iki": [
        0,
@@ -1233,13 +1233,13 @@
       "tc": 0,
       "blk": 0,
       "tk": 0,
-      "faul": 0,
+      "faul": 1,
       "af": 0,
       "pm": 1,
       "vp": 0
      },
      "57": {
-      "sn": 0,
+      "sn": 24,
       "sayi": 0,
       "iki": [
        0,
@@ -1298,7 +1298,7 @@
     "benc": 0,
     "fark": 11,
     "seri": 14,
-    "lider": 185,
+    "lider": 209,
     "degisim": 1,
     "esitlik": 1
    }
