@@ -286,7 +286,7 @@
     "blk": 0,
     "tk": 1,
     "faul": 0,
-    "af": 1,
+    "af": 2,
     "pm": "-3",
     "vp": 3,
     "sahada": true
@@ -786,7 +786,7 @@
     "tc": 1,
     "blk": 0,
     "tk": 0,
-    "faul": 0,
+    "faul": 1,
     "af": 0,
     "pm": "2",
     "vp": 1,
@@ -824,7 +824,7 @@
  "yayin": "HT SPOR",
  "canliDurum": {
   "periyot": 2,
-  "saat": "09:08",
+  "saat": "09:06",
   "uzatma": false
  },
  "fark": {
@@ -1580,7 +1580,7 @@
       "blk": 0,
       "tk": 0,
       "faul": 0,
-      "af": 0,
+      "af": 1,
       "pm": -3,
       "vp": 1
      }
@@ -1725,7 +1725,7 @@
       "tc": 0,
       "blk": 0,
       "tk": 0,
-      "faul": 0,
+      "faul": 1,
       "af": 0,
       "pm": 3,
       "vp": 0
@@ -1736,7 +1736,7 @@
      "sr": 0,
      "rib": 0,
      "tk": 0,
-     "faul": 1
+     "faul": 0
     }
    }
   }
