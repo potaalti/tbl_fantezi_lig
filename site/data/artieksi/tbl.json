@@ -17480,7 +17480,7 @@
     "id": "109594",
     "ad": "Göktürk Gökalp Ural",
     "takim": "OGM ORMANSPOR",
-    "pm": 11,
+    "pm": 12,
     "fark": 9,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17489,7 +17489,7 @@
     "id": "501170",
     "ad": "Tobin Carberry",
     "takim": "OGM ORMANSPOR",
-    "pm": 10,
+    "pm": 11,
     "fark": 9,
     "mac": 1,
     "ulke": "ABD"
@@ -17498,7 +17498,7 @@
     "id": "473677",
     "ad": "Diante Watkins",
     "takim": "OGM ORMANSPOR",
-    "pm": 9,
+    "pm": 10,
     "fark": 9,
     "mac": 1,
     "ulke": "ABD"
@@ -17507,7 +17507,7 @@
     "id": "251001",
     "ad": "Tolga Kaan Birer",
     "takim": "OGM ORMANSPOR",
-    "pm": 9,
+    "pm": 10,
     "fark": 9,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17516,7 +17516,7 @@
     "id": "60048",
     "ad": "Koray Uzunhasan",
     "takim": "OGM ORMANSPOR",
-    "pm": 7,
+    "pm": 8,
     "fark": 9,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17534,7 +17534,7 @@
     "id": "109425",
     "ad": "Oğuzhan Tosun",
     "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-    "pm": 3,
+    "pm": 2,
     "fark": -9,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17597,7 +17597,7 @@
     "id": "257055",
     "ad": "Zahid İsaoğlu",
     "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-    "pm": -5,
+    "pm": -6,
     "fark": -9,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17606,16 +17606,7 @@
     "id": "380032",
     "ad": "Arda Birkeser",
     "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-    "pm": -6,
-    "fark": -9,
-    "mac": 1,
-    "ulke": "TÜRKİYE"
-   },
-   {
-    "id": "230701",
-    "ad": "Eray Aydoğan",
-    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-    "pm": -8,
+    "pm": -7,
     "fark": -9,
     "mac": 1,
     "ulke": "TÜRKİYE"
@@ -17630,10 +17621,19 @@
     "ulke": "ABD"
    },
    {
+    "id": "230701",
+    "ad": "Eray Aydoğan",
+    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+    "pm": -9,
+    "fark": -9,
+    "mac": 1,
+    "ulke": "TÜRKİYE"
+   },
+   {
     "id": "623478",
     "ad": "Jamari Traylor",
     "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-    "pm": -16,
+    "pm": -17,
     "fark": -9,
     "mac": 1,
     "ulke": "ABD"
@@ -17777,20 +17777,20 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "109594",
+   "ad": "Göktürk Gökalp Ural",
+   "takim": "OGM ORMANSPOR",
+   "pm": 67,
+   "fark": 45,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "113781",
    "ad": "Ege Havsa",
    "takim": "YALOVA HAREM SPOR",
    "pm": 67,
    "fark": 141,
-   "mac": 12,
-   "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "109594",
-   "ad": "Göktürk Gökalp Ural",
-   "takim": "OGM ORMANSPOR",
-   "pm": 66,
-   "fark": 45,
    "mac": 12,
    "ulke": "TÜRKİYE"
   },
@@ -17843,7 +17843,7 @@
    "id": "623478",
    "ad": "Jamari Traylor",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "pm": 55,
+   "pm": 54,
    "fark": 83,
    "mac": 12,
    "ulke": "ABD"
@@ -17993,6 +17993,15 @@
    "ulke": "TÜRKİYE"
   },
   {
+   "id": "251001",
+   "ad": "Tolga Kaan Birer",
+   "takim": "OGM ORMANSPOR",
+   "pm": 35,
+   "fark": 45,
+   "mac": 12,
+   "ulke": "TÜRKİYE"
+  },
+  {
    "id": "153295",
    "ad": "Ömer Utku Al",
    "takim": "GAZİANTEP BASKETBOL",
@@ -18020,15 +18029,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "251001",
-   "ad": "Tolga Kaan Birer",
-   "takim": "OGM ORMANSPOR",
-   "pm": 34,
-   "fark": 45,
-   "mac": 12,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "229233",
    "ad": "Baran Avşar",
    "takim": "KİPAŞ K.B.B.",
@@ -18047,21 +18047,21 @@
    "ulke": "ABD"
   },
   {
+   "id": "473677",
+   "ad": "Diante Watkins",
+   "takim": "OGM ORMANSPOR",
+   "pm": 33,
+   "fark": 45,
+   "mac": 12,
+   "ulke": "ABD"
+  },
+  {
    "id": "782891",
    "ad": "Robert Smith",
    "takim": "KONYA BÜYÜKŞEHİR BELEDİYESİ SPOR",
    "pm": 32,
    "fark": 10,
    "mac": 5,
-   "ulke": "ABD"
-  },
-  {
-   "id": "473677",
-   "ad": "Diante Watkins",
-   "takim": "OGM ORMANSPOR",
-   "pm": 32,
-   "fark": 45,
-   "mac": 12,
    "ulke": "ABD"
   },
   {
@@ -18113,7 +18113,7 @@
    "id": "60048",
    "ad": "Koray Uzunhasan",
    "takim": "OGM ORMANSPOR",
-   "pm": 28,
+   "pm": 29,
    "fark": 45,
    "mac": 12,
    "ulke": "TÜRKİYE"
@@ -18126,6 +18126,15 @@
    "fark": 37,
    "mac": 12,
    "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "501170",
+   "ad": "Tobin Carberry",
+   "takim": "OGM ORMANSPOR",
+   "pm": 25,
+   "fark": 45,
+   "mac": 12,
+   "ulke": "ABD"
   },
   {
    "id": "736200",
@@ -18153,15 +18162,6 @@
    "fark": 33,
    "mac": 11,
    "ulke": "TÜRKİYE"
-  },
-  {
-   "id": "501170",
-   "ad": "Tobin Carberry",
-   "takim": "OGM ORMANSPOR",
-   "pm": 24,
-   "fark": 45,
-   "mac": 12,
-   "ulke": "ABD"
   },
   {
    "id": "386617",
@@ -18704,15 +18704,6 @@
    "ulke": "TÜRKİYE"
   },
   {
-   "id": "257055",
-   "ad": "Zahid İsaoğlu",
-   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "pm": -1,
-   "fark": -21,
-   "mac": 13,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "384873",
    "ad": "Utku Pelit",
    "takim": "iLab BASKETBOL",
@@ -18764,6 +18755,15 @@
    "pm": -2,
    "fark": -31,
    "mac": 1,
+   "ulke": "TÜRKİYE"
+  },
+  {
+   "id": "257055",
+   "ad": "Zahid İsaoğlu",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "pm": -2,
+   "fark": -21,
+   "mac": 13,
    "ulke": "TÜRKİYE"
   },
   {
@@ -18965,15 +18965,6 @@
    "ulke": "ABD"
   },
   {
-   "id": "109425",
-   "ad": "Oğuzhan Tosun",
-   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "pm": -8,
-   "fark": 2,
-   "mac": 11,
-   "ulke": "TÜRKİYE"
-  },
-  {
    "id": "222762",
    "ad": "Can Özcan",
    "takim": "FİNALSPOR",
@@ -18999,6 +18990,15 @@
    "fark": -71,
    "mac": 8,
    "ulke": ""
+  },
+  {
+   "id": "109425",
+   "ad": "Oğuzhan Tosun",
+   "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
+   "pm": -9,
+   "fark": 2,
+   "mac": 11,
+   "ulke": "TÜRKİYE"
   },
   {
    "id": "295250",
@@ -19202,7 +19202,7 @@
    "id": "230701",
    "ad": "Eray Aydoğan",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "pm": -16,
+   "pm": -17,
    "fark": 83,
    "mac": 12,
    "ulke": "TÜRKİYE"
@@ -19652,7 +19652,7 @@
    "id": "380032",
    "ad": "Arda Birkeser",
    "takim": "KEÇİÖREN BELEDİYESİ BAĞLUM",
-   "pm": -52,
+   "pm": -53,
    "fark": -11,
    "mac": 11,
    "ulke": "TÜRKİYE"
