@@ -56,13 +56,18 @@
    "lig": "tbl",
    "hafta": 13,
    "tarih": "2026-11-28T16:00:00",
-   "durum": "oynanmadi",
+   "durum": "canli",
    "ev": "MERSİN SPOR",
    "dep": "CEDİ OSMAN BASKETBOL",
-   "evSkor": null,
-   "depSkor": null,
+   "evSkor": "0",
+   "depSkor": "0",
    "salon": "Servet Tazegül Spor Salonu",
-   "yayin": "Youtube / TBF TV"
+   "yayin": "Youtube / TBF TV",
+   "canliDurum": {
+    "periyot": 1,
+    "saat": "09:59",
+    "uzatma": false
+   }
   },
   {
    "id": 346011,
